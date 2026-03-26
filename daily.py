@@ -51,6 +51,7 @@ response = requests.post(
 )
 
 result = response.json()
+print(result)
 summary = result["choices"][0]["message"]["content"]
 
 today = datetime.now().strftime("%Y-%m-%d")
