@@ -2,7 +2,7 @@ name: AI Daily
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # 每天 UTC 0点（美国西部大约下午5点）
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
@@ -10,33 +10,28 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # 1️⃣ 拉代码
       - name: Checkout repo
         uses: actions/checkout@v3
 
-      # 2️⃣ 安装 Python
-      - name: Set up Python
+      - name: Setup Python
         uses: actions/setup-python@v4
         with:
           python-version: "3.10"
 
-      # 3️⃣ 安装依赖
-      - name: Install dependencies
+      - name: Install deps
         run: |
           pip install feedparser requests
 
-      # 4️⃣ 运行脚本（带环境变量）
-      - name: Run script
+      - name: Run pipeline
         env:
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
         run: |
-          python daily.py
+          python main.py ai_daily
 
-      # 5️⃣ 提交结果
-      - name: Commit and push
+      - name: Commit result
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions@github.com"
           git add daily/
-          git commit -m "update AI daily" || echo "No changes to commit"
+          git commit -m "update AI daily" || echo "no changes"
           git push
