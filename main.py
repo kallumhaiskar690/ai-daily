@@ -11,12 +11,12 @@ PIPELINES = {
 def main():
     if len(sys.argv) < 2:
         print("Usage: python main.py [pipeline]")
-        print("Available pipelines:", ", ".join(PIPELINES.keys()))
+        print("Available:", ", ".join(PIPELINES.keys()))
         return
 
     for name in sys.argv[1:]:
         if name in PIPELINES:
-            print(f"Running pipeline: {name}")
+            print(f"Running: {name}")
             PIPELINES[name]()
         else:
             print(f"Unknown pipeline: {name}")
