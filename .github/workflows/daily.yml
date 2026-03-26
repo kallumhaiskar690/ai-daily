@@ -1,0 +1,23 @@
+name: AI Daily
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # 每天 UTC 0点（你这边下午）
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Install deps
+        run: pip install feedparser
+      - name: Run script
+        run: python daily.py
+      - name: Commit result
+        run: |
+          git config --global user.name "bot"
+          git config --global user.email "bot@example.com"
+          git add daily.md
+          git commit -m "update daily"
+          git push
