@@ -1,10 +1,11 @@
 import feedparser
 import requests
 import os
+import json
 from datetime import datetime
 from pipelines.ai_daily.sources import FEEDS
 
-def fetch(limit=1):
+def fetch(limit=10):
     articles = []
     for url in FEEDS:
         feed = feedparser.parse(url)
@@ -17,7 +18,7 @@ def fetch(limit=1):
     return articles
 
 
-def summarize(text, template):
+def summarize_and_select(text, template):
     api_key = os.getenv("GROQ_API_KEY")
 
     prompt = template.replace("{content}", text)
@@ -40,7 +41,7 @@ def summarize(text, template):
     if "choices" in result:
         return result["choices"][0]["message"]["content"]
     else:
-        return "⚠️ AI总结失败\n\n" + str(result)
+        return None
 
 
 def main():
@@ -48,28 +49,55 @@ def main():
     with open("pipelines/ai_daily/prompt.txt", "r", encoding="utf-8") as f:
         template = f.read()
 
-    # 抓数据
-    articles = fetch(limit=1)
+    # 抓 30 条
+    articles = fetch(limit=10)[:30]
 
     # 拼内容
-    text = "\n\n".join([f"{a['title']}\n{a['summary']}" for a in articles])
+    text = "\n\n".join([
+        f"{i+1}. {a['title']}\n{a['summary']}"
+        for i, a in enumerate(articles)
+    ])
 
-    # AI总结
-    summary = summarize(text, template)
+    # AI筛选 + 结构化输出
+    result_text = summarize_and_select(text, template)
 
-    # 写文件
     today = datetime.now().strftime("%Y-%m-%d")
     os.makedirs("daily", exist_ok=True)
-    filename = f"daily/{today}.md"
 
-    content = f"# AI日报 {today}\n\n{summary}\n\n"
-    for a in articles[:3]:
-        content += f"\n🔗 {a['link']}\n"
+    # 👉 Markdown
+    md_file = f"daily/{today}.md"
+    with open(md_file, "w") as f:
+        f.write(f"# 🧠 AI快讯（{today}）\n\n")
+        f.write(result_text)
 
-    with open(filename, "w") as f:
-        f.write(content)
+    # 👉 JSON（简单解析版）
+    json_file = f"daily/{today}.json"
 
-    print("Generated:", filename)
+    data = []
+    if result_text:
+        lines = result_text.split("\n")
+        current = {}
+
+        for line in lines:
+            if line.startswith("##"):
+                if current:
+                    data.append(current)
+                current = {"title": line.replace("#", "").strip()}
+            elif line.startswith("👉"):
+                current["summary"] = line.replace("👉", "").strip()
+
+        if current:
+            data.append(current)
+
+    # 补充链接（简单匹配）
+    for i, item in enumerate(data):
+        if i < len(articles):
+            item["link"] = articles[i]["link"]
+
+    with open(json_file, "w") as f:
+        json.dump(data, f, ensure_ascii=False, indent=2)
+
+    print("Generated:", md_file, json_file)
 
 
 if __name__ == "__main__":
