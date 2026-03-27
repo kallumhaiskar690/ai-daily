@@ -32,6 +32,7 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions@github.com"
-          git add daily/
-          git commit -m "update AI daily" || echo "no changes"
+          # Ensure that any new or modified files are added
+          git add daily/* || echo "No files to commit"
+          git commit -m "Update AI daily" || echo "No changes to commit"
           git push
