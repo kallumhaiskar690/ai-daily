@@ -69,25 +69,7 @@ def main():
 
     # 尝试解析JSON
     try:
-        clean_text = result_text.strip()
-
-        # 👉 去掉 ```json 包裹
-        if clean_text.startswith("```"):
-            clean_text = clean_text.strip("`")
-        
-            # 去掉 json 标记
-            if clean_text.startswith("json"):
-                clean_text = clean_text[4:]
-        
-            clean_text = clean_text.strip()
-        
-        try:
-            data = json.loads(clean_text)
-        except Exception as e:
-            print("JSON parse failed")
-            print("RAW:", result_text)
-            print("CLEAN:", clean_text)
-            raise e
+        data = json.loads(result_text)
     except:
         print("JSON parse failed")
         print(result_text)
