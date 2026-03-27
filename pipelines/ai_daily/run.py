@@ -45,14 +45,14 @@ def call_ai(prompt):
 
 
 def main():
-    # 读 prompt
+    # 读取 prompt
     with open("pipelines/ai_daily/prompt.txt", "r", encoding="utf-8") as f:
         template = f.read()
 
-    # 抓30条
+    # 抓取文章
     articles = fetch(limit=10)[:30]
 
-    # 编号 + 拼内容
+    # 拼接文章内容
     text = "\n\n".join([
         f"[{i}] {a['title']}\n{a['summary']}"
         for i, a in enumerate(articles)
@@ -60,22 +60,24 @@ def main():
 
     prompt = template.replace("{content}", text)
 
-    # AI处理
+    # 调用 AI 处理
     result_text = call_ai(prompt)
 
     if not result_text:
         print("AI failed")
         return
 
-    # 尝试解析JSON
+    print("AI Response:\n", result_text)  # 添加调试信息
+
+    # 尝试解析 JSON
     try:
         data = json.loads(result_text)
-    except:
-        print("JSON parse failed")
-        print(result_text)
+    except json.JSONDecodeError as e:
+        print(f"JSON parse failed: {e}")
+        print("Response was:", result_text)  # 输出 AI 返回的内容
         return
 
-    # 补 link
+    # 补充 link 信息
     for item in data:
         idx = item.get("index", 0)
         if idx < len(articles):
@@ -84,23 +86,22 @@ def main():
     today = datetime.now().strftime("%Y-%m-%d")
     os.makedirs("daily", exist_ok=True)
 
-    # 🧾 Markdown（IM版）
+    # 生成 Markdown 文件
     md_file = f"daily/{today}_ai_daily.md"
     with open(md_file, "w") as f:
         f.write(f"# 🧠 AI快讯（{today}）\n\n")
-
         for i, item in enumerate(data, 1):
             f.write(f"## {i}️⃣ {item['title']}\n")
             f.write(f"👉 {item['summary']}\n")
             f.write(f"📊 评分: {item['score']} | 分类: {item['category']}\n")
             f.write(f"🔗 {item['link']}\n\n")
 
-    # 🧾 JSON（完整结构）
+    # 生成 JSON 文件
     json_file = f"daily/{today}_ai_daily.json"
     with open(json_file, "w") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
 
-    print("Generated:", md_file, json_file)
+    print(f"Generated files: {md_file}, {json_file}")
 
 
 if __name__ == "__main__":
