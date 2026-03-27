@@ -85,7 +85,7 @@ def main():
     os.makedirs("daily", exist_ok=True)
 
     # 🧾 Markdown（IM版）
-    md_file = f"daily/{today}.md"
+    md_file = f"daily/{today}_ai_daily.md"
     with open(md_file, "w") as f:
         f.write(f"# 🧠 AI快讯（{today}）\n\n")
 
@@ -96,7 +96,7 @@ def main():
             f.write(f"🔗 {item['link']}\n\n")
 
     # 🧾 JSON（完整结构）
-    json_file = f"daily/{today}.json"
+    json_file = f"daily/{today}_ai_daily.json"
     with open(json_file, "w") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
 
