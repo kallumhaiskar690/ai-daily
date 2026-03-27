@@ -1,0 +1,110 @@
+[
+  {
+    "title": "VehicleMemBench: An Executable Benchmark for Multi-User Long-Term Memory in In-Vehicle Agents",
+    "summary": "A new benchmark for evaluating in-vehicle agents' long-term memory and decision-making capabilities.",
+    "score": 9,
+    "category": "研究",
+    "long": "VehicleMemBench evaluates tool use and memory by comparing the post-action environment state with a predefined target state. The benchmark includes 23 tool modules and each sample contains over 80 historical memory events.",
+    "short": "A new benchmark for in-vehicle agents' long-term memory.",
+    "tweet": "Introducing VehicleMemBench, a benchmark for in-vehicle agents' long-term memory and decision-making capabilities! #AI #MachineLearning",
+    "xiaohongshu": "你知道吗？我们刚刚推出了VehicleMemBench，一个专为车载智能助手设计的长期记忆评估标准！",
+    "index": 19,
+    "link": "https://arxiv.org/abs/2603.23840"
+  },
+  {
+    "title": "Learning-guided Prioritized Planning for Lifelong Multi-Agent Path Finding in Warehouse Automation",
+    "summary": "A new framework for lifelong multi-agent path finding in warehouse automation, combining reinforcement learning with prioritized planning.",
+    "score": 8,
+    "category": "研究",
+    "long": "RL-RH-PP integrates classical Prioritized Planning with a learning-based priority assignment policy. It formulates dynamic priority assignment as a POMDP and uses an attention-based neural network to decode priority orders on-the-fly.",
+    "short": "A new framework for lifelong multi-agent path finding in warehouse automation.",
+    "tweet": "Introducing RL-RH-PP, a new framework for lifelong multi-agent path finding in warehouse automation! #AI #MachineLearning",
+    "xiaohongshu": "你知道吗？我们刚刚推出了RL-RH-PP，一个专为仓储自动化设计的长期多智能代理路径规划框架！",
+    "index": 18,
+    "link": "https://arxiv.org/abs/2603.23838"
+  },
+  {
+    "title": "Efficient Benchmarking of AI Agents",
+    "summary": "A new protocol for efficient benchmarking of AI agents, reducing the number of evaluation tasks by 44-70% while maintaining high rank fidelity.",
+    "score": 8,
+    "category": "研究",
+    "long": "The mid-range difficulty filter, motivated by Item Response Theory, reduces the number of evaluation tasks by 44-70% while maintaining high rank fidelity under scaffold and temporal shifts.",
+    "short": "A new protocol for efficient benchmarking of AI agents.",
+    "tweet": "Introducing a new protocol for efficient benchmarking of AI agents! #AI #MachineLearning",
+    "xiaohongshu": "你知道吗？我们刚刚推出了一个新的AI代理评估协议，能减少评估任务数量40-70%！",
+    "index": 17,
+    "link": "https://arxiv.org/abs/2603.23749"
+  },
+  {
+    "title": "LLMs Do Not Grade Essays Like Humans",
+    "summary": "A study on the agreement between LLM-generated scores and human grades, showing that LLMs tend to assign higher scores to short or underdeveloped essays.",
+    "score": 7,
+    "category": "研究",
+    "long": "The study evaluates the grading behavior of several models from the GPT and Llama families in an out-of-the-box setting, without task-specific training.",
+    "short": "LLMs do not grade essays like humans.",
+    "tweet": "New study: LLMs do not grade essays like humans! #AI #MachineLearning",
+    "xiaohongshu": "你知道吗？我们刚刚发布了一项研究，发现LLMs不能像人类一样评估作业！",
+    "index": 16,
+    "link": "https://arxiv.org/abs/2603.23714"
+  },
+  {
+    "title": "Grounding Vision and Language to 3D Masks for Long-Horizon Box Rearrangement",
+    "summary": "A new approach for long-horizon planning in 3D environments, using 3D vision-language models to ground natural-language referents to 3D segmentation masks.",
+    "score": 7,
+    "category": "研究",
+    "long": "The approach formulates long-horizon planning as sequential reactive prediction of paired 3D masks: a \"which-object\" mask indicating what to pick and a \"which-target-region\" mask specifying where to place it.",
+    "short": "A new approach for long-horizon planning in 3D environments.",
+    "tweet": "Introducing a new approach for long-horizon planning in 3D environments! #AI #MachineLearning",
+    "xiaohongshu": "你知道吗？我们刚刚推出了一个新方法，专为3D环境长期规划设计！",
+    "index": 15,
+    "link": "https://arxiv.org/abs/2603.23676"
+  },
+  {
+    "title": "Can LLM Agents Be CFOs? A Benchmark for Resource Allocation in Dynamic Enterprise Environments",
+    "summary": "A new benchmark for evaluating LLM agents' resource allocation capabilities in dynamic enterprise environments.",
+    "score": 7,
+    "category": "研究",
+    "long": "The EnterpriseArena benchmark instantiates CFO-style decision-making in a 132-month enterprise simulator, combining firm-level financial data, anonymized business documents, macroeconomic and industry signals, and expert-validated operating rules.",
+    "short": "A new benchmark for LLM agents' resource allocation capabilities.",
+    "tweet": "Introducing a new benchmark for LLM agents' resource allocation capabilities! #AI #MachineLearning",
+    "xiaohongshu": "你知道吗？我们刚刚推出了一个新的LLM代理资源分配评估标准！",
+    "index": 13,
+    "link": "https://arxiv.org/abs/2603.23638"
+  },
+  {
+    "title": "Evaluating a Multi-Agent Voice-Enabled Smart Speaker for Care Homes: A Safety-Focused Framework",
+    "summary": "A new safety-focused evaluation framework for a voice-enabled smart speaker designed to support everyday activities in residential care homes.",
+    "score": 6,
+    "category": "研究",
+    "long": "The framework examines the system end-to-end, combining Whisper-based speech recognition with retrieval-augmented generation (RAG) approaches (hybrid, sparse, and dense).",
+    "short": "A new safety-focused evaluation framework for a voice-enabled smart speaker.",
+    "tweet": "Introducing a new safety-focused evaluation framework for a voice-enabled smart speaker! #AI #MachineLearning",
+    "xiaohongshu": "你知道吗？我们刚刚推出了一个新的安全评估框架，专为护理院智能助手设计！",
+    "index": 12,
+    "link": "https://arxiv.org/abs/2603.23625"
+  },
+  {
+    "title": "PLDR-LLMs Reason At Self-Organized Criticality",
+    "summary": "A study on the reasoning capabilities of PLDR-LLMs pretrained at self-organized criticality, showing that they exhibit reasoning at inference time.",
+    "score": 6,
+    "category": "研究",
+    "long": "The study shows that the characteristics of PLDR-LLM deductive outputs at criticality are similar to second-order phase transitions.",
+    "short": "PLDR-LLMs reason at self-organized criticality.",
+    "tweet": "New study: PLDR-LLMs reason at self-organized criticality! #AI #MachineLearning",
+    "xiaohongshu": "你知道吗？我们刚刚发布了一项研究，发现PLDR-LLMs在自组织临界点时具有推理能力！",
+    "index": 10,
+    "link": "https://arxiv.org/abs/2603.23539"
+  },
+  {
+    "title": "Shape, Symmetries, and Structure: The Changing Role of Mathematics in Machine Learning Research",
+    "summary": "A study on the role of mathematics in modern machine learning research, showing that carefully designed and mathematically principled architectures result in only marginal improvements.",
+    "score": 5,
+    "category": "研究",
+    "long": "The study examines the shift in how progress is made in machine learning, from carefully designed and mathematically principled architectures to compute-intensive and engineering-first efforts.",
+    "short": "Mathematics plays a changing role in machine learning research.",
+    "tweet": "New study: Mathematics plays a changing role in machine learning research! #AI #MachineLearning",
+    "xiaohongshu": "你知道吗？我们刚刚发布了一项研究，发现数学在机器学习研究中的作用正在发生变化！",
+    "index": 2,
+    "link": "https://thegradient.pub/shape-symmetry-structure/"
+  }
+]
