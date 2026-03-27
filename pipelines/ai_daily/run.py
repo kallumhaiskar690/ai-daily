@@ -25,25 +25,39 @@ def call_ai(prompt):
     """调用 AI 模型处理文章"""
     api_key = os.getenv("GROQ_API_KEY")
 
-    response = requests.post(
-        "https://api.groq.com/openai/v1/chat/completions",
-        headers={
-            "Authorization": f"Bearer {api_key}",
-            "Content-Type": "application/json"
-        },
-        json={
-            "model": "llama-3.1-8b-instant",  # 使用的 AI 模型
-            "messages": [{"role": "user", "content": prompt}],
-            "temperature": 0.3
-        }
-    )
+    try:
+        response = requests.post(
+            "https://api.groq.com/openai/v1/chat/completions",
+            headers={
+                "Authorization": f"Bearer {api_key}",
+                "Content-Type": "application/json"
+            },
+            json={
+                "model": "llama-3.1-8b-instant",  # 使用的 AI 模型
+                "messages": [{"role": "user", "content": prompt}],
+                "temperature": 0.3
+            }
+        )
 
-    result = response.json()
+        # 检查响应状态
+        if response.status_code != 200:
+            print(f"Error: API request failed with status code {response.status_code}")
+            print("Response:", response.text)
+            return None
 
-    if "choices" in result:
-        return result["choices"][0]["message"]["content"]
-    else:
-        print(result)
+        result = response.json()
+
+        # 输出调试信息：查看原始返回内容
+        print("AI Raw Response: ", result)
+
+        if "choices" in result:
+            return result["choices"][0]["message"]["content"]
+        else:
+            print("No valid choices found in response.")
+            return None
+
+    except requests.exceptions.RequestException as e:
+        print(f"Error during API request: {e}")
         return None
 
 
@@ -54,6 +68,10 @@ def main():
 
     # 抓取文章
     articles = fetch(limit=10)[:30]
+
+    if not articles:
+        print("No articles fetched.")
+        return
 
     # 拼接文章内容
     text = "\n\n".join([
@@ -70,12 +88,19 @@ def main():
         print("AI failed")
         return
 
+    # 清理格式：去除可能干扰的部分
+    clean_text = result_text.strip()
+    if clean_text.startswith("```json"):
+        clean_text = clean_text[7:].strip()  # 去掉 JSON 标记
+    if clean_text.endswith("```"):
+        clean_text = clean_text[:-3].strip()  # 去掉 JSON 结尾标记
+
     # 尝试解析 JSON
     try:
-        data = json.loads(result_text)
+        data = json.loads(clean_text)
     except json.JSONDecodeError as e:
         print(f"JSON parse failed: {e}")
-        print(result_text)
+        print("Response was:", result_text)  # 输出 AI 返回的内容
         return
 
     # 补充链接信息
