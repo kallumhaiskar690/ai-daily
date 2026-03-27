@@ -5,6 +5,7 @@ import json
 from datetime import datetime
 from pipelines.ai_daily.sources import FEEDS
 
+
 def fetch(limit=10):
     articles = []
     for url in FEEDS:
@@ -18,10 +19,8 @@ def fetch(limit=10):
     return articles
 
 
-def summarize_and_select(text, template):
+def call_ai(prompt):
     api_key = os.getenv("GROQ_API_KEY")
-
-    prompt = template.replace("{content}", text)
 
     response = requests.post(
         "https://api.groq.com/openai/v1/chat/completions",
@@ -41,6 +40,7 @@ def summarize_and_select(text, template):
     if "choices" in result:
         return result["choices"][0]["message"]["content"]
     else:
+        print(result)
         return None
 
 
@@ -49,51 +49,54 @@ def main():
     with open("pipelines/ai_daily/prompt.txt", "r", encoding="utf-8") as f:
         template = f.read()
 
-    # 抓 30 条
+    # 抓30条
     articles = fetch(limit=10)[:30]
 
-    # 拼内容
+    # 编号 + 拼内容
     text = "\n\n".join([
-        f"{i+1}. {a['title']}\n{a['summary']}"
+        f"[{i}] {a['title']}\n{a['summary']}"
         for i, a in enumerate(articles)
     ])
 
-    # AI筛选 + 结构化输出
-    result_text = summarize_and_select(text, template)
+    prompt = template.replace("{content}", text)
+
+    # AI处理
+    result_text = call_ai(prompt)
+
+    if not result_text:
+        print("AI failed")
+        return
+
+    # 尝试解析JSON
+    try:
+        data = json.loads(result_text)
+    except:
+        print("JSON parse failed")
+        print(result_text)
+        return
+
+    # 补 link
+    for item in data:
+        idx = item.get("index", 0)
+        if idx < len(articles):
+            item["link"] = articles[idx]["link"]
 
     today = datetime.now().strftime("%Y-%m-%d")
     os.makedirs("daily", exist_ok=True)
 
-    # 👉 Markdown
+    # 🧾 Markdown（IM版）
     md_file = f"daily/{today}.md"
     with open(md_file, "w") as f:
         f.write(f"# 🧠 AI快讯（{today}）\n\n")
-        f.write(result_text)
 
-    # 👉 JSON（简单解析版）
+        for i, item in enumerate(data, 1):
+            f.write(f"## {i}️⃣ {item['title']}\n")
+            f.write(f"👉 {item['summary']}\n")
+            f.write(f"📊 评分: {item['score']} | 分类: {item['category']}\n")
+            f.write(f"🔗 {item['link']}\n\n")
+
+    # 🧾 JSON（完整结构）
     json_file = f"daily/{today}.json"
-
-    data = []
-    if result_text:
-        lines = result_text.split("\n")
-        current = {}
-
-        for line in lines:
-            if line.startswith("##"):
-                if current:
-                    data.append(current)
-                current = {"title": line.replace("#", "").strip()}
-            elif line.startswith("👉"):
-                current["summary"] = line.replace("👉", "").strip()
-
-        if current:
-            data.append(current)
-
-    # 补充链接（简单匹配）
-    for i, item in enumerate(data):
-        if i < len(articles):
-            item["link"] = articles[i]["link"]
-
     with open(json_file, "w") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
 
