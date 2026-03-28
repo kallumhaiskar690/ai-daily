@@ -1,0 +1,110 @@
+[
+  {
+    "title": "AI Alignment",
+    "summary": "理性人不应该有目标，理性AI也不应该有目标",
+    "score": 9,
+    "category": "研究",
+    "long": "这篇文章认为理性人不应该有目标，而理性AI也不应该有目标。理性人做事是因为他们的行为与实践相一致，而不是为了达成某个目标。",
+    "short": "理性人不应该有目标",
+    "tweet": "理性人不应该有目标，理性AI也不应该有目标！ #AIAlignment",
+    "xiaohongshu": "理性人不应该有目标，理性AI也不应该有目标！这让人思考了很多",
+    "index": 0,
+    "link": "https://thegradient.pub/virtue-ethics-ai-alignment/"
+  },
+  {
+    "title": "AGI Is Not Multimodal",
+    "summary": "AGI不应该是多模态的",
+    "score": 8,
+    "category": "研究",
+    "long": "这篇文章认为AGI不应该是多模态的。我们应该重新思考我们对AGI的理解。",
+    "short": "AGI不应该是多模态的",
+    "tweet": "AGI不应该是多模态的！我们需要重新思考我们对AGI的理解！ #AGI",
+    "xiaohongshu": "AGI不应该是多模态的！这让人感到惊讶",
+    "index": 1,
+    "link": "https://thegradient.pub/agi-is-not-multimodal/"
+  },
+  {
+    "title": "Shape, Symmetries, and Structure",
+    "summary": "数学在机器学习中的作用正在改变",
+    "score": 7,
+    "category": "研究",
+    "long": "这篇文章认为数学在机器学习中的作用正在改变。我们需要重新思考我们对数学的理解。",
+    "short": "数学在机器学习中的作用正在改变",
+    "tweet": "数学在机器学习中的作用正在改变！我们需要重新思考我们对数学的理解！ #MachineLearning",
+    "xiaohongshu": "数学在机器学习中的作用正在改变！这让人感到兴奋",
+    "index": 2,
+    "link": "https://thegradient.pub/shape-symmetry-structure/"
+  },
+  {
+    "title": "What's Missing From LLM Chatbots",
+    "summary": "LLM聊天机器人缺乏目的感",
+    "score": 6,
+    "category": "研究",
+    "long": "这篇文章认为LLM聊天机器人缺乏目的感。我们需要重新思考我们对LLM的理解。",
+    "short": "LLM聊天机器人缺乏目的感",
+    "tweet": "LLM聊天机器人缺乏目的感！我们需要重新思考我们对LLM的理解！ #LLM",
+    "xiaohongshu": "LLM聊天机器人缺乏目的感！这让人感到失望",
+    "index": 3,
+    "link": "https://thegradient.pub/dialog/"
+  },
+  {
+    "title": "We Need Positive Visions for AI",
+    "summary": "我们需要对AI有积极的愿景",
+    "score": 5,
+    "category": "研究",
+    "long": "这篇文章认为我们需要对AI有积极的愿景。我们需要重新思考我们对AI的理解。",
+    "short": "我们需要对AI有积极的愿景",
+    "tweet": "我们需要对AI有积极的愿景！我们需要重新思考我们对AI的理解！ #AI",
+    "xiaohongshu": "我们需要对AI有积极的愿景！这让人感到希望",
+    "index": 4,
+    "link": "https://thegradient.pub/we-need-positive-visions-for-ai-grounded-in-wellbeing/"
+  },
+  {
+    "title": "Financial Market Applications of LLMs",
+    "summary": "LLM在金融市场的应用",
+    "score": 4,
+    "category": "商业",
+    "long": "这篇文章认为LLM在金融市场的应用有很大的潜力。我们需要重新思考我们对LLM的理解。",
+    "short": "LLM在金融市场的应用",
+    "tweet": "LLM在金融市场的应用有很大的潜力！我们需要重新思考我们对LLM的理解！ #LLM",
+    "xiaohongshu": "LLM在金融市场的应用有很大的潜力！这让人感到兴奋",
+    "index": 5,
+    "link": "https://thegradient.pub/financial-market-applications-of-llms/"
+  },
+  {
+    "title": "A Brief Overview of Gender Bias in AI",
+    "summary": "AI中的性别偏见概述",
+    "score": 3,
+    "category": "研究",
+    "long": "这篇文章认为AI中的性别偏见是一个重要的问题。我们需要重新思考我们对AI的理解。",
+    "short": "AI中的性别偏见概述",
+    "tweet": "AI中的性别偏见是一个重要的问题！我们需要重新思考我们对AI的理解！ #AI",
+    "xiaohongshu": "AI中的性别偏见是一个重要的问题！这让人感到担忧",
+    "index": 6,
+    "link": "https://thegradient.pub/gender-bias-in-ai/"
+  },
+  {
+    "title": "Mamba Explained",
+    "summary": "Mamba AI模型解释",
+    "score": 2,
+    "category": "模型",
+    "long": "这篇文章认为Mamba AI模型是一个重要的创新。我们需要重新思考我们对AI的理解。",
+    "short": "Mamba AI模型解释",
+    "tweet": "Mamba AI模型是一个重要的创新！我们需要重新思考我们对AI的理解！ #Mamba",
+    "xiaohongshu": "Mamba AI模型是一个重要的创新！这让人感到兴奋",
+    "index": 7,
+    "link": "https://thegradient.pub/mamba-explained/"
+  },
+  {
+    "title": "Car-GPT",
+    "summary": "LLM在自驾车中的应用",
+    "score": 1,
+    "category": "研究",
+    "long": "这篇文章认为LLM在自驾车中的应用有很大的潜力。我们需要重新思考我们对LLM的理解。",
+    "short": "LLM在自驾车中的应用",
+    "tweet": "LLM在自驾车中的应用有很大的潜力！我们需要重新思考我们对LLM的理解！ #LLM",
+    "xiaohongshu": "LLM在自驾车中的应用有很大的潜力！这让人感到兴奋",
+    "index": 8,
+    "link": "https://thegradient.pub/car-gpt/"
+  }
+]
