@@ -1,0 +1,110 @@
+[
+  {
+    "title": "AIRA_2: Overcoming Bottlenecks in AI Research Agents",
+    "summary": "AIRA_2 addresses three structural performance bottlenecks in AI research agents",
+    "score": 9,
+    "category": "模型",
+    "long": "AIRA_2 提出三种架构选择来解决这些瓶颈：异步多GPU工作池、隐式一致评估协议和动态作用域的ReAct代理",
+    "short": "AIRA_2 解决了 AI 研究代理的三个瓶颈",
+    "tweet": "AIRA_2: 超越 AI 研究代理的瓶颈！",
+    "xiaohongshu": "AIRA_2 是 AI 研究代理的救星！",
+    "index": 14,
+    "link": "https://arxiv.org/abs/2603.26499"
+  },
+  {
+    "title": "DesignWeaver: Dimensional Scaffolding for Text-to-Image Product Design",
+    "summary": "DesignWeaver 帮助新手设计师生成更具领域知识的文本提示",
+    "score": 8,
+    "category": "模型",
+    "long": "DesignWeaver 提供一个界面来帮助新手设计师生成更具领域知识的文本提示",
+    "short": "DesignWeaver 帮助新手设计师生成更好的文本提示",
+    "tweet": "DesignWeaver: 帮助新手设计师生成更好的文本提示！",
+    "xiaohongshu": "DesignWeaver 是新手设计师的好朋友！",
+    "index": 17,
+    "link": "https://arxiv.org/abs/2502.09867"
+  },
+  {
+    "title": "Stabilizing Rubric Integration Training via Decoupled Advantage Normalization",
+    "summary": "PAPO 方法整合过程级评估和组合相对政策优化",
+    "score": 8,
+    "category": "模型",
+    "long": "PAPO 方法通过分离优势来解决奖励设计的两大限制",
+    "short": "PAPO 方法解决了奖励设计的两大限制",
+    "tweet": "PAPO 方法: 解决奖励设计的两大限制！",
+    "xiaohongshu": "PAPO 方法是奖励设计的救星！",
+    "index": 16,
+    "link": "https://arxiv.org/abs/2603.26535"
+  },
+  {
+    "title": "Sommelier: Scalable Open Multi-turn Audio Pre-processing for Full-duplex Speech Language Models",
+    "summary": "Sommelier 提供一个可扩展的多轮语音预处理管道",
+    "score": 7,
+    "category": "模型",
+    "long": "Sommelier 提供一个可扩展的多轮语音预处理管道",
+    "short": "Sommelier 提供一个可扩展的多轮语音预处理管道",
+    "tweet": "Sommelier: 提供一个可扩展的多轮语音预处理管道！",
+    "xiaohongshu": "Sommelier 是语音预处理的好朋友！",
+    "index": 19,
+    "link": "https://arxiv.org/abs/2603.25750"
+  },
+  {
+    "title": "CADSmith: Multi-Agent CAD Generation with Programmatic Geometric Validation",
+    "summary": "CADSmith 提供一个多代理 CAD 生成管道",
+    "score": 7,
+    "category": "模型",
+    "long": "CADSmith 提供一个多代理 CAD 生成管道",
+    "short": "CADSmith 提供一个多代理 CAD 生成管道",
+    "tweet": "CADSmith: 提供一个多代理 CAD 生成管道！",
+    "xiaohongshu": "CADSmith 是 CAD 生成的好朋友！",
+    "index": 15,
+    "link": "https://arxiv.org/abs/2603.26512"
+  },
+  {
+    "title": "BeSafe-Bench: Unveiling Behavioral Safety Risks of Situated Agents in Functional Environments",
+    "summary": "BeSafe-Bench 提供一个安全评估框架",
+    "score": 7,
+    "category": "研究",
+    "long": "BeSafe-Bench 提供一个安全评估框架",
+    "short": "BeSafe-Bench 提供一个安全评估框架",
+    "tweet": "BeSafe-Bench: 提供一个安全评估框架！",
+    "xiaohongshu": "BeSafe-Bench 是安全评估的好朋友！",
+    "index": 10,
+    "link": "https://arxiv.org/abs/2603.25747"
+  },
+  {
+    "title": "AutoB2G: A Large Language Model-Driven Agentic Framework For Automated Building-Grid Co-Simulation",
+    "summary": "AutoB2G 提供一个自动化建筑-电网联合模拟框架",
+    "score": 6,
+    "category": "模型",
+    "long": "AutoB2G 提供一个自动化建筑-电网联合模拟框架",
+    "short": "AutoB2G 提供一个自动化建筑-电网联合模拟框架",
+    "tweet": "AutoB2G: 提供一个自动化建筑-电网联合模拟框架！",
+    "xiaohongshu": "AutoB2G 是自动化建筑-电网联合模拟的好朋友！",
+    "index": 11,
+    "link": "https://arxiv.org/abs/2603.26005"
+  },
+  {
+    "title": "GUIDE: Resolving Domain Bias in GUI Agents through Real-Time Web Video Retrieval and Plug-and-Play Annotation",
+    "summary": "GUIDE 提供一个域偏差解决方案",
+    "score": 6,
+    "category": "模型",
+    "long": "GUIDE 提供一个域偏差解决方案",
+    "short": "GUIDE 提供一个域偏差解决方案",
+    "tweet": "GUIDE: 提供一个域偏差解决方案！",
+    "xiaohongshu": "GUIDE 是域偏差解决方案的好朋友！",
+    "index": 13,
+    "link": "https://arxiv.org/abs/2603.26266"
+  },
+  {
+    "title": "What's Missing From LLM Chatbots: A Sense of Purpose",
+    "summary": "LLM 聊天机器人缺乏目的感",
+    "score": 6,
+    "category": "商业",
+    "long": "LLM 聊天机器人缺乏目的感",
+    "short": "LLM 聊天机器人缺乏目的感",
+    "tweet": "LLM 聊天机器人缺乏目的感！",
+    "xiaohongshu": "LLM 聊天机器人缺乏目的感！",
+    "index": 3,
+    "link": "https://thegradient.pub/dialog/"
+  }
+]
