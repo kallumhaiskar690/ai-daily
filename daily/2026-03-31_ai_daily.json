@@ -1,0 +1,110 @@
+[
+  {
+    "title": "MediHive: A Decentralized Agent Collective for Medical Reasoning",
+    "summary": "MediHive是一种分布式多智能体框架，用于医疗问题回答，集成了共享内存池和迭代融合机制",
+    "score": 9,
+    "category": "研究",
+    "long": "MediHive通过自主角色分配、初始分析、条件证据辩论和局部融合来实现协同工作。它在MedQA和PubMedQA数据集上取得了84.3%和78.4%的准确率",
+    "short": "分布式多智能体框架",
+    "tweet": "MediHive: Revolutionizing Medical Reasoning with Decentralized AI",
+    "xiaohongshu": "MediHive让医疗问题回答变得更智能！",
+    "index": 19,
+    "link": "https://arxiv.org/abs/2603.27150"
+  },
+  {
+    "title": "The Price of Meaning: Why Every Semantic Memory System Forgets",
+    "summary": "研究表明，所有主要的AI记忆系统都以意义组织信息，但这会导致干扰、遗忘和错误回忆",
+    "score": 8,
+    "category": "研究",
+    "long": "研究表明，所有主要的AI记忆系统都以意义组织信息，但这会导致干扰、遗忘和错误回忆。研究人员证明了这一点并测试了五种架构",
+    "short": "AI记忆系统的缺陷",
+    "tweet": "The Price of Meaning: Why AI Memory Systems Forget",
+    "xiaohongshu": "AI记忆系统的缺陷：干扰、遗忘和错误回忆",
+    "index": 18,
+    "link": "https://arxiv.org/abs/2603.27116"
+  },
+  {
+    "title": "FormalProofBench: Can Models Write Graduate Level Math Proofs That Are Formally Verified?",
+    "summary": "研究人员创建了FormalProofBench，用于评估AI模型是否可以生成正式验证的数学证明",
+    "score": 8,
+    "category": "研究",
+    "long": "研究人员创建了FormalProofBench，用于评估AI模型是否可以生成正式验证的数学证明。结果表明，前沿模型在该任务上的准确率为33.5%",
+    "short": "AI生成数学证明",
+    "tweet": "FormalProofBench: Evaluating AI's Ability to Generate Formal Math Proofs",
+    "xiaohongshu": "AI生成数学证明：挑战和机会",
+    "index": 16,
+    "link": "https://arxiv.org/abs/2603.26996"
+  },
+  {
+    "title": "Transparency as Architecture: Structural Compliance Gaps in EU AI Act Article 50 II",
+    "summary": "研究人员发现，当前的生成AI系统难以满足EU AI法案的透明度要求",
+    "score": 7,
+    "category": "研究",
+    "long": "研究人员发现，当前的生成AI系统难以满足EU AI法案的透明度要求。他们提出了解决方案，要求将透明度视为架构设计的要求",
+    "short": "AI透明度的挑战",
+    "tweet": "Transparency as Architecture: Closing Gaps in EU AI Act Article 50 II",
+    "xiaohongshu": "AI透明度的挑战：EU AI法案的要求",
+    "index": 15,
+    "link": "https://arxiv.org/abs/2603.26983"
+  },
+  {
+    "title": "Compliance-Aware Predictive Process Monitoring: A Neuro-Symbolic Approach",
+    "summary": "研究人员提出了一个神经符号方法，用于预测过程监控，注重遵守过程约束",
+    "score": 7,
+    "category": "研究",
+    "long": "研究人员提出了一个神经符号方法，用于预测过程监控，注重遵守过程约束。他们的方法在四个真实世界事件日志上取得了出色的表现",
+    "short": "AI预测过程监控",
+    "tweet": "Compliance-Aware Predictive Process Monitoring: A Neuro-Symbolic Approach",
+    "xiaohongshu": "AI预测过程监控：遵守过程约束",
+    "index": 14,
+    "link": "https://arxiv.org/abs/2603.26948"
+  },
+  {
+    "title": "Neuro-Symbolic Learning for Predictive Process Monitoring via Two-Stage Logic Tensor Networks with Rule Pruning",
+    "summary": "研究人员提出了一个神经符号方法，用于预测过程监控，注重遵守过程约束",
+    "score": 7,
+    "category": "研究",
+    "long": "研究人员提出了一个神经符号方法，用于预测过程监控，注重遵守过程约束。他们的方法在四个真实世界事件日志上取得了出色的表现",
+    "short": "AI预测过程监控",
+    "tweet": "Neuro-Symbolic Learning for Predictive Process Monitoring",
+    "xiaohongshu": "AI预测过程监控：遵守过程约束",
+    "index": 13,
+    "link": "https://arxiv.org/abs/2603.26944"
+  },
+  {
+    "title": "Concerning Uncertainty -- A Systematic Survey of Uncertainty-Aware XAI",
+    "summary": "研究人员进行了系统性的调查，了解了不确定性感知的可解释人工智能",
+    "score": 6,
+    "category": "研究",
+    "long": "研究人员进行了系统性的调查，了解了不确定性感知的可解释人工智能。他们发现了三个主要方法和几种不同策略",
+    "short": "AI不确定性感知",
+    "tweet": "Concerning Uncertainty -- A Systematic Survey of Uncertainty-Aware XAI",
+    "xiaohongshu": "AI不确定性感知：挑战和机会",
+    "index": 12,
+    "link": "https://arxiv.org/abs/2603.26838"
+  },
+  {
+    "title": "Multiverse: Language-Conditioned Multi-Game Level Blending via Shared Representation",
+    "summary": "研究人员提出了一个语言条件的多游戏级别融合方法，使用共享表示",
+    "score": 6,
+    "category": "研究",
+    "long": "研究人员提出了一个语言条件的多游戏级别融合方法，使用共享表示。他们的方法在实验中取得了出色的表现",
+    "short": "AI多游戏级别融合",
+    "tweet": "Multiverse: Language-Conditioned Multi-Game Level Blending",
+    "xiaohongshu": "AI多游戏级别融合：挑战和机会",
+    "index": 11,
+    "link": "https://arxiv.org/abs/2603.26782"
+  },
+  {
+    "title": "Bitboard version of Tetris AI",
+    "summary": "研究人员提出了一个Tetris AI框架，使用位板优化和改进的RL算法",
+    "score": 5,
+    "category": "研究",
+    "long": "研究人员提出了一个Tetris AI框架，使用位板优化和改进的RL算法。他们的方法在实验中取得了出色的表现",
+    "short": "Tetris AI",
+    "tweet": "Bitboard version of Tetris AI",
+    "xiaohongshu": "Tetris AI：挑战和机会",
+    "index": 10,
+    "link": "https://arxiv.org/abs/2603.26765"
+  }
+]
