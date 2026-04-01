@@ -1,0 +1,110 @@
+[
+  {
+    "title": "多样化的AI应用",
+    "summary": "多个领域的AI应用，包括AGI、LLM、自主驾驶等",
+    "score": 9,
+    "category": "研究",
+    "long": "研究人员正在探索多个领域的AI应用，包括AGI、LLM、自主驾驶等，旨在解决现有的挑战和问题",
+    "short": "多样化的AI应用",
+    "tweet": "AI的多样化应用正在改变世界！从AGI到LLM，从自主驾驶到其他领域，AI的潜力无限！",
+    "xiaohongshu": "AI的未来正在到来！从AGI到LLM，从自主驾驶到其他领域，AI的应用越来越多！",
+    "index": 0,
+    "link": "https://thegradient.pub/virtue-ethics-ai-alignment/"
+  },
+  {
+    "title": "AI的社会动态",
+    "summary": "研究人员正在探索AI的社会动态，包括AI的自主性和社会组织",
+    "score": 8,
+    "category": "研究",
+    "long": "研究人员正在探索AI的社会动态，包括AI的自主性和社会组织，旨在解决现有的挑战和问题",
+    "short": "AI的社会动态",
+    "tweet": "AI的社会动态正在改变！从自主性到社会组织，AI的潜力无限！",
+    "xiaohongshu": "AI的社会动态正在改变！从自主性到社会组织，AI的应用越来越多！",
+    "index": 11,
+    "link": "https://arxiv.org/abs/2603.28906"
+  },
+  {
+    "title": "AI的政策学习",
+    "summary": "研究人员正在探索AI的政策学习，包括AI的决策和行动",
+    "score": 7,
+    "category": "研究",
+    "long": "研究人员正在探索AI的政策学习，包括AI的决策和行动，旨在解决现有的挑战和问题",
+    "short": "AI的政策学习",
+    "tweet": "AI的政策学习正在改变！从决策到行动，AI的潜力无限！",
+    "xiaohongshu": "AI的政策学习正在改变！从决策到行动，AI的应用越来越多！",
+    "index": 12,
+    "link": "https://arxiv.org/abs/2603.28928"
+  },
+  {
+    "title": "AI的多元化",
+    "summary": "研究人员正在探索AI的多元化，包括AI的多样性和多样化",
+    "score": 6,
+    "category": "研究",
+    "long": "研究人员正在探索AI的多元化，包括AI的多样性和多样化，旨在解决现有的挑战和问题",
+    "short": "AI的多元化",
+    "tweet": "AI的多元化正在改变！从多样性到多样化，AI的潜力无限！",
+    "xiaohongshu": "AI的多元化正在改变！从多样性到多样化，AI的应用越来越多！",
+    "index": 16,
+    "link": "https://arxiv.org/abs/2603.29020"
+  },
+  {
+    "title": "AI的问答",
+    "summary": "研究人员正在探索AI的问答，包括AI的理解和回答",
+    "score": 5,
+    "category": "研究",
+    "long": "研究人员正在探索AI的问答，包括AI的理解和回答，旨在解决现有的挑战和问题",
+    "short": "AI的问答",
+    "tweet": "AI的问答正在改变！从理解到回答，AI的潜力无限！",
+    "xiaohongshu": "AI的问答正在改变！从理解到回答，AI的应用越来越多！",
+    "index": 17,
+    "link": "https://arxiv.org/abs/2603.29075"
+  },
+  {
+    "title": "AI的推荐系统",
+    "summary": "研究人员正在探索AI的推荐系统，包括AI的理解和推荐",
+    "score": 4,
+    "category": "研究",
+    "long": "研究人员正在探索AI的推荐系统，包括AI的理解和推荐，旨在解决现有的挑战和问题",
+    "short": "AI的推荐系统",
+    "tweet": "AI的推荐系统正在改变！从理解到推荐，AI的潜力无限！",
+    "xiaohongshu": "AI的推荐系统正在改变！从理解到推荐，AI的应用越来越多！",
+    "index": 18,
+    "link": "https://arxiv.org/abs/2603.29085"
+  },
+  {
+    "title": "AI的安全",
+    "summary": "研究人员正在探索AI的安全，包括AI的安全性和防御",
+    "score": 3,
+    "category": "研究",
+    "long": "研究人员正在探索AI的安全，包括AI的安全性和防御，旨在解决现有的挑战和问题",
+    "short": "AI的安全",
+    "tweet": "AI的安全正在改变！从安全性到防御，AI的潜力无限！",
+    "xiaohongshu": "AI的安全正在改变！从安全性到防御，AI的应用越来越多！",
+    "index": 19,
+    "link": "https://arxiv.org/abs/2603.29112"
+  },
+  {
+    "title": "AI的商业",
+    "summary": "研究人员正在探索AI的商业，包括AI的应用和商业化",
+    "score": 2,
+    "category": "商业",
+    "long": "研究人员正在探索AI的商业，包括AI的应用和商业化，旨在解决现有的挑战和问题",
+    "short": "AI的商业",
+    "tweet": "AI的商业正在改变！从应用到商业化，AI的潜力无限！",
+    "xiaohongshu": "AI的商业正在改变！从应用到商业化，AI的应用越来越多！",
+    "index": 29,
+    "link": "https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html"
+  },
+  {
+    "title": "AI的未来",
+    "summary": "研究人员正在探索AI的未来，包括AI的发展和应用",
+    "score": 1,
+    "category": "研究",
+    "long": "研究人员正在探索AI的未来，包括AI的发展和应用，旨在解决现有的挑战和问题",
+    "short": "AI的未来",
+    "tweet": "AI的未来正在改变！从发展到应用，AI的潜力无限！",
+    "xiaohongshu": "AI的未来正在改变！从发展到应用，AI的应用越来越多！",
+    "index": 20,
+    "link": "https://ccunpacked.dev/"
+  }
+]
