@@ -1,0 +1,110 @@
+[
+  {
+    "title": "EmDash – A spiritual successor to WordPress",
+    "summary": "EmDash 是 WordPress 的精神继承者，解决了插件安全问题",
+    "score": 8,
+    "category": "其他",
+    "long": "EmDash 是一个新兴的内容管理系统，旨在解决 WordPress 的插件安全问题。它提供了一个更安全的环境，减少了插件安全漏洞的风险。",
+    "short": "WordPress 的精神继承者",
+    "tweet": "WordPress 的新替代品：EmDash！",
+    "xiaohongshu": "WordPress 的新玩法：EmDash！",
+    "index": 26,
+    "link": "https://blog.cloudflare.com/emdash-wordpress/"
+  },
+  {
+    "title": "DRAM pricing is killing the hobbyist SBC market",
+    "summary": "DRAM 价格上涨导致 DIY SBC 市场受损",
+    "score": 8,
+    "category": "其他",
+    "long": "DRAM 价格上涨导致 DIY SBC 市场受损，许多制造商被迫停产或裁员。",
+    "short": "DRAM 价格上涨导致 DIY SBC 市场受损",
+    "tweet": "DRAM 价格上涨，DIY SBC 市场受损！",
+    "xiaohongshu": "DRAM 价格上涨，DIY SBC 市场受损！",
+    "index": 27,
+    "link": "https://www.jeffgeerling.com/blog/2026/dram-pricing-is-killing-the-hobbyist-sbc-market/"
+  },
+  {
+    "title": "A new C++ back end for ocamlc",
+    "summary": "ocamlc 的新 C++ 后端",
+    "score": 7,
+    "category": "其他",
+    "long": "ocamlc 的新 C++ 后端旨在提高编译速度和性能。",
+    "short": "ocamlc 的新 C++ 后端",
+    "tweet": "ocamlc 的新 C++ 后端！",
+    "xiaohongshu": "ocamlc 的新 C++ 后端！",
+    "index": 24,
+    "link": "https://github.com/ocaml/ocaml/pull/14701"
+  },
+  {
+    "title": "Steam on Linux Use Skyrocketed Above 5% in March",
+    "summary": "Steam 在 Linux 上的使用率激增",
+    "score": 7,
+    "category": "其他",
+    "long": "Steam 在 Linux 上的使用率激增，超过 5% 的用户选择 Linux 作为主要操作系统。",
+    "short": "Steam 在 Linux 上的使用率激增",
+    "tweet": "Steam 在 Linux 上的使用率激增！",
+    "xiaohongshu": "Steam 在 Linux 上的使用率激增！",
+    "index": 25,
+    "link": "https://www.phoronix.com/news/Steam-On-Linux-Tops-5p"
+  },
+  {
+    "title": "Open, Reliable, and Collective: A Community-Driven Framework for Tool-Using AI Agents",
+    "summary": "一个社区驱动的框架用于工具使用的 AI 代理",
+    "score": 9,
+    "category": "模型",
+    "long": "这个框架旨在提高工具使用的 AI 代理的可靠性和可集成性。",
+    "short": "一个社区驱动的框架用于工具使用的 AI 代理",
+    "tweet": "一个社区驱动的框架用于工具使用的 AI 代理！",
+    "xiaohongshu": "一个社区驱动的框架用于工具使用的 AI 代理！",
+    "index": 12,
+    "link": "https://arxiv.org/abs/2604.00137"
+  },
+  {
+    "title": "Human-in-the-Loop Control of Objective Drift in LLM-Assisted Computer Science Education",
+    "summary": "人机交互控制 LLM 在计算机科学教育中的目标漂移",
+    "score": 9,
+    "category": "模型",
+    "long": "这个研究旨在提高 LLM 在计算机科学教育中的可靠性和可控制性。",
+    "short": "人机交互控制 LLM 在计算机科学教育中的目标漂移",
+    "tweet": "人机交互控制 LLM 在计算机科学教育中的目标漂移！",
+    "xiaohongshu": "人机交互控制 LLM 在计算机科学教育中的目标漂移！",
+    "index": 14,
+    "link": "https://arxiv.org/abs/2604.00281"
+  },
+  {
+    "title": "Signals: Trajectory Sampling and Triage for Agentic Interactions",
+    "summary": "一个信号框架用于轨迹采样和分级",
+    "score": 8,
+    "category": "模型",
+    "long": "这个框架旨在提高轨迹采样和分级的效率和准确性。",
+    "short": "一个信号框架用于轨迹采样和分级",
+    "tweet": "一个信号框架用于轨迹采样和分级！",
+    "xiaohongshu": "一个信号框架用于轨迹采样和分级！",
+    "index": 17,
+    "link": "https://arxiv.org/abs/2604.00356"
+  },
+  {
+    "title": "A Safety-Aware Role-Orchestrated Multi-Agent LLM Framework for Behavioral Health Communication Simulation",
+    "summary": "一个安全意识的多代理 LLM 框架用于行为健康通信模拟",
+    "score": 9,
+    "category": "模型",
+    "long": "这个框架旨在提高行为健康通信模拟的安全性和可靠性。",
+    "short": "一个安全意识的多代理 LLM 框架用于行为健康通信模拟",
+    "tweet": "一个安全意识的多代理 LLM 框架用于行为健康通信模拟！",
+    "xiaohongshu": "一个安全意识的多代理 LLM 框架用于行为健康通信模拟！",
+    "index": 13,
+    "link": "https://arxiv.org/abs/2604.00249"
+  },
+  {
+    "title": "Improvisational Games as a Benchmark for Social Intelligence of AI Agents: The Case of Connections",
+    "summary": "一个即兴游戏作为 AI 代理社会智能的基准",
+    "score": 8,
+    "category": "模型",
+    "long": "这个研究旨在提高 AI 代理社会智能的评估和改进。",
+    "short": "一个即兴游戏作为 AI 代理社会智能的基准",
+    "tweet": "一个即兴游戏作为 AI 代理社会智能的基准！",
+    "xiaohongshu": "一个即兴游戏作为 AI 代理社会智能的基准！",
+    "index": 15,
+    "link": "https://arxiv.org/abs/2604.00284"
+  }
+]
