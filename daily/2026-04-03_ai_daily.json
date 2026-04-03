@@ -1,0 +1,110 @@
+[
+  {
+    "title": "Human-in-the-Loop Control of Objective Drift in LLM-Assisted Computer Science Education",
+    "summary": "人类在循环控制中扮演着关键角色，以防止LLM在计算机科学教育中的目标漂移",
+    "score": 9,
+    "category": "教育",
+    "long": "该研究提出了一种人机交互的控制方法，用于防止LLM在计算机科学教育中的目标漂移。该方法通过将目标和世界模型视为可配置的操作艺术来解决这一问题。",
+    "short": "防止LLM目标漂移的方法",
+    "tweet": "人类在循环控制中扮演着关键角色，以防止LLM在计算机科学教育中的目标漂移 #LLM #教育",
+    "xiaohongshu": "防止LLM目标漂移的方法，让教育变得更加可靠!",
+    "index": 14,
+    "link": "https://arxiv.org/abs/2604.00281"
+  },
+  {
+    "title": "Collaborative AI Agents and Critics for Fault Detection and Cause Analysis in Network Telemetry",
+    "summary": "协同工作的AI代理和批评者用于检测和分析网络传感器中的故障",
+    "score": 8,
+    "category": "网络安全",
+    "long": "该研究提出了一种协同工作的AI代理和批评者系统，用于检测和分析网络传感器中的故障。该系统通过将AI代理和批评者组合在一起，来提高检测和分析的准确性。",
+    "short": "协同工作的AI代理和批评者",
+    "tweet": "协同工作的AI代理和批评者用于检测和分析网络传感器中的故障 #AI #网络安全",
+    "xiaohongshu": "协同工作的AI代理和批评者，让网络安全变得更加可靠!",
+    "index": 16,
+    "link": "https://arxiv.org/abs/2604.00319"
+  },
+  {
+    "title": "Signals: Trajectory Sampling and Triage for Agentic Interactions",
+    "summary": "信号：轨迹抽样和分级诊断",
+    "score": 8,
+    "category": "人工智能",
+    "long": "该研究提出了一种信号抽样和分级诊断系统，用于评估人工智能代理的轨迹。该系统通过计算轨迹中的信号来评估轨迹的重要性。",
+    "short": "信号抽样和分级诊断",
+    "tweet": "信号抽样和分级诊断系统，评估人工智能代理的轨迹 #AI #人工智能",
+    "xiaohongshu": "信号抽样和分级诊断，让人工智能变得更加可靠!",
+    "index": 17,
+    "link": "https://arxiv.org/abs/2604.00356"
+  },
+  {
+    "title": "A Safety-Aware Role-Orchestrated Multi-Agent LLM Framework for Behavioral Health Communication Simulation",
+    "summary": "安全意识的角色协调多代理LLM框架",
+    "score": 7,
+    "category": "行为健康",
+    "long": "该研究提出了一种安全意识的角色协调多代理LLM框架，用于模拟行为健康的交流。该框架通过将角色协调和安全意识结合在一起，来提高交流的准确性。",
+    "short": "安全意识的角色协调多代理",
+    "tweet": "安全意识的角色协调多代理LLM框架，模拟行为健康的交流 #LLM #行为健康",
+    "xiaohongshu": "安全意识的角色协调多代理，让行为健康变得更加可靠!",
+    "index": 13,
+    "link": "https://arxiv.org/abs/2604.00249"
+  },
+  {
+    "title": "Improvisational Games as a Benchmark for Social Intelligence of AI Agents: The Case of Connections",
+    "summary": "即兴游戏作为人工智能代理社会意识的基准",
+    "score": 7,
+    "category": "人工智能",
+    "long": "该研究提出了一种即兴游戏作为人工智能代理社会意识的基准。该基准通过评估人工智能代理在即兴游戏中的表现来评估其社会意识。",
+    "short": "即兴游戏作为基准",
+    "tweet": "即兴游戏作为人工智能代理社会意识的基准 #AI #人工智能",
+    "xiaohongshu": "即兴游戏作为基准，让人工智能变得更加可靠!",
+    "index": 15,
+    "link": "https://arxiv.org/abs/2604.00284"
+  },
+  {
+    "title": "Decision-Centric Design for LLM Systems",
+    "summary": "决策中心设计",
+    "score": 6,
+    "category": "人工智能",
+    "long": "该研究提出了一种决策中心设计，用于提高LLM系统的可靠性和可控性。该设计通过将决策和执行分离在一起，来提高系统的可靠性和可控性。",
+    "short": "决策中心设计",
+    "tweet": "决策中心设计，提高LLM系统的可靠性和可控性 #LLM #人工智能",
+    "xiaohongshu": "决策中心设计，让人工智能变得更加可靠!",
+    "index": 19,
+    "link": "https://arxiv.org/abs/2604.00414"
+  },
+  {
+    "title": "We Need Positive Visions for AI Grounded in Wellbeing",
+    "summary": "我们需要基于福祉的积极愿景",
+    "score": 6,
+    "category": "人工智能",
+    "long": "该研究提出了一种基于福祉的积极愿景，用于提高人工智能的可靠性和可控性。该愿景通过将福祉作为主要目标来提高系统的可靠性和可控性。",
+    "short": "基于福祉的积极愿景",
+    "tweet": "基于福祉的积极愿景，提高人工智能的可靠性和可控性 #AI #人工智能",
+    "xiaohongshu": "基于福祉的积极愿景，让人工智能变得更加可靠!",
+    "index": 4,
+    "link": "https://thegradient.pub/we-need-positive-visions-for-ai-grounded-in-wellbeing/"
+  },
+  {
+    "title": "What's Missing From LLM Chatbots: A Sense of Purpose",
+    "summary": "LLM聊天机器人缺乏目的感",
+    "score": 5,
+    "category": "人工智能",
+    "long": "该研究提出了一种LLM聊天机器人缺乏目的感的问题。该问题通过评估LLM聊天机器人的表现来评估其目的感。",
+    "short": "LLM聊天机器人缺乏目的感",
+    "tweet": "LLM聊天机器人缺乏目的感，提高其目的感 #LLM #人工智能",
+    "xiaohongshu": "LLM聊天机器人缺乏目的感，让人工智能变得更加可靠!",
+    "index": 3,
+    "link": "https://thegradient.pub/dialog/"
+  },
+  {
+    "title": "Shape, Symmetries, and Structure: The Changing Role of Mathematics in Machine Learning Research",
+    "summary": "数学在机器学习研究中的角色变化",
+    "score": 5,
+    "category": "机器学习",
+    "long": "该研究提出了一种数学在机器学习研究中的角色变化。该变化通过评估数学在机器学习研究中的作用来评估其重要性。",
+    "short": "数学在机器学习研究中的角色变化",
+    "tweet": "数学在机器学习研究中的角色变化，提高其重要性 #机器学习 #数学",
+    "xiaohongshu": "数学在机器学习研究中的角色变化，让机器学习变得更加可靠!",
+    "index": 2,
+    "link": "https://thegradient.pub/shape-symmetry-structure/"
+  }
+]
