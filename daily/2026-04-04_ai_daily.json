@@ -1,0 +1,110 @@
+[
+  {
+    "title": "AGI Is Not Multimodal",
+    "summary": "AGI 不是多模态的，语言不是唯一的思维模式",
+    "score": 9,
+    "category": "研究",
+    "long": "AGI 的实现不是简单地将语言模式投射回思维中，忽视了身体和身体理解的重要性",
+    "short": "AGI 不是多模态的",
+    "tweet": "AGI 不是多模态的！语言不是唯一的思维模式！",
+    "xiaohongshu": "AGI 不是多模态的！我们需要考虑身体和身体理解！",
+    "index": 1,
+    "link": "https://thegradient.pub/agi-is-not-multimodal/"
+  },
+  {
+    "title": "What's Missing From LLM Chatbots: A Sense of Purpose",
+    "summary": "LLM 聊天机器人缺乏目的感",
+    "score": 8,
+    "category": "模型",
+    "long": "LLM 聊天机器人的能力不断提高，但用户体验并没有相应提高",
+    "short": "LLM 聊天机器人缺乏目的感",
+    "tweet": "LLM 聊天机器人缺乏目的感！我们需要更好的用户体验！",
+    "xiaohongshu": "LLM 聊天机器人缺乏目的感！我们需要更好的用户体验！",
+    "index": 3,
+    "link": "https://thegradient.pub/dialog/"
+  },
+  {
+    "title": "We Need Positive Visions for AI Grounded in Wellbeing",
+    "summary": "我们需要以健康为基础的积极的AI愿景",
+    "score": 8,
+    "category": "商业",
+    "long": "AI 的发展将对社会产生重大影响，我们需要考虑健康和福祉",
+    "short": "我们需要以健康为基础的积极的AI愿景",
+    "tweet": "我们需要以健康为基础的积极的AI愿景！",
+    "xiaohongshu": "我们需要以健康为基础的积极的AI愿景！",
+    "index": 4,
+    "link": "https://thegradient.pub/we-need-positive-visions-for-ai-grounded-in-wellbeing/"
+  },
+  {
+    "title": "Financial Market Applications of LLMs",
+    "summary": "LLM 在金融市场的应用",
+    "score": 7,
+    "category": "商业",
+    "long": "LLM 在金融市场的应用有望带来重大变化",
+    "short": "LLM 在金融市场的应用",
+    "tweet": "LLM 在金融市场的应用！",
+    "xiaohongshu": "LLM 在金融市场的应用！",
+    "index": 5,
+    "link": "https://thegradient.pub/financial-market-applications-of-llms/"
+  },
+  {
+    "title": "A Brief Overview of Gender Bias in AI",
+    "summary": "AI 中的性别偏见概述",
+    "score": 7,
+    "category": "研究",
+    "long": "AI 中的性别偏见是一个重要的问题",
+    "short": "AI 中的性别偏见概述",
+    "tweet": "AI 中的性别偏见！",
+    "xiaohongshu": "AI 中的性别偏见！",
+    "index": 6,
+    "link": "https://thegradient.pub/gender-bias-in-ai/"
+  },
+  {
+    "title": "Mamba Explained",
+    "summary": "Mamba AI 模型解释",
+    "score": 6,
+    "category": "模型",
+    "long": "Mamba AI 模型是一种新型的状态空间模型",
+    "short": "Mamba AI 模型解释",
+    "tweet": "Mamba AI 模型！",
+    "xiaohongshu": "Mamba AI 模型！",
+    "index": 7,
+    "link": "https://thegradient.pub/mamba-explained/"
+  },
+  {
+    "title": "Car-GPT: Could LLMs finally make self-driving cars happen?",
+    "summary": "LLM 是否能让自驾车成为现实",
+    "score": 6,
+    "category": "商业",
+    "long": "LLM 在自驾车领域的应用有望带来重大变化",
+    "short": "LLM 是否能让自驾车成为现实",
+    "tweet": "LLM 是否能让自驾车成为现实！",
+    "xiaohongshu": "LLM 是否能让自驾车成为现实！",
+    "index": 8,
+    "link": "https://thegradient.pub/car-gpt/"
+  },
+  {
+    "title": "Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw",
+    "summary": "Anthropic 不再允许使用 OpenClaw",
+    "score": 5,
+    "category": "其他",
+    "long": "Anthropic 停止允许使用 OpenClaw",
+    "short": "Anthropic 不再允许使用 OpenClaw",
+    "tweet": "Anthropic 停止允许使用 OpenClaw！",
+    "xiaohongshu": "Anthropic 停止允许使用 OpenClaw！",
+    "index": 10,
+    "link": "https://news.ycombinator.com/item?id=47633396"
+  },
+  {
+    "title": "Shape, Symmetries, and Structure: The Changing Role of Mathematics in Machine Learning Research",
+    "summary": "机器学习研究中的数学角色变化",
+    "score": 5,
+    "category": "研究",
+    "long": "机器学习研究中的数学角色正在发生变化",
+    "short": "机器学习研究中的数学角色变化",
+    "tweet": "机器学习研究中的数学角色变化！",
+    "xiaohongshu": "机器学习研究中的数学角色变化！",
+    "index": 2,
+    "link": "https://thegradient.pub/shape-symmetry-structure/"
+  }
+]
