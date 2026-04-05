@@ -1,0 +1,122 @@
+[
+  {
+    "title": "AGI Is Not Multimodal",
+    "summary": "AI模型不应模仿人类语言",
+    "score": 10,
+    "category": "模型",
+    "long": "AI模型不应模仿人类语言，应注重实体理解。",
+    "short": "AI模型不应模仿人类语言",
+    "tweet": "AI shouldn't mimic human language, focus on embodied understanding! #AI #AGI",
+    "xiaohongshu": "AI模型别模仿人类语言了，实体理解才是王道！",
+    "index": 1,
+    "link": "https://thegradient.pub/agi-is-not-multimodal/"
+  },
+  {
+    "title": "What's Missing From LLM Chatbots: A Sense of Purpose",
+    "summary": "LLM聊天机器人缺乏目的感",
+    "score": 9,
+    "category": "模型",
+    "long": "LLM聊天机器人缺乏目的感，仅凭借性能指标无法衡量用户体验。",
+    "short": "LLM聊天机器人缺乏目的感",
+    "tweet": "LLM chatbots lack purpose, it's time to rethink user experience! #LLM #Chatbots",
+    "xiaohongshu": "LLM聊天机器人缺乏目的感，用户体验才是真实的！",
+    "index": 3,
+    "link": "https://thegradient.pub/dialog/"
+  },
+  {
+    "title": "We Need Positive Visions for AI Grounded in Wellbeing",
+    "summary": "AI应以福祉为基础",
+    "score": 8,
+    "category": "研究",
+    "long": "AI应以福祉为基础，创造积极的愿景。",
+    "short": "AI应以福祉为基础",
+    "tweet": "AI should be grounded in wellbeing, let's create a positive vision! #AI #Wellbeing",
+    "xiaohongshu": "AI应以福祉为基础，创造积极的愿景！",
+    "index": 4,
+    "link": "https://thegradient.pub/we-need-positive-visions-for-ai-grounded-in-wellbeing/"
+  },
+  {
+    "title": "Shape, Symmetries, and Structure: The Changing Role of Mathematics in Machine Learning Research",
+    "summary": "机器学习中的数学角色发生变化",
+    "score": 7,
+    "category": "模型",
+    "long": "机器学习中的数学角色发生变化，计算机密集型和工程化的方法变得更加重要。",
+    "short": "机器学习中的数学角色发生变化",
+    "tweet": "Mathematics plays a changing role in machine learning research, compute-intensive methods are on the rise! #MachineLearning #Math",
+    "xiaohongshu": "机器学习中的数学角色发生变化，计算机密集型和工程化的方法变得更加重要！",
+    "index": 2,
+    "link": "https://thegradient.pub/shape-symmetry-structure/"
+  },
+  {
+    "title": "Mamba Explained",
+    "summary": "Mamba AI模型解释",
+    "score": 6,
+    "category": "模型",
+    "long": "Mamba AI模型是一种基于状态空间模型的替代方案，解决了Transformer模型在处理长序列时的效率问题。",
+    "short": "Mamba AI模型解释",
+    "tweet": "Mamba AI model explained, a new alternative to Transformer! #Mamba #AI",
+    "xiaohongshu": "Mamba AI模型解释，解决了Transformer模型的效率问题！",
+    "index": 7,
+    "link": "https://thegradient.pub/mamba-explained/"
+  },
+  {
+    "title": "Car-GPT: Could LLMs finally make self-driving cars happen?",
+    "summary": "LLM在自主驾驶汽车中的应用",
+    "score": 5,
+    "category": "研究",
+    "long": "LLM在自主驾驶汽车中的应用，是否可以信任它们？",
+    "short": "LLM在自主驾驶汽车中的应用",
+    "tweet": "Can LLMs make self-driving cars a reality? #LLM #AutonomousVehicles",
+    "xiaohongshu": "LLM在自主驾驶汽车中的应用，是否可以信任它们？",
+    "index": 8,
+    "link": "https://thegradient.pub/car-gpt/"
+  },
+  {
+    "title": "Do text embeddings perfectly encode text?",
+    "summary": "文本嵌入是否完美",
+    "score": 4,
+    "category": "模型",
+    "long": "文本嵌入是否完美，Vec2text可以帮助解决这个问题。",
+    "short": "文本嵌入是否完美",
+    "tweet": "Do text embeddings perfectly encode text? #TextEmbeddings #Vec2text",
+    "xiaohongshu": "文本嵌入是否完美，Vec2text可以帮助解决这个问题！",
+    "index": 9,
+    "link": "https://thegradient.pub/text-embedding-inversion/"
+  },
+  {
+    "title": "Financial Market Applications of LLMs",
+    "summary": "LLM在金融市场的应用",
+    "score": 3,
+    "category": "商业",
+    "long": "LLM在金融市场的应用，如何利用它们来获得收益。",
+    "short": "LLM在金融市场的应用",
+    "tweet": "LLM in financial markets, how to make money with them? #LLM #Finance",
+    "xiaohongshu": "LLM在金融市场的应用，如何利用它们来获得收益！",
+    "index": 5,
+    "link": "https://thegradient.pub/financial-market-applications-of-llms/"
+  },
+  {
+    "title": "A Brief Overview of Gender Bias in AI",
+    "summary": "AI中的性别偏见概述",
+    "score": 2,
+    "category": "研究",
+    "long": "AI中的性别偏见概述，如何解决这个问题。",
+    "short": "AI中的性别偏见概述",
+    "tweet": "A brief overview of gender bias in AI, how to solve it? #AI #GenderBias",
+    "xiaohongshu": "AI中的性别偏见概述，如何解决这个问题！",
+    "index": 6,
+    "link": "https://thegradient.pub/gender-bias-in-ai/"
+  },
+  {
+    "title": "Introduction to Computer Music (2009) [pdf]",
+    "summary": "计算机音乐入门",
+    "score": 1,
+    "category": "其他",
+    "long": "计算机音乐入门，了解计算机音乐的基本概念。",
+    "short": "计算机音乐入门",
+    "tweet": "Introduction to computer music, learn the basics! #ComputerMusic",
+    "xiaohongshu": "计算机音乐入门，了解计算机音乐的基本概念！",
+    "index": 10,
+    "link": "https://composerprogrammer.com/introductiontocomputermusic.pdf"
+  }
+]
