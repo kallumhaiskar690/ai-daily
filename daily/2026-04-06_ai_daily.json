@@ -1,0 +1,110 @@
+[
+  {
+    "title": "AGI Is Not Multimodal",
+    "summary": "AI researcher Terry Winograd argues that AGI is not just about multimodal models, but about understanding human intelligence and embodied cognition.",
+    "score": 9,
+    "category": "研究",
+    "long": "Winograd emphasizes the importance of understanding human intelligence and embodied cognition in the development of AGI. He argues that current multimodal models are not sufficient to achieve true AGI.",
+    "short": "AGI requires understanding human intelligence and embodied cognition.",
+    "tweet": "AGI is not just about multimodal models, but about understanding human intelligence and embodied cognition. #AGI #AI",
+    "xiaohongshu": "AGI不是简单的多模态模型，需要理解人类智能和身体认知。",
+    "index": 1,
+    "link": "https://thegradient.pub/agi-is-not-multimodal/"
+  },
+  {
+    "title": "Shape, Symmetries, and Structure: The Changing Role of Mathematics in Machine Learning Research",
+    "summary": "研究人员讨论了机器学习领域数学的作用变化，强调了计算机密集型和工程化的方法在当前研究中的重要性。",
+    "score": 8,
+    "category": "研究",
+    "long": "研究人员讨论了机器学习领域数学的作用变化，强调了计算机密集型和工程化的方法在当前研究中的重要性。他们认为这些方法能够带来更大的进步和创新。",
+    "short": "机器学习领域数学的作用变化，强调计算机密集型和工程化的方法。",
+    "tweet": "机器学习领域数学的作用变化，强调计算机密集型和工程化的方法。 #机器学习 #数学",
+    "xiaohongshu": "机器学习领域数学的作用变化，强调计算机密集型和工程化的方法。",
+    "index": 2,
+    "link": "https://thegradient.pub/shape-symmetry-structure/"
+  },
+  {
+    "title": "What's Missing From LLM Chatbots: A Sense of Purpose",
+    "summary": "研究人员讨论了LLM聊天机器人的缺失的目标感和目的感，强调了用户体验和人机交互的重要性。",
+    "score": 8,
+    "category": "研究",
+    "long": "研究人员讨论了LLM聊天机器人的缺失的目标感和目的感，强调了用户体验和人机交互的重要性。他们认为这些机器人需要更强的目的感和目标感才能真正帮助用户。",
+    "short": "LLM聊天机器人缺失的目标感和目的感，需要更强的目的感和目标感。",
+    "tweet": "LLM聊天机器人缺失的目标感和目的感，需要更强的目的感和目标感。 #LLM #聊天机器人",
+    "xiaohongshu": "LLM聊天机器人缺失的目标感和目的感，需要更强的目的感和目标感。",
+    "index": 3,
+    "link": "https://thegradient.pub/dialog/"
+  },
+  {
+    "title": "We Need Positive Visions for AI Grounded in Wellbeing",
+    "summary": "研究人员讨论了人工智能的负面影响和负面视角，强调了健康和福祉的重要性。",
+    "score": 8,
+    "category": "研究",
+    "long": "研究人员讨论了人工智能的负面影响和负面视角，强调了健康和福祉的重要性。他们认为我们需要更积极的视角和更健康的发展方式。",
+    "short": "人工智能的负面影响和负面视角，需要更积极的视角和更健康的发展方式。",
+    "tweet": "人工智能的负面影响和负面视角，需要更积极的视角和更健康的发展方式。 #人工智能 #健康",
+    "xiaohongshu": "人工智能的负面影响和负面视角，需要更积极的视角和更健康的发展方式。",
+    "index": 4,
+    "link": "https://thegradient.pub/we-need-positive-visions-for-ai-grounded-in-wellbeing/"
+  },
+  {
+    "title": "Financial Market Applications of LLMs",
+    "summary": "研究人员讨论了LLM在金融市场中的应用和潜力，强调了其在风险管理和投资决策中的重要性。",
+    "score": 7,
+    "category": "商业",
+    "long": "研究人员讨论了LLM在金融市场中的应用和潜力，强调了其在风险管理和投资决策中的重要性。他们认为LLM能够带来更准确的预测和更好的投资决策。",
+    "short": "LLM在金融市场中的应用和潜力，强调风险管理和投资决策的重要性。",
+    "tweet": "LLM在金融市场中的应用和潜力，强调风险管理和投资决策的重要性。 #LLM #金融市场",
+    "xiaohongshu": "LLM在金融市场中的应用和潜力，强调风险管理和投资决策的重要性。",
+    "index": 5,
+    "link": "https://thegradient.pub/financial-market-applications-of-llms/"
+  },
+  {
+    "title": "A Brief Overview of Gender Bias in AI",
+    "summary": "研究人员讨论了人工智能中的性别偏见和性别差异，强调了其在人工智能发展中的重要性。",
+    "score": 7,
+    "category": "研究",
+    "long": "研究人员讨论了人工智能中的性别偏见和性别差异，强调了其在人工智能发展中的重要性。他们认为我们需要更公平和更公正的发展方式。",
+    "short": "人工智能中的性别偏见和性别差异，需要更公平和更公正的发展方式。",
+    "tweet": "人工智能中的性别偏见和性别差异，需要更公平和更公正的发展方式。 #人工智能 #性别",
+    "xiaohongshu": "人工智能中的性别偏见和性别差异，需要更公平和更公正的发展方式。",
+    "index": 6,
+    "link": "https://thegradient.pub/gender-bias-in-ai/"
+  },
+  {
+    "title": "Mamba Explained",
+    "summary": "研究人员讨论了Mamba模型的优势和特点，强调了其在自然语言处理中的应用和潜力。",
+    "score": 7,
+    "category": "模型",
+    "long": "研究人员讨论了Mamba模型的优势和特点，强调了其在自然语言处理中的应用和潜力。他们认为Mamba能够带来更好的性能和更好的结果。",
+    "short": "Mamba模型的优势和特点，强调自然语言处理中的应用和潜力。",
+    "tweet": "Mamba模型的优势和特点，强调自然语言处理中的应用和潜力。 #Mamba #自然语言处理",
+    "xiaohongshu": "Mamba模型的优势和特点，强调自然语言处理中的应用和潜力。",
+    "index": 7,
+    "link": "https://thegradient.pub/mamba-explained/"
+  },
+  {
+    "title": "Car-GPT: Could LLMs finally make self-driving cars happen?",
+    "summary": "研究人员讨论了LLM在自主驾驶汽车中的应用和潜力，强调了其在安全性和可靠性中的重要性。",
+    "score": 7,
+    "category": "商业",
+    "long": "研究人员讨论了LLM在自主驾驶汽车中的应用和潜力，强调了其在安全性和可靠性中的重要性。他们认为LLM能够带来更好的性能和更好的结果。",
+    "short": "LLM在自主驾驶汽车中的应用和潜力，强调安全性和可靠性的重要性。",
+    "tweet": "LLM在自主驾驶汽车中的应用和潜力，强调安全性和可靠性的重要性。 #LLM #自主驾驶汽车",
+    "xiaohongshu": "LLM在自主驾驶汽车中的应用和潜力，强调安全性和可靠性的重要性。",
+    "index": 8,
+    "link": "https://thegradient.pub/car-gpt/"
+  },
+  {
+    "title": "Do text embeddings perfectly encode text?",
+    "summary": "研究人员讨论了文本嵌入的准确性和有效性，强调了其在自然语言处理中的应用和潜力。",
+    "score": 6,
+    "category": "研究",
+    "long": "研究人员讨论了文本嵌入的准确性和有效性，强调了其在自然语言处理中的应用和潜力。他们认为文本嵌入能够带来更好的性能和更好的结果。",
+    "short": "文本嵌入的准确性和有效性，强调自然语言处理中的应用和潜力。",
+    "tweet": "文本嵌入的准确性和有效性，强调自然语言处理中的应用和潜力。 #文本嵌入 #自然语言处理",
+    "xiaohongshu": "文本嵌入的准确性和有效性，强调自然语言处理中的应用和潜力。",
+    "index": 9,
+    "link": "https://thegradient.pub/text-embedding-inversion/"
+  }
+]
