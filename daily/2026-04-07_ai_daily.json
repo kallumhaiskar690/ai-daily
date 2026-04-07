@@ -1,0 +1,110 @@
+[
+  {
+    "title": "VERT: Reliable LLM Judges for Radiology Report Evaluation",
+    "summary": "一种可靠的LLM评估器，用于评估放射学报告",
+    "score": 9,
+    "category": "模型",
+    "long": "VERT是一种基于LLM的评估器，用于评估放射学报告。它通过比较专家和LLM评估的相关性来评估其可靠性。",
+    "short": "可靠的LLM评估器",
+    "tweet": "新研究: VERT,一个可靠的LLM评估器,用于评估放射学报告!",
+    "xiaohongshu": "你知道吗？有一个可靠的LLM评估器，可以评估放射学报告！",
+    "index": 16,
+    "link": "https://arxiv.org/abs/2604.03376"
+  },
+  {
+    "title": "TABQAWORLD: Optimizing Multimodal Reasoning for Multi-Turn Table Question Answering",
+    "summary": "一种多模态推理框架，用于多轮表格问题回答",
+    "score": 8,
+    "category": "模型",
+    "long": "TABQAWORLD是一种多模态推理框架，用于多轮表格问题回答。它通过动态切换视觉和文本表示来最大化表格状态读取可靠性。",
+    "short": "多模态推理框架",
+    "tweet": "新研究: TABQAWORLD,一个多模态推理框架,用于多轮表格问题回答!",
+    "xiaohongshu": "你知道吗？有一个多模态推理框架，可以用于多轮表格问题回答！",
+    "index": 18,
+    "link": "https://arxiv.org/abs/2604.03393"
+  },
+  {
+    "title": "Contextual Control without Memory Growth in a Context-Switching Task",
+    "summary": "一种无需内存增长的上下文控制方法",
+    "score": 8,
+    "category": "模型",
+    "long": "该方法通过干预共享循环潜在状态来实现上下文控制，而无需增加循环维度。",
+    "short": "无需内存增长的上下文控制",
+    "tweet": "新研究: 无需内存增长的上下文控制方法!",
+    "xiaohongshu": "你知道吗？有一个无需内存增长的上下文控制方法！",
+    "index": 19,
+    "link": "https://arxiv.org/abs/2604.03479"
+  },
+  {
+    "title": "Evaluating Artificial Intelligence Through a Christian Understanding of Human Flourishing",
+    "summary": "一种基督教理解的人类繁荣的AI评估框架",
+    "score": 8,
+    "category": "研究",
+    "long": "该框架评估前沿模型的性能，根据基督教理解的人类繁荣的七个维度。",
+    "short": "基督教理解的人类繁荣的AI评估框架",
+    "tweet": "新研究: 基督教理解的人类繁荣的AI评估框架!",
+    "xiaohongshu": "你知道吗？有一个基督教理解的人类繁荣的AI评估框架！",
+    "index": 15,
+    "link": "https://arxiv.org/abs/2604.03356"
+  },
+  {
+    "title": "VERT: Reliable LLM Judges for Radiology Report Evaluation",
+    "summary": "一种可靠的LLM评估器，用于评估放射学报告",
+    "score": 7,
+    "category": "模型",
+    "long": "VERT是一种基于LLM的评估器，用于评估放射学报告。它通过比较专家和LLM评估的相关性来评估其可靠性。",
+    "short": "可靠的LLM评估器",
+    "tweet": "新研究: VERT,一个可靠的LLM评估器,用于评估放射学报告!",
+    "xiaohongshu": "你知道吗？有一个可靠的LLM评估器，可以评估放射学报告！",
+    "index": 16,
+    "link": "https://arxiv.org/abs/2604.03376"
+  },
+  {
+    "title": "A cryptography engineer's perspective on quantum computing timelines",
+    "summary": "加密工程师对量子计算时线的看法",
+    "score": 6,
+    "category": "其他",
+    "long": "该文章提供了加密工程师对量子计算时线的看法。",
+    "short": "加密工程师对量子计算时线的看法",
+    "tweet": "新文章: 加密工程师对量子计算时线的看法!",
+    "xiaohongshu": "你知道吗？有一个加密工程师对量子计算时线的看法！",
+    "index": 24,
+    "link": "https://words.filippo.io/crqc-timeline/"
+  },
+  {
+    "title": "Structural Segmentation of the Minimum Set Cover Problem: Exploiting Universe Decomposability for Metaheuristic Optimization",
+    "summary": "一种最小集合覆盖问题的结构分割方法",
+    "score": 6,
+    "category": "研究",
+    "long": "该方法通过分解宇宙来提高最小集合覆盖问题的效率。",
+    "short": "最小集合覆盖问题的结构分割方法",
+    "tweet": "新研究: 最小集合覆盖问题的结构分割方法!",
+    "xiaohongshu": "你知道吗？有一个最小集合覆盖问题的结构分割方法！",
+    "index": 11,
+    "link": "https://arxiv.org/abs/2604.03234"
+  },
+  {
+    "title": "To Throw a Stone with Six Birds: On Agents and Agenthood",
+    "summary": "一种关于代理和代理身份的理论框架",
+    "score": 6,
+    "category": "研究",
+    "long": "该框架提供了一种关于代理和代理身份的理论框架。",
+    "short": "代理和代理身份的理论框架",
+    "tweet": "新研究: 代理和代理身份的理论框架!",
+    "xiaohongshu": "你知道吗？有一个代理和代理身份的理论框架！",
+    "index": 12,
+    "link": "https://arxiv.org/abs/2604.03239"
+  },
+  {
+    "title": "Position: Science of AI Evaluation Requires Item-level Benchmark Data",
+    "summary": "一种关于AI评估的科学方法",
+    "score": 5,
+    "category": "研究",
+    "long": "该方法通过使用项目级基准数据来评估AI系统的性能。",
+    "short": "AI评估的科学方法",
+    "tweet": "新研究: AI评估的科学方法!",
+    "xiaohongshu": "你知道吗？有一个AI评估的科学方法！",
+    "index": 13,
+    "link": "https://arxiv.org/abs/2604.03244"
+  }
+]
