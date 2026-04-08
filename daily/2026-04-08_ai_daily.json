@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Pramana: Fine-Tuning Large Language Models for Epistemic Reasoning",
+    "summary": "Pramana 是一种新方法，通过在 Navya-Nyaya 逻辑中 fine-tuning 大型语言模型，来提高它们的系统性推理能力",
+    "score": 9,
+    "category": "研究",
+    "long": "Pramana 是一种新方法，通过在 Navya-Nyaya 逻辑中 fine-tuning 大型语言模型，来提高它们的系统性推理能力。这种方法可以帮助语言模型更好地理解和处理复杂的逻辑推理任务",
+    "short": "Pramana 是一种新方法，提高大型语言模型的系统性推理能力",
+    "tweet": "Pramana：一种新方法，提高大型语言模型的系统性推理能力！",
+    "xiaohongshu": "Pramana 是一种新方法，帮助大型语言模型更好地理解和处理复杂的逻辑推理任务！",
+    "index": 9,
+    "link": "https://thegradient.pub/text-embedding-inversion/"
+  },
+  {
+    "title": "Uncertainty-Guided Latent Diagnostic Trajectory Learning",
+    "summary": "一种新方法，通过引导诊断路径的不确定性来提高诊断准确率",
+    "score": 8,
+    "category": "研究",
+    "long": "这种方法可以帮助诊断系统更好地理解和处理复杂的诊断任务",
+    "short": "一种新方法，提高诊断准确率",
+    "tweet": "一种新方法，提高诊断准确率！",
+    "xiaohongshu": "一种新方法，帮助诊断系统更好地理解和处理复杂的诊断任务！",
+    "index": 19,
+    "link": "https://arxiv.org/abs/2604.05116"
+  },
+  {
+    "title": "MedGemma 1.5",
+    "summary": "一种新型的医疗模型，能够理解和处理多种医疗数据",
+    "score": 8,
+    "category": "研究",
+    "long": "这种模型可以帮助医疗系统更好地理解和处理复杂的医疗数据",
+    "short": "一种新型的医疗模型",
+    "tweet": "一种新型的医疗模型，能够理解和处理多种医疗数据！",
+    "xiaohongshu": "一种新型的医疗模型，帮助医疗系统更好地理解和处理复杂的医疗数据！",
+    "index": 18,
+    "link": "https://arxiv.org/abs/2604.05081"
+  },
+  {
+    "title": "ReVEL: Multi-Turn Reflective LLM-Guided Heuristic Evolution",
+    "summary": "一种新方法，通过反思和演化来提高解决 NP-hard 问题的效率",
+    "score": 7,
+    "category": "研究",
+    "long": "这种方法可以帮助解决 NP-hard 问题的效率",
+    "short": "一种新方法，提高解决 NP-hard 问题的效率",
+    "tweet": "一种新方法，提高解决 NP-hard 问题的效率！",
+    "xiaohongshu": "一种新方法，帮助解决 NP-hard 问题的效率！",
+    "index": 13,
+    "link": "https://arxiv.org/abs/2604.04940"
+  },
+  {
+    "title": "Algebraic Structure Discovery",
+    "summary": "一种新方法，通过发现代数结构来提高组合优化问题的效率",
+    "score": 7,
+    "category": "研究",
+    "long": "这种方法可以帮助组合优化问题的效率",
+    "short": "一种新方法，提高组合优化问题的效率",
+    "tweet": "一种新方法，提高组合优化问题的效率！",
+    "xiaohongshu": "一种新方法，帮助组合优化问题的效率！",
+    "index": 14,
+    "link": "https://arxiv.org/abs/2604.04941"
+  },
+  {
+    "title": "PaperOrchestra",
+    "summary": "一种新型的研究论文生成系统",
+    "score": 6,
+    "category": "工具",
+    "long": "这种系统可以帮助研究人员生成高质量的研究论文",
+    "short": "一种新型的研究论文生成系统",
+    "tweet": "一种新型的研究论文生成系统！",
+    "xiaohongshu": "一种新型的研究论文生成系统，帮助研究人员生成高质量的研究论文！",
+    "index": 15,
+    "link": "https://arxiv.org/abs/2604.05018"
+  },
+  {
+    "title": "MMORF",
+    "summary": "一种新型的多目标退化规划系统",
+    "score": 6,
+    "category": "工具",
+    "long": "这种系统可以帮助化学领域的规划任务",
+    "short": "一种新型的多目标退化规划系统",
+    "tweet": "一种新型的多目标退化规划系统！",
+    "xiaohongshu": "一种新型的多目标退化规划系统，帮助化学领域的规划任务！",
+    "index": 17,
+    "link": "https://arxiv.org/abs/2604.05075"
+  },
+  {
+    "title": "Part-Level 3D Gaussian Vehicle Generation",
+    "summary": "一种新型的车辆生成系统",
+    "score": 5,
+    "category": "工具",
+    "long": "这种系统可以帮助生成高质量的车辆模型",
+    "short": "一种新型的车辆生成系统",
+    "tweet": "一种新型的车辆生成系统！",
+    "xiaohongshu": "一种新型的车辆生成系统，帮助生成高质量的车辆模型！",
+    "index": 16,
+    "link": "https://arxiv.org/abs/2604.05070"
+  },
+  {
+    "title": "GLM-5.1",
+    "summary": "一种新型的长期任务语言模型",
+    "score": 5,
+    "category": "工具",
+    "long": "这种模型可以帮助处理长期任务",
+    "short": "一种新型的长期任务语言模型",
+    "tweet": "一种新型的长期任务语言模型！",
+    "xiaohongshu": "一种新型的长期任务语言模型，帮助处理长期任务！",
+    "index": 26,
+    "link": "https://z.ai/blog/glm-5.1"
+  },
+  {
+    "title": "Binary Obfuscation",
+    "summary": "一种新型的二进制混淆技术",
+    "score": 4,
+    "category": "工具",
+    "long": "这种技术可以帮助保护软件",
+    "short": "一种新型的二进制混淆技术",
+    "tweet": "一种新型的二进制混淆技术！",
+    "xiaohongshu": "一种新型的二进制混淆技术，帮助保护软件！",
+    "index": 27,
+    "link": "https://blog.farzon.org/2026/04/binary-obfuscation-that-doesnt-kill-lto.html"
+  }
+]
