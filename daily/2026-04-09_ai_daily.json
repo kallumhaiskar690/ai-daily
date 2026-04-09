@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Qualixar OS: A Universal Operating System for AI Agent Orchestration",
+    "summary": "Qualixar OS是一种通用的AI代理协调操作系统",
+    "score": 9,
+    "category": "模型",
+    "long": "Qualixar OS是一种通用的AI代理协调操作系统，支持多种LLM提供商、多种代理框架和多种传输协议。它提供了12种多代理拓扑的执行语义、Forge的LLM驱动的团队设计引擎、模型路由、内容归属等功能",
+    "short": "通用的AI代理协调操作系统",
+    "tweet": "Qualixar OS: Revolutionizing AI Agent Orchestration",
+    "xiaohongshu": "你知道吗？Qualixar OS可以协调多种AI代理！",
+    "index": 16,
+    "link": "https://arxiv.org/abs/2604.06392"
+  },
+  {
+    "title": "SELFDOUBT: Uncertainty Quantification for Reasoning LLMs via the Hedge-to-Verify Ratio",
+    "summary": "SELFDOUBT是一种用于推理LLM的不确定性量化框架",
+    "score": 8,
+    "category": "模型",
+    "long": "SELFDOUBT通过Hedge-to-Verify Ratio检测推理轨迹中的不确定性标志并评估它们是否被自我检查行为抵消",
+    "short": "不确定性量化框架",
+    "tweet": "SELFDOUBT: Quantifying Uncertainty in Reasoning LLMs",
+    "xiaohongshu": "你知道吗？SELFDOUBT可以量化推理LLM的不确定性！",
+    "index": 15,
+    "link": "https://arxiv.org/abs/2604.06389"
+  },
+  {
+    "title": "SymptomWise: A Deterministic Reasoning Layer for Reliable and Efficient AI Systems",
+    "summary": "SymptomWise是一种可靠和高效的AI系统的确定性推理层",
+    "score": 8,
+    "category": "模型",
+    "long": "SymptomWise通过确定性推理模块和受控的LLM使用来提高可靠性和效率",
+    "short": "可靠和高效的AI系统",
+    "tweet": "SymptomWise: Reliable and Efficient AI Systems",
+    "xiaohongshu": "你知道吗？SymptomWise可以提高AI系统的可靠性和效率！",
+    "index": 14,
+    "link": "https://arxiv.org/abs/2604.06375"
+  },
+  {
+    "title": "ProofSketcher: Hybrid LLM + Lightweight Proof Checker for Reliable Math/Logic Reasoning",
+    "summary": "ProofSketcher是一种混合LLM和轻量级证明检查器",
+    "score": 7,
+    "category": "模型",
+    "long": "ProofSketcher通过LLM生成类型化的证明草图并使用轻量级证明检查器扩展草图",
+    "short": "混合LLM和轻量级证明检查器",
+    "tweet": "ProofSketcher: Hybrid LLM + Lightweight Proof Checker",
+    "xiaohongshu": "你知道吗？ProofSketcher可以提高数学和逻辑推理的可靠性！",
+    "index": 17,
+    "link": "https://arxiv.org/abs/2604.06401"
+  },
+  {
+    "title": "Mamba Explained",
+    "summary": "Mamba是一种新的AI模型",
+    "score": 7,
+    "category": "模型",
+    "long": "Mamba通过State Space Models (SSMs)来解决Transformer模型的不足",
+    "short": "新的AI模型",
+    "tweet": "Mamba: A New AI Model",
+    "xiaohongshu": "你知道吗？Mamba是一种新的AI模型！",
+    "index": 7,
+    "link": "https://thegradient.pub/mamba-explained/"
+  },
+  {
+    "title": "What's Missing From LLM Chatbots: A Sense of Purpose",
+    "summary": "LLM聊天机器人缺乏目的感",
+    "score": 6,
+    "category": "商业",
+    "long": "LLM聊天机器人缺乏目的感和用户体验",
+    "short": "LLM聊天机器人缺乏目的感",
+    "tweet": "LLM Chatbots: A Sense of Purpose is Missing",
+    "xiaohongshu": "你知道吗？LLM聊天机器人缺乏目的感！",
+    "index": 3,
+    "link": "https://thegradient.pub/dialog/"
+  },
+  {
+    "title": "Financial Market Applications of LLMs",
+    "summary": "LLM在金融市场的应用",
+    "score": 6,
+    "category": "商业",
+    "long": "LLM在金融市场的应用包括交易、风险管理和分析",
+    "short": "LLM在金融市场的应用",
+    "tweet": "LLM in Financial Markets: Applications and Opportunities",
+    "xiaohongshu": "你知道吗？LLM在金融市场有很多应用！",
+    "index": 5,
+    "link": "https://thegradient.pub/financial-market-applications-of-llms/"
+  },
+  {
+    "title": "A Brief Overview of Gender Bias in AI",
+    "summary": "AI中的性别偏见概述",
+    "score": 5,
+    "category": "研究",
+    "long": "AI中的性别偏见包括数据偏见、算法偏见和应用偏见",
+    "short": "AI中的性别偏见概述",
+    "tweet": "AI and Gender Bias: A Brief Overview",
+    "xiaohongshu": "你知道吗？AI中有性别偏见！",
+    "index": 6,
+    "link": "https://thegradient.pub/gender-bias-in-ai/"
+  },
+  {
+    "title": "Car-GPT: Could LLMs finally make self-driving cars happen?",
+    "summary": "LLM是否可以实现自动驾驶",
+    "score": 5,
+    "category": "商业",
+    "long": "LLM在自动驾驶中的应用包括路线规划、交通规则识别和驾驶控制",
+    "short": "LLM是否可以实现自动驾驶",
+    "tweet": "LLM and Self-Driving Cars: Can LLMs Make it Happen?",
+    "xiaohongshu": "你知道吗？LLM是否可以实现自动驾驶？",
+    "index": 8,
+    "link": "https://thegradient.pub/car-gpt/"
+  },
+  {
+    "title": "Blind Refusal: Language Models Refuse to Help Users Evade Unjust, Absurd, and Illegitimate Rules",
+    "summary": "LLM拒绝帮助用户违反不合理的规则",
+    "score": 5,
+    "category": "研究",
+    "long": "LLM拒绝帮助用户违反不合理的规则，包括违反法律、违反道德和违反社会规范",
+    "short": "LLM拒绝帮助用户违反不合理的规则",
+    "tweet": "LLM and Blind Refusal: A Study on Language Models",
+    "xiaohongshu": "你知道吗？LLM拒绝帮助用户违反不合理的规则！",
+    "index": 11,
+    "link": "https://arxiv.org/abs/2604.06233"
+  }
+]
