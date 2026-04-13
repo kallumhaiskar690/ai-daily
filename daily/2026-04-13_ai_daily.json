@@ -1,0 +1,110 @@
+[
+  {
+    "title": "OpenKedge: Governing Agentic Mutation with Execution-Bound Safety and Evidence Chains",
+    "summary": "OpenKedge是一种新的协议，旨在解决自治AI代理的安全问题",
+    "score": 9,
+    "category": "模型",
+    "long": "OpenKedge通过引入意图到执行证据链（IEEC），使得系统行为可追溯和可验证",
+    "short": "OpenKedge是一种新的安全协议",
+    "tweet": "OpenKedge：解决自治AI代理安全问题的新协议！",
+    "xiaohongshu": "你知道吗？OpenKedge可以让你的AI代理更安全！",
+    "index": 10,
+    "link": "https://arxiv.org/abs/2604.08601"
+  },
+  {
+    "title": "SPPO: Sequence-Level PPO for Long-Horizon Reasoning Tasks",
+    "summary": "SPPO是一种新的RL算法，旨在解决长时间链条思考的稳定性问题",
+    "score": 8,
+    "category": "模型",
+    "long": "SPPO通过引入序列级别PPO，解决了标准PPO在长时间链条思考中的不稳定性问题",
+    "short": "SPPO：解决长时间链条思考的新算法！",
+    "tweet": "SPPO：解决长时间链条思考的新算法！",
+    "xiaohongshu": "你知道吗？SPPO可以让你的AI代理更稳定！",
+    "index": 18,
+    "link": "https://arxiv.org/abs/2604.08865"
+  },
+  {
+    "title": "StaRPO: Stability-Augmented Reinforcement Policy Optimization",
+    "summary": "StaRPO是一种新的RL框架，旨在解决逻辑不一致的问题",
+    "score": 8,
+    "category": "模型",
+    "long": "StaRPO通过引入稳定度奖励，解决了逻辑不一致的问题",
+    "short": "StaRPO：解决逻辑不一致的问题！",
+    "tweet": "StaRPO：解决逻辑不一致的问题！",
+    "xiaohongshu": "你知道吗？StaRPO可以让你的AI代理更逻辑！",
+    "index": 19,
+    "link": "https://arxiv.org/abs/2604.08905"
+  },
+  {
+    "title": "RAMP: Hybrid DRL for Online Learning of Numeric Action Models",
+    "summary": "RAMP是一种新的DRL算法，旨在解决在线学习的数值动作模型问题",
+    "score": 7,
+    "category": "模型",
+    "long": "RAMP通过引入混合DRL，解决了在线学习的数值动作模型问题",
+    "short": "RAMP：解决在线学习的数值动作模型！",
+    "tweet": "RAMP：解决在线学习的数值动作模型！",
+    "xiaohongshu": "你知道吗？RAMP可以让你的AI代理更好！",
+    "index": 13,
+    "link": "https://arxiv.org/abs/2604.08685"
+  },
+  {
+    "title": "From Business Events to Auditable Decisions: Ontology-Governed Graph Simulation for Enterprise AI",
+    "summary": "LOM-action是一种新的框架，旨在解决企业AI的决策问题",
+    "score": 7,
+    "category": "模型",
+    "long": "LOM-action通过引入事件驱动的图形模拟，解决了企业AI的决策问题",
+    "short": "LOM-action：解决企业AI的决策！",
+    "tweet": "LOM-action：解决企业AI的决策！",
+    "xiaohongshu": "你知道吗？LOM-action可以让你的企业AI更好！",
+    "index": 11,
+    "link": "https://arxiv.org/abs/2604.08603"
+  },
+  {
+    "title": "Sustained Impact of Agentic Personalisation in Marketing: A Longitudinal Case Study",
+    "summary": "这项研究探讨了基于代理的个性化在营销中的持久影响",
+    "score": 6,
+    "category": "研究",
+    "long": "这项研究通过对一个长期案例进行分析，探讨了基于代理的个性化在营销中的持久影响",
+    "short": "基于代理的个性化在营销中的持久影响！",
+    "tweet": "基于代理的个性化在营销中的持久影响！",
+    "xiaohongshu": "你知道吗？基于代理的个性化可以让你的营销更持久！",
+    "index": 12,
+    "link": "https://arxiv.org/abs/2604.08621"
+  },
+  {
+    "title": "A Brief Overview of Gender Bias in AI",
+    "summary": "这项研究概述了AI中的性别偏见",
+    "score": 5,
+    "category": "研究",
+    "long": "这项研究概述了AI中的性别偏见及其影响",
+    "short": "AI中的性别偏见！",
+    "tweet": "AI中的性别偏见！",
+    "xiaohongshu": "你知道吗？AI中的性别偏见很严重！",
+    "index": 6,
+    "link": "https://thegradient.pub/gender-bias-in-ai/"
+  },
+  {
+    "title": "Car-GPT: Could LLMs finally make self-driving cars happen?",
+    "summary": "这项研究探讨了LLMs在自主驾驶汽车中的应用",
+    "score": 5,
+    "category": "研究",
+    "long": "这项研究通过分析LLMs的能力，探讨了它们是否可以让自主驾驶汽车成为现实",
+    "short": "LLMs在自主驾驶汽车中的应用！",
+    "tweet": "LLMs在自主驾驶汽车中的应用！",
+    "xiaohongshu": "你知道吗？LLMs可以让自主驾驶汽车更好！",
+    "index": 8,
+    "link": "https://thegradient.pub/car-gpt/"
+  },
+  {
+    "title": "Mamba Explained",
+    "summary": "Mamba是一种新的AI模型，旨在解决Transformer模型的局限性",
+    "score": 4,
+    "category": "模型",
+    "long": "Mamba通过引入State Space Models，解决了Transformer模型的局限性",
+    "short": "Mamba：解决Transformer模型的新模型！",
+    "tweet": "Mamba：解决Transformer模型的新模型！",
+    "xiaohongshu": "你知道吗？Mamba可以让你的AI模型更好！",
+    "index": 7,
+    "link": "https://thegradient.pub/mamba-explained/"
+  }
+]
