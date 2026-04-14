@@ -1,0 +1,110 @@
+[
+  {
+    "title": "OOWM: Structuring Embodied Reasoning and Planning via Object-Oriented Programmatic World Modeling",
+    "summary": "一种新的框架结构化身体推理和规划",
+    "score": 9,
+    "category": "模型",
+    "long": "OOWM框架结构化身体推理和规划,通过软件工程形式重定义世界模型",
+    "short": "结构化身体推理和规划",
+    "tweet": "结构化身体推理和规划,让AI更智能!",
+    "xiaohongshu": "我想让我的AI更智能,所以我选择了OOWM!",
+    "index": 17,
+    "link": "https://arxiv.org/abs/2604.09580"
+  },
+  {
+    "title": "Vigil: A Deployed Proactive Agent System for On-Call Support with Continuous Self-Improvement",
+    "summary": "一种新的智能代理系统",
+    "score": 8,
+    "category": "工具",
+    "long": "Vigil系统提供智能代理支持,持续改进",
+    "short": "智能代理支持",
+    "tweet": "智能代理支持,让您更轻松!",
+    "xiaohongshu": "我想让我的工作更轻松,所以我选择了Vigil!",
+    "index": 16,
+    "link": "https://arxiv.org/abs/2604.09579"
+  },
+  {
+    "title": "LABBench2: An Improved Benchmark for AI Systems Performing Biology Research",
+    "summary": "一种新的生物学研究基准",
+    "score": 8,
+    "category": "模型",
+    "long": "LABBench2基准评估AI系统在生物学研究中的性能",
+    "short": "生物学研究基准",
+    "tweet": "生物学研究基准,让AI更准确!",
+    "xiaohongshu": "我想让我的AI更准确,所以我选择了LABBench2!",
+    "index": 10,
+    "link": "https://arxiv.org/abs/2604.09554"
+  },
+  {
+    "title": "Turing Test on Screen: A Benchmark for Mobile GUI Agent Humanization",
+    "summary": "一种新的GUI代理人化基准",
+    "score": 7,
+    "category": "模型",
+    "long": "Turing Test on Screen基准评估GUI代理人化",
+    "short": "GUI代理人化基准",
+    "tweet": "GUI代理人化基准,让AI更人性化!",
+    "xiaohongshu": "我想让我的AI更人性化,所以我选择了Turing Test on Screen!",
+    "index": 13,
+    "link": "https://arxiv.org/abs/2604.09574"
+  },
+  {
+    "title": "AHC: Meta-Learned Adaptive Compression for Continual Object Detection on Memory-Constrained Microcontrollers",
+    "summary": "一种新的压缩算法",
+    "score": 7,
+    "category": "模型",
+    "long": "AHC算法适应性压缩,持续改进",
+    "short": "压缩算法",
+    "tweet": "压缩算法,让AI更高效!",
+    "xiaohongshu": "我想让我的AI更高效,所以我选择了AHC!",
+    "index": 14,
+    "link": "https://arxiv.org/abs/2604.09576"
+  },
+  {
+    "title": "Explainable Planning for Hybrid Systems",
+    "summary": "一种新的规划算法",
+    "score": 6,
+    "category": "模型",
+    "long": "Explainable Planning算法规划混合系统",
+    "short": "规划算法",
+    "tweet": "规划算法,让AI更智能!",
+    "xiaohongshu": "我想让我的AI更智能,所以我选择了Explainable Planning!",
+    "index": 15,
+    "link": "https://arxiv.org/abs/2604.09578"
+  },
+  {
+    "title": "OpeFlo: Automated UX Evaluation via Simulated Human Web Interaction with GUI Grounding",
+    "summary": "一种新的用户体验评估系统",
+    "score": 6,
+    "category": "工具",
+    "long": "OpeFlo系统评估用户体验",
+    "short": "用户体验评估系统",
+    "tweet": "用户体验评估系统,让您更了解!",
+    "xiaohongshu": "我想让我的用户体验更好,所以我选择了OpeFlo!",
+    "index": 18,
+    "link": "https://arxiv.org/abs/2604.09581"
+  },
+  {
+    "title": "Factorizing formal contexts from closures of necessity operators",
+    "summary": "一种新的因子分解算法",
+    "score": 5,
+    "category": "模型",
+    "long": "Factorizing算法分解形式上下文",
+    "short": "因子分解算法",
+    "tweet": "因子分解算法,让AI更高效!",
+    "xiaohongshu": "我想让我的AI更高效,所以我选择了Factorizing!",
+    "index": 19,
+    "link": "https://arxiv.org/abs/2604.09582"
+  },
+  {
+    "title": "DaVinci Resolve releases Photo Editor",
+    "summary": "一种新的图像编辑器",
+    "score": 4,
+    "category": "工具",
+    "long": "DaVinci Resolve图像编辑器",
+    "short": "图像编辑器",
+    "tweet": "图像编辑器,让您更轻松!",
+    "xiaohongshu": "我想让我的图像编辑更轻松,所以我选择了DaVinci Resolve!",
+    "index": 20,
+    "link": "https://www.blackmagicdesign.com/products/davinciresolve/photo"
+  }
+]
