@@ -1,0 +1,110 @@
+[
+  {
+    "title": "Memory as Metabolism: A Design for Companion Knowledge Systems",
+    "summary": "提出了一个新的记忆系统设计，旨在解决长期记忆的挑战",
+    "score": 9,
+    "category": "模型",
+    "long": "该系统通过五个操作（TRIAGE、DECAY、CONTEXTUALIZE、CONSOLIDATE、AUDIT）来实现记忆的管理和更新",
+    "short": "一个新的记忆系统设计",
+    "tweet": "记忆系统的新设计！让我们一起探索如何管理和更新记忆！ #记忆系统 #新设计",
+    "xiaohongshu": "记忆系统的新设计！让我们一起探索如何管理和更新记忆！",
+    "index": 19,
+    "link": "https://arxiv.org/abs/2604.12034"
+  },
+  {
+    "title": "WiseOWL: A Methodology for Evaluating Ontological Descriptiveness and Semantic Correctness",
+    "summary": "提出了一个新的方法来评估和推荐知识图谱",
+    "score": 8,
+    "category": "工具",
+    "long": "该方法通过四个指标（Well-Described、Well-Defined、Connection、Hierarchical Breadth）来评估知识图谱的描述性和语义正确性",
+    "short": "一个新的知识图谱评估方法",
+    "tweet": "知识图谱的新评估方法！让我们一起探索如何评估和推荐知识图谱！ #知识图谱 #新方法",
+    "xiaohongshu": "知识图谱的新评估方法！让我们一起探索如何评估和推荐知识图谱！",
+    "index": 18,
+    "link": "https://arxiv.org/abs/2604.12025"
+  },
+  {
+    "title": "A Longitudinal Health Agent Framework",
+    "summary": "提出了一个新的健康代理框架",
+    "score": 8,
+    "category": "模型",
+    "long": "该框架通过多层次的结构来实现健康代理的管理和更新",
+    "short": "一个新的健康代理框架",
+    "tweet": "健康代理的新框架！让我们一起探索如何管理和更新健康代理！ #健康代理 #新框架",
+    "xiaohongshu": "健康代理的新框架！让我们一起探索如何管理和更新健康代理！",
+    "index": 17,
+    "link": "https://arxiv.org/abs/2604.12019"
+  },
+  {
+    "title": "Identity as Attractor: Geometric Evidence for Persistent Agent Architecture in LLM Activation Space",
+    "summary": "提出了一个新的身份识别方法",
+    "score": 7,
+    "category": "模型",
+    "long": "该方法通过几何学方法来实现身份识别",
+    "short": "一个新的身份识别方法",
+    "tweet": "身份识别的新方法！让我们一起探索如何实现身份识别！ #身份识别 #新方法",
+    "xiaohongshu": "身份识别的新方法！让我们一起探索如何实现身份识别！",
+    "index": 16,
+    "link": "https://arxiv.org/abs/2604.12016"
+  },
+  {
+    "title": "When to Forget: A Memory Governance Primitive",
+    "summary": "提出了一个新的记忆管理方法",
+    "score": 7,
+    "category": "模型",
+    "long": "该方法通过两个计数器来实现记忆的管理和更新",
+    "short": "一个新的记忆管理方法",
+    "tweet": "记忆管理的新方法！让我们一起探索如何管理和更新记忆！ #记忆管理 #新方法",
+    "xiaohongshu": "记忆管理的新方法！让我们一起探索如何管理和更新记忆！",
+    "index": 15,
+    "link": "https://arxiv.org/abs/2604.12007"
+  },
+  {
+    "title": "The Long-Horizon Task Mirage? Diagnosing Where and Why Agentic Systems Break",
+    "summary": "提出了一个新的任务诊断方法",
+    "score": 6,
+    "category": "模型",
+    "long": "该方法通过诊断和分析来实现任务的诊断",
+    "short": "一个新的任务诊断方法",
+    "tweet": "任务诊断的新方法！让我们一起探索如何诊断和分析任务！ #任务诊断 #新方法",
+    "xiaohongshu": "任务诊断的新方法！让我们一起探索如何诊断和分析任务！",
+    "index": 14,
+    "link": "https://arxiv.org/abs/2604.11978"
+  },
+  {
+    "title": "Narrative-Driven Paper-to-Slide Generation via ArcDeck",
+    "summary": "提出了一个新的论文转换方法",
+    "score": 6,
+    "category": "模型",
+    "long": "该方法通过多个代理来实现论文转换",
+    "short": "一个新的论文转换方法",
+    "tweet": "论文转换的新方法！让我们一起探索如何转换论文！ #论文转换 #新方法",
+    "xiaohongshu": "论文转换的新方法！让我们一起探索如何转换论文！",
+    "index": 13,
+    "link": "https://arxiv.org/abs/2604.11969"
+  },
+  {
+    "title": "GoodPoint: Learning Constructive Scientific Paper Feedback from Author Responses",
+    "summary": "提出了一个新的论文反馈方法",
+    "score": 6,
+    "category": "模型",
+    "long": "该方法通过学习和分析来实现论文反馈",
+    "short": "一个新的论文反馈方法",
+    "tweet": "论文反馈的新方法！让我们一起探索如何反馈论文！ #论文反馈 #新方法",
+    "xiaohongshu": "论文反馈的新方法！让我们一起探索如何反馈论文！",
+    "index": 12,
+    "link": "https://arxiv.org/abs/2604.11924"
+  },
+  {
+    "title": "Self-Monitoring Benefits from Structural Integration: Lessons from Metacognition in Continuous-Time Multi-Timescale Agents",
+    "summary": "提出了一个新的自我监控方法",
+    "score": 5,
+    "category": "模型",
+    "long": "该方法通过结构整合来实现自我监控",
+    "short": "一个新的自我监控方法",
+    "tweet": "自我监控的新方法！让我们一起探索如何实现自我监控！ #自我监控 #新方法",
+    "xiaohongshu": "自我监控的新方法！让我们一起探索如何实现自我监控！",
+    "index": 11,
+    "link": "https://arxiv.org/abs/2604.11914"
+  }
+]
