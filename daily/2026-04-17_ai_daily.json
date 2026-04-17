@@ -1,0 +1,110 @@
+[
+  {
+    "title": "Quantifying and Understanding Uncertainty in Large Reasoning Models",
+    "summary": "一种新的方法来量化和理解大型推理模型中的不确定性",
+    "score": 9,
+    "category": "研究",
+    "long": "该方法结合了概率论和推理模型，提供了对不确定性的统计保证和解释",
+    "short": "量化和理解大型推理模型中的不确定性",
+    "tweet": "新方法量化和理解大型推理模型中的不确定性！",
+    "xiaohongshu": "大型推理模型中的不确定性，原来可以量化和理解！",
+    "index": 17,
+    "link": "https://arxiv.org/abs/2604.13395"
+  },
+  {
+    "title": "Towards Scalable Lightweight GUI Agents via Multi-role Orchestration",
+    "summary": "一种新的方法来实现可扩展的轻量级GUI代理",
+    "score": 8,
+    "category": "模型",
+    "long": "该方法结合了多角色协调和知识蒸馏，实现了可扩展的轻量级GUI代理",
+    "short": "可扩展的轻量级GUI代理",
+    "tweet": "新方法实现可扩展的轻量级GUI代理！",
+    "xiaohongshu": "轻量级GUI代理，原来可以可扩展！",
+    "index": 18,
+    "link": "https://arxiv.org/abs/2604.13488"
+  },
+  {
+    "title": "RiskWebWorld: A Realistic Interactive Benchmark for GUI Agents in E-commerce Risk Management",
+    "summary": "一种新的交互式基准测试来评估GUI代理在电子商务风险管理中的性能",
+    "score": 8,
+    "category": "工具",
+    "long": "该基准测试提供了真实的电子商务风险管理场景和任务，评估GUI代理的性能",
+    "short": "GUI代理在电子商务风险管理中的性能评估",
+    "tweet": "新基准测试评估GUI代理在电子商务风险管理中的性能！",
+    "xiaohongshu": "GUI代理在电子商务风险管理中的性能评估，真实又有挑战！",
+    "index": 19,
+    "link": "https://arxiv.org/abs/2604.13531"
+  },
+  {
+    "title": "ReSS: Learning Reasoning Models for Tabular Data Prediction via Symbolic Scaffold",
+    "summary": "一种新的方法来学习推理模型用于表格数据预测",
+    "score": 7,
+    "category": "模型",
+    "long": "该方法结合了符号框架和神经网络，学习了推理模型用于表格数据预测",
+    "short": "学习推理模型用于表格数据预测",
+    "tweet": "新方法学习推理模型用于表格数据预测！",
+    "xiaohongshu": "推理模型用于表格数据预测，原来可以学习！",
+    "index": 16,
+    "link": "https://arxiv.org/abs/2604.13392"
+  },
+  {
+    "title": "Listening Alone, Understanding Together: Collaborative Context Recovery for Privacy-Aware AI",
+    "summary": "一种新的方法来实现协同工作的上下文恢复",
+    "score": 7,
+    "category": "模型",
+    "long": "该方法结合了协同工作和上下文恢复，实现了隐私意识的AI",
+    "short": "协同工作的上下文恢复",
+    "tweet": "新方法实现协同工作的上下文恢复！",
+    "xiaohongshu": "上下文恢复，原来可以协同工作！",
+    "index": 15,
+    "link": "https://arxiv.org/abs/2604.13348"
+  },
+  {
+    "title": "WebXSkill: Skill Learning for Autonomous Web Agents",
+    "summary": "一种新的方法来学习技能用于自动化的网络代理",
+    "score": 7,
+    "category": "模型",
+    "long": "该方法结合了技能学习和自动化代理，实现了网络代理的技能",
+    "short": "学习技能用于自动化的网络代理",
+    "tweet": "新方法学习技能用于自动化的网络代理！",
+    "xiaohongshu": "技能用于自动化的网络代理，原来可以学习！",
+    "index": 14,
+    "link": "https://arxiv.org/abs/2604.13318"
+  },
+  {
+    "title": "Optimizing Earth Observation Satellite Schedules under Unknown Operational Constraints",
+    "summary": "一种新的方法来优化地球观测卫星的调度",
+    "score": 6,
+    "category": "模型",
+    "long": "该方法结合了约束优化和地球观测卫星调度，实现了优化的调度",
+    "short": "优化地球观测卫星的调度",
+    "tweet": "新方法优化地球观测卫星的调度！",
+    "xiaohongshu": "地球观测卫星的调度，原来可以优化！",
+    "index": 13,
+    "link": "https://arxiv.org/abs/2604.13283"
+  },
+  {
+    "title": "Numerical Instability and Chaos: Quantifying the Unpredictability of Large Language Models",
+    "summary": "一种新的方法来量化和理解大型语言模型中的数值不稳定性",
+    "score": 6,
+    "category": "研究",
+    "long": "该方法结合了数值分析和大型语言模型，量化和理解了数值不稳定性",
+    "short": "量化和理解大型语言模型中的数值不稳定性",
+    "tweet": "新方法量化和理解大型语言模型中的数值不稳定性！",
+    "xiaohongshu": "大型语言模型中的数值不稳定性，原来可以量化和理解！",
+    "index": 12,
+    "link": "https://arxiv.org/abs/2604.13206"
+  },
+  {
+    "title": "Exploration and Exploitation Errors Are Measurable for Language Model Agents",
+    "summary": "一种新的方法来测量语言模型代理的探索和利用错误",
+    "score": 5,
+    "category": "研究",
+    "long": "该方法结合了语言模型代理和错误测量，测量了探索和利用错误",
+    "short": "测量语言模型代理的探索和利用错误",
+    "tweet": "新方法测量语言模型代理的探索和利用错误！",
+    "xiaohongshu": "语言模型代理的探索和利用错误，原来可以测量！",
+    "index": 10,
+    "link": "https://arxiv.org/abs/2604.13151"
+  }
+]
