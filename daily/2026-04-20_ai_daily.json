@@ -1,0 +1,122 @@
+[
+  {
+    "title": "AI Alignment",
+    "summary": "AI alignment 是一种将人工智能的目标与人类的价值观和目标相匹配的方法",
+    "score": 10,
+    "category": "研究",
+    "long": "AI alignment 的目的是使 AI 系统能够理解和实现人类的价值观和目标,从而避免潜在的危害",
+    "short": "人工智能的目标与人类价值观的匹配",
+    "tweet": "AI alignment: 人工智能的目标与人类价值观的匹配",
+    "xiaohongshu": "让人工智能听懂我们的价值观",
+    "index": 0,
+    "link": "https://thegradient.pub/virtue-ethics-ai-alignment/"
+  },
+  {
+    "title": "GIST",
+    "summary": "GIST 是一种用于多模态知识提取和空间定位的框架",
+    "score": 9,
+    "category": "模型",
+    "long": "GIST 可以将复杂环境中的视觉特征转换为可理解的空间定位信息",
+    "short": "多模态知识提取和空间定位",
+    "tweet": "GIST: 多模态知识提取和空间定位",
+    "xiaohongshu": "让机器人更好地理解我们的世界",
+    "index": 11,
+    "link": "https://arxiv.org/abs/2604.15495"
+  },
+  {
+    "title": "LACE",
+    "summary": "LACE 是一种用于并行推理的框架",
+    "score": 8,
+    "category": "模型",
+    "long": "LACE 可以让并行推理路径之间共享中间结果和纠正错误",
+    "short": "并行推理框架",
+    "tweet": "LACE: 并行推理框架",
+    "xiaohongshu": "让机器更好地思考",
+    "index": 13,
+    "link": "https://arxiv.org/abs/2604.15529"
+  },
+  {
+    "title": "Bilevel Optimization",
+    "summary": "Bilevel Optimization 是一种用于优化技能的框架",
+    "score": 7,
+    "category": "模型",
+    "long": "Bilevel Optimization 可以让技能结构和组件内容同时优化",
+    "short": "技能优化框架",
+    "tweet": "Bilevel Optimization: 技能优化框架",
+    "xiaohongshu": "让机器更好地学习",
+    "index": 16,
+    "link": "https://arxiv.org/abs/2604.15709"
+  },
+  {
+    "title": "Milkyway",
+    "summary": "Milkyway 是一种用于预测未来的框架",
+    "score": 6,
+    "category": "模型",
+    "long": "Milkyway 可以让机器预测未来的结果",
+    "short": "预测未来的框架",
+    "tweet": "Milkyway: 预测未来的框架",
+    "xiaohongshu": "让机器更好地预测未来的结果",
+    "index": 17,
+    "link": "https://arxiv.org/abs/2604.15719"
+  },
+  {
+    "title": "Structured Abductive-Deductive-Inductive Reasoning",
+    "summary": "Structured Abductive-Deductive-Inductive Reasoning 是一种用于逻辑推理的框架",
+    "score": 5,
+    "category": "模型",
+    "long": "Structured Abductive-Deductive-Inductive Reasoning 可以让机器进行逻辑推理",
+    "short": "逻辑推理框架",
+    "tweet": "Structured Abductive-Deductive-Inductive Reasoning: 逻辑推理框架",
+    "xiaohongshu": "让机器更好地进行逻辑推理",
+    "index": 19,
+    "link": "https://arxiv.org/abs/2604.15727"
+  },
+  {
+    "title": "SDF Public Access Unix System",
+    "summary": "SDF Public Access Unix System 是一种用于公共访问的 Unix 系统",
+    "score": 4,
+    "category": "其他",
+    "long": "SDF Public Access Unix System 可以让用户访问公共 Unix 系统",
+    "short": "公共访问 Unix 系统",
+    "tweet": "SDF Public Access Unix System: 公共访问 Unix 系统",
+    "xiaohongshu": "让用户更好地访问公共 Unix 系统",
+    "index": 20,
+    "link": "https://sdf.org/?ssh"
+  },
+  {
+    "title": "Vercel April 2026 security incident",
+    "summary": "Vercel April 2026 security incident 是一种安全事件",
+    "score": 3,
+    "category": "其他",
+    "long": "Vercel April 2026 security incident 可以让用户了解安全事件",
+    "short": "安全事件",
+    "tweet": "Vercel April 2026 security incident: 安全事件",
+    "xiaohongshu": "让用户更好地了解安全事件",
+    "index": 23,
+    "link": "https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/"
+  },
+  {
+    "title": "Bilevel Optimization of Agent Skills",
+    "summary": "Bilevel Optimization of Agent Skills 是一种用于优化技能的框架",
+    "score": 2,
+    "category": "模型",
+    "long": "Bilevel Optimization of Agent Skills 可以让技能结构和组件内容同时优化",
+    "short": "技能优化框架",
+    "tweet": "Bilevel Optimization of Agent Skills: 技能优化框架",
+    "xiaohongshu": "让机器更好地学习",
+    "index": 16,
+    "link": "https://arxiv.org/abs/2604.15709"
+  },
+  {
+    "title": "Structured Abductive-Deductive-Inductive Reasoning",
+    "summary": "Structured Abductive-Deductive-Inductive Reasoning 是一种用于逻辑推理的框架",
+    "score": 1,
+    "category": "模型",
+    "long": "Structured Abductive-Deductive-Inductive Reasoning 可以让机器进行逻辑推理",
+    "short": "逻辑推理框架",
+    "tweet": "Structured Abductive-Deductive-Inductive Reasoning: 逻辑推理框架",
+    "xiaohongshu": "让机器更好地进行逻辑推理",
+    "index": 19,
+    "link": "https://arxiv.org/abs/2604.15727"
+  }
+]
