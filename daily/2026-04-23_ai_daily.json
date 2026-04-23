@@ -1,0 +1,110 @@
+[
+  {
+    "title": "EvoForest: A Novel Machine-Learning Paradigm",
+    "summary": "EvoForest是一种新型机器学习方法，通过开放式进化来学习计算图结构",
+    "score": 10,
+    "category": "模型",
+    "long": "EvoForest通过开放式进化来学习计算图结构，能够有效地解决复杂的预测问题",
+    "short": "EvoForest是一种新型机器学习方法",
+    "tweet": "EvoForest revolutionizes machine learning with open-ended evolution of computational graphs",
+    "xiaohongshu": "EvoForest让机器学习变得更强大！",
+    "index": 18,
+    "link": "https://arxiv.org/abs/2604.19761"
+  },
+  {
+    "title": "ThermoQA: A Three-Tier Benchmark for Evaluating Thermodynamic Reasoning",
+    "summary": "ThermoQA是一种用于评估大规模语言模型热力学推理能力的三层基准",
+    "score": 9,
+    "category": "模型",
+    "long": "ThermoQA通过三个层次的开放式问题来评估大规模语言模型的热力学推理能力",
+    "short": "ThermoQA评估大规模语言模型的热力学推理能力",
+    "tweet": "ThermoQA revolutionizes thermodynamic reasoning evaluation with a three-tier benchmark",
+    "xiaohongshu": "ThermoQA让热力学推理变得更容易！",
+    "index": 15,
+    "link": "https://arxiv.org/abs/2604.19758"
+  },
+  {
+    "title": "Inference Headroom Ratio: A Diagnostic and Control Framework",
+    "summary": "Inference Headroom Ratio是一种用于诊断和控制推理稳定性的框架",
+    "score": 8,
+    "category": "模型",
+    "long": "Inference Headroom Ratio通过诊断和控制推理稳定性来提高系统的有效推理能力",
+    "short": "Inference Headroom Ratio评估推理稳定性",
+    "tweet": "Inference Headroom Ratio revolutionizes inference stability evaluation with a diagnostic framework",
+    "xiaohongshu": "Inference Headroom Ratio让推理稳定性变得更容易！",
+    "index": 17,
+    "link": "https://arxiv.org/abs/2604.19760"
+  },
+  {
+    "title": "Automated Detection of Dosing Errors in Clinical Trial Narratives",
+    "summary": "该研究开发了一种自动检测临床试验报告中的剂量错误的方法",
+    "score": 7,
+    "category": "工具",
+    "long": "该方法通过使用梯度提升和多模态特征工程来检测临床试验报告中的剂量错误",
+    "short": "自动检测剂量错误",
+    "tweet": "Automated detection of dosing errors in clinical trial narratives with LightGBM",
+    "xiaohongshu": "自动检测剂量错误，让临床试验变得更安全！",
+    "index": 16,
+    "link": "https://arxiv.org/abs/2604.19759"
+  },
+  {
+    "title": "Explainable AML Triage with LLMs: Evidence Retrieval and Counterfactual Checks",
+    "summary": "该研究开发了一种可解释的反洗钱（AML）筛选方法",
+    "score": 6,
+    "category": "工具",
+    "long": "该方法通过使用大规模语言模型（LLMs）来检索证据并进行事实检查",
+    "short": "可解释的AML筛选",
+    "tweet": "Explainable AML triage with LLMs: evidence retrieval and counterfactual checks",
+    "xiaohongshu": "可解释的AML筛选，让反洗钱变得更透明！",
+    "index": 14,
+    "link": "https://arxiv.org/abs/2604.19755"
+  },
+  {
+    "title": "AI to Learn 2.0: A Deliverable-Oriented Governance Framework",
+    "summary": "该研究开发了一种可交付的治理框架",
+    "score": 5,
+    "category": "模型",
+    "long": "该框架通过将治理与可交付的结果相关联来提高AI的可信度",
+    "short": "可交付的治理框架",
+    "tweet": "AI to Learn 2.0: a deliverable-oriented governance framework for AI-assisted work",
+    "xiaohongshu": "可交付的治理框架，让AI变得更可信！",
+    "index": 11,
+    "link": "https://arxiv.org/abs/2604.19751"
+  },
+  {
+    "title": "Algorithm Selection with Zero Domain Knowledge via Text Embeddings",
+    "summary": "该研究开发了一种基于文本嵌入的算法选择方法",
+    "score": 4,
+    "category": "工具",
+    "long": "该方法通过使用预训练的文本嵌入来选择算法",
+    "short": "基于文本嵌入的算法选择",
+    "tweet": "Algorithm selection with zero domain knowledge via text embeddings",
+    "xiaohongshu": "基于文本嵌入的算法选择，让算法选择变得更容易！",
+    "index": 12,
+    "link": "https://arxiv.org/abs/2604.19753"
+  },
+  {
+    "title": "Exploring Data Augmentation and Resampling Strategies for Transformer-Based Models",
+    "summary": "该研究探索了数据增强和重采样策略的应用",
+    "score": 3,
+    "category": "工具",
+    "long": "该方法通过使用转换器模型来增强和重采样数据",
+    "short": "数据增强和重采样",
+    "tweet": "Exploring data augmentation and resampling strategies for transformer-based models",
+    "xiaohongshu": "数据增强和重采样，让数据变得更丰富！",
+    "index": 13,
+    "link": "https://arxiv.org/abs/2604.19754"
+  },
+  {
+    "title": "The Tool-Overuse Illusion: Why Does LLM Prefer External Tools over Internal Knowledge?",
+    "summary": "该研究探讨了LLM对外部工具和内部知识的偏好",
+    "score": 2,
+    "category": "研究",
+    "long": "该研究发现LLM倾向于使用外部工具而不是内部知识",
+    "short": "LLM对外部工具和内部知识的偏好",
+    "tweet": "The Tool-Overuse Illusion: why does LLM prefer external tools over internal knowledge?",
+    "xiaohongshu": "LLM对外部工具和内部知识的偏好，让我们更了解LLM！",
+    "index": 10,
+    "link": "https://arxiv.org/abs/2604.19749"
+  }
+]
