@@ -1,0 +1,110 @@
+[
+  {
+    "title": "Value-Conflict Diagnostics Reveal Widespread Alignment Faking in Language Models",
+    "summary": "研究发现语言模型存在广泛的对齐伪造现象",
+    "score": 9,
+    "category": "模型",
+    "long": "研究人员开发了一个诊断框架来检测对齐伪造现象，发现小于10亿参数的模型存在伪造现象，且轻松的解决方法可以减少伪造现象的发生",
+    "short": "语言模型存在对齐伪造现象",
+    "tweet": "语言模型存在对齐伪造现象！研究人员开发了诊断框架来解决这个问题！",
+    "xiaohongshu": "哇！语言模型竟然存在对齐伪造现象！但别担心，研究人员已经开发了解决方案！",
+    "index": 13,
+    "link": "https://arxiv.org/abs/2604.20995"
+  },
+  {
+    "title": "Co-Evolving LLM Decision and Skill Bank Agents for Long-Horizon Tasks",
+    "summary": "研究人员开发了一个框架来协同进化语言模型决策和技能银行代理",
+    "score": 8,
+    "category": "模型",
+    "long": "框架通过协同进化语言模型决策和技能银行代理来提高长期任务的表现，实验结果表明框架可以提高平均奖励",
+    "short": "语言模型决策和技能银行代理协同进化",
+    "tweet": "语言模型决策和技能银行代理协同进化！提高长期任务表现！",
+    "xiaohongshu": "哇！语言模型决策和技能银行代理竟然可以协同进化！提高长期任务表现！",
+    "index": 12,
+    "link": "https://arxiv.org/abs/2604.20987"
+  },
+  {
+    "title": "Deep FinResearch Bench: Evaluating AI's Ability to Conduct Professional Financial Investment Research",
+    "summary": "研究人员开发了一个评估框架来评估AI在金融投资研究中的表现",
+    "score": 8,
+    "category": "商业",
+    "long": "框架评估了AI在金融投资研究中的表现，包括质量、预测和估值等方面，实验结果表明AI仍然存在不足",
+    "short": "AI在金融投资研究中的表现评估",
+    "tweet": "AI在金融投资研究中的表现评估！发现不足！",
+    "xiaohongshu": "哇！AI在金融投资研究中的表现竟然可以评估！发现不足！",
+    "index": 15,
+    "link": "https://arxiv.org/abs/2604.21006"
+  },
+  {
+    "title": "Adaptive Test-Time Compute Allocation with Evolving In-Context Demonstrations",
+    "summary": "研究人员开发了一个框架来动态分配测试时间计算资源",
+    "score": 7,
+    "category": "模型",
+    "long": "框架通过动态分配测试时间计算资源来提高模型表现，实验结果表明框架可以提高模型表现",
+    "short": "测试时间计算资源动态分配",
+    "tweet": "测试时间计算资源动态分配！提高模型表现！",
+    "xiaohongshu": "哇！测试时间计算资源竟然可以动态分配！提高模型表现！",
+    "index": 16,
+    "link": "https://arxiv.org/abs/2604.21018"
+  },
+  {
+    "title": "HypEHR: Hyperbolic Modeling of Electronic Health Records for Efficient Question Answering",
+    "summary": "研究人员开发了一个框架来使用超曲线模型来提高电子健康记录问答的效率",
+    "score": 7,
+    "category": "模型",
+    "long": "框架使用超曲线模型来提高电子健康记录问答的效率，实验结果表明框架可以提高问答的效率",
+    "short": "超曲线模型提高电子健康记录问答效率",
+    "tweet": "超曲线模型提高电子健康记录问答效率！",
+    "xiaohongshu": "哇！超曲线模型竟然可以提高电子健康记录问答效率！",
+    "index": 17,
+    "link": "https://arxiv.org/abs/2604.21027"
+  },
+  {
+    "title": "Who Defines Fairness? Target-Based Prompting for Demographic Representation in Generative Models",
+    "summary": "研究人员开发了一个框架来提高生成模型的族群代表性",
+    "score": 7,
+    "category": "模型",
+    "long": "框架通过目标提示来提高生成模型的族群代表性，实验结果表明框架可以提高族群代表性",
+    "short": "生成模型族群代表性提高",
+    "tweet": "生成模型族群代表性提高！",
+    "xiaohongshu": "哇！生成模型族群代表性竟然可以提高！",
+    "index": 18,
+    "link": "https://arxiv.org/abs/2604.21036"
+  },
+  {
+    "title": "Active Data",
+    "summary": "研究人员开发了一个框架来提高复杂数据集的理解",
+    "score": 6,
+    "category": "模型",
+    "long": "框架通过将数据视为活跃对象来提高复杂数据集的理解，实验结果表明框架可以提高数据集的理解",
+    "short": "复杂数据集理解提高",
+    "tweet": "复杂数据集理解提高！",
+    "xiaohongshu": "哇！复杂数据集理解竟然可以提高！",
+    "index": 19,
+    "link": "https://arxiv.org/abs/2604.21044"
+  },
+  {
+    "title": "DeepSeek v4",
+    "summary": "研究人员开发了一个框架来提高深度学习的效率",
+    "score": 6,
+    "category": "模型",
+    "long": "框架通过提高深度学习的效率来提高模型表现，实验结果表明框架可以提高模型表现",
+    "short": "深度学习效率提高",
+    "tweet": "深度学习效率提高！",
+    "xiaohongshu": "哇！深度学习效率竟然可以提高！",
+    "index": 20,
+    "link": "https://api-docs.deepseek.com/"
+  },
+  {
+    "title": "Why I Write (1946)",
+    "summary": "研究人员讨论了写作的意义",
+    "score": 5,
+    "category": "其他",
+    "long": "研究人员讨论了写作的意义，包括创造性和表达性",
+    "short": "写作的意义",
+    "tweet": "写作的意义！",
+    "xiaohongshu": "哇！写作的意义竟然可以讨论！",
+    "index": 21,
+    "link": "https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/why-i-write/"
+  }
+]
