@@ -1,0 +1,110 @@
+[
+  {
+    "title": "Analytica: Soft Propositional Reasoning for Robust and Scalable LLM-Driven Analysis",
+    "summary": "一种新的分析架构，通过软命题推理来提高LLM的稳定性和可扩展性",
+    "score": 9,
+    "category": "模型",
+    "long": "Analytica通过分解复杂问题，使用软命题推理来减少估计错误的偏差和方差，提高分析的稳定性和可扩展性",
+    "short": "一种新的分析架构",
+    "tweet": "Analytica: Soft Propositional Reasoning for Robust and Scalable LLM-Driven Analysis",
+    "xiaohongshu": "你知道吗？Analytica是一种新的分析架构，通过软命题推理来提高LLM的稳定性和可扩展性！",
+    "index": 19,
+    "link": "https://arxiv.org/abs/2604.23072"
+  },
+  {
+    "title": "FormalScience: Scalable Human-in-the-Loop Autoformalisation of Science with Agentic Code Generation in Lean",
+    "summary": "一种新的自动化形式化框架，通过Lean语言来生成形式化证明",
+    "score": 8,
+    "category": "模型",
+    "long": "FormalScience通过Lean语言来生成形式化证明，提高了科学领域的自动化形式化能力",
+    "short": "一种新的自动化形式化框架",
+    "tweet": "FormalScience: Scalable Human-in-the-Loop Autoformalisation of Science with Agentic Code Generation in Lean",
+    "xiaohongshu": "你知道吗？FormalScience是一种新的自动化形式化框架，通过Lean语言来生成形式化证明！",
+    "index": 15,
+    "link": "https://arxiv.org/abs/2604.23002"
+  },
+  {
+    "title": "A Decoupled Human-in-the-Loop System for Controlled Autonomy in Agentic Workflows",
+    "summary": "一种新的人机交互系统，通过分离人机交互和应用逻辑来提高系统的可扩展性和可控性",
+    "score": 8,
+    "category": "模型",
+    "long": "A Decoupled Human-in-the-Loop System通过分离人机交互和应用逻辑来提高系统的可扩展性和可控性",
+    "short": "一种新的人机交互系统",
+    "tweet": "A Decoupled Human-in-the-Loop System for Controlled Autonomy in Agentic Workflows",
+    "xiaohongshu": "你知道吗？A Decoupled Human-in-the-Loop System是一种新的人机交互系统，通过分离人机交互和应用逻辑来提高系统的可扩展性和可控性！",
+    "index": 17,
+    "link": "https://arxiv.org/abs/2604.23049"
+  },
+  {
+    "title": "PExA: Parallel Exploration Agent for Complex Text-to-SQL",
+    "summary": "一种新的文本到SQL的并行探索代理",
+    "score": 7,
+    "category": "模型",
+    "long": "PExA通过并行探索来提高文本到SQL的准确率和效率",
+    "short": "一种新的文本到SQL的并行探索代理",
+    "tweet": "PExA: Parallel Exploration Agent for Complex Text-to-SQL",
+    "xiaohongshu": "你知道吗？PExA是一种新的文本到SQL的并行探索代理，提高了文本到SQL的准确率和效率！",
+    "index": 11,
+    "link": "https://arxiv.org/abs/2604.22934"
+  },
+  {
+    "title": "The Power of Power Law: Asymmetry Enables Compositional Reasoning",
+    "summary": "一种新的组合推理框架，通过对称性来提高推理的准确率和效率",
+    "score": 7,
+    "category": "模型",
+    "long": "The Power of Power Law通过对称性来提高推理的准确率和效率",
+    "short": "一种新的组合推理框架",
+    "tweet": "The Power of Power Law: Asymmetry Enables Compositional Reasoning",
+    "xiaohongshu": "你知道吗？The Power of Power Law是一种新的组合推理框架，通过对称性来提高推理的准确率和效率！",
+    "index": 12,
+    "link": "https://arxiv.org/abs/2604.22951"
+  },
+  {
+    "title": "A Systematic Approach for Large Language Models Debugging",
+    "summary": "一种新的LLM调试框架，通过结构化方法来提高调试的效率和准确率",
+    "score": 7,
+    "category": "模型",
+    "long": "A Systematic Approach通过结构化方法来提高调试的效率和准确率",
+    "short": "一种新的LLM调试框架",
+    "tweet": "A Systematic Approach for Large Language Models Debugging",
+    "xiaohongshu": "你知道吗？A Systematic Approach是一种新的LLM调试框架，通过结构化方法来提高调试的效率和准确率！",
+    "index": 16,
+    "link": "https://arxiv.org/abs/2604.23027"
+  },
+  {
+    "title": "Don't Make the LLM Read the Graph: Make the Graph Think",
+    "summary": "一种新的图形推理框架，通过让图形自己思考来提高推理的准确率和效率",
+    "score": 7,
+    "category": "模型",
+    "long": "Don't Make the LLM Read the Graph通过让图形自己思考来提高推理的准确率和效率",
+    "short": "一种新的图形推理框架",
+    "tweet": "Don't Make the LLM Read the Graph: Make the Graph Think",
+    "xiaohongshu": "你知道吗？Don't Make the LLM Read the Graph是一种新的图形推理框架，通过让图形自己思考来提高推理的准确率和效率！",
+    "index": 18,
+    "link": "https://arxiv.org/abs/2604.23057"
+  },
+  {
+    "title": "Ghostty is leaving GitHub",
+    "summary": "Ghostty离开GitHub",
+    "score": 6,
+    "category": "商业",
+    "long": "Ghostty离开GitHub，结束了与GitHub的合作",
+    "short": "Ghostty离开GitHub",
+    "tweet": "Ghostty is leaving GitHub",
+    "xiaohongshu": "你知道吗？Ghostty离开GitHub了！",
+    "index": 20,
+    "link": "https://mitchellh.com/writing/ghostty-leaving-github"
+  },
+  {
+    "title": "Before GitHub",
+    "summary": "GitHub之前的故事",
+    "score": 6,
+    "category": "商业",
+    "long": "Before GitHub是GitHub之前的故事",
+    "short": "GitHub之前的故事",
+    "tweet": "Before GitHub",
+    "xiaohongshu": "你知道吗？Before GitHub是GitHub之前的故事！",
+    "index": 21,
+    "link": "https://lucumr.pocoo.org/2026/4/28/before-github/"
+  }
+]
