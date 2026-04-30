@@ -1,0 +1,110 @@
+[
+  {
+    "title": "Analytica: Soft Propositional Reasoning for Robust and Scalable LLM-Driven Analysis",
+    "summary": "一种新型的分析架构，利用软命题推理提高了LLM的分析能力",
+    "score": 9,
+    "category": "模型",
+    "long": "Analytica通过软命题推理来减少LLM的随机性和缺乏可验证的组合结构，提高了分析能力",
+    "short": "提高LLM分析能力",
+    "tweet": "Analytica:软命题推理让LLM分析更强大！",
+    "xiaohongshu": "哇！Analytica让LLM分析变得更强大！",
+    "index": 19,
+    "link": "https://arxiv.org/abs/2604.23072"
+  },
+  {
+    "title": "A Decoupled Human-in-the-Loop System for Controlled Autonomy in Agentic Workflows",
+    "summary": "一种新的HITL系统，通过分离人机交互和应用逻辑来提高安全性和可控性",
+    "score": 8,
+    "category": "模型",
+    "long": "该系统通过分离人机交互和应用逻辑来提高安全性和可控性，支持多agent环境",
+    "short": "提高HITL安全性和可控性",
+    "tweet": "新型HITL系统：提高安全性和可控性！",
+    "xiaohongshu": "哇！新型HITL系统让人机交互更安全和可控！",
+    "index": 17,
+    "link": "https://arxiv.org/abs/2604.23049"
+  },
+  {
+    "title": "Where the Goblins Came From",
+    "summary": "一个关于AI的故事",
+    "score": 7,
+    "category": "其他",
+    "long": "该故事讲述了一个关于AI的故事，探讨了AI的潜在风险和后果",
+    "short": "AI故事",
+    "tweet": "AI故事：Where the Goblins Came From",
+    "xiaohongshu": "哇！AI故事：Where the Goblins Came From",
+    "index": 20,
+    "link": "https://openai.com/index/where-the-goblins-came-from/"
+  },
+  {
+    "title": "Craig Venter has died",
+    "summary": "关于Craig Venter的新闻",
+    "score": 6,
+    "category": "其他",
+    "long": "该新闻报道了Craig Venter的去世",
+    "short": "Craig Venter去世",
+    "tweet": "Craig Venter去世：一个伟大的科学家",
+    "xiaohongshu": "哇！Craig Venter去世了！",
+    "index": 21,
+    "link": "https://www.jcvi.org/media-center/j-craig-venter-genomics-pioneer-and-founder-jcvi-and-diploid-genomics-inc-dies-79"
+  },
+  {
+    "title": "Zed 1.0",
+    "summary": "一个新的编程语言",
+    "score": 5,
+    "category": "其他",
+    "long": "该语言是为了提高编程效率和安全性而设计的",
+    "short": "新型编程语言",
+    "tweet": "新型编程语言：Zed 1.0",
+    "xiaohongshu": "哇！新型编程语言：Zed 1.0",
+    "index": 22,
+    "link": "https://zed.dev/blog/zed-1-0"
+  },
+  {
+    "title": "Copy Fail",
+    "summary": "一个关于复制的故事",
+    "score": 4,
+    "category": "其他",
+    "long": "该故事讲述了一个关于复制的故事，探讨了复制的潜在风险和后果",
+    "short": "复制故事",
+    "tweet": "复制故事：Copy Fail",
+    "xiaohongshu": "哇！复制故事：Copy Fail",
+    "index": 23,
+    "link": "https://copy.fail/"
+  },
+  {
+    "title": "Cursor Camp",
+    "summary": "一个关于鼠标的故事",
+    "score": 3,
+    "category": "其他",
+    "long": "该故事讲述了一个关于鼠标的故事，探讨了鼠标的潜在风险和后果",
+    "short": "鼠标故事",
+    "tweet": "鼠标故事：Cursor Camp",
+    "xiaohongshu": "哇！鼠标故事：Cursor Camp",
+    "index": 24,
+    "link": "https://neal.fun/cursor-camp/"
+  },
+  {
+    "title": "OpenTrafficMap",
+    "summary": "一个关于交通的项目",
+    "score": 2,
+    "category": "其他",
+    "long": "该项目是为了提高交通效率和安全性而设计的",
+    "short": "交通项目",
+    "tweet": "交通项目：OpenTrafficMap",
+    "xiaohongshu": "哇！交通项目：OpenTrafficMap",
+    "index": 25,
+    "link": "https://opentrafficmap.org/"
+  },
+  {
+    "title": "FastCGI: 30 years old and still the better protocol for reverse proxies",
+    "summary": "关于FastCGI的新闻",
+    "score": 1,
+    "category": "其他",
+    "long": "该新闻报道了FastCGI的历史和优势",
+    "short": "FastCGI新闻",
+    "tweet": "FastCGI新闻：30年历史",
+    "xiaohongshu": "哇！FastCGI新闻：30年历史",
+    "index": 26,
+    "link": "https://www.agwa.name/blog/post/fastcgi_is_the_better_protocol_for_reverse_proxies"
+  }
+]
