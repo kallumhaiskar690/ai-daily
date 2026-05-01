@@ -1,0 +1,110 @@
+[
+  {
+    "title": "Auto-Relational Reasoning",
+    "summary": "一种理论框架，通过对象关系的自动化推理来结合机器学习的可扩展性和严格推理",
+    "score": 9,
+    "category": "模型",
+    "long": "该框架通过对象关系的自动化推理来结合机器学习的可扩展性和严格推理，实现了高效的推理能力",
+    "short": "Auto-Relational Reasoning",
+    "tweet": "机器学习的下一个大跃进：Auto-Relational Reasoning！",
+    "xiaohongshu": "机器学习的下一个大跃进：Auto-Relational Reasoning！",
+    "index": 18,
+    "link": "https://arxiv.org/abs/2604.26507"
+  },
+  {
+    "title": "Grounding vs. Compositionality",
+    "summary": "研究了神经符号系统中推理的非补充性",
+    "score": 8,
+    "category": "模型",
+    "long": "研究了神经符号系统中推理的非补充性，发现符号地基和推理是不同的能力",
+    "short": "Grounding vs. Compositionality",
+    "tweet": "神经符号系统中推理的非补充性：符号地基和推理是不同的能力！",
+    "xiaohongshu": "神经符号系统中推理的非补充性：符号地基和推理是不同的能力！",
+    "index": 19,
+    "link": "https://arxiv.org/abs/2604.26521"
+  },
+  {
+    "title": "Distill-Belief",
+    "summary": "一种闭环逆源定位和特征化方法",
+    "score": 8,
+    "category": "模型",
+    "long": "一种闭环逆源定位和特征化方法，通过teacher-student框架来实现",
+    "short": "Distill-Belief",
+    "tweet": "闭环逆源定位和特征化：Distill-Belief！",
+    "xiaohongshu": "闭环逆源定位和特征化：Distill-Belief！",
+    "index": 11,
+    "link": "https://arxiv.org/abs/2604.26095"
+  },
+  {
+    "title": "Evaluating Strategic Reasoning",
+    "summary": "评估预测代理的战略推理能力",
+    "score": 8,
+    "category": "研究",
+    "long": "评估预测代理的战略推理能力，发现预测代理的战略推理能力是关键",
+    "short": "Evaluating Strategic Reasoning",
+    "tweet": "预测代理的战略推理能力：关键！",
+    "xiaohongshu": "预测代理的战略推理能力：关键！",
+    "index": 12,
+    "link": "https://arxiv.org/abs/2604.26106"
+  },
+  {
+    "title": "Hierarchical Multi-Persona Induction",
+    "summary": "一种多人格诱导方法",
+    "score": 7,
+    "category": "模型",
+    "long": "一种多人格诱导方法，通过聚类和标签来实现",
+    "short": "Hierarchical Multi-Persona Induction",
+    "tweet": "多人格诱导：Hierarchical Multi-Persona Induction！",
+    "xiaohongshu": "多人格诱导：Hierarchical Multi-Persona Induction！",
+    "index": 13,
+    "link": "https://arxiv.org/abs/2604.26120"
+  },
+  {
+    "title": "OMEGA",
+    "summary": "一种自动化AI研究的框架",
+    "score": 7,
+    "category": "模型",
+    "long": "一种自动化AI研究的框架，通过结构化元提示工程和可执行代码生成来实现",
+    "short": "OMEGA",
+    "tweet": "自动化AI研究：OMEGA！",
+    "xiaohongshu": "自动化AI研究：OMEGA！",
+    "index": 14,
+    "link": "https://arxiv.org/abs/2604.26211"
+  },
+  {
+    "title": "Persuadability and LLMs",
+    "summary": "研究了LLMs的说服性",
+    "score": 7,
+    "category": "研究",
+    "long": "研究了LLMs的说服性，发现LLMs的说服性是关键",
+    "short": "Persuadability and LLMs",
+    "tweet": "LLMs的说服性：关键！",
+    "xiaohongshu": "LLMs的说服性：关键！",
+    "index": 15,
+    "link": "https://arxiv.org/abs/2604.26233"
+  },
+  {
+    "title": "DreamProver",
+    "summary": "一种演化可转移引理库的框架",
+    "score": 6,
+    "category": "模型",
+    "long": "一种演化可转移引理库的框架，通过醒睡程序诱导来实现",
+    "short": "DreamProver",
+    "tweet": "演化可转移引理库：DreamProver！",
+    "xiaohongshu": "演化可转移引理库：DreamProver！",
+    "index": 17,
+    "link": "https://arxiv.org/abs/2604.26311"
+  },
+  {
+    "title": "A Brief Overview of Gender Bias in AI",
+    "summary": "对AI中性别偏见的简要概述",
+    "score": 6,
+    "category": "研究",
+    "long": "对AI中性别偏见的简要概述，发现AI中性别偏见是关键",
+    "short": "A Brief Overview of Gender Bias in AI",
+    "tweet": "AI中性别偏见：关键！",
+    "xiaohongshu": "AI中性别偏见：关键！",
+    "index": 6,
+    "link": "https://thegradient.pub/gender-bias-in-ai/"
+  }
+]
