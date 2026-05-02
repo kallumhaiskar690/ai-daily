@@ -1,0 +1,110 @@
+[
+  {
+    "title": "End-to-end autonomous scientific discovery on a real optical platform",
+    "summary": "AI系统首次实现了端到端的自主科学发现，成功在现实光学平台上发现新物理机制",
+    "score": 9,
+    "category": "研究",
+    "long": "该研究使用大规模语言模型（LLM）和元-跟踪记忆等技术，实现了自主科学发现的端到端系统。该系统能够在长期调查中维持适应性和稳定性，成功发现了光学双线性相互作用的新物理机制。",
+    "short": "AI系统实现自主科学发现",
+    "tweet": "AI系统首次实现了端到端的自主科学发现！",
+    "xiaohongshu": "哇哦，AI系统竟然能自主进行科学研究！",
+    "index": 13,
+    "link": "https://arxiv.org/abs/2604.27092"
+  },
+  {
+    "title": "TRUST: A Framework for Decentralized AI Service v.0.1",
+    "summary": "TRUST框架为去中心化AI服务提供了一个可靠的验证框架",
+    "score": 8,
+    "category": "模型",
+    "long": "TRUST框架使用分层有向无环图（HDAG）和链式思考（Chain-of-Thought）等技术，实现了去中心化AI服务的可靠验证。该框架能够确保正确性，抵御攻击和偏差，保护隐私。",
+    "short": "TRUST框架提供去中心化AI服务的可靠验证",
+    "tweet": "TRUST框架为去中心化AI服务提供了可靠的验证！",
+    "xiaohongshu": "哇哦，TRUST框架竟然能提供去中心化AI服务的可靠验证！",
+    "index": 16,
+    "link": "https://arxiv.org/abs/2604.27132"
+  },
+  {
+    "title": "Unpacking Vibe Coding: Help-Seeking Processes in Student-AI Interactions While Programming",
+    "summary": "研究发现学生与AI系统的互动中，高表现学生更倾向于主动寻求帮助，而低表现学生则更倾向于依赖AI系统",
+    "score": 8,
+    "category": "研究",
+    "long": "该研究分析了学生与AI系统的互动过程，发现高表现学生更倾向于主动寻求帮助，而低表现学生则更倾向于依赖AI系统。研究者提出了对AI系统的设计和开发的建议，旨在促进学生的学习和成长。",
+    "short": "研究发现学生与AI系统的互动中，高表现学生更倾向于主动寻求帮助",
+    "tweet": "研究发现学生与AI系统的互动中，高表现学生更倾向于主动寻求帮助！",
+    "xiaohongshu": "哇哦，研究竟然发现学生与AI系统的互动中，高表现学生更倾向于主动寻求帮助！",
+    "index": 17,
+    "link": "https://arxiv.org/abs/2604.27134"
+  },
+  {
+    "title": "Step-level Optimization for Efficient Computer-use Agents",
+    "summary": "研究提出了一种事件驱动的步骤级联框架，旨在提高计算机使用代理的效率",
+    "score": 8,
+    "category": "模型",
+    "long": "该研究提出了一种事件驱动的步骤级联框架，旨在提高计算机使用代理的效率。该框架使用轻量级学习监视器和风险检测机制，能够适应不同的计算机使用场景和任务。",
+    "short": "研究提出了一种事件驱动的步骤级联框架，旨在提高计算机使用代理的效率",
+    "tweet": "研究提出了一种事件驱动的步骤级联框架，旨在提高计算机使用代理的效率！",
+    "xiaohongshu": "哇哦，研究竟然提出了一种事件驱动的步骤级联框架，旨在提高计算机使用代理的效率！",
+    "index": 19,
+    "link": "https://arxiv.org/abs/2604.27151"
+  },
+  {
+    "title": "Mamba Explained",
+    "summary": "Mamba是一种基于状态空间模型（SSM）的AI模型，旨在解决Transformer模型的不足",
+    "score": 7,
+    "category": "模型",
+    "long": "Mamba是一种基于状态空间模型（SSM）的AI模型，旨在解决Transformer模型的不足。该模型能够更好地处理长序列数据，提高了AI系统的效率和准确率。",
+    "short": "Mamba是一种基于状态空间模型的AI模型",
+    "tweet": "Mamba是一种基于状态空间模型的AI模型！",
+    "xiaohongshu": "哇哦，Mamba竟然是一种基于状态空间模型的AI模型！",
+    "index": 7,
+    "link": "https://thegradient.pub/mamba-explained/"
+  },
+  {
+    "title": "Financial Market Applications of LLMs",
+    "summary": "研究探讨了大规模语言模型（LLM）在金融市场应用中的潜力",
+    "score": 7,
+    "category": "商业",
+    "long": "该研究探讨了大规模语言模型（LLM）在金融市场应用中的潜力，包括交易决策、风险评估和投资分析等方面。研究者提出了对LLM的开发和应用的建议，旨在提高金融市场的效率和准确率。",
+    "short": "研究探讨了大规模语言模型在金融市场应用中的潜力",
+    "tweet": "研究探讨了大规模语言模型在金融市场应用中的潜力！",
+    "xiaohongshu": "哇哦，研究竟然探讨了大规模语言模型在金融市场应用中的潜力！",
+    "index": 5,
+    "link": "https://thegradient.pub/financial-market-applications-of-llms/"
+  },
+  {
+    "title": "A Brief Overview of Gender Bias in AI",
+    "summary": "研究概述了人工智能中性别偏见的现象和影响",
+    "score": 6,
+    "category": "研究",
+    "long": "该研究概述了人工智能中性别偏见的现象和影响，包括数据收集、算法设计和系统实现等方面。研究者提出了对性别偏见的识别和解决的建议，旨在促进人工智能的公平性和可靠性。",
+    "short": "研究概述了人工智能中性别偏见的现象和影响",
+    "tweet": "研究概述了人工智能中性别偏见的现象和影响！",
+    "xiaohongshu": "哇哦，研究竟然概述了人工智能中性别偏见的现象和影响！",
+    "index": 6,
+    "link": "https://thegradient.pub/gender-bias-in-ai/"
+  },
+  {
+    "title": "Car-GPT: Could LLMs finally make self-driving cars happen?",
+    "summary": "研究探讨了大规模语言模型（LLM）在自主驾驶汽车中的潜力",
+    "score": 6,
+    "category": "商业",
+    "long": "该研究探讨了大规模语言模型（LLM）在自主驾驶汽车中的潜力，包括驾驶决策、安全评估和系统实现等方面。研究者提出了对LLM的开发和应用的建议，旨在提高自主驾驶汽车的效率和准确率。",
+    "short": "研究探讨了大规模语言模型在自主驾驶汽车中的潜力",
+    "tweet": "研究探讨了大规模语言模型在自主驾驶汽车中的潜力！",
+    "xiaohongshu": "哇哦，研究竟然探讨了大规模语言模型在自主驾驶汽车中的潜力！",
+    "index": 8,
+    "link": "https://thegradient.pub/car-gpt/"
+  },
+  {
+    "title": "What's Missing From LLM Chatbots: A Sense of Purpose",
+    "summary": "研究探讨了大规模语言模型（LLM）聊天机器人中缺乏的目标感",
+    "score": 5,
+    "category": "商业",
+    "long": "该研究探讨了大规模语言模型（LLM）聊天机器人中缺乏的目标感，包括对话设计、情感理解和系统实现等方面。研究者提出了对LLM的开发和应用的建议，旨在提高聊天机器人的效率和准确率。",
+    "short": "研究探讨了大规模语言模型聊天机器人中缺乏的目标感",
+    "tweet": "研究探讨了大规模语言模型聊天机器人中缺乏的目标感！",
+    "xiaohongshu": "哇哦，研究竟然探讨了大规模语言模型聊天机器人中缺乏的目标感！",
+    "index": 3,
+    "link": "https://thegradient.pub/dialog/"
+  }
+]
