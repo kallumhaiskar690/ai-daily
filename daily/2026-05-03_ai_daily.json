@@ -1,0 +1,110 @@
+[
+  {
+    "title": "AGI Is Not Multimodal",
+    "summary": "AGI 不是多模态的，语言不是思维的模型",
+    "score": 9,
+    "category": "研究",
+    "long": "AGI 的实现不是简单地将语言模型扩展到多个模态上，需要考虑人类的隐含理解和身体认知",
+    "short": "AGI 不是多模态的",
+    "tweet": "AGI 不是多模态的，语言不是思维的模型 #AI #AGI",
+    "xiaohongshu": "AGI 的实现不是简单地将语言模型扩展到多个模态上，需要考虑人类的隐含理解和身体认知",
+    "index": 1,
+    "link": "https://thegradient.pub/agi-is-not-multimodal/"
+  },
+  {
+    "title": "Shape, Symmetries, and Structure: The Changing Role of Mathematics in Machine Learning Research",
+    "summary": "机器学习研究中的数学角色正在发生变化",
+    "score": 8,
+    "category": "研究",
+    "long": "数学在机器学习研究中的作用正在从设计和原则转向工程和计算",
+    "short": "机器学习研究中的数学角色正在发生变化",
+    "tweet": "机器学习研究中的数学角色正在发生变化 #ML #Math",
+    "xiaohongshu": "数学在机器学习研究中的作用正在从设计和原则转向工程和计算",
+    "index": 2,
+    "link": "https://thegradient.pub/shape-symmetry-structure/"
+  },
+  {
+    "title": "What's Missing From LLM Chatbots: A Sense of Purpose",
+    "summary": "LLM 聊天机器人缺乏目的感",
+    "score": 8,
+    "category": "研究",
+    "long": "LLM 聊天机器人虽然有能力，但缺乏目的感和用户体验",
+    "short": "LLM 聊天机器人缺乏目的感",
+    "tweet": "LLM 聊天机器人缺乏目的感 #LLM #Chatbot",
+    "xiaohongshu": "LLM 聊天机器人虽然有能力，但缺乏目的感和用户体验",
+    "index": 3,
+    "link": "https://thegradient.pub/dialog/"
+  },
+  {
+    "title": "We Need Positive Visions for AI Grounded in Wellbeing",
+    "summary": "我们需要基于福祉的积极的 AI 观点",
+    "score": 7,
+    "category": "研究",
+    "long": "我们需要基于福祉的积极的 AI 观点，而不是仅仅关注技术进步",
+    "short": "我们需要基于福祉的积极的 AI 观点",
+    "tweet": "我们需要基于福祉的积极的 AI 观点 #AI #Wellbeing",
+    "xiaohongshu": "我们需要基于福祉的积极的 AI 观点，而不是仅仅关注技术进步",
+    "index": 4,
+    "link": "https://thegradient.pub/we-need-positive-visions-for-ai-grounded-in-wellbeing/"
+  },
+  {
+    "title": "Financial Market Applications of LLMs",
+    "summary": "LLM 在金融市场的应用",
+    "score": 7,
+    "category": "商业",
+    "long": "LLM 在金融市场的应用包括风险评估、投资决策和市场分析",
+    "short": "LLM 在金融市场的应用",
+    "tweet": "LLM 在金融市场的应用 #LLM #Finance",
+    "xiaohongshu": "LLM 在金融市场的应用包括风险评估、投资决策和市场分析",
+    "index": 5,
+    "link": "https://thegradient.pub/financial-market-applications-of-llms/"
+  },
+  {
+    "title": "A Brief Overview of Gender Bias in AI",
+    "summary": "AI 中的性别偏见概述",
+    "score": 6,
+    "category": "研究",
+    "long": "AI 中的性别偏见包括数据偏见、算法偏见和应用偏见",
+    "short": "AI 中的性别偏见概述",
+    "tweet": "AI 中的性别偏见概述 #AI #Bias",
+    "xiaohongshu": "AI 中的性别偏见包括数据偏见、算法偏见和应用偏见",
+    "index": 6,
+    "link": "https://thegradient.pub/gender-bias-in-ai/"
+  },
+  {
+    "title": "Mamba Explained",
+    "summary": "Mamba 解释",
+    "score": 6,
+    "category": "模型",
+    "long": "Mamba 是一种基于状态空间模型的 AI 模型，用于处理长序列数据",
+    "short": "Mamba 解释",
+    "tweet": "Mamba 解释 #Mamba #AI",
+    "xiaohongshu": "Mamba 是一种基于状态空间模型的 AI 模型，用于处理长序列数据",
+    "index": 7,
+    "link": "https://thegradient.pub/mamba-explained/"
+  },
+  {
+    "title": "Car-GPT: Could LLMs finally make self-driving cars happen?",
+    "summary": "LLM 是否可以实现自驾车",
+    "score": 5,
+    "category": "研究",
+    "long": "LLM 是否可以实现自驾车，包括关键挑战和应用",
+    "short": "LLM 是否可以实现自驾车",
+    "tweet": "LLM 是否可以实现自驾车 #LLM #Autonomous",
+    "xiaohongshu": "LLM 是否可以实现自驾车，包括关键挑战和应用",
+    "index": 8,
+    "link": "https://thegradient.pub/car-gpt/"
+  },
+  {
+    "title": "Do text embeddings perfectly encode text?",
+    "summary": "文本嵌入是否完美编码文本",
+    "score": 5,
+    "category": "模型",
+    "long": "文本嵌入是否完美编码文本，包括 Vec2text 的解决方案",
+    "short": "文本嵌入是否完美编码文本",
+    "tweet": "文本嵌入是否完美编码文本 #Vec2text #TextEmbedding",
+    "xiaohongshu": "文本嵌入是否完美编码文本，包括 Vec2text 的解决方案",
+    "index": 9,
+    "link": "https://thegradient.pub/text-embedding-inversion/"
+  }
+]
