@@ -1,0 +1,110 @@
+[
+  {
+    "title": "AgentReputation: A Decentralized Agentic AI Reputation Framework",
+    "summary": "一个去中心化的、分层的声誉框架，用于评估分布式AI系统的可信度",
+    "score": 9,
+    "category": "模型",
+    "long": "AgentReputation是一个去中心化的、分层的声誉框架，用于评估分布式AI系统的可信度。它分为三个层次：任务执行、声誉服务和不可篡改的持久性。框架引入了明确的验证规则和条件相关的声誉卡片，防止声誉混淆。",
+    "short": "去中心化的AI声誉框架",
+    "tweet": "AI声誉框架：去中心化、分层、可信度",
+    "xiaohongshu": "AI系统的声誉框架，去中心化、分层、可信度",
+    "index": 11,
+    "link": "https://arxiv.org/abs/2605.00073"
+  },
+  {
+    "title": "TADI: Tool-Augmented Drilling Intelligence via Agentic LLM Orchestration over Heterogeneous Wellsite Data",
+    "summary": "一个AI系统，通过协调多种工具和语言模型，提高钻井操作的智能和效率",
+    "score": 8,
+    "category": "工具",
+    "long": "TADI是一个AI系统，通过协调多种工具和语言模型，提高钻井操作的智能和效率。它可以处理多种类型的数据，包括钻井报告、生产记录和地质数据。",
+    "short": "AI钻井系统",
+    "tweet": "AI钻井系统：工具协调、智能提高",
+    "xiaohongshu": "AI钻井系统，智能提高、效率提高",
+    "index": 10,
+    "link": "https://arxiv.org/abs/2605.00060"
+  },
+  {
+    "title": "ARMOR 2025: A Military-Aligned Benchmark for Evaluating Large Language Model Safety Beyond Civilian Contexts",
+    "summary": "一个军事相关的安全评估基准，用于评估大型语言模型在军事背景下的安全性",
+    "score": 8,
+    "category": "研究",
+    "long": "ARMOR 2025是一个军事相关的安全评估基准，用于评估大型语言模型在军事背景下的安全性。它基于三项军事教条：战争法、作战指令和联合伦理法规。",
+    "short": "军事安全评估基准",
+    "tweet": "军事安全评估基准：安全性评估",
+    "xiaohongshu": "军事安全评估基准，安全性评估",
+    "index": 15,
+    "link": "https://arxiv.org/abs/2605.00245"
+  },
+  {
+    "title": "Causal Foundations of Collective Agency",
+    "summary": "一个研究论文，探讨了集体代理的因果基础",
+    "score": 7,
+    "category": "研究",
+    "long": "Causal Foundations of Collective Agency是一个研究论文，探讨了集体代理的因果基础。它采用行为主义的角度，认为集体代理是当一个群体的联合行动被视为有理有据并且目标导向时，才被认为是集体代理。",
+    "short": "集体代理因果基础",
+    "tweet": "集体代理因果基础：行为主义角度",
+    "xiaohongshu": "集体代理因果基础，行为主义角度",
+    "index": 16,
+    "link": "https://arxiv.org/abs/2605.00248"
+  },
+  {
+    "title": "Agentic AI for Trip Planning Optimization Application",
+    "summary": "一个AI系统，用于优化行程规划",
+    "score": 7,
+    "category": "工具",
+    "long": "Agentic AI for Trip Planning Optimization Application是一个AI系统，用于优化行程规划。它通过协调多种工具和语言模型，提高行程规划的智能和效率。",
+    "short": "AI行程规划系统",
+    "tweet": "AI行程规划系统：智能提高",
+    "xiaohongshu": "AI行程规划系统，智能提高",
+    "index": 17,
+    "link": "https://arxiv.org/abs/2605.00276"
+  },
+  {
+    "title": "Token Arena: A Continuous Benchmark Unifying Energy and Cognition in AI Inference",
+    "summary": "一个持续性基准，用于评估AI推理的能量和认知",
+    "score": 7,
+    "category": "模型",
+    "long": "Token Arena是一个持续性基准，用于评估AI推理的能量和认知。它测量推理的五个核心维度：输出速度、时间到第一个令牌、工作负载混合价格、有效上下文和质量。",
+    "short": "AI推理能量和认知基准",
+    "tweet": "AI推理能量和认知基准：持续性评估",
+    "xiaohongshu": "AI推理能量和认知基准，持续性评估",
+    "index": 18,
+    "link": "https://arxiv.org/abs/2605.00300"
+  },
+  {
+    "title": "AgentFloor: How Far Up the tool use Ladder Can Small Open-Weight Models Go?",
+    "summary": "一个研究论文，探讨了小型开放权重模型在工具使用方面的能力",
+    "score": 6,
+    "category": "研究",
+    "long": "AgentFloor是一个研究论文，探讨了小型开放权重模型在工具使用方面的能力。它发现小型开放权重模型已经足够处理大部分短期、结构化的工具使用工作。",
+    "short": "小型开放权重模型工具使用能力",
+    "tweet": "小型开放权重模型工具使用能力：短期、结构化",
+    "xiaohongshu": "小型开放权重模型工具使用能力，短期、结构化",
+    "index": 19,
+    "link": "https://arxiv.org/abs/2605.00334"
+  },
+  {
+    "title": "TUR-DPO: Topology- and Uncertainty-Aware Direct Preference Optimization",
+    "summary": "一个优化算法，用于优化大型语言模型的偏好",
+    "score": 6,
+    "category": "模型",
+    "long": "TUR-DPO是一个优化算法，用于优化大型语言模型的偏好。它考虑了偏好的拓扑结构和不确定性。",
+    "short": "大型语言模型偏好优化",
+    "tweet": "大型语言模型偏好优化：拓扑结构和不确定性",
+    "xiaohongshu": "大型语言模型偏好优化，拓扑结构和不确定性",
+    "index": 14,
+    "link": "https://arxiv.org/abs/2605.00224"
+  },
+  {
+    "title": "LOCA: Minimal, Local, Causal Explanations for Jailbreak Success in Large Language Models",
+    "summary": "一个解释算法，用于解释大型语言模型的成功",
+    "score": 5,
+    "category": "模型",
+    "long": "LOCA是一个解释算法，用于解释大型语言模型的成功。它提供了最小化、局部的因果解释。",
+    "short": "大型语言模型成功解释",
+    "tweet": "大型语言模型成功解释：最小化、局部",
+    "xiaohongshu": "大型语言模型成功解释，最小化、局部",
+    "index": 12,
+    "link": "https://arxiv.org/abs/2605.00123"
+  }
+]
