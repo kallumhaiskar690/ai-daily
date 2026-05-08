@@ -1,0 +1,110 @@
+[
+  {
+    "title": "Terminus-4B: Can a Smaller Model Replace Frontier LLMs at Agentic Execution Tasks?",
+    "summary": "研究表明，一个小型语言模型可以在执行任务中与前沿模型竞争",
+    "score": 9,
+    "category": "模型",
+    "long": "研究人员开发了一个名为Terminus-4B的小型语言模型，用于执行任务。结果表明，Terminus-4B可以与前沿模型竞争，并在某些情况下甚至超过它们的表现。",
+    "short": "小型语言模型可以与前沿模型竞争",
+    "tweet": "Terminus-4B：小型语言模型挑战前沿模型！",
+    "xiaohongshu": "哇哦！小型语言模型竟然可以与前沿模型竞争！",
+    "index": 17,
+    "link": "https://arxiv.org/abs/2605.03195"
+  },
+  {
+    "title": "ADAPTS: Agentic Decomposition for Automated Protocol-agnostic Tracking of Symptoms",
+    "summary": "研究人员开发了一种框架，用于自动评估抑郁症和焦虑症的严重程度",
+    "score": 8,
+    "category": "研究",
+    "long": "研究人员开发了一种名为ADAPTS的框架，用于自动评估抑郁症和焦虑症的严重程度。结果表明，ADAPTS可以准确评估症状的严重程度，并且可以与人类专家的评估相比。",
+    "short": "自动评估抑郁症和焦虑症的严重程度",
+    "tweet": "ADAPTS：自动评估抑郁症和焦虑症的严重程度！",
+    "xiaohongshu": "哇哦！研究人员开发了一种自动评估抑郁症和焦虑症的严重程度的框架！",
+    "index": 19,
+    "link": "https://arxiv.org/abs/2605.03212"
+  },
+  {
+    "title": "Canvas is down as ShinyHunters threatens to leak schools’ data",
+    "summary": "Canvas平台出现问题，ShinyHunters威胁要泄露学校数据",
+    "score": 7,
+    "category": "安全",
+    "long": "Canvas平台出现问题，ShinyHunters威胁要泄露学校数据。研究人员表示，这是由于ShinyHunters的攻击而导致的。",
+    "short": "Canvas平台出现问题，ShinyHunters威胁要泄露学校数据",
+    "tweet": "Canvas平台出现问题，ShinyHunters威胁要泄露学校数据！",
+    "xiaohongshu": "哇哦！Canvas平台出现问题，ShinyHunters威胁要泄露学校数据！",
+    "index": 20,
+    "link": "https://www.theverge.com/tech/926458/canvas-shinyhunters-breach"
+  },
+  {
+    "title": "Maybe you shouldn't install new software for a bit",
+    "summary": "研究人员建议暂时不要安装新软件",
+    "score": 6,
+    "category": "安全",
+    "long": "研究人员建议暂时不要安装新软件，因为一些新软件可能存在安全漏洞。",
+    "short": "暂时不要安装新软件",
+    "tweet": "暂时不要安装新软件！",
+    "xiaohongshu": "哇哦！研究人员建议暂时不要安装新软件！",
+    "index": 21,
+    "link": "https://xeiaso.net/blog/2026/abstain-from-install/"
+  },
+  {
+    "title": "Dirtyfrag: Universal Linux LPE",
+    "summary": "研究人员发现了一个Linux LPE漏洞",
+    "score": 5,
+    "category": "安全",
+    "long": "研究人员发现了一个名为Dirtyfrag的Linux LPE漏洞。漏洞可以允许攻击者获得系统的最高权限。",
+    "short": "Linux LPE漏洞",
+    "tweet": "Linux LPE漏洞！",
+    "xiaohongshu": "哇哦！研究人员发现了一个Linux LPE漏洞！",
+    "index": 22,
+    "link": "https://www.openwall.com/lists/oss-security/2026/05/07/8"
+  },
+  {
+    "title": "The map that keeps Burning Man honest",
+    "summary": "研究人员开发了一种地图，用于监测Burning Man活动",
+    "score": 4,
+    "category": "其他",
+    "long": "研究人员开发了一种地图，用于监测Burning Man活动。地图可以帮助监测活动的安全和环境影响。",
+    "short": "Burning Man地图",
+    "tweet": "Burning Man地图！",
+    "xiaohongshu": "哇哦！研究人员开发了一种Burning Man地图！",
+    "index": 23,
+    "link": "https://www.not-ship.com/burning-man-moop/"
+  },
+  {
+    "title": "Pinocchio is weirder than you remembered",
+    "summary": "研究人员发现了Pinocchio的独特之处",
+    "score": 3,
+    "category": "其他",
+    "long": "研究人员发现了Pinocchio的独特之处。结果表明，Pinocchio的鼻子可以伸缩和弯曲。",
+    "short": "Pinocchio的独特之处",
+    "tweet": "Pinocchio的独特之处！",
+    "xiaohongshu": "哇哦！研究人员发现了Pinocchio的独特之处！",
+    "index": 24,
+    "link": "https://storica.club/blog/pinocchio-in-italian/"
+  },
+  {
+    "title": "Agents need control flow, not more prompts",
+    "summary": "研究人员建议AI代理需要控制流，而不是更多的提示",
+    "score": 2,
+    "category": "模型",
+    "long": "研究人员建议AI代理需要控制流，而不是更多的提示。结果表明，控制流可以帮助AI代理更好地理解任务。",
+    "short": "AI代理需要控制流",
+    "tweet": "AI代理需要控制流！",
+    "xiaohongshu": "哇哦！研究人员建议AI代理需要控制流！",
+    "index": 25,
+    "link": "https://bsuh.bearblog.dev/agents-need-control-flow/"
+  },
+  {
+    "title": "Researchers discover advanced language processing in the unconscious human brain",
+    "summary": "研究人员发现了人类大脑中高级语言处理能力",
+    "score": 1,
+    "category": "研究",
+    "long": "研究人员发现了人类大脑中高级语言处理能力。结果表明，人类大脑可以在无意识状态下进行语言处理。",
+    "short": "人类大脑中高级语言处理能力",
+    "tweet": "人类大脑中高级语言处理能力！",
+    "xiaohongshu": "哇哦！研究人员发现了人类大脑中高级语言处理能力！",
+    "index": 26,
+    "link": "https://www.bcm.edu/news/researchers-discover-advanced-language-processing-in-the-unconscious-human-brain"
+  }
+]
