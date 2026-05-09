@@ -1,0 +1,122 @@
+[
+  {
+    "title": "PRISM: Perception Reasoning Interleaved for Sequential Decision Making",
+    "summary": "PRISM是一种紧密耦合的感知-推理-决策框架，用于解决视觉语言模型的感知-推理-决策差距",
+    "score": 9,
+    "category": "模型",
+    "long": "PRISM通过动态问答管道紧密耦合感知和决策，实现了任务驱动的场景理解",
+    "short": "PRISM解决了视觉语言模型的感知-推理-决策差距",
+    "tweet": "PRISM: Perception Reasoning Interleaved for Sequential Decision Making",
+    "xiaohongshu": "PRISM让感知和决策变得更加紧密",
+    "index": 16,
+    "link": "https://arxiv.org/abs/2605.05407"
+  },
+  {
+    "title": "FinAgent-RAG: Agentic Retrieval-Augmented Generation for Financial Document Question Answering",
+    "summary": "FinAgent-RAG是一种基于迭代检索-推理循环的金融文档问答系统",
+    "score": 8,
+    "category": "模型",
+    "long": "FinAgent-RAG通过对比金融检索器和程序性推理模块实现了金融文档问答",
+    "short": "FinAgent-RAG解决了金融文档问答的复杂性",
+    "tweet": "FinAgent-RAG: Agentic Retrieval-Augmented Generation for Financial Document Question Answering",
+    "xiaohongshu": "FinAgent-RAG让金融文档问答变得更加高效",
+    "index": 17,
+    "link": "https://arxiv.org/abs/2605.05409"
+  },
+  {
+    "title": "LaTA: A Drop-in, FERPA-Compliant Local-LLM Autograder for Upper-Division STEM Coursework",
+    "summary": "LaTA是一种基于本地LLM的自动评分系统，适用于STEM课程",
+    "score": 8,
+    "category": "工具",
+    "long": "LaTA通过四阶段管道实现了自动评分，包括摄入、分段、评分和报告",
+    "short": "LaTA让STEM课程的自动评分变得更加高效",
+    "tweet": "LaTA: A Drop-in, FERPA-Compliant Local-LLM Autograder for Upper-Division STEM Coursework",
+    "xiaohongshu": "LaTA让STEM课程的自动评分变得更加简单",
+    "index": 18,
+    "link": "https://arxiv.org/abs/2605.05410"
+  },
+  {
+    "title": "From History to State: Constant-Context Skill Learning for LLM Agents",
+    "summary": "从历史到状态：LLM代理的恒定上下文技能学习",
+    "score": 8,
+    "category": "模型",
+    "long": "该框架通过恒定上下文技能学习实现了LLM代理的技能学习",
+    "short": "该框架让LLM代理的技能学习变得更加高效",
+    "tweet": "From History to State: Constant-Context Skill Learning for LLM Agents",
+    "xiaohongshu": "该框架让LLM代理的技能学习变得更加简单",
+    "index": 19,
+    "link": "https://arxiv.org/abs/2605.05413"
+  },
+  {
+    "title": "Google broke reCAPTCHA for de-googled Android users",
+    "summary": "谷歌破解了脱去谷歌的Android用户的reCAPTCHA",
+    "score": 7,
+    "category": "新闻",
+    "long": "该事件表明了谷歌的reCAPTCHA系统存在安全漏洞",
+    "short": "谷歌的reCAPTCHA系统存在安全漏洞",
+    "tweet": "Google broke reCAPTCHA for de-googled Android users",
+    "xiaohongshu": "谷歌的reCAPTCHA系统存在安全漏洞",
+    "index": 20,
+    "link": "https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users"
+  },
+  {
+    "title": "OpenAI's WebRTC problem",
+    "summary": "OpenAI的WebRTC问题",
+    "score": 7,
+    "category": "新闻",
+    "long": "该事件表明了OpenAI的WebRTC系统存在安全漏洞",
+    "short": "OpenAI的WebRTC系统存在安全漏洞",
+    "tweet": "OpenAI's WebRTC problem",
+    "xiaohongshu": "OpenAI的WebRTC系统存在安全漏洞",
+    "index": 21,
+    "link": "https://moq.dev/blog/webrtc-is-the-problem/"
+  },
+  {
+    "title": "Mythical Man Month",
+    "summary": "神话般的月份",
+    "score": 6,
+    "category": "新闻",
+    "long": "该事件表明了软件开发的复杂性",
+    "short": "软件开发的复杂性",
+    "tweet": "Mythical Man Month",
+    "xiaohongshu": "软件开发的复杂性",
+    "index": 22,
+    "link": "https://martinfowler.com/bliki/MythicalManMonth.html"
+  },
+  {
+    "title": "AI is breaking two vulnerability cultures",
+    "summary": "AI打破了两个脆弱的文化",
+    "score": 6,
+    "category": "新闻",
+    "long": "该事件表明了AI对脆弱文化的影响",
+    "short": "AI对脆弱文化的影响",
+    "tweet": "AI is breaking two vulnerability cultures",
+    "xiaohongshu": "AI对脆弱文化的影响",
+    "index": 23,
+    "link": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures"
+  },
+  {
+    "title": "Bitter Lessons from the ISSpresso",
+    "summary": "从ISSpresso中获得的苦涩的教训",
+    "score": 6,
+    "category": "新闻",
+    "long": "该事件表明了ISSpresso的复杂性",
+    "short": "ISSpresso的复杂性",
+    "tweet": "Bitter Lessons from the ISSpresso",
+    "xiaohongshu": "ISSpresso的复杂性",
+    "index": 24,
+    "link": "https://mceglowski.substack.com/p/bitter-lessons-from-the-isspresso"
+  },
+  {
+    "title": "The React2Shell Story",
+    "summary": "React2Shell的故事",
+    "score": 5,
+    "category": "新闻",
+    "long": "该事件表明了React2Shell的复杂性",
+    "short": "React2Shell的复杂性",
+    "tweet": "The React2Shell Story",
+    "xiaohongshu": "React2Shell的复杂性",
+    "index": 25,
+    "link": "https://lachlan.nz/blog/the-react2shell-story/"
+  }
+]
