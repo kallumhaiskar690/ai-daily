@@ -1,0 +1,110 @@
+[
+  {
+    "title": "AI Alignment",
+    "summary": "人工智能的目标不应该是实现某些最终目标，而是通过实践和行动来实现",
+    "score": 9,
+    "category": "研究",
+    "long": "人工智能的目标不应该是实现某些最终目标，而是通过实践和行动来实现。这种观点认为，人工智能的行为应该是基于现有的实践和行动，而不是基于某些预先设定的目标。",
+    "short": "人工智能的目标不应该是实现某些最终目标",
+    "tweet": "AI的目标不应该是实现某些最终目标，而是通过实践和行动来实现",
+    "xiaohongshu": "人工智能的目标不应该是实现某些最终目标，而是通过实践和行动来实现！",
+    "index": 0,
+    "link": "https://thegradient.pub/virtue-ethics-ai-alignment/"
+  },
+  {
+    "title": "AGI",
+    "summary": "AGI的实现需要考虑到人类的身体和身体的理解",
+    "score": 8,
+    "category": "研究",
+    "long": "AGI的实现需要考虑到人类的身体和身体的理解。当前的AGI模型主要基于语言的理解，而忽略了人类的身体和身体的理解。",
+    "short": "AGI需要考虑到人类的身体和身体的理解",
+    "tweet": "AGI的实现需要考虑到人类的身体和身体的理解",
+    "xiaohongshu": "AGI的实现需要考虑到人类的身体和身体的理解！",
+    "index": 1,
+    "link": "https://thegradient.pub/agi-is-not-multimodal/"
+  },
+  {
+    "title": "数学在机器学习中的作用",
+    "summary": "数学在机器学习中的作用正在发生变化",
+    "score": 7,
+    "category": "研究",
+    "long": "数学在机器学习中的作用正在发生变化。过去十年来，研究人员主要关注数学的理论基础，而现在更多的关注计算和工程的实践。",
+    "short": "数学在机器学习中的作用正在发生变化",
+    "tweet": "数学在机器学习中的作用正在发生变化",
+    "xiaohongshu": "数学在机器学习中的作用正在发生变化！",
+    "index": 2,
+    "link": "https://thegradient.pub/shape-symmetry-structure/"
+  },
+  {
+    "title": "LLM聊天机器人",
+    "summary": "LLM聊天机器人的能力正在不断提高",
+    "score": 6,
+    "category": "研究",
+    "long": "LLM聊天机器人的能力正在不断提高，但用户体验并没有随之提高。",
+    "short": "LLM聊天机器人的能力正在不断提高",
+    "tweet": "LLM聊天机器人的能力正在不断提高",
+    "xiaohongshu": "LLM聊天机器人的能力正在不断提高！",
+    "index": 3,
+    "link": "https://thegradient.pub/dialog/"
+  },
+  {
+    "title": "AI的正面愿景",
+    "summary": "AI的正面愿景需要基于人体健康的原则",
+    "score": 5,
+    "category": "研究",
+    "long": "AI的正面愿景需要基于人体健康的原则。目前的AI研究主要关注技术的发展，而忽略了人体健康的原则。",
+    "short": "AI的正面愿景需要基于人体健康的原则",
+    "tweet": "AI的正面愿景需要基于人体健康的原则",
+    "xiaohongshu": "AI的正面愿景需要基于人体健康的原则！",
+    "index": 4,
+    "link": "https://thegradient.pub/we-need-positive-visions-for-ai-grounded-in-wellbeing/"
+  },
+  {
+    "title": "LLM在财务市场的应用",
+    "summary": "LLM在财务市场的应用正在快速发展",
+    "score": 4,
+    "category": "商业",
+    "long": "LLM在财务市场的应用正在快速发展，结构化和非结构化数据都可以使用LLM来分析和预测。",
+    "short": "LLM在财务市场的应用正在快速发展",
+    "tweet": "LLM在财务市场的应用正在快速发展",
+    "xiaohongshu": "LLM在财务市场的应用正在快速发展！",
+    "index": 5,
+    "link": "https://thegradient.pub/financial-market-applications-of-llms/"
+  },
+  {
+    "title": "性别偏见在AI中的存在",
+    "summary": "性别偏见在AI中的存在是一个严重的问题",
+    "score": 3,
+    "category": "研究",
+    "long": "性别偏见在AI中的存在是一个严重的问题，需要通过多种方式来解决。",
+    "short": "性别偏见在AI中的存在是一个严重的问题",
+    "tweet": "性别偏见在AI中的存在是一个严重的问题",
+    "xiaohongshu": "性别偏见在AI中的存在是一个严重的问题！",
+    "index": 6,
+    "link": "https://thegradient.pub/gender-bias-in-ai/"
+  },
+  {
+    "title": "Mamba",
+    "summary": "Mamba是一个新的AI模型",
+    "score": 2,
+    "category": "工具",
+    "long": "Mamba是一个新的AI模型，基于State Space Models（SSMs），可以处理长序列的数据。",
+    "short": "Mamba是一个新的AI模型",
+    "tweet": "Mamba是一个新的AI模型",
+    "xiaohongshu": "Mamba是一个新的AI模型！",
+    "index": 7,
+    "link": "https://thegradient.pub/mamba-explained/"
+  },
+  {
+    "title": "自驾车",
+    "summary": "LLM在自驾车中的应用正在被探索",
+    "score": 1,
+    "category": "商业",
+    "long": "LLM在自驾车中的应用正在被探索，是否可以信任LLM来实现自驾车的目标是一个关键问题。",
+    "short": "LLM在自驾车中的应用正在被探索",
+    "tweet": "LLM在自驾车中的应用正在被探索",
+    "xiaohongshu": "LLM在自驾车中的应用正在被探索！",
+    "index": 8,
+    "link": "https://thegradient.pub/car-gpt/"
+  }
+]
