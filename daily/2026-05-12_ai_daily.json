@@ -1,0 +1,110 @@
+[
+  {
+    "title": "GraphDC: A Divide-and-Conquer Multi-Agent System for Scalable Graph Algorithm Reasoning",
+    "summary": "GraphDC是一种分解和协作的多智能体系统，用于可伸缩的图算法推理",
+    "score": 9,
+    "category": "模型",
+    "long": "GraphDC通过分解输入图形，分配每个子图给专门的代理进行局部推理，并使用主代理集成局部输出和子图之间的信息来产生最终解决方案",
+    "short": "可伸缩图算法推理",
+    "tweet": "GraphDC：分解和协作的多智能体系统，解决可伸缩图算法推理挑战",
+    "xiaohongshu": "图算法推理的新方法：GraphDC",
+    "index": 10,
+    "link": "https://arxiv.org/abs/2605.06671"
+  },
+  {
+    "title": "CASCADE: Case-Based Continual Adaptation for Large Language Models During Deployment",
+    "summary": "CASCADE是一种基于案例的持续适应框架，用于在部署期间改进大型语言模型",
+    "score": 9,
+    "category": "模型",
+    "long": "CASCADE通过建立一个显式的、不断演进的 episodic 内存，允许语言模型在部署期间改进",
+    "short": "持续适应大型语言模型",
+    "tweet": "CASCADE：基于案例的持续适应框架，改进大型语言模型",
+    "xiaohongshu": "语言模型的新方法：持续适应",
+    "index": 15,
+    "link": "https://arxiv.org/abs/2605.06702"
+  },
+  {
+    "title": "Hidden Coalitions in Multi-Agent AI: A Spectral Diagnostic from Internal Representations",
+    "summary": "该研究提出了一种基于内部表示的谱诊断方法，用于检测多智能体AI中的隐性联盟",
+    "score": 8,
+    "category": "研究",
+    "long": "该方法通过构建一个对应于多智能体系统内部表示的互信息图，并应用谱分区来识别最显著的联盟界限",
+    "short": "多智能体AI联盟检测",
+    "tweet": "多智能体AI联盟检测：基于内部表示的谱诊断",
+    "xiaohongshu": "多智能体AI的新发现：隐性联盟",
+    "index": 14,
+    "link": "https://arxiv.org/abs/2605.06696"
+  },
+  {
+    "title": "Weblica: Scalable and Reproducible Training Environments for Visual Web Agents",
+    "summary": "Weblica是一种可伸缩和可复现的训练环境框架，用于可视化网络代理",
+    "score": 8,
+    "category": "模型",
+    "long": "Weblica通过利用HTTP级别的缓存和LLM驱动的环境合成来捕捉和重放稳定的可视化状态",
+    "short": "可视化网络代理训练环境",
+    "tweet": "Weblica：可伸缩和可复现的训练环境框架，改进可视化网络代理",
+    "xiaohongshu": "网络代理的新方法：可视化训练环境",
+    "index": 18,
+    "link": "https://arxiv.org/abs/2605.06761"
+  },
+  {
+    "title": "From Storage to Experience: A Survey on the Evolution of LLM Agent Memory Mechanisms",
+    "summary": "该研究提出了一种新颖的进化框架，用于理解LLM代理记忆机制的发展",
+    "score": 8,
+    "category": "研究",
+    "long": "该框架通过将记忆机制的发展分为三个阶段：存储、反思和体验",
+    "short": "LLM代理记忆机制进化",
+    "tweet": "LLM代理记忆机制进化：从存储到体验",
+    "xiaohongshu": "LLM代理的新发现：记忆机制进化",
+    "index": 16,
+    "link": "https://arxiv.org/abs/2605.06716"
+  },
+  {
+    "title": "When Does a Language Model Commit? A Finite-Answer Theory of Pre-Verbalization Commitment",
+    "summary": "该研究提出了一种有限答案理论，用于理解语言模型的答案偏好稳定性",
+    "score": 7,
+    "category": "研究",
+    "long": "该理论通过将模型状态和指定答案词化器投影到一个有限答案集上来定义答案偏好稳定性",
+    "short": "语言模型答案偏好稳定性",
+    "tweet": "语言模型答案偏好稳定性：有限答案理论",
+    "xiaohongshu": "语言模型的新发现：答案偏好稳定性",
+    "index": 17,
+    "link": "https://arxiv.org/abs/2605.06723"
+  },
+  {
+    "title": "SCALAR: Structured Critic--Actor Loop for Agentic Reasoning",
+    "summary": "SCALAR是一种结构化的评估者-行为者循环框架，用于改进智能体推理",
+    "score": 7,
+    "category": "模型",
+    "long": "SCALAR通过将评估者和行为者组合起来，提供一个多轮对话框架",
+    "short": "智能体推理框架",
+    "tweet": "SCALAR：结构化的评估者-行为者循环框架，改进智能体推理",
+    "xiaohongshu": "智能体的新方法：结构化的评估者-行为者循环",
+    "index": 19,
+    "link": "https://arxiv.org/abs/2605.06772"
+  },
+  {
+    "title": "AGI Is Not Multimodal",
+    "summary": "该文章提出，AGI不是多模式的",
+    "score": 6,
+    "category": "研究",
+    "long": "该文章通过指出，当前的成功是基于语言模型的",
+    "short": "AGI不是多模式的",
+    "tweet": "AGI不是多模式的：当前的成功是基于语言模型的",
+    "xiaohongshu": "AGI的新发现：不是多模式的",
+    "index": 1,
+    "link": "https://thegradient.pub/agi-is-not-multimodal/"
+  },
+  {
+    "title": "Shape, Symmetries, and Structure: The Changing Role of Mathematics in Machine Learning Research",
+    "summary": "该文章探讨了机器学习研究中数学的作用变化",
+    "score": 6,
+    "category": "研究",
+    "long": "该文章通过指出，过去十年来，数学在机器学习研究中的作用发生了变化",
+    "short": "机器学习研究中的数学作用变化",
+    "tweet": "机器学习研究中的数学作用变化：过去十年来的变化",
+    "xiaohongshu": "机器学习的新发现：数学作用变化",
+    "index": 2,
+    "link": "https://thegradient.pub/shape-symmetry-structure/"
+  }
+]
