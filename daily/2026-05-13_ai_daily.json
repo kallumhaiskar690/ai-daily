@@ -1,0 +1,122 @@
+[
+  {
+    "title": "PLACO: A Multi-Stage Framework for Cost-Effective Performance in Human-AI Teams",
+    "summary": "PLACO是一种多阶段框架，旨在提高人工智能团队的整体性能",
+    "score": 9,
+    "category": "模型",
+    "long": "PLACO通过结合人类和模型的输出来提高整体性能，尤其是在分类任务中",
+    "short": "提高人工智能团队的整体性能",
+    "tweet": "PLACO：提高人工智能团队整体性能的多阶段框架",
+    "xiaohongshu": "PLACO：让人工智能团队的整体性能达到新的高度",
+    "index": 17,
+    "link": "https://arxiv.org/abs/2605.08388"
+  },
+  {
+    "title": "CoCoDA: Co-evolving Compositional DAG for Tool-Augmented Agents",
+    "summary": "CoCoDA是一种框架，旨在协同演化工具库和规划器",
+    "score": 8,
+    "category": "模型",
+    "long": "CoCoDA通过构建一个可组合的代码图来协同演化工具库和规划器",
+    "short": "协同演化工具库和规划器",
+    "tweet": "CoCoDA：协同演化工具库和规划器的框架",
+    "xiaohongshu": "CoCoDA：让工具库和规划器协同演化",
+    "index": 18,
+    "link": "https://arxiv.org/abs/2605.08399"
+  },
+  {
+    "title": "MemQ: Integrating Q-Learning into Self-Evolving Memory Agents over Provenance DAGs",
+    "summary": "MemQ是一种框架，旨在集成Q学习到自我演化记忆代理",
+    "score": 8,
+    "category": "模型",
+    "long": "MemQ通过将Q学习集成到自我演化记忆代理中来提高记忆的可靠性",
+    "short": "提高记忆的可靠性",
+    "tweet": "MemQ：集成Q学习到自我演化记忆代理",
+    "xiaohongshu": "MemQ：让记忆代理更可靠",
+    "index": 15,
+    "link": "https://arxiv.org/abs/2605.08374"
+  },
+  {
+    "title": "SkillLens: Adaptive Multi-Granularity Skill Reuse for Cost-Efficient LLM Agents",
+    "summary": "SkillLens是一种框架，旨在提高LLM代理的技能重用效率",
+    "score": 8,
+    "category": "模型",
+    "long": "SkillLens通过构建一个技能图来提高技能重用效率",
+    "short": "提高技能重用效率",
+    "tweet": "SkillLens：提高LLM代理技能重用效率的框架",
+    "xiaohongshu": "SkillLens：让LLM代理的技能重用更高效",
+    "index": 16,
+    "link": "https://arxiv.org/abs/2605.08386"
+  },
+  {
+    "title": "Restore full BambuNetwork support for Bambu Lab printers",
+    "summary": "恢复BambuNetwork对Bambu Lab打印机的支持",
+    "score": 6,
+    "category": "其他",
+    "long": "恢复BambuNetwork对Bambu Lab打印机的支持",
+    "short": "恢复BambuNetwork对Bambu Lab打印机的支持",
+    "tweet": "恢复BambuNetwork对Bambu Lab打印机的支持",
+    "xiaohongshu": "恢复BambuNetwork对Bambu Lab打印机的支持",
+    "index": 20,
+    "link": "https://github.com/FULU-Foundation/OrcaSlicer-bambulab"
+  },
+  {
+    "title": "Googlebook",
+    "summary": "Googlebook",
+    "score": 5,
+    "category": "其他",
+    "long": "Googlebook",
+    "short": "Googlebook",
+    "tweet": "Googlebook",
+    "xiaohongshu": "Googlebook",
+    "index": 21,
+    "link": "https://googlebook.google/"
+  },
+  {
+    "title": "My graduation cap runs Rust",
+    "summary": "毕业帽子使用Rust",
+    "score": 5,
+    "category": "其他",
+    "long": "毕业帽子使用Rust",
+    "short": "毕业帽子使用Rust",
+    "tweet": "毕业帽子使用Rust",
+    "xiaohongshu": "毕业帽子使用Rust",
+    "index": 22,
+    "link": "https://ericswpark.com/blog/2026/2026-05-12-my-graduation-cap-runs-rust/"
+  },
+  {
+    "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
+    "summary": "展示HN：针：我们将金星工具调用压缩到26M模型",
+    "score": 5,
+    "category": "其他",
+    "long": "展示HN：针：我们将金星工具调用压缩到26M模型",
+    "short": "展示HN：针：我们将金星工具调用压缩到26M模型",
+    "tweet": "展示HN：针：我们将金星工具调用压缩到26M模型",
+    "xiaohongshu": "展示HN：针：我们将金星工具调用压缩到26M模型",
+    "index": 23,
+    "link": "https://github.com/cactus-compute/needle"
+  },
+  {
+    "title": "Kraftwerk's radical 1976 track",
+    "summary": "1976年的Kraftwerk的曲目",
+    "score": 5,
+    "category": "其他",
+    "long": "1976年的Kraftwerk的曲目",
+    "short": "1976年的Kraftwerk的曲目",
+    "tweet": "1976年的Kraftwerk的曲目",
+    "xiaohongshu": "1976年的Kraftwerk的曲目",
+    "index": 24,
+    "link": "https://www.bbc.com/culture/article/20260511-kraftwerks-radical-1976-track-radioactivity-became-an-anti-nuclear-anthem"
+  },
+  {
+    "title": "How to make your text look futuristic (2016)",
+    "summary": "如何让文本看起来像未来一样（2016）",
+    "score": 5,
+    "category": "其他",
+    "long": "如何让文本看起来像未来一样（2016）",
+    "short": "如何让文本看起来像未来一样（2016）",
+    "tweet": "如何让文本看起来像未来一样（2016）",
+    "xiaohongshu": "如何让文本看起来像未来一样（2016）",
+    "index": 25,
+    "link": "https://typesetinthefuture.com/2016/02/18/futuristic/"
+  }
+]
