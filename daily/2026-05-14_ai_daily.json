@@ -1,0 +1,110 @@
+[
+  {
+    "title": "MemQ: Integrating Q-Learning into Self-Evolving Memory Agents",
+    "summary": "MemQ是一种集成Q学习和自我演化记忆代理的框架，用于提高LLM的学习效率和适应性。",
+    "score": 9,
+    "category": "模型",
+    "long": "MemQ通过将Q学习和自我演化记忆代理结合起来，提高了LLM的学习效率和适应性。它通过使用TD(λ) eligiblity traces来评估记忆的价值，进而指导代理的学习过程。",
+    "short": "集成Q学习和自我演化记忆代理的框架",
+    "tweet": "MemQ：集成Q学习和自我演化记忆代理的框架，提高LLM的学习效率和适应性！",
+    "xiaohongshu": "哇！MemQ这款框架让LLM的学习效率和适应性都大大提高了！",
+    "index": 15,
+    "link": "https://arxiv.org/abs/2605.08374"
+  },
+  {
+    "title": "SkillLens: Adaptive Multi-Granularity Skill Reuse for Cost-Efficient LLM Agents",
+    "summary": "SkillLens是一种适应性多粒度技能重用框架，用于提高LLM的效率和适应性。",
+    "score": 8,
+    "category": "模型",
+    "long": "SkillLens通过使用四层图结构来组织技能，实现适应性多粒度技能重用。它通过使用degree-corrected random walk来扩展技能，进而提高了LLM的效率和适应性。",
+    "short": "适应性多粒度技能重用框架",
+    "tweet": "SkillLens：适应性多粒度技能重用框架，提高LLM的效率和适应性！",
+    "xiaohongshu": "哇！SkillLens这款框架让LLM的效率和适应性都大大提高了！",
+    "index": 16,
+    "link": "https://arxiv.org/abs/2605.08386"
+  },
+  {
+    "title": "PLACO: A Multi-Stage Framework for Cost-Effective Performance in Human-AI Teams",
+    "summary": "PLACO是一种多阶段框架，用于提高人机团队的性能和效率。",
+    "score": 8,
+    "category": "模型",
+    "long": "PLACO通过使用Bayes规则来组合人类和模型的输出，进而提高了人机团队的性能和效率。",
+    "short": "多阶段框架",
+    "tweet": "PLACO：多阶段框架，提高人机团队的性能和效率！",
+    "xiaohongshu": "哇！PLACO这款框架让人机团队的性能和效率都大大提高了！",
+    "index": 17,
+    "link": "https://arxiv.org/abs/2605.08388"
+  },
+  {
+    "title": "CoCoDA: Co-evolving Compositional DAG for Tool-Augmented Agents",
+    "summary": "CoCoDA是一种协同进化的组合图结构框架，用于提高工具增强代理的效率和适应性。",
+    "score": 8,
+    "category": "模型",
+    "long": "CoCoDA通过使用组合图结构来组织工具和代理，进而提高了工具增强代理的效率和适应性。",
+    "short": "协同进化的组合图结构框架",
+    "tweet": "CoCoDA：协同进化的组合图结构框架，提高工具增强代理的效率和适应性！",
+    "xiaohongshu": "哇！CoCoDA这款框架让工具增强代理的效率和适应性都大大提高了！",
+    "index": 18,
+    "link": "https://arxiv.org/abs/2605.08399"
+  },
+  {
+    "title": "Belief or Circuitry? Causal Evidence for In-Context Graph Learning",
+    "summary": "本文探讨了LLM在上下文图学习中的学习机制，是否是通过模式匹配或推理结构。",
+    "score": 7,
+    "category": "模型",
+    "long": "本文通过使用PCA和残差流激活图来探讨LLM在上下文图学习中的学习机制。结果表明，LLM在学习图结构时使用了推理结构和模式匹配的机制。",
+    "short": "探讨LLM在上下文图学习中的学习机制",
+    "tweet": "Belief or Circuitry?：探讨LLM在上下文图学习中的学习机制！",
+    "xiaohongshu": "哇！这篇论文探讨了LLM在上下文图学习中的学习机制，真的是很有意思！",
+    "index": 19,
+    "link": "https://arxiv.org/abs/2605.08405"
+  },
+  {
+    "title": "Scorched Earth 2000 – Web",
+    "summary": "本文讨论了Web上的Scorched Earth 2000的评论和讨论。",
+    "score": 6,
+    "category": "其他",
+    "long": "本文通过收集Web上的评论和讨论，探讨了Scorched Earth 2000的影响和意义。",
+    "short": "Web上的Scorched Earth 2000评论",
+    "tweet": "Scorched Earth 2000：Web上的评论和讨论！",
+    "xiaohongshu": "哇！这篇文章收集了Web上的Scorched Earth 2000的评论和讨论，真的是很有趣！",
+    "index": 20,
+    "link": "http://www.scorch2000.com/web/"
+  },
+  {
+    "title": "Cisco Workforce Reductions",
+    "summary": "本文讨论了Cisco的员工减少和裁员。",
+    "score": 6,
+    "category": "其他",
+    "long": "本文通过收集新闻和评论，探讨了Cisco的员工减少和裁员的影响和意义。",
+    "short": "Cisco员工减少和裁员",
+    "tweet": "Cisco Workforce Reductions：员工减少和裁员！",
+    "xiaohongshu": "哇！这篇文章讨论了Cisco的员工减少和裁员，真的是很有意思！",
+    "index": 21,
+    "link": "https://blogs.cisco.com/news/our-path-forward"
+  },
+  {
+    "title": "Linux gaming is faster because Windows APIs are becoming Linux kernel features",
+    "summary": "本文讨论了Linux游戏的速度提高和Windows API的变化。",
+    "score": 6,
+    "category": "其他",
+    "long": "本文通过分析Linux和Windows的API变化，探讨了Linux游戏的速度提高的原因和意义。",
+    "short": "Linux游戏速度提高",
+    "tweet": "Linux gaming is faster：Windows API变成Linux kernel特性！",
+    "xiaohongshu": "哇！这篇文章讨论了Linux游戏的速度提高和Windows API的变化，真的是很有趣！",
+    "index": 22,
+    "link": "https://www.xda-developers.com/linux-gaming-is-getting-faster-because-windows-apis-are-becoming-linux-kernel-features/"
+  },
+  {
+    "title": "Setting up a free *.city.state.us locality domain (2025)",
+    "summary": "本文讨论了设置免费的*.city.state.us域名的方法和步骤。",
+    "score": 5,
+    "category": "其他",
+    "long": "本文通过提供设置步骤和方法，帮助用户设置免费的*.city.state.us域名。",
+    "short": "设置免费的*.city.state.us域名",
+    "tweet": "Setting up a free *.city.state.us locality domain：2025！",
+    "xiaohongshu": "哇！这篇文章提供了设置免费的*.city.state.us域名的方法和步骤，真的是很有帮助！",
+    "index": 23,
+    "link": "https://fredchan.org/blog/locality-domains-guide/"
+  }
+]
