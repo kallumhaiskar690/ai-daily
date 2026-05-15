@@ -1,0 +1,110 @@
+[
+  {
+    "title": "从描述性到criptive：揭示LLM-基于的代理的社会价值对齐",
+    "summary": "研究提出了一种新颖的价值框架，使用GraphRAG将原则转换为价值指令，指导代理行为",
+    "score": 9,
+    "category": "研究",
+    "long": "该框架评估了代理行为的预期比率，使用了著名的理论，Maslow的需要层次和Plutchik的情绪轮",
+    "short": "研究揭示了LLM-基于的代理的社会价值对齐",
+    "tweet": "研究揭示了LLM-基于的代理的社会价值对齐！",
+    "xiaohongshu": "哇哦！研究揭示了LLM-基于的代理的社会价值对齐！",
+    "index": 18,
+    "link": "https://arxiv.org/abs/2605.14034"
+  },
+  {
+    "title": "从描述性到criptive：揭示LLM-基于的代理的社会价值对齐",
+    "summary": "研究提出了一种新颖的价值框架，使用GraphRAG将原则转换为价值指令，指导代理行为",
+    "score": 9,
+    "category": "研究",
+    "long": "该框架评估了代理行为的预期比率，使用了著名的理论，Maslow的需要层次和Plutchik的情绪轮",
+    "short": "研究揭示了LLM-基于的代理的社会价值对齐",
+    "tweet": "研究揭示了LLM-基于的代理的社会价值对齐！",
+    "xiaohongshu": "哇哦！研究揭示了LLM-基于的代理的社会价值对齐！",
+    "index": 18,
+    "link": "https://arxiv.org/abs/2605.14034"
+  },
+  {
+    "title": "Sheaf-Theoretic Transport and Obstruction for Detecting Scientific Theory Shift in AI Agents",
+    "summary": "研究开发了一种有限的sheaf-theoretic框架，检测理论转移和阻碍",
+    "score": 8,
+    "category": "研究",
+    "long": "该框架评估了上下文的局部到全局结构，检测理论转移和阻碍",
+    "short": "研究开发了一种新的框架，检测理论转移和阻碍",
+    "tweet": "研究开发了一种新的框架，检测理论转移和阻碍！",
+    "xiaohongshu": "哇哦！研究开发了一种新的框架，检测理论转移和阻碍！",
+    "index": 17,
+    "link": "https://arxiv.org/abs/2605.14033"
+  },
+  {
+    "title": "Conditional Attribute Estimation with Autoregressive Sequence Models",
+    "summary": "研究提出了一种新的方法，估计序列属性",
+    "score": 8,
+    "category": "研究",
+    "long": "该方法使用条件属性变换器，估计序列属性",
+    "short": "研究提出了一种新的方法，估计序列属性",
+    "tweet": "研究提出了一种新的方法，估计序列属性！",
+    "xiaohongshu": "哇哦！研究提出了一种新的方法，估计序列属性！",
+    "index": 16,
+    "link": "https://arxiv.org/abs/2605.14004"
+  },
+  {
+    "title": "PREPING：在没有任务的情况下构建代理记忆",
+    "summary": "研究提出了一种新的框架，构建代理记忆",
+    "score": 7,
+    "category": "研究",
+    "long": "该框架使用提出者引导的记忆构建方法",
+    "short": "研究提出了一种新的框架，构建代理记忆",
+    "tweet": "研究提出了一种新的框架，构建代理记忆！",
+    "xiaohongshu": "哇哦！研究提出了一种新的框架，构建代理记忆！",
+    "index": 14,
+    "link": "https://arxiv.org/abs/2605.13880"
+  },
+  {
+    "title": "GraphBit：一种图形基的代理框架",
+    "summary": "研究提出了一种新的代理框架",
+    "score": 7,
+    "category": "研究",
+    "long": "该框架使用图形结构来定义工作流",
+    "short": "研究提出了一种新的代理框架",
+    "tweet": "研究提出了一种新的代理框架！",
+    "xiaohongshu": "哇哦！研究提出了一种新的代理框架！",
+    "index": 10,
+    "link": "https://arxiv.org/abs/2605.13848"
+  },
+  {
+    "title": "Mamba：一种新的AI模型",
+    "summary": "研究提出了一种新的AI模型",
+    "score": 6,
+    "category": "研究",
+    "long": "该模型使用状态空间模型",
+    "short": "研究提出了一种新的AI模型",
+    "tweet": "研究提出了一种新的AI模型！",
+    "xiaohongshu": "哇哦！研究提出了一种新的AI模型！",
+    "index": 7,
+    "link": "https://thegradient.pub/mamba-explained/"
+  },
+  {
+    "title": "Car-GPT：LLM是否可以使自主驾驶汽车成为现实",
+    "summary": "研究探讨了LLM在自主驾驶汽车中的应用",
+    "score": 6,
+    "category": "研究",
+    "long": "该研究评估了LLM在自主驾驶汽车中的应用",
+    "short": "研究探讨了LLM在自主驾驶汽车中的应用",
+    "tweet": "研究探讨了LLM在自主驾驶汽车中的应用！",
+    "xiaohongshu": "哇哦！研究探讨了LLM在自主驾驶汽车中的应用！",
+    "index": 8,
+    "link": "https://thegradient.pub/car-gpt/"
+  },
+  {
+    "title": "A Brief Overview of Gender Bias in AI",
+    "summary": "研究概述了AI中的性别偏见",
+    "score": 5,
+    "category": "研究",
+    "long": "该研究评估了AI中的性别偏见",
+    "short": "研究概述了AI中的性别偏见",
+    "tweet": "研究概述了AI中的性别偏见！",
+    "xiaohongshu": "哇哦！研究概述了AI中的性别偏见！",
+    "index": 6,
+    "link": "https://thegradient.pub/gender-bias-in-ai/"
+  }
+]
