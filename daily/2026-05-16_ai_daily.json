@@ -1,0 +1,110 @@
+[
+  {
+    "title": "AGI Is Not Multimodal",
+    "summary": "AI模型的成功并不意味着AGI的到来",
+    "score": 9,
+    "category": "模型",
+    "long": "AGI的到来并不是通过单一的AI模型实现的,而是需要多个模型和技术的结合",
+    "short": "AI模型的成功并不意味着AGI的到来",
+    "tweet": "AGI的到来并不是通过单一的AI模型实现的,需要多个模型和技术的结合",
+    "xiaohongshu": "AGI的到来并不像我们想象的那样简单",
+    "index": 1,
+    "link": "https://thegradient.pub/agi-is-not-multimodal/"
+  },
+  {
+    "title": "Shape, Symmetries, and Structure: The Changing Role of Mathematics in Machine Learning Research",
+    "summary": "机器学习领域数学的作用在变化",
+    "score": 8,
+    "category": "研究",
+    "long": "机器学习领域数学的作用在变化,从传统的数学方法到计算机科学的方法",
+    "short": "机器学习领域数学的作用在变化",
+    "tweet": "机器学习领域数学的作用在变化,从传统的数学方法到计算机科学的方法",
+    "xiaohongshu": "机器学习领域数学的作用在变化,需要我们适应新的方法",
+    "index": 2,
+    "link": "https://thegradient.pub/shape-symmetry-structure/"
+  },
+  {
+    "title": "What's Missing From LLM Chatbots: A Sense of Purpose",
+    "summary": "LLM聊天机器人缺乏目的感",
+    "score": 8,
+    "category": "模型",
+    "long": "LLM聊天机器人缺乏目的感,需要更多的用户体验和人性化",
+    "short": "LLM聊天机器人缺乏目的感",
+    "tweet": "LLM聊天机器人缺乏目的感,需要更多的用户体验和人性化",
+    "xiaohongshu": "LLM聊天机器人缺乏目的感,需要我们重新设计",
+    "index": 3,
+    "link": "https://thegradient.pub/dialog/"
+  },
+  {
+    "title": "We Need Positive Visions for AI Grounded in Wellbeing",
+    "summary": "我们需要基于幸福感的AI",
+    "score": 8,
+    "category": "商业",
+    "long": "我们需要基于幸福感的AI,以促进人类的幸福感和社会价值",
+    "short": "我们需要基于幸福感的AI",
+    "tweet": "我们需要基于幸福感的AI,以促进人类的幸福感和社会价值",
+    "xiaohongshu": "我们需要基于幸福感的AI,让AI更有价值",
+    "index": 4,
+    "link": "https://thegradient.pub/we-need-positive-visions-for-ai-grounded-in-wellbeing/"
+  },
+  {
+    "title": "Financial Market Applications of LLMs",
+    "summary": "LLM在金融市场的应用",
+    "score": 7,
+    "category": "商业",
+    "long": "LLM在金融市场的应用,包括风险评估和投资决策",
+    "short": "LLM在金融市场的应用",
+    "tweet": "LLM在金融市场的应用,包括风险评估和投资决策",
+    "xiaohongshu": "LLM在金融市场的应用,让我们更好地了解市场",
+    "index": 5,
+    "link": "https://thegradient.pub/financial-market-applications-of-llms/"
+  },
+  {
+    "title": "A Brief Overview of Gender Bias in AI",
+    "summary": "AI中的性别偏见",
+    "score": 7,
+    "category": "研究",
+    "long": "AI中的性别偏见,包括数据收集和模型训练的影响",
+    "short": "AI中的性别偏见",
+    "tweet": "AI中的性别偏见,包括数据收集和模型训练的影响",
+    "xiaohongshu": "AI中的性别偏见,需要我们更加关注",
+    "index": 6,
+    "link": "https://thegradient.pub/gender-bias-in-ai/"
+  },
+  {
+    "title": "Mamba Explained",
+    "summary": "Mamba AI模型",
+    "score": 7,
+    "category": "模型",
+    "long": "Mamba AI模型,包括其优点和缺点",
+    "short": "Mamba AI模型",
+    "tweet": "Mamba AI模型,包括其优点和缺点",
+    "xiaohongshu": "Mamba AI模型,让我们更好地了解AI",
+    "index": 7,
+    "link": "https://thegradient.pub/mamba-explained/"
+  },
+  {
+    "title": "Car-GPT: Could LLMs finally make self-driving cars happen?",
+    "summary": "LLM在自主驾驶汽车中的应用",
+    "score": 6,
+    "category": "商业",
+    "long": "LLM在自主驾驶汽车中的应用,包括安全性和可靠性",
+    "short": "LLM在自主驾驶汽车中的应用",
+    "tweet": "LLM在自主驾驶汽车中的应用,包括安全性和可靠性",
+    "xiaohongshu": "LLM在自主驾驶汽车中的应用,让我们更好地了解汽车",
+    "index": 8,
+    "link": "https://thegradient.pub/car-gpt/"
+  },
+  {
+    "title": "GraphBit: A Graph-based Agentic Framework for Non-Linear Agent Orchestration",
+    "summary": "GraphBit AI框架",
+    "score": 6,
+    "category": "模型",
+    "long": "GraphBit AI框架,包括其优点和缺点",
+    "short": "GraphBit AI框架",
+    "tweet": "GraphBit AI框架,包括其优点和缺点",
+    "xiaohongshu": "GraphBit AI框架,让我们更好地了解AI",
+    "index": 10,
+    "link": "https://arxiv.org/abs/2605.13848"
+  }
+]
