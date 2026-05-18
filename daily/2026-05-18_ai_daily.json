@@ -1,0 +1,110 @@
+[
+  {
+    "title": "Verifiable Agentic Infrastructure",
+    "summary": "一种可验证的自主系统基础设施，确保自主系统的安全性和可信度",
+    "score": 9,
+    "category": "模型",
+    "long": "该系统使用分布式信任框架（DTF）来计算执行权限，从而确保自主系统的安全性和可信度。DTF使用证明对象、共识模型和执行身份来实现这一目标。",
+    "short": "可验证的自主系统基础设施",
+    "tweet": "Verifiable Agentic Infrastructure: Ensuring Autonomous Systems' Security & Trustworthiness",
+    "xiaohongshu": "自主系统的安全性和可信度，都是建立在可验证的基础设施之上的",
+    "index": 19,
+    "link": "https://arxiv.org/abs/2605.15228"
+  },
+  {
+    "title": "GenCAD",
+    "summary": "一种用于生成 CAD 设计的 AI 模型",
+    "score": 8,
+    "category": "模型",
+    "long": "GenCAD 是一种用于生成 CAD 设计的 AI 模型，能够根据用户的需求生成高质量的 CAD 设计。",
+    "short": "用于生成 CAD 设计的 AI 模型",
+    "tweet": "GenCAD: AI-Generated CAD Designs",
+    "xiaohongshu": "GenCAD，一个可以帮助你生成高质量 CAD 设计的 AI 模型",
+    "index": 20,
+    "link": "https://gencad.github.io/"
+  },
+  {
+    "title": "ICRL",
+    "summary": "一种用于学习内部批评的框架",
+    "score": 8,
+    "category": "模型",
+    "long": "ICRL 是一种用于学习内部批评的框架，能够帮助自主系统学习内部批评的能力。",
+    "short": "用于学习内部批评的框架",
+    "tweet": "ICRL: Learning Internal Critique",
+    "xiaohongshu": "ICRL，一个可以帮助自主系统学习内部批评的能力的框架",
+    "index": 17,
+    "link": "https://arxiv.org/abs/2605.15224"
+  },
+  {
+    "title": "NIMO Controller",
+    "summary": "一种用于自驾实验室的控制器",
+    "score": 7,
+    "category": "模型",
+    "long": "NIMO Controller 是一种用于自驾实验室的控制器，能够帮助实验室的自动化和可靠性。",
+    "short": "用于自驾实验室的控制器",
+    "tweet": "NIMO Controller: Self-Driving Laboratory Orchestrator",
+    "xiaohongshu": "NIMO Controller，一个可以帮助实验室的自动化和可靠性的控制器",
+    "index": 18,
+    "link": "https://arxiv.org/abs/2605.15227"
+  },
+  {
+    "title": "SDOF",
+    "summary": "一种用于多智能体协调的框架",
+    "score": 7,
+    "category": "模型",
+    "long": "SDOF 是一种用于多智能体协调的框架，能够帮助多智能体系统的协调和可靠性。",
+    "short": "用于多智能体协调的框架",
+    "tweet": "SDOF: Multi-Agent Orchestration Framework",
+    "xiaohongshu": "SDOF，一个可以帮助多智能体系统的协调和可靠性的框架",
+    "index": 11,
+    "link": "https://arxiv.org/abs/2605.15204"
+  },
+  {
+    "title": "Mamba",
+    "summary": "一种用于序列处理的新型 AI 模型",
+    "score": 6,
+    "category": "模型",
+    "long": "Mamba 是一种用于序列处理的新型 AI 模型，能够比传统的 Transformer 模型更有效地处理长序列。",
+    "short": "用于序列处理的新型 AI 模型",
+    "tweet": "Mamba: New AI Model for Sequence Processing",
+    "xiaohongshu": "Mamba，一个可以比传统的 Transformer 模型更有效地处理长序列的新型 AI 模型",
+    "index": 7,
+    "link": "https://thegradient.pub/mamba-explained/"
+  },
+  {
+    "title": "DeepSlide",
+    "summary": "一种用于生成演讲的 AI 模型",
+    "score": 6,
+    "category": "模型",
+    "long": "DeepSlide 是一种用于生成演讲的 AI 模型，能够帮助用户生成高质量的演讲。",
+    "short": "用于生成演讲的 AI 模型",
+    "tweet": "DeepSlide: AI-Powered Presentation Generator",
+    "xiaohongshu": "DeepSlide，一个可以帮助用户生成高质量演讲的 AI 模型",
+    "index": 10,
+    "link": "https://arxiv.org/abs/2605.15202"
+  },
+  {
+    "title": "CAX-Agent",
+    "summary": "一种用于 MAPDL 自动化的 AI 模型",
+    "score": 5,
+    "category": "模型",
+    "long": "CAX-Agent 是一种用于 MAPDL 自动化的 AI 模型，能够帮助用户自动化 MAPDL 流程。",
+    "short": "用于 MAPDL 自动化的 AI 模型",
+    "tweet": "CAX-Agent: AI-Powered MAPDL Automation",
+    "xiaohongshu": "CAX-Agent，一个可以帮助用户自动化 MAPDL 流程的 AI 模型",
+    "index": 15,
+    "link": "https://arxiv.org/abs/2605.15218"
+  },
+  {
+    "title": "Fair outputs, Biased Internals",
+    "summary": "一种用于检测潜在偏见的框架",
+    "score": 5,
+    "category": "模型",
+    "long": "Fair outputs, Biased Internals 是一种用于检测潜在偏见的框架，能够帮助用户检测 AI 模型的潜在偏见。",
+    "short": "用于检测潜在偏见的框架",
+    "tweet": "Fair outputs, Biased Internals: Detecting Hidden Biases",
+    "xiaohongshu": "Fair outputs, Biased Internals，一个可以帮助用户检测 AI 模型的潜在偏见的框架",
+    "index": 14,
+    "link": "https://arxiv.org/abs/2605.15217"
+  }
+]
