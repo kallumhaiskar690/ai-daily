@@ -1,0 +1,110 @@
+[
+  {
+    "title": "AgentWall: A Runtime Safety Layer for Local AI Agents",
+    "summary": "开发了一种运行时安全和可观察性层，用于本地AI代理",
+    "score": 9,
+    "category": "模型",
+    "long": "AgentWall是一种运行时安全和可观察性层，用于本地AI代理。它可以拦截每个拟议的代理动作，评估它是否符合一个明确的声明性政策，要求人类批准敏感操作，并记录执行的完整轨迹以供审计和重放。",
+    "short": "运行时安全和可观察性层",
+    "tweet": "AI安全的新希望！AgentWall是一种运行时安全和可观察性层，保护本地AI代理免受安全威胁",
+    "xiaohongshu": "AI安全的新希望！AgentWall可以保护你的本地AI代理免受安全威胁",
+    "index": 10,
+    "link": "https://arxiv.org/abs/2605.16265"
+  },
+  {
+    "title": "ANNEAL: Adapting LLM Agents via Governed Symbolic Patch Learning",
+    "summary": "开发了一种神经符号代理，通过受控符号修补学习来适应LLM代理",
+    "score": 8,
+    "category": "模型",
+    "long": "ANNEAL是一种神经符号代理，通过受控符号修补学习来适应LLM代理。它的核心机制是失败驱动知识获取（FDKA），可以局部化负责的操作符，合成类型的修补方案，验证提议并在确定性回滚中进行提交。",
+    "short": "受控符号修补学习",
+    "tweet": "AI代理的新希望！ANNEAL通过受控符号修补学习来适应LLM代理",
+    "xiaohongshu": "AI代理的新希望！ANNEAL可以通过受控符号修补学习来适应LLM代理",
+    "index": 11,
+    "link": "https://arxiv.org/abs/2605.16309"
+  },
+  {
+    "title": "From Prompts to Protocols: An AI Agent for Laboratory Automation",
+    "summary": "开发了一种AI代理，用于实验室自动化",
+    "score": 8,
+    "category": "模型",
+    "long": "该代理通过集成大语言模型和实验室orchestration来实现实验室自动化。它可以通过自然语言来创建和监控自动化实验室协议，并支持实验室的完整生命周期。",
+    "short": "实验室自动化",
+    "tweet": "实验室自动化的新希望！该代理通过集成大语言模型和实验室orchestration来实现实验室自动化",
+    "xiaohongshu": "实验室自动化的新希望！该代理可以通过自然语言来创建和监控自动化实验室协议",
+    "index": 12,
+    "link": "https://arxiv.org/abs/2605.16552"
+  },
+  {
+    "title": "Skim: Speculative Execution for Fast and Efficient Web Agents",
+    "summary": "开发了一种预测性执行框架，用于快速和高效的Web代理",
+    "score": 7,
+    "category": "模型",
+    "long": "Skim是一种预测性执行框架，用于快速和高效的Web代理。它通过捕获网站的可预测结构来实现这一点，并且可以拦截每个查询并提取答案。",
+    "short": "预测性执行框架",
+    "tweet": "Web代理的新希望！Skim通过预测性执行框架来实现快速和高效的Web代理",
+    "xiaohongshu": "Web代理的新希望！Skim可以通过预测性执行框架来实现快速和高效的Web代理",
+    "index": 13,
+    "link": "https://arxiv.org/abs/2605.16565"
+  },
+  {
+    "title": "Scalable Uncertainty Reasoning in Knowledge Graphs",
+    "summary": "开发了一种模块化框架，用于知识图谱中的不确定性推理",
+    "score": 7,
+    "category": "模型",
+    "long": "该框架通过定义概率字面和对应的查询代数来实现知识图谱中的不确定性推理，并且可以通过编译来转换SPARQL的证明性质为可追踪的概率电路。",
+    "short": "知识图谱中的不确定性推理",
+    "tweet": "知识图谱中的新希望！该框架通过定义概率字面和对应的查询代数来实现知识图谱中的不确定性推理",
+    "xiaohongshu": "知识图谱中的新希望！该框架可以通过编译来转换SPARQL的证明性质为可追踪的概率电路",
+    "index": 14,
+    "link": "https://arxiv.org/abs/2605.16568"
+  },
+  {
+    "title": "Counterparty Modeling is Not Strategy: The Limits of LLM Negotiators",
+    "summary": "研究了LLM谈判者在多属性谈判环境中的表现",
+    "score": 6,
+    "category": "模型",
+    "long": "研究发现，LLM谈判者可以模型化对方的偏好，但不能可靠地将其转化为战略谈判。它们经常响应他们认为对方值得的东西，但不能一致地将这些动作与他们自己的高价值属性配对。",
+    "short": "LLM谈判者的局限",
+    "tweet": "LLM谈判者的新发现！研究发现，LLM谈判者不能可靠地将对方的偏好转化为战略谈判",
+    "xiaohongshu": "LLM谈判者的新发现！研究发现，LLM谈判者经常响应他们认为对方值得的东西",
+    "index": 15,
+    "link": "https://arxiv.org/abs/2605.16575"
+  },
+  {
+    "title": "PRISMat: Policy-Driven, Permutation-Invariant Autoregressive Material Generation",
+    "summary": "开发了一种成本效益的模型，用于材料生成",
+    "score": 6,
+    "category": "模型",
+    "long": "PRISMat是一种成本效益的模型，用于材料生成。它通过定义概率字面和对应的查询代数来实现材料生成，并且可以通过编译来转换SPARQL的证明性质为可追踪的概率电路。",
+    "short": "材料生成",
+    "tweet": "材料生成的新希望！PRISMat通过定义概率字面和对应的查询代数来实现材料生成",
+    "xiaohongshu": "材料生成的新希望！PRISMat可以通过编译来转换SPARQL的证明性质为可追踪的概率电路",
+    "index": 16,
+    "link": "https://arxiv.org/abs/2605.16612"
+  },
+  {
+    "title": "TTE-Flash: Accelerating Reasoning-based Multimodal Representations via Think-Then-Embed Tokens",
+    "summary": "开发了一种新型的多模态表示方法",
+    "score": 5,
+    "category": "模型",
+    "long": "TTE-Flash是一种新型的多模态表示方法。它通过定义概率字面和对应的查询代数来实现多模态表示，并且可以通过编译来转换SPARQL的证明性质为可追踪的概率电路。",
+    "short": "多模态表示",
+    "tweet": "多模态表示的新希望！TTE-Flash通过定义概率字面和对应的查询代数来实现多模态表示",
+    "xiaohongshu": "多模态表示的新希望！TTE-Flash可以通过编译来转换SPARQL的证明性质为可追踪的概率电路",
+    "index": 17,
+    "link": "https://arxiv.org/abs/2605.16638"
+  },
+  {
+    "title": "Sustainable Intelligence for the Wild: Democratizing Ecological Monitoring via Knowledge-Adaptive Edge Expert Agents",
+    "summary": "开发了一种知识适应性边缘专家代理，用于生态监测",
+    "score": 5,
+    "category": "模型",
+    "long": "该代理通过定义概率字面和对应的查询代数来实现生态监测，并且可以通过编译来转换SPARQL的证明性质为可追踪的概率电路。",
+    "short": "生态监测",
+    "tweet": "生态监测的新希望！该代理通过定义概率字面和对应的查询代数来实现生态监测",
+    "xiaohongshu": "生态监测的新希望！该代理可以通过编译来转换SPARQL的证明性质为可追踪的概率电路",
+    "index": 18,
+    "link": "https://arxiv.org/abs/2605.16671"
+  }
+]
