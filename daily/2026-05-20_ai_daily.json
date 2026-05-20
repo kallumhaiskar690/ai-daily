@@ -1,0 +1,110 @@
+[
+  {
+    "title": "多样化分类",
+    "summary": "研究人员探索了多种主题，包括人工智能、机器学习、自然语言处理、计算机视觉等",
+    "score": 8,
+    "category": "研究",
+    "long": "研究人员利用各种方法和技术探索了多种主题，包括人工智能、机器学习、自然语言处理、计算机视觉等",
+    "short": "研究人员探索了多种主题",
+    "tweet": "研究人员探索了多种主题，包括人工智能、机器学习、自然语言处理、计算机视觉等",
+    "xiaohongshu": "研究人员探索了多种主题，包括人工智能、机器学习、自然语言处理、计算机视觉等",
+    "index": 0,
+    "link": "https://thegradient.pub/virtue-ethics-ai-alignment/"
+  },
+  {
+    "title": "AI Alignment",
+    "summary": "研究人员探索了人工智能对齐的概念和方法",
+    "score": 8,
+    "category": "研究",
+    "long": "研究人员探索了人工智能对齐的概念和方法，包括如何让人工智能系统更好地理解人类的意图和需求",
+    "short": "研究人员探索了人工智能对齐的概念和方法",
+    "tweet": "研究人员探索了人工智能对齐的概念和方法",
+    "xiaohongshu": "研究人员探索了人工智能对齐的概念和方法",
+    "index": 1,
+    "link": "https://thegradient.pub/agi-is-not-multimodal/"
+  },
+  {
+    "title": "多模态AGI",
+    "summary": "研究人员探讨了多模态AGI的概念和挑战",
+    "score": 7,
+    "category": "研究",
+    "long": "研究人员探讨了多模态AGI的概念和挑战，包括如何让人工智能系统更好地理解和处理多种模态的信息",
+    "short": "研究人员探讨了多模态AGI的概念和挑战",
+    "tweet": "研究人员探讨了多模态AGI的概念和挑战",
+    "xiaohongshu": "研究人员探讨了多模态AGI的概念和挑战",
+    "index": 2,
+    "link": "https://thegradient.pub/shape-symmetry-structure/"
+  },
+  {
+    "title": "LLM Chatbots",
+    "summary": "研究人员探索了LLM Chatbots的能力和局限性",
+    "score": 7,
+    "category": "研究",
+    "long": "研究人员探索了LLM Chatbots的能力和局限性，包括如何让LLM Chatbots更好地理解和处理人类的需求",
+    "short": "研究人员探索了LLM Chatbots的能力和局限性",
+    "tweet": "研究人员探索了LLM Chatbots的能力和局限性",
+    "xiaohongshu": "研究人员探索了LLM Chatbots的能力和局限性",
+    "index": 4,
+    "link": "https://thegradient.pub/we-need-positive-visions-for-ai-grounded-in-wellbeing/"
+  },
+  {
+    "title": "数据探索",
+    "summary": "研究人员探索了数据的性质和特征",
+    "score": 6,
+    "category": "研究",
+    "long": "研究人员探索了数据的性质和特征，包括如何让数据更好地理解和处理",
+    "short": "研究人员探索了数据的性质和特征",
+    "tweet": "研究人员探索了数据的性质和特征",
+    "xiaohongshu": "研究人员探索了数据的性质和特征",
+    "index": 10,
+    "link": "https://arxiv.org/abs/2605.18801"
+  },
+  {
+    "title": "文本嵌入",
+    "summary": "研究人员探索了文本嵌入的概念和挑战",
+    "score": 6,
+    "category": "研究",
+    "long": "研究人员探索了文本嵌入的概念和挑战，包括如何让文本嵌入更好地理解和处理",
+    "short": "研究人员探索了文本嵌入的概念和挑战",
+    "tweet": "研究人员探索了文本嵌入的概念和挑战",
+    "xiaohongshu": "研究人员探索了文本嵌入的概念和挑战",
+    "index": 9,
+    "link": "https://thegradient.pub/text-embedding-inversion/"
+  },
+  {
+    "title": "自主训练",
+    "summary": "研究人员探索了自主训练的概念和挑战",
+    "score": 6,
+    "category": "研究",
+    "long": "研究人员探索了自主训练的概念和挑战，包括如何让自主训练更好地理解和处理",
+    "short": "研究人员探索了自主训练的概念和挑战",
+    "tweet": "研究人员探索了自主训练的概念和挑战",
+    "xiaohongshu": "研究人员探索了自主训练的概念和挑战",
+    "index": 13,
+    "link": "https://arxiv.org/abs/2605.19008"
+  },
+  {
+    "title": "多任务学习",
+    "summary": "研究人员探索了多任务学习的概念和挑战",
+    "score": 5,
+    "category": "研究",
+    "long": "研究人员探索了多任务学习的概念和挑战，包括如何让多任务学习更好地理解和处理",
+    "short": "研究人员探索了多任务学习的概念和挑战",
+    "tweet": "研究人员探索了多任务学习的概念和挑战",
+    "xiaohongshu": "研究人员探索了多任务学习的概念和挑战",
+    "index": 17,
+    "link": "https://arxiv.org/abs/2605.19042"
+  },
+  {
+    "title": "嵌入学习",
+    "summary": "研究人员探索了嵌入学习的概念和挑战",
+    "score": 5,
+    "category": "研究",
+    "long": "研究人员探索了嵌入学习的概念和挑战，包括如何让嵌入学习更好地理解和处理",
+    "short": "研究人员探索了嵌入学习的概念和挑战",
+    "tweet": "研究人员探索了嵌入学习的概念和挑战",
+    "xiaohongshu": "研究人员探索了嵌入学习的概念和挑战",
+    "index": 18,
+    "link": "https://arxiv.org/abs/2605.19093"
+  }
+]
