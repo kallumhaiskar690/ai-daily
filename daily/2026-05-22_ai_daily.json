@@ -1,0 +1,110 @@
+[
+  {
+    "title": "SOLAR: 自适应学习和持续适应的开源智能代理",
+    "summary": "SOLAR 是一个自适应学习和持续适应的开源智能代理，能够在动态环境中学习和适应。",
+    "score": 9,
+    "category": "模型",
+    "long": "SOLAR 使用参数级元学习来自我改进，能够在不需要大量人工数据的情况下适应新任务。它能够在多个领域中表现出优异的表现，包括常识、数学、医学、编程和社会推理。",
+    "short": "SOLAR 是一个自适应学习和持续适应的开源智能代理。",
+    "tweet": "SOLAR：自适应学习和持续适应的开源智能代理！",
+    "xiaohongshu": "SOLAR 是一个超级智能的代理，它可以在任何环境中学习和适应！",
+    "index": 0,
+    "link": "https://arxiv.org/abs/2605.20189"
+  },
+  {
+    "title": "Tool-Augmented Agent for Closed-loop Optimization,Simulation,and Modeling Orchestration",
+    "summary": "COSMO-Agent 是一个工具增强的智能代理，能够在闭环优化、模拟和建模orchestration中表现出优异的表现。",
+    "score": 8,
+    "category": "模型",
+    "long": "COSMO-Agent 使用工具增强的强化学习框架来完成闭环CAD-CAE过程。它能够在多个领域中表现出优异的表现，包括工业设计、模拟和建模。",
+    "short": "COSMO-Agent 是一个工具增强的智能代理。",
+    "tweet": "COSMO-Agent：工具增强的智能代理！",
+    "xiaohongshu": "COSMO-Agent 是一个超级智能的代理，它可以在任何环境中完成闭环CAD-CAE过程！",
+    "index": 1,
+    "link": "https://arxiv.org/abs/2605.20190"
+  },
+  {
+    "title": "AgentCo-op: Retrieval-Based Synthesis of Interoperable Multi-Agent Workflows",
+    "summary": "AgentCo-op 是一个检索基准的合成框架，能够在多个领域中表现出优异的表现。",
+    "score": 8,
+    "category": "模型",
+    "long": "AgentCo-op 使用检索基准的合成框架来组合可重用的技能、工具和外部代理。它能够在多个领域中表现出优异的表现，包括生物信息学和计算机科学。",
+    "short": "AgentCo-op 是一个检索基准的合成框架。",
+    "tweet": "AgentCo-op：检索基准的合成框架！",
+    "xiaohongshu": "AgentCo-op 是一个超级智能的代理，它可以在任何环境中组合可重用的技能和工具！",
+    "index": 3,
+    "link": "https://arxiv.org/abs/2605.20425"
+  },
+  {
+    "title": "High Quality Embeddings for Horn Logic Reasoning",
+    "summary": "该论文提出了一种高质量嵌入的方法，能够在 Horn 逻辑推理中表现出优异的表现。",
+    "score": 7,
+    "category": "模型",
+    "long": "该方法使用三元组损失函数来训练嵌入。它能够在多个领域中表现出优异的表现，包括 Horn 逻辑推理和知识图谱问答。",
+    "short": "高质量嵌入的方法。",
+    "tweet": "高质量嵌入：Horn 逻辑推理的新方法！",
+    "xiaohongshu": "高质量嵌入的方法可以在任何环境中表现出优异的表现！",
+    "index": 4,
+    "link": "https://arxiv.org/abs/2605.20467"
+  },
+  {
+    "title": "ECUAS_n：一个用于评估不确定性增强系统的新方法",
+    "summary": "ECUAS_n 是一个用于评估不确定性增强系统的新方法，能够在多个领域中表现出优异的表现。",
+    "score": 7,
+    "category": "模型",
+    "long": "ECUAS_n 使用一个新型的评估方法来评估不确定性增强系统的表现。它能够在多个领域中表现出优异的表现，包括分类和生成任务。",
+    "short": "ECUAS_n：评估不确定性增强系统的新方法。",
+    "tweet": "ECUAS_n：评估不确定性增强系统的新方法！",
+    "xiaohongshu": "ECUAS_n 是一个超级智能的代理，它可以在任何环境中评估不确定性增强系统的表现！",
+    "index": 5,
+    "link": "https://arxiv.org/abs/2605.20490"
+  },
+  {
+    "title": "Open-World Evaluations for Measuring Frontier AI Capabilities",
+    "summary": "该论文提出了一种新的开放世界评估方法，能够在多个领域中表现出优异的表现。",
+    "score": 7,
+    "category": "模型",
+    "long": "该方法使用开放世界评估来评估前沿 AI 能力。它能够在多个领域中表现出优异的表现，包括自然语言处理和计算机视觉。",
+    "short": "开放世界评估：前沿 AI 能力的新方法。",
+    "tweet": "开放世界评估：前沿 AI 能力的新方法！",
+    "xiaohongshu": "开放世界评估是前沿 AI 能力的新方法，可以在任何环境中表现出优异的表现！",
+    "index": 6,
+    "link": "https://arxiv.org/abs/2605.20520"
+  },
+  {
+    "title": "AgentAtlas：超越结果榜单的新方法",
+    "summary": "AgentAtlas 是一个新的方法，能够在多个领域中表现出优异的表现。",
+    "score": 6,
+    "category": "模型",
+    "long": "AgentAtlas 使用一个新的方法来评估智能代理的表现。它能够在多个领域中表现出优异的表现，包括自然语言处理和计算机视觉。",
+    "short": "AgentAtlas：智能代理的新方法。",
+    "tweet": "AgentAtlas：智能代理的新方法！",
+    "xiaohongshu": "AgentAtlas 是一个超级智能的代理，它可以在任何环境中表现出优异的表现！",
+    "index": 7,
+    "link": "https://arxiv.org/abs/2605.20530"
+  },
+  {
+    "title": "Personality Engineering with AI Agents：一个新的方法论",
+    "summary": "该论文提出了一种新的方法论，能够在多个领域中表现出优异的表现。",
+    "score": 6,
+    "category": "模型",
+    "long": "该方法论使用 AI 代理来精确参数化、操纵和评估谈判者人格。它能够在多个领域中表现出优异的表现，包括谈判和人格心理学。",
+    "short": "人格工程：AI 代理的新方法论。",
+    "tweet": "人格工程：AI 代理的新方法论！",
+    "xiaohongshu": "人格工程是 AI 代理的新方法论，可以在任何环境中表现出优异的表现！",
+    "index": 8,
+    "link": "https://arxiv.org/abs/2605.20554"
+  },
+  {
+    "title": "Mahjax：一个 GPU 加速的麻将模拟器",
+    "summary": "Mahjax 是一个 GPU 加速的麻将模拟器，能够在多个领域中表现出优异的表现。",
+    "score": 5,
+    "category": "工具",
+    "long": "Mahjax 使用 JAX 来实现一个全向量化的麻将环境。它能够在多个领域中表现出优异的表现，包括麻将和强化学习。",
+    "short": "Mahjax：麻将模拟器。",
+    "tweet": "Mahjax：麻将模拟器！",
+    "xiaohongshu": "Mahjax 是一个超级智能的代理，它可以在任何环境中模拟麻将游戏！",
+    "index": 9,
+    "link": "https://arxiv.org/abs/2605.20577"
+  }
+]
