@@ -1,0 +1,110 @@
+[
+  {
+    "title": "AgentAtlas: Beyond Outcome Leaderboards for LLM Agents",
+    "summary": "AgentAtlas是一种新的评估LLM代理的方法，超越了传统的结果板块",
+    "score": 9,
+    "category": "模型",
+    "long": "AgentAtlas是一种新的评估LLM代理的方法，超越了传统的结果板块。它使用六种控制决策的分类（Act / Ask / Refuse / Stop / Confirm / Recover）和九种轨迹失败的分类（primary_error_source, impact）来评估代理的表现。AgentAtlas还提供了一个基准覆盖审计，映射15个代理基准到六个行为轴上。",
+    "short": "AgentAtlas评估LLM代理的新方法",
+    "tweet": "超越结果板块！ AgentAtlas评估LLM代理的新方法 #AI #LLM",
+    "xiaohongshu": "你知道吗？AgentAtlas评估LLM代理的新方法，超越了传统的结果板块！",
+    "index": 17,
+    "link": "https://arxiv.org/abs/2605.20530"
+  },
+  {
+    "title": "SOLAR: A Self-Optimizing Open-Ended Autonomous Agent for Lifelong Learning and Continual Adaptation",
+    "summary": "SOLAR是一种自我优化的开放式自动化代理，用于终身学习和持续适应",
+    "score": 8,
+    "category": "模型",
+    "long": "SOLAR是一种自我优化的开放式自动化代理，用于终身学习和持续适应。它使用参数级别的元学习来自我改进，通过将模型权重视为环境来探索。SOLAR还维持一个不断更新的知识库，隐式地作为一个 episodic 记忆缓冲区来平衡可塑性（适应新任务）和稳定性（保留元知识）。",
+    "short": "SOLAR自我优化的开放式自动化代理",
+    "tweet": "终身学习和持续适应！ SOLAR自我优化的开放式自动化代理 #AI #终身学习",
+    "xiaohongshu": "你知道吗？SOLAR是一种自我优化的开放式自动化代理，用于终身学习和持续适应！",
+    "index": 10,
+    "link": "https://arxiv.org/abs/2605.20189"
+  },
+  {
+    "title": "AgentCo-op: Retrieval-Based Synthesis of Interoperable Multi-Agent Workflows",
+    "summary": "AgentCo-op是一种基于检索的合成框架，用于合成可互操作的多代理工作流",
+    "score": 8,
+    "category": "模型",
+    "long": "AgentCo-op是一种基于检索的合成框架，用于合成可互操作的多代理工作流。它使用类型化的艺术品交付来组合可重用的技能、工具和外部代理，然后应用局部修复来修复涉及的组件。",
+    "short": "AgentCo-op基于检索的合成框架",
+    "tweet": "可互操作的多代理工作流！ AgentCo-op基于检索的合成框架 #AI #多代理",
+    "xiaohongshu": "你知道吗？AgentCo-op是一种基于检索的合成框架，用于合成可互操作的多代理工作流！",
+    "index": 13,
+    "link": "https://arxiv.org/abs/2605.20425"
+  },
+  {
+    "title": "ECUAS_n_: A family of metrics for principled evaluation of uncertainty-augmented systems",
+    "summary": "ECUAS_n_是一种家族的度量标准，用于原则性评估不确定性增强系统",
+    "score": 7,
+    "category": "模型",
+    "long": "ECUAS_n_是一种家族的度量标准，用于原则性评估不确定性增强系统。它使用一个新的家族的度量标准，ECUAS_n_，来评估系统的整体表现。",
+    "short": "ECUAS_n_家族的度量标准",
+    "tweet": "原则性评估！ ECUAS_n_家族的度量标准 #AI #不确定性增强",
+    "xiaohongshu": "你知道吗？ECUAS_n_是一种家族的度量标准，用于原则性评估不确定性增强系统！",
+    "index": 15,
+    "link": "https://arxiv.org/abs/2605.20490"
+  },
+  {
+    "title": "Open-World Evaluations for Measuring Frontier AI Capabilities",
+    "summary": "开放世界评估是一种新的评估前沿AI能力的方法",
+    "score": 7,
+    "category": "模型",
+    "long": "开放世界评估是一种新的评估前沿AI能力的方法。它使用长期的、混乱的、真实世界的任务来评估AI的表现。",
+    "short": "开放世界评估",
+    "tweet": "新方法！ 开放世界评估评估前沿AI能力 #AI #开放世界",
+    "xiaohongshu": "你知道吗？开放世界评估是一种新的评估前沿AI能力的方法！",
+    "index": 16,
+    "link": "https://arxiv.org/abs/2605.20520"
+  },
+  {
+    "title": "Mahjax: A GPU-Accelerated Mahjong Simulator for Reinforcement Learning in JAX",
+    "summary": "Mahjax是一种GPU加速的麻将模拟器，用于强化学习",
+    "score": 6,
+    "category": "模型",
+    "long": "Mahjax是一种GPU加速的麻将模拟器，用于强化学习。它使用JAX来实现高效的并行计算。",
+    "short": "Mahjax麻将模拟器",
+    "tweet": "强化学习！ Mahjax麻将模拟器 #AI #强化学习",
+    "xiaohongshu": "你知道吗？Mahjax是一种GPU加速的麻将模拟器，用于强化学习！",
+    "index": 19,
+    "link": "https://arxiv.org/abs/2605.20577"
+  },
+  {
+    "title": "Personality Engineering with AI Agents: A New Methodology for Negotiation Research",
+    "summary": "人格工程是使用AI代理来研究谈判研究的新方法",
+    "score": 6,
+    "category": "模型",
+    "long": "人格工程是使用AI代理来研究谈判研究的新方法。它使用人际圆周来作为一个基本坐标系来评估谈判代理的表现。",
+    "short": "人格工程",
+    "tweet": "新方法！ 人格工程评估谈判代理 #AI #谈判",
+    "xiaohongshu": "你知道吗？人格工程是使用AI代理来研究谈判研究的新方法！",
+    "index": 18,
+    "link": "https://arxiv.org/abs/2605.20554"
+  },
+  {
+    "title": "High Quality Embeddings for Horn Logic Reasoning",
+    "summary": "高质量嵌入是用于霍恩逻辑推理的新方法",
+    "score": 5,
+    "category": "模型",
+    "long": "高质量嵌入是用于霍恩逻辑推理的新方法。它使用三元组损失来训练嵌入。",
+    "short": "高质量嵌入",
+    "tweet": "新方法！ 高质量嵌入用于霍恩逻辑推理 #AI #霍恩逻辑",
+    "xiaohongshu": "你知道吗？高质量嵌入是用于霍恩逻辑推理的新方法！",
+    "index": 14,
+    "link": "https://arxiv.org/abs/2605.20467"
+  },
+  {
+    "title": "Tool-Augmented Agent for Closed-loop Optimization,Simulation,and Modeling Orchestration",
+    "summary": "工具增强代理用于闭环优化、模拟和建模协调",
+    "score": 5,
+    "category": "模型",
+    "long": "工具增强代理用于闭环优化、模拟和建模协调。它使用工具链来协调外部工具和修复参数几何。",
+    "short": "工具增强代理",
+    "tweet": "闭环优化！ 工具增强代理 #AI #闭环优化",
+    "xiaohongshu": "你知道吗？工具增强代理用于闭环优化、模拟和建模协调！",
+    "index": 11,
+    "link": "https://arxiv.org/abs/2605.20190"
+  }
+]
