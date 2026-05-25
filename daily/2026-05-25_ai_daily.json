@@ -1,0 +1,110 @@
+[
+  {
+    "title": "The Deterministic Horizon: Impossibility Results as Design Specifications for Trustworthy AI Systems",
+    "summary": "研究人员证明了一个不可避免的准确率天花板，表明训练的数量无法提高准确率",
+    "score": 9,
+    "category": "研究",
+    "long": "该研究表明了一个不可避免的准确率天花板，表明训练的数量无法提高准确率。研究人员还提出了16个设计规则，用于可信赖的AI系统。",
+    "short": "不可避免的准确率天花板",
+    "tweet": "AI准确率有天花板！训练的数量无法提高准确率！",
+    "xiaohongshu": "AI准确率有天花板！训练的数量无法提高准确率！",
+    "index": 18,
+    "link": "https://arxiv.org/abs/2605.23024"
+  },
+  {
+    "title": "EVE-Agent: Evidence-Verifiable Self-Evolving Agents",
+    "summary": "研究人员开发了一种自我演化的代理人，能够生成自己的问题和答案，并验证证据的可靠性",
+    "score": 8,
+    "category": "研究",
+    "long": "该研究开发了一种自我演化的代理人，能够生成自己的问题和答案，并验证证据的可靠性。研究人员还提出了一个新框架，用于自我演化的代理人。",
+    "short": "自我演化的代理人",
+    "tweet": "AI代理人可以自我演化！生成自己的问题和答案！",
+    "xiaohongshu": "AI代理人可以自我演化！生成自己的问题和答案！",
+    "index": 17,
+    "link": "https://arxiv.org/abs/2605.22905"
+  },
+  {
+    "title": "ImProver 2: Iteratively Self-Improving LMs for Neurosymbolic Proof Optimization",
+    "summary": "研究人员开发了一种神经符号框架，用于优化形式数学证明",
+    "score": 8,
+    "category": "研究",
+    "long": "该研究开发了一种神经符号框架，用于优化形式数学证明。研究人员还提出了一个新框架，用于神经符号证明优化。",
+    "short": "神经符号证明优化",
+    "tweet": "AI可以优化形式数学证明！",
+    "xiaohongshu": "AI可以优化形式数学证明！",
+    "index": 15,
+    "link": "https://arxiv.org/abs/2605.22885"
+  },
+  {
+    "title": "BOHM: Zero-Cost Hierarchical Attribution for Compound AI Systems",
+    "summary": "研究人员开发了一种零成本的层次化归因方法，用于复合AI系统",
+    "score": 8,
+    "category": "研究",
+    "long": "该研究开发了一种零成本的层次化归因方法，用于复合AI系统。研究人员还提出了一个新框架，用于复合AI系统的归因。",
+    "short": "零成本的层次化归因",
+    "tweet": "AI可以进行零成本的层次化归因！",
+    "xiaohongshu": "AI可以进行零成本的层次化归因！",
+    "index": 10,
+    "link": "https://arxiv.org/abs/2605.22866"
+  },
+  {
+    "title": "NeuroNL2LTL: A Neurosymbolic Framework for Natural Language Translation of Linear Temporal Logic",
+    "summary": "研究人员开发了一种神经符号框架，用于自然语言翻译线性时间逻辑",
+    "score": 7,
+    "category": "研究",
+    "long": "该研究开发了一种神经符号框架，用于自然语言翻译线性时间逻辑。研究人员还提出了一个新框架，用于自然语言翻译线性时间逻辑。",
+    "short": "神经符号自然语言翻译",
+    "tweet": "AI可以进行自然语言翻译！",
+    "xiaohongshu": "AI可以进行自然语言翻译！",
+    "index": 11,
+    "link": "https://arxiv.org/abs/2605.22874"
+  },
+  {
+    "title": "RMA: an Agentic System for Research-Level Mathematical Problems",
+    "summary": "研究人员开发了一种代理系统，用于解决研究级数学问题",
+    "score": 7,
+    "category": "研究",
+    "long": "该研究开发了一种代理系统，用于解决研究级数学问题。研究人员还提出了一个新框架，用于解决研究级数学问题。",
+    "short": "代理系统",
+    "tweet": "AI可以解决研究级数学问题！",
+    "xiaohongshu": "AI可以解决研究级数学问题！",
+    "index": 12,
+    "link": "https://arxiv.org/abs/2605.22875"
+  },
+  {
+    "title": "SciAtlas: A Large-Scale Knowledge Graph for Automated Scientific Research",
+    "summary": "研究人员开发了一种大规模知识图谱，用于自动化科学研究",
+    "score": 7,
+    "category": "研究",
+    "long": "该研究开发了一种大规模知识图谱，用于自动化科学研究。研究人员还提出了一个新框架，用于自动化科学研究。",
+    "short": "大规模知识图谱",
+    "tweet": "AI可以进行自动化科学研究！",
+    "xiaohongshu": "AI可以进行自动化科学研究！",
+    "index": 13,
+    "link": "https://arxiv.org/abs/2605.22878"
+  },
+  {
+    "title": "A Brief Overview of Gender Bias in AI",
+    "summary": "研究人员提供了一个关于人工智能性别偏见的简要概述",
+    "score": 6,
+    "category": "研究",
+    "long": "该研究提供了一个关于人工智能性别偏见的简要概述。研究人员还提出了一个新框架，用于解决性别偏见。",
+    "short": "性别偏见",
+    "tweet": "AI存在性别偏见！",
+    "xiaohongshu": "AI存在性别偏见！",
+    "index": 6,
+    "link": "https://thegradient.pub/gender-bias-in-ai/"
+  },
+  {
+    "title": "Mamba Explained",
+    "summary": "研究人员解释了Mamba模型",
+    "score": 6,
+    "category": "研究",
+    "long": "该研究解释了Mamba模型。研究人员还提出了一个新框架，用于Mamba模型。",
+    "short": "Mamba模型",
+    "tweet": "Mamba模型解释！",
+    "xiaohongshu": "Mamba模型解释！",
+    "index": 7,
+    "link": "https://thegradient.pub/mamba-explained/"
+  }
+]
