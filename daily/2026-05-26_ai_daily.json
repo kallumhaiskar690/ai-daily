@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Quantum Frog: Emergent Cooperation and Difficulty Scaling in a Quantized-Time Cooperative Game",
+    "summary": "研究人员开发了一款名为Quantum Frog的合作游戏，探索了量子时间机制在合作学习中的作用。",
+    "score": 9,
+    "category": "研究",
+    "long": "该游戏模拟了两只青蛙在一个8x8的交通网上合作穿越的过程。研究人员使用强化学习作为分析工具，回答了四个设计问题：难度如何随着交通流量的增加而变化？什么是单一代理的最佳策略？独立和合作两种策略之间的合作差距有多大？什么是当代理被鼓励合作时产生的联合策略？",
+    "short": "量子时间合作游戏",
+    "tweet": "量子时间合作游戏：探索合作学习的新方式！",
+    "xiaohongshu": "量子时间合作游戏，让我们一起探索合作学习的新境界！",
+    "index": 15,
+    "link": "https://arxiv.org/abs/2605.23930"
+  },
+  {
+    "title": "BODHI: Precise OS Kernel Specification Inference",
+    "summary": "研究人员开发了一种名为BODHI的方法，用于自动化操作系统内核规范的生成。",
+    "score": 8,
+    "category": "研究",
+    "long": "该方法使用大语言模型（LLM）和结构化链式思维（SCoT）提示，能够提高规范生成的准确率和效率。",
+    "short": "操作系统内核规范生成",
+    "tweet": "操作系统内核规范生成：BODHI带来新希望！",
+    "xiaohongshu": "操作系统内核规范生成，BODHI让我们能够更轻松地实现！",
+    "index": 16,
+    "link": "https://arxiv.org/abs/2605.23931"
+  },
+  {
+    "title": "When Correct Beliefs Collapse: Epistemic Resilience of LLMs under Clinical Pressure",
+    "summary": "研究人员发现大语言模型（LLMs）在临床对话中可能会表现出严重的多轮谄媚行为，放弃最初的正确诊断。",
+    "score": 8,
+    "category": "研究",
+    "long": "研究人员提出了一个名为Med-Stress的压力测试框架，评估了LLMs在临床压力下的知识稳定性。",
+    "short": "大语言模型临床压力下的知识稳定性",
+    "tweet": "大语言模型临床压力下的知识稳定性：一个需要关注的问题！",
+    "xiaohongshu": "大语言模型临床压力下的知识稳定性，一个我们需要关注的问题！",
+    "index": 17,
+    "link": "https://arxiv.org/abs/2605.23932"
+  },
+  {
+    "title": "Practical Quantum CIM Empowerment via All-Domestic-Core Agentic Large Model",
+    "summary": "研究人员开发了一种名为Quantum Frog的合作游戏，探索了量子时间机制在合作学习中的作用。",
+    "score": 8,
+    "category": "研究",
+    "long": "该游戏模拟了两只青蛙在一个8x8的交通网上合作穿越的过程。研究人员使用强化学习作为分析工具，回答了四个设计问题：难度如何随着交通流量的增加而变化？什么是单一代理的最佳策略？独立和合作两种策略之间的合作差距有多大？什么是当代理被鼓励合作时产生的联合策略？",
+    "short": "量子时间合作游戏",
+    "tweet": "量子时间合作游戏：探索合作学习的新方式！",
+    "xiaohongshu": "量子时间合作游戏，让我们一起探索合作学习的新境界！",
+    "index": 18,
+    "link": "https://arxiv.org/abs/2605.23934"
+  },
+  {
+    "title": "Operationalizing Reconstructive Authority: Runtime Construction, Dependency Resolution, and Execution Gating in Autonomous Agent Systems",
+    "summary": "研究人员开发了一种名为RAM的方法，用于在自治代理系统中执行重构权威。",
+    "score": 7,
+    "category": "研究",
+    "long": "该方法使用动态依赖解析、权威重构和执行门控来确保系统的安全性和可靠性。",
+    "short": "自治代理系统重构权威",
+    "tweet": "自治代理系统重构权威：一个需要关注的问题！",
+    "xiaohongshu": "自治代理系统重构权威，一个我们需要关注的问题！",
+    "index": 19,
+    "link": "https://arxiv.org/abs/2605.23935"
+  },
+  {
+    "title": "Using AI to write better code more slowly",
+    "summary": "研究人员发现使用人工智能（AI）编写代码的速度比手动编写慢。",
+    "score": 6,
+    "category": "商业",
+    "long": "研究人员提出了一个名为AI编写代码的方法，能够提高代码质量和可维护性，但速度较慢。",
+    "short": "AI编写代码",
+    "tweet": "AI编写代码：速度慢但质量好！",
+    "xiaohongshu": "AI编写代码，让我们一起探索编写高质量代码的新方式！",
+    "index": 20,
+    "link": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/"
+  },
+  {
+    "title": "Taking a walk may lead to more creativity than sitting, study finds",
+    "summary": "研究人员发现走路可能比坐着更有助于创造性。",
+    "score": 5,
+    "category": "其他",
+    "long": "研究人员进行了一项研究，发现走路可以提高创造性和想象力。",
+    "short": "走路提高创造性",
+    "tweet": "走路提高创造性：一个有趣的发现！",
+    "xiaohongshu": "走路提高创造性，让我们一起探索创造性和想象力的新境界！",
+    "index": 21,
+    "link": "https://www.apa.org/news/press/releases/2014/04/creativity-walk"
+  },
+  {
+    "title": "How Shamir's Secret Sharing Works",
+    "summary": "研究人员介绍了Shamir的秘密共享方法。",
+    "score": 5,
+    "category": "其他",
+    "long": "研究人员介绍了Shamir的秘密共享方法，能够提高数据安全性和可靠性。",
+    "short": "Shamir的秘密共享",
+    "tweet": "Shamir的秘密共享：一个安全的方法！",
+    "xiaohongshu": "Shamir的秘密共享，让我们一起探索数据安全性和可靠性的新方法！",
+    "index": 22,
+    "link": "https://ente.com/blog/how-shamirs-secret-sharing-works/"
+  },
+  {
+    "title": "Norway's 2 petabytes of Huawei flash storage and LLM training",
+    "summary": "挪威使用Huawei闪存存储和大语言模型（LLM）训练数据。",
+    "score": 5,
+    "category": "商业",
+    "long": "挪威使用Huawei闪存存储和LLM训练数据，提高了数据处理和分析的效率。",
+    "short": "Huawei闪存存储和LLM训练",
+    "tweet": "Huawei闪存存储和LLM训练：提高数据处理和分析的效率！",
+    "xiaohongshu": "Huawei闪存存储和LLM训练，让我们一起探索数据处理和分析的新方式！",
+    "index": 23,
+    "link": "https://www.blocksandfiles.com/flash/2026/05/22/norways-2-petabytes-of-huawei-flash-storage-and-llm-training/5244910"
+  },
+  {
+    "title": "Designing for and against the manufactured normalcy field (2012)",
+    "summary": "研究人员设计了一种名为制造正常性场的方法，用于提高数据处理和分析的效率。",
+    "score": 4,
+    "category": "其他",
+    "long": "研究人员设计了一种名为制造正常性场的方法，能够提高数据处理和分析的效率和可靠性。",
+    "short": "制造正常性场",
+    "tweet": "制造正常性场：一个提高数据处理和分析效率的方法！",
+    "xiaohongshu": "制造正常性场，让我们一起探索数据处理和分析的新方式！",
+    "index": 26,
+    "link": "https://www.urbanhonking.com/ideasfordozens/2012/06/24/designing-for-and-against-the-manufactured-normalcy-field/index.html"
+  }
+]
