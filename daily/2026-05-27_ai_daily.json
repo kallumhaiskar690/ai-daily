@@ -1,0 +1,110 @@
+[
+  {
+    "title": "Agent Lifespan Engineering for Deployed Systems",
+    "summary": "研究人员开发了一个长期可靠性的基准，评估AI代理在部署后持续多长时间",
+    "score": 9,
+    "category": "研究",
+    "long": "研究人员开发了一个长期可靠性的基准，评估AI代理在部署后持续多长时间。他们发现代理的可靠性会随着时间的推移而下降，需要进行机制级别的诊断和阶段目标的修复。",
+    "short": "AI代理在部署后持续多长时间",
+    "tweet": "AI代理的可靠性会随着时间的推移而下降，需要进行机制级别的诊断和阶段目标的修复。",
+    "xiaohongshu": "AI代理的可靠性会随着时间的推移而下降，需要进行机制级别的诊断和阶段目标的修复！",
+    "index": 15,
+    "link": "https://arxiv.org/abs/2605.26302"
+  },
+  {
+    "title": "Anchor: Mitigating Artifact Drift in Agent Benchmark Generation",
+    "summary": "研究人员开发了一个任务生成管道，减少了环境和任务创建中的漂移",
+    "score": 8,
+    "category": "研究",
+    "long": "研究人员开发了一个任务生成管道，减少了环境和任务创建中的漂移。他们发现漂移会导致环境不可解、奖励被破坏或不一致。",
+    "short": "减少环境和任务创建中的漂移",
+    "tweet": "AI代理的环境和任务创建中的漂移会导致不可预测的结果！",
+    "xiaohongshu": "AI代理的环境和任务创建中的漂移会导致不可预测的结果！",
+    "index": 17,
+    "link": "https://arxiv.org/abs/2605.26321"
+  },
+  {
+    "title": "OmniToM: Benchmarking Theory of Mind in LLMs via Explicit Belief Modeling",
+    "summary": "研究人员开发了一个基准，评估LLMs对他人知识、意图和情绪的推理能力",
+    "score": 8,
+    "category": "研究",
+    "long": "研究人员开发了一个基准，评估LLMs对他人知识、意图和情绪的推理能力。他们发现当前的LLMs难以构建复杂的信念结构。",
+    "short": "评估LLMs对他人知识、意图和情绪的推理能力",
+    "tweet": "LLMs难以构建复杂的信念结构！",
+    "xiaohongshu": "LLMs难以构建复杂的信念结构！",
+    "index": 18,
+    "link": "https://arxiv.org/abs/2605.26322"
+  },
+  {
+    "title": "JobBench: Aligning Agent Work With Human Will",
+    "summary": "研究人员开发了一个基准，评估AI代理的工作与人类意愿的对齐",
+    "score": 7,
+    "category": "研究",
+    "long": "研究人员开发了一个基准，评估AI代理的工作与人类意愿的对齐。他们发现当前的AI代理难以理解人类的需求。",
+    "short": "评估AI代理的工作与人类意愿的对齐",
+    "tweet": "AI代理难以理解人类的需求！",
+    "xiaohongshu": "AI代理难以理解人类的需求！",
+    "index": 19,
+    "link": "https://arxiv.org/abs/2605.26329"
+  },
+  {
+    "title": "Personalizing Embodied Multimodal Large Language Model Agents over Long-term User Interactions",
+    "summary": "研究人员开发了一个多模态记忆增强框架，评估AI代理的长期用户交互",
+    "score": 7,
+    "category": "研究",
+    "long": "研究人员开发了一个多模态记忆增强框架，评估AI代理的长期用户交互。他们发现AI代理可以通过记忆来改善其性能。",
+    "short": "评估AI代理的长期用户交互",
+    "tweet": "AI代理可以通过记忆来改善其性能！",
+    "xiaohongshu": "AI代理可以通过记忆来改善其性能！",
+    "index": 13,
+    "link": "https://arxiv.org/abs/2605.26256"
+  },
+  {
+    "title": "Financial Market Applications of LLMs",
+    "summary": "研究人员评估了LLMs在金融市场中的应用",
+    "score": 6,
+    "category": "研究",
+    "long": "研究人员评估了LLMs在金融市场中的应用。他们发现LLMs可以用于金融市场的分析和预测。",
+    "short": "评估LLMs在金融市场中的应用",
+    "tweet": "LLMs可以用于金融市场的分析和预测！",
+    "xiaohongshu": "LLMs可以用于金融市场的分析和预测！",
+    "index": 5,
+    "link": "https://thegradient.pub/financial-market-applications-of-llms/"
+  },
+  {
+    "title": "A Brief Overview of Gender Bias in AI",
+    "summary": "研究人员提供了对AI中性别偏见的简要概述",
+    "score": 6,
+    "category": "研究",
+    "long": "研究人员提供了对AI中性别偏见的简要概述。他们发现AI中存在着性别偏见的问题。",
+    "short": "简要概述AI中性别偏见",
+    "tweet": "AI中存在着性别偏见的问题！",
+    "xiaohongshu": "AI中存在着性别偏见的问题！",
+    "index": 6,
+    "link": "https://thegradient.pub/gender-bias-in-ai/"
+  },
+  {
+    "title": "Can LLMs Introspect? A Reality Check",
+    "summary": "研究人员评估了LLMs的自我反思能力",
+    "score": 6,
+    "category": "研究",
+    "long": "研究人员评估了LLMs的自我反思能力。他们发现当前的LLMs难以真正的自我反思。",
+    "short": "评估LLMs的自我反思能力",
+    "tweet": "LLMs难以真正的自我反思！",
+    "xiaohongshu": "LLMs难以真正的自我反思！",
+    "index": 11,
+    "link": "https://arxiv.org/abs/2605.26242"
+  },
+  {
+    "title": "Shape, Symmetries, and Structure: The Changing Role of Mathematics in Machine Learning Research",
+    "summary": "研究人员评估了机器学习研究中数学的作用",
+    "score": 5,
+    "category": "研究",
+    "long": "研究人员评估了机器学习研究中数学的作用。他们发现数学在机器学习研究中的作用正在发生变化。",
+    "short": "评估机器学习研究中数学的作用",
+    "tweet": "数学在机器学习研究中的作用正在发生变化！",
+    "xiaohongshu": "数学在机器学习研究中的作用正在发生变化！",
+    "index": 2,
+    "link": "https://thegradient.pub/shape-symmetry-structure/"
+  }
+]
