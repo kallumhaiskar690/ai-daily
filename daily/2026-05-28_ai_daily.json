@@ -1,0 +1,110 @@
+[
+  {
+    "title": "Why LLMs Fail at Causal Discovery and How Interventional Agents Escape",
+    "summary": "研究表明，LLMs在发现因果关系方面存在局限性，原因是其学习方法本质上无法区分因果图生成相同观察数据的图形。",
+    "score": 9,
+    "category": "研究",
+    "long": "研究表明，LLMs在发现因果关系方面存在局限性，原因是其学习方法本质上无法区分因果图生成相同观察数据的图形。该研究提出了一种新的方法，称为Agentic Causal Bayesian Optimization (A-CBO)，可以解决这一问题。",
+    "short": "LLMs在发现因果关系方面存在局限性",
+    "tweet": "LLMs在发现因果关系方面存在局限性，新方法A-CBO可以解决这一问题",
+    "xiaohongshu": "你知道吗？LLMs在发现因果关系方面存在局限性！但别担心，新方法A-CBO来了！",
+    "index": 14,
+    "link": "https://arxiv.org/abs/2605.27567"
+  },
+  {
+    "title": "RULER: Representation-Level Verification of Machine Unlearning",
+    "summary": "研究提出了一种新的方法，称为RULER，用于验证机器学习模型的忘记能力。",
+    "score": 8,
+    "category": "研究",
+    "long": "研究提出了一种新的方法，称为RULER，用于验证机器学习模型的忘记能力。该方法通过检查模型的内部表示来检测是否存在遗忘的记录。",
+    "short": "RULER用于验证机器学习模型的忘记能力",
+    "tweet": "RULER：一种新的方法用于验证机器学习模型的忘记能力",
+    "xiaohongshu": "你知道吗？RULER是用于验证机器学习模型的忘记能力的新方法！",
+    "index": 15,
+    "link": "https://arxiv.org/abs/2605.27569"
+  },
+  {
+    "title": "Dynaschedbench: Calibrated Dynamic Scheduling Benchmarks and Observability Paradox in LLM-based Scheduling Agents",
+    "summary": "研究提出了一种新的方法，称为Dynaschedbench，用于评估动态调度的性能。",
+    "score": 8,
+    "category": "研究",
+    "long": "研究提出了一种新的方法，称为Dynaschedbench，用于评估动态调度的性能。该方法通过控制实例生成过程来评估动态调度的性能。",
+    "short": "Dynaschedbench用于评估动态调度的性能",
+    "tweet": "Dynaschedbench：一种新的方法用于评估动态调度的性能",
+    "xiaohongshu": "你知道吗？Dynaschedbench是用于评估动态调度的性能的新方法！",
+    "index": 13,
+    "link": "https://arxiv.org/abs/2605.27566"
+  },
+  {
+    "title": "LaneRoPE: Positional Encoding for Collaborative Parallel Reasoning and Generation",
+    "summary": "研究提出了一种新的方法，称为LaneRoPE，用于协同工作的并行推理和生成。",
+    "score": 7,
+    "category": "研究",
+    "long": "研究提出了一种新的方法，称为LaneRoPE，用于协同工作的并行推理和生成。该方法通过引入位置编码来实现协同工作。",
+    "short": "LaneRoPE用于协同工作的并行推理和生成",
+    "tweet": "LaneRoPE：一种新的方法用于协同工作的并行推理和生成",
+    "xiaohongshu": "你知道吗？LaneRoPE是用于协同工作的并行推理和生成的新方法！",
+    "index": 16,
+    "link": "https://arxiv.org/abs/2605.27570"
+  },
+  {
+    "title": "Discovery Agents for Real-Time Analytics: Toward Proactive Insight Systems",
+    "summary": "研究提出了一种新的方法，称为发现代理，用于实时分析的预先见解系统。",
+    "score": 7,
+    "category": "研究",
+    "long": "研究提出了一种新的方法，称为发现代理，用于实时分析的预先见解系统。该方法通过实现一个持续的发现循环来实现预先见解系统。",
+    "short": "发现代理用于实时分析的预先见解系统",
+    "tweet": "发现代理：一种新的方法用于实时分析的预先见解系统",
+    "xiaohongshu": "你知道吗？发现代理是用于实时分析的预先见解系统的新方法！",
+    "index": 17,
+    "link": "https://arxiv.org/abs/2605.27571"
+  },
+  {
+    "title": "Agyn: An Open-Source Platform for AI Agents with Scalable On-Demand Execution, Agent Definition as a Code, and Zero-Trust Access",
+    "summary": "研究提出了一种新的方法，称为Agyn，用于AI代理的可扩展按需执行、代理定义为代码和零信任访问。",
+    "score": 6,
+    "category": "研究",
+    "long": "研究提出了一种新的方法，称为Agyn，用于AI代理的可扩展按需执行、代理定义为代码和零信任访问。该方法通过实现一个信号驱动的、状态化的服务器less运行时来实现可扩展按需执行。",
+    "short": "Agyn用于AI代理的可扩展按需执行",
+    "tweet": "Agyn：一种新的方法用于AI代理的可扩展按需执行",
+    "xiaohongshu": "你知道吗？Agyn是用于AI代理的可扩展按需执行的新方法！",
+    "index": 18,
+    "link": "https://arxiv.org/abs/2605.27575"
+  },
+  {
+    "title": "You Are in Control of Your State: Why Human Outcomes Are Controllable Through Causal State Intervention",
+    "summary": "研究提出了一种新的方法，称为状态干预，用于控制人类结果。",
+    "score": 6,
+    "category": "研究",
+    "long": "研究提出了一种新的方法，称为状态干预，用于控制人类结果。该方法通过实现一个动态的、时间索引的权重向量来控制人类结果。",
+    "short": "状态干预用于控制人类结果",
+    "tweet": "状态干预：一种新的方法用于控制人类结果",
+    "xiaohongshu": "你知道吗？状态干预是用于控制人类结果的新方法！",
+    "index": 19,
+    "link": "https://arxiv.org/abs/2605.27580"
+  },
+  {
+    "title": "YouTube to automatically label AI-generated videos",
+    "summary": "YouTube将自动标记AI生成的视频。",
+    "score": 5,
+    "category": "商业",
+    "long": "YouTube将自动标记AI生成的视频，以帮助用户识别真实视频和AI生成的视频。",
+    "short": "YouTube将自动标记AI生成的视频",
+    "tweet": "YouTube将自动标记AI生成的视频",
+    "xiaohongshu": "你知道吗？YouTube将自动标记AI生成的视频！",
+    "index": 20,
+    "link": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/"
+  },
+  {
+    "title": "Can we have the day off?",
+    "summary": "讨论是否可以休息一天。",
+    "score": 4,
+    "category": "其他",
+    "long": "讨论是否可以休息一天，是否可以放松一下。",
+    "short": "讨论是否可以休息一天",
+    "tweet": "讨论是否可以休息一天",
+    "xiaohongshu": "你知道吗？有人在讨论是否可以休息一天！",
+    "index": 21,
+    "link": "https://mlsu.io/posts/day-off/"
+  }
+]
