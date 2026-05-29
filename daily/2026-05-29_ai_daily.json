@@ -1,0 +1,110 @@
+[
+  {
+    "title": "多模态代理人框架",
+    "summary": "VFEAgent是一种多模态代理人框架，用于自动化有限元分析",
+    "score": 9,
+    "category": "模型",
+    "long": "VFEAgent是一种多模态代理人框架，用于自动化有限元分析。它集成了多模态视觉语言多代理管道和验证优先编码合成框架，能够从输入图像和问题描述中提取结构化有限元规范并生成完整和物理有效的模拟。",
+    "short": "VFEAgent是一种多模态代理人框架，用于自动化有限元分析",
+    "tweet": "VFEAgent：多模态代理人框架自动化有限元分析",
+    "xiaohongshu": "VFEAgent：多模态代理人框架，自动化有限元分析，让工程师不再担心繁琐的分析工作",
+    "index": 17,
+    "link": "https://arxiv.org/abs/2605.28978"
+  },
+  {
+    "title": "边缘LLM代理人可以克服自然表型注释的ontology curation瓶颈",
+    "summary": "边缘LLM代理人可以克服自然表型注释的ontology curation瓶颈",
+    "score": 8,
+    "category": "研究",
+    "long": "本研究探讨了边缘LLM代理人的应用于自然表型注释的ontology curation瓶颈。结果表明，边缘LLM代理人可以有效克服这个瓶颈，提高注释效率和准确率。",
+    "short": "边缘LLM代理人克服自然表型注释的ontology curation瓶颈",
+    "tweet": "边缘LLM代理人：克服自然表型注释的ontology curation瓶颈",
+    "xiaohongshu": "边缘LLM代理人：自然表型注释的ontology curation瓶颈不再是问题",
+    "index": 16,
+    "link": "https://arxiv.org/abs/2605.28965"
+  },
+  {
+    "title": "正交概念消除",
+    "summary": "正交概念消除是一种新的概念消除方法",
+    "score": 8,
+    "category": "模型",
+    "long": "正交概念消除是一种新的概念消除方法，通过对参数进行正交变换来实现概念消除。这种方法可以有效地消除概念，同时保留生成能力。",
+    "short": "正交概念消除：概念消除方法",
+    "tweet": "正交概念消除：概念消除方法",
+    "xiaohongshu": "正交概念消除：概念消除的新方法，让生成能力不再受影响",
+    "index": 15,
+    "link": "https://arxiv.org/abs/2605.28902"
+  },
+  {
+    "title": "超减少冲击封闭（URIEL）",
+    "summary": "超减少冲击封闭（URIEL）是一种新的logging方法",
+    "score": 7,
+    "category": "商业",
+    "long": "超减少冲击封闭（URIEL）是一种新的logging方法，通过使用航空机器人系统和AI技术来实现logging。这种方法可以有效地减少冲击和封闭的影响。",
+    "short": "超减少冲击封闭（URIEL）",
+    "tweet": "超减少冲击封闭（URIEL）：logging方法",
+    "xiaohongshu": "超减少冲击封闭（URIEL）：logging的新方法，让森林保护更有效",
+    "index": 13,
+    "link": "https://arxiv.org/abs/2605.28883"
+  },
+  {
+    "title": "认知类别转换器",
+    "summary": "认知类别转换器是一种新的语言模型",
+    "score": 7,
+    "category": "模型",
+    "long": "认知类别转换器是一种新的语言模型，通过集成认知科学和类别理论来实现语言理解和生成。这种模型可以有效地提高语言理解和生成的准确率。",
+    "short": "认知类别转换器",
+    "tweet": "认知类别转换器：语言模型",
+    "xiaohongshu": "认知类别转换器：语言模型的新方向",
+    "index": 12,
+    "link": "https://arxiv.org/abs/2605.28864"
+  },
+  {
+    "title": "行为感知辅助校正",
+    "summary": "行为感知辅助校正是一种新的TD预测方法",
+    "score": 7,
+    "category": "模型",
+    "long": "行为感知辅助校正是一种新的TD预测方法，通过使用行为感知信息来实现TD预测。这种方法可以有效地提高TD预测的准确率。",
+    "short": "行为感知辅助校正",
+    "tweet": "行为感知辅助校正：TD预测方法",
+    "xiaohongshu": "行为感知辅助校正：TD预测的新方法",
+    "index": 11,
+    "link": "https://arxiv.org/abs/2605.28855"
+  },
+  {
+    "title": "行为诱导镜像-接近时间差分学习",
+    "summary": "行为诱导镜像-接近时间差分学习是一种新的TD预测方法",
+    "score": 7,
+    "category": "模型",
+    "long": "行为诱导镜像-接近时间差分学习是一种新的TD预测方法，通过使用行为诱导信息来实现TD预测。这种方法可以有效地提高TD预测的准确率。",
+    "short": "行为诱导镜像-接近时间差分学习",
+    "tweet": "行为诱导镜像-接近时间差分学习：TD预测方法",
+    "xiaohongshu": "行为诱导镜像-接近时间差分学习：TD预测的新方法",
+    "index": 10,
+    "link": "https://arxiv.org/abs/2605.28849"
+  },
+  {
+    "title": "超减少冲击封闭（URIEL）",
+    "summary": "超减少冲击封闭（URIEL）是一种新的logging方法",
+    "score": 6,
+    "category": "商业",
+    "long": "超减少冲击封闭（URIEL）是一种新的logging方法，通过使用航空机器人系统和AI技术来实现logging。这种方法可以有效地减少冲击和封闭的影响。",
+    "short": "超减少冲击封闭（URIEL）",
+    "tweet": "超减少冲击封闭（URIEL）：logging方法",
+    "xiaohongshu": "超减少冲击封闭（URIEL）：logging的新方法，让森林保护更有效",
+    "index": 13,
+    "link": "https://arxiv.org/abs/2605.28883"
+  },
+  {
+    "title": "LLM对话的长期分析",
+    "summary": "LLM对话的长期分析是一项研究",
+    "score": 6,
+    "category": "研究",
+    "long": "LLM对话的长期分析是一项研究，通过分析用户和LLM之间的对话轨迹来研究LLM对话的长期效果。研究结果表明，用户的行为习惯在长期内保持相对稳定。",
+    "short": "LLM对话的长期分析",
+    "tweet": "LLM对话的长期分析：研究结果",
+    "xiaohongshu": "LLM对话的长期分析：研究结果",
+    "index": 19,
+    "link": "https://arxiv.org/abs/2605.29018"
+  }
+]
