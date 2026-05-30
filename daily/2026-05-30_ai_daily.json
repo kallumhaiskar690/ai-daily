@@ -1,0 +1,110 @@
+[
+  {
+    "title": "超越正交性：道德代理与AI对齐",
+    "summary": "探讨理性人不具有目标，理性AI也不应具有目标的观点",
+    "score": 9,
+    "category": "模型",
+    "long": "人工智能的目标设定是有问题的，理性人不应该有目标，理性AI也不应该有目标",
+    "short": "超越正交性",
+    "tweet": "理性人不应该有目标，理性AI也不应该有目标",
+    "xiaohongshu": "超越正交性，道德代理与AI对齐",
+    "index": 0,
+    "link": "https://thegradient.pub/virtue-ethics-ai-alignment/"
+  },
+  {
+    "title": "AGI不是多模态的",
+    "summary": "讨论AGI的概念和多模态的关系",
+    "score": 8,
+    "category": "模型",
+    "long": "AGI的概念被误解了，多模态并不是AGI的关键",
+    "short": "AGI不是多模态的",
+    "tweet": "AGI不是多模态的，多模态不是AGI的关键",
+    "xiaohongshu": "AGI不是多模态的，多模态不是AGI的关键",
+    "index": 1,
+    "link": "https://thegradient.pub/agi-is-not-multimodal/"
+  },
+  {
+    "title": "Shape, Symmetries, and Structure: 机器学习研究中的数学角色",
+    "summary": "讨论机器学习研究中的数学角色",
+    "score": 7,
+    "category": "模型",
+    "long": "机器学习研究中的数学角色正在发生变化",
+    "short": "机器学习研究中的数学角色",
+    "tweet": "机器学习研究中的数学角色正在发生变化",
+    "xiaohongshu": "机器学习研究中的数学角色",
+    "index": 2,
+    "link": "https://thegradient.pub/shape-symmetry-structure/"
+  },
+  {
+    "title": "LLM聊天机器人的缺失之处：目的感",
+    "summary": "讨论LLM聊天机器人的缺失之处",
+    "score": 6,
+    "category": "模型",
+    "long": "LLM聊天机器人缺乏目的感",
+    "short": "LLM聊天机器人的缺失之处",
+    "tweet": "LLM聊天机器人缺乏目的感",
+    "xiaohongshu": "LLM聊天机器人的缺失之处",
+    "index": 3,
+    "link": "https://thegradient.pub/dialog/"
+  },
+  {
+    "title": "我们需要基于福祉的AI",
+    "summary": "讨论AI的未来和福祉",
+    "score": 5,
+    "category": "研究",
+    "long": "AI的未来应该是基于福祉的",
+    "short": "基于福祉的AI",
+    "tweet": "AI的未来应该是基于福祉的",
+    "xiaohongshu": "基于福祉的AI",
+    "index": 4,
+    "link": "https://thegradient.pub/we-need-positive-visions-for-ai-grounded-in-wellbeing/"
+  },
+  {
+    "title": "LLM在金融市场的应用",
+    "summary": "讨论LLM在金融市场的应用",
+    "score": 4,
+    "category": "商业",
+    "long": "LLM在金融市场的应用正在增长",
+    "short": "LLM在金融市场的应用",
+    "tweet": "LLM在金融市场的应用正在增长",
+    "xiaohongshu": "LLM在金融市场的应用",
+    "index": 5,
+    "link": "https://thegradient.pub/financial-market-applications-of-llms/"
+  },
+  {
+    "title": "AI中的性别偏见",
+    "summary": "讨论AI中的性别偏见",
+    "score": 3,
+    "category": "研究",
+    "long": "AI中的性别偏见是一个重要问题",
+    "short": "AI中的性别偏见",
+    "tweet": "AI中的性别偏见是一个重要问题",
+    "xiaohongshu": "AI中的性别偏见",
+    "index": 6,
+    "link": "https://thegradient.pub/gender-bias-in-ai/"
+  },
+  {
+    "title": "Mamba解释",
+    "summary": "讨论Mamba AI模型",
+    "score": 2,
+    "category": "模型",
+    "long": "Mamba AI模型是一个新的选择",
+    "short": "Mamba AI模型",
+    "tweet": "Mamba AI模型是一个新的选择",
+    "xiaohongshu": "Mamba AI模型",
+    "index": 7,
+    "link": "https://thegradient.pub/mamba-explained/"
+  },
+  {
+    "title": "Car-GPT：LLM是否可以实现自驾车",
+    "summary": "讨论LLM在自驾车中的应用",
+    "score": 1,
+    "category": "商业",
+    "long": "LLM在自驾车中的应用是一个重要问题",
+    "short": "LLM在自驾车中的应用",
+    "tweet": "LLM在自驾车中的应用是一个重要问题",
+    "xiaohongshu": "LLM在自驾车中的应用",
+    "index": 8,
+    "link": "https://thegradient.pub/car-gpt/"
+  }
+]
