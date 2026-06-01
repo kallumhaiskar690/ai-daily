@@ -1,0 +1,98 @@
+[
+  {
+    "title": "Physically Viable World Models",
+    "summary": "AI模型需要物理可行的世界模型",
+    "score": 9,
+    "category": "研究",
+    "long": "AI模型需要物理可行的世界模型，以回答干预查询并代表物理结构，而不是仅仅预测未来观察。现有的观察预测世界模型可能会产生可视性但物理错误的滚动。这种失败是结构性的;不同的物理系统可能看起来相同但在干预时会分叉。",
+    "short": "AI模型需要物理可行的世界模型",
+    "tweet": "AI模型需要物理可行的世界模型！",
+    "xiaohongshu": "AI模型需要物理可行的世界模型，才能回答干预查询和代表物理结构！",
+    "index": 11,
+    "link": "https://arxiv.org/abs/2605.30542"
+  },
+  {
+    "title": "Transforming and Encoding FTS for SAT Solving",
+    "summary": "SAT求解中的事实任务转换和编码",
+    "score": 8,
+    "category": "研究",
+    "long": "本文调查了如何将事实任务编码为SAT。我们提出了几种编码事实任务的方法，重点是将事实转换关系转换为命题逻辑。我们还分析了如何利用平行性在SAT中进行编码，并研究了常见的任务转换对SAT规划性能的影响。",
+    "short": "SAT求解中的事实任务转换和编码",
+    "tweet": "SAT求解中的事实任务转换和编码！",
+    "xiaohongshu": "SAT求解中的事实任务转换和编码，提高了SAT规划的性能！",
+    "index": 12,
+    "link": "https://arxiv.org/abs/2605.30563"
+  },
+  {
+    "title": "Harness Updating Is Not Harness Benefit",
+    "summary": "LLM代理的自我演化能力",
+    "score": 8,
+    "category": "研究",
+    "long": "本文分析了LLM代理的自我演化能力，包括更新和益处。我们的分析显示，更新能力是平坦的，而益处能力是非单调的。我们发现弱级别的模型可能不会从更新中受益，而中级别的模型会受益更多。我们认为投资能力预算在任务解决代理身上而不是演化器身上会更有价值。",
+    "short": "LLM代理的自我演化能力",
+    "tweet": "LLM代理的自我演化能力！",
+    "xiaohongshu": "LLM代理的自我演化能力，提高了代理的任务解决能力！",
+    "index": 15,
+    "link": "https://arxiv.org/abs/2605.30621"
+  },
+  {
+    "title": "EHRBench: An Automated and Reliable EHR-based Benchmark",
+    "summary": "基于电子健康记录的自动化和可靠的基准",
+    "score": 8,
+    "category": "研究",
+    "long": "本文介绍了EHRBench，一个基于电子健康记录的自动化和可靠的基准。EHRBench通过一个EHR-LLM-KB（知识库）交互管道构建，确保了基准的可靠性和可扩展性。我们通过EHRBench评估了30个代表性的LLM模型的性能和可靠性。",
+    "short": "基于电子健康记录的自动化和可靠的基准",
+    "tweet": "基于电子健康记录的自动化和可靠的基准！",
+    "xiaohongshu": "基于电子健康记录的自动化和可靠的基准，提高了LLM模型的可靠性！",
+    "index": 16,
+    "link": "https://arxiv.org/abs/2605.30637"
+  },
+  {
+    "title": "Structure-Induced Information for Rerooting Levin Tree Search",
+    "summary": "树搜索中的结构信息",
+    "score": 7,
+    "category": "研究",
+    "long": "本文提出了一个使用结构信息进行树搜索的方法。我们通过学习一个“重新根”来实现这一点，重新根可以隐式分解问题成为软子任务。我们通过实验表明了我们的方法可以有效地解决复杂的问题。",
+    "short": "树搜索中的结构信息",
+    "tweet": "树搜索中的结构信息！",
+    "xiaohongshu": "树搜索中的结构信息，提高了树搜索的效率！",
+    "index": 17,
+    "link": "https://arxiv.org/abs/2605.30664"
+  },
+  {
+    "title": "MAVEN: Improving Generalization in Agentic Tool Calling",
+    "summary": "工具调用中的泛化能力",
+    "score": 7,
+    "category": "研究",
+    "long": "本文提出了一个名为MAVEN的方法，用于提高工具调用中的泛化能力。MAVEN通过使用一个轻量级的符号推理框架来实现这一点，框架可以分解任务，适应工具和验证中间状态。我们通过实验表明了MAVEN的有效性。",
+    "short": "工具调用中的泛化能力",
+    "tweet": "工具调用中的泛化能力！",
+    "xiaohongshu": "工具调用中的泛化能力，提高了工具调用中的效率！",
+    "index": 19,
+    "link": "https://arxiv.org/abs/2605.30738"
+  },
+  {
+    "title": "Chuwi Minibook X",
+    "summary": " Chuwi Minibook X",
+    "score": 6,
+    "category": "其他",
+    "long": "Chuwi Minibook X是一款轻薄笔记本电脑，具有高性能和长续航时间。",
+    "short": "轻薄笔记本电脑",
+    "tweet": "轻薄笔记本电脑！",
+    "xiaohongshu": "轻薄笔记本电脑，适合日常使用！",
+    "index": 20,
+    "link": "https://tylercipriani.com/blog/2026/05/28/chuwi-minibook-x/"
+  },
+  {
+    "title": "Cloudflare Turnstile",
+    "summary": "Cloudflare Turnstile",
+    "score": 6,
+    "category": "其他",
+    "long": "Cloudflare Turnstile是一款基于WebGL的防止滥用工具，能够有效地防止滥用和DDoS攻击。",
+    "short": "防止滥用工具",
+    "tweet": "防止滥用工具！",
+    "xiaohongshu": "防止滥用工具，提高了网站的安全性！",
+    "index": 21,
+    "link": "https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting"
+  }
+]
