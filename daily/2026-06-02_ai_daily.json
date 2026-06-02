@@ -1,0 +1,110 @@
+[
+  {
+    "title": "Universal Quantum Transformer",
+    "summary": "一种基于量子计算的Transformer模型",
+    "score": 10,
+    "category": "模型",
+    "long": "该模型使用量子计算的物理性质作为一个通用归纳偏差，实现了准确的数学和代数推理。它能够克服传统Transformer模型的随机性和不稳定性。",
+    "short": "量子Transformer",
+    "tweet": "量子计算的未来已经来临！",
+    "xiaohongshu": "量子Transformer，改变了我们对AI的理解！",
+    "index": 16,
+    "link": "https://arxiv.org/abs/2606.00045"
+  },
+  {
+    "title": "MindGames Arena Generalization Track",
+    "summary": "一种用于多智能体策略互动的语言模型",
+    "score": 9,
+    "category": "模型",
+    "long": "该模型使用延迟奖励分配和异步回滚生成来训练语言模型，实现了稳定和高效的多智能体策略互动。",
+    "short": "MindGames Arena",
+    "tweet": "多智能体策略互动的未来已经来临！",
+    "xiaohongshu": "MindGames Arena，改变了我们对多智能体互动的理解！",
+    "index": 15,
+    "link": "https://arxiv.org/abs/2606.00017"
+  },
+  {
+    "title": "Grokers: Bottom-Up Inductive Comprehension",
+    "summary": "一种用于构建持久的结构化理解的模型",
+    "score": 8,
+    "category": "模型",
+    "long": "该模型使用底层归纳遍历来构建持久的结构化理解，实现了高效的知识图谱理解。",
+    "short": "Grokers",
+    "tweet": "知识图谱理解的未来已经来临！",
+    "xiaohongshu": "Grokers，改变了我们对知识图谱理解的理解！",
+    "index": 17,
+    "link": "https://arxiv.org/abs/2606.00050"
+  },
+  {
+    "title": "Product-Aware Deep Autoencoders",
+    "summary": "一种用于多产品制造的过程监控模型",
+    "score": 7,
+    "category": "模型",
+    "long": "该模型使用产品感知深度自编码器来实现多产品制造的过程监控，提高了过程安全和安全性。",
+    "short": "Product-Aware",
+    "tweet": "多产品制造的未来已经来临！",
+    "xiaohongshu": "Product-Aware，改变了我们对多产品制造的理解！",
+    "index": 18,
+    "link": "https://arxiv.org/abs/2606.00052"
+  },
+  {
+    "title": "Emergent Collaborative Deliberation",
+    "summary": "一种用于多模型AI系统的协作决策模型",
+    "score": 6,
+    "category": "模型",
+    "long": "该模型使用Byzantine容错性来实现多模型AI系统的协作决策，提高了决策效率和准确性。",
+    "short": "Emergent Collaborative",
+    "tweet": "多模型AI系统的未来已经来临！",
+    "xiaohongshu": "Emergent Collaborative，改变了我们对多模型AI系统的理解！",
+    "index": 11,
+    "link": "https://arxiv.org/abs/2606.00005"
+  },
+  {
+    "title": "Deliberative Curation",
+    "summary": "一种用于多智能体知识库的协作决策模型",
+    "score": 5,
+    "category": "模型",
+    "long": "该模型使用三层治理机制来实现多智能体知识库的协作决策，提高了决策效率和准确性。",
+    "short": "Deliberative Curation",
+    "tweet": "多智能体知识库的未来已经来临！",
+    "xiaohongshu": "Deliberative Curation，改变了我们对多智能体知识库的理解！",
+    "index": 12,
+    "link": "https://arxiv.org/abs/2606.00007"
+  },
+  {
+    "title": "Agents on a Tree",
+    "summary": "一种用于多目标分子优化的多智能体框架",
+    "score": 4,
+    "category": "模型",
+    "long": "该模型使用树状结构来实现多目标分子优化，提高了分子设计的效率和准确性。",
+    "short": "Agents on a Tree",
+    "tweet": "多目标分子优化的未来已经来临！",
+    "xiaohongshu": "Agents on a Tree，改变了我们对多目标分子优化的理解！",
+    "index": 13,
+    "link": "https://arxiv.org/abs/2606.00008"
+  },
+  {
+    "title": "Optimal Transport-based Permutation-Invariant",
+    "summary": "一种用于海上风电场布局优化的模型",
+    "score": 3,
+    "category": "模型",
+    "long": "该模型使用最优运输理论来实现海上风电场布局优化，提高了风电场的效率和准确性。",
+    "short": "Optimal Transport",
+    "tweet": "海上风电场布局优化的未来已经来临！",
+    "xiaohongshu": "Optimal Transport，改变了我们对海上风电场布局优化的理解！",
+    "index": 14,
+    "link": "https://arxiv.org/abs/2606.00009"
+  },
+  {
+    "title": "On the evolution of the concept of probability",
+    "summary": "一种关于概率概念演变的理论",
+    "score": 2,
+    "category": "理论",
+    "long": "该理论使用历史分析来理解概率概念的演变，提高了概率理论的理解和应用。",
+    "short": "概率概念",
+    "tweet": "概率概念的未来已经来临！",
+    "xiaohongshu": "概率概念，改变了我们对概率的理解！",
+    "index": 19,
+    "link": "https://arxiv.org/abs/2606.00102"
+  }
+]
