@@ -1,0 +1,110 @@
+[
+  {
+    "title": "Traj-Evolve: A Self-Evolving Multi-Agent System for Patient Trajectory Modeling in Lung Cancer Early Detection",
+    "summary": "Traj-Evolve 是一种自我演化的多智能体系统，用于肺癌早期检测的患者轨迹建模",
+    "score": 9,
+    "category": "研究",
+    "long": "Traj-Evolve 使用经验池和多智能体强化学习两种演化机制，能够有效地建模患者轨迹并预测肺癌早期检测的结果",
+    "short": "Traj-Evolve 是一种自我演化的多智能体系统",
+    "tweet": "Traj-Evolve: 一个自我演化的多智能体系统，用于肺癌早期检测的患者轨迹建模",
+    "xiaohongshu": "Traj-Evolve 是一种自我演化的多智能体系统，能够有效地建模患者轨迹并预测肺癌早期检测的结果",
+    "index": 15,
+    "link": "https://arxiv.org/abs/2606.02812"
+  },
+  {
+    "title": "An Exploration of Collision-based Enemy Morphology Generation",
+    "summary": "本研究探索了基于碰撞的敌人形态生成方法",
+    "score": 8,
+    "category": "研究",
+    "long": "本研究提出了一种基于碰撞的敌人形态生成方法，能够有效地生成符合游戏需求的敌人形态",
+    "short": "基于碰撞的敌人形态生成",
+    "tweet": "碰撞生成敌人形态",
+    "xiaohongshu": "基于碰撞的敌人形态生成是一种新颖的方法",
+    "index": 16,
+    "link": "https://arxiv.org/abs/2606.02832"
+  },
+  {
+    "title": "Thinking Past the Answer: Evaluating Harmful Overthinking in Large Reasoning Models",
+    "summary": "本研究评估了大型推理模型的有害过度思考",
+    "score": 8,
+    "category": "研究",
+    "long": "本研究提出了一种评估大型推理模型有害过度思考的方法，能够有效地识别和减少过度思考的影响",
+    "short": "评估大型推理模型的有害过度思考",
+    "tweet": "大型推理模型的有害过度思考",
+    "xiaohongshu": "本研究评估了大型推理模型的有害过度思考",
+    "index": 17,
+    "link": "https://arxiv.org/abs/2606.02835"
+  },
+  {
+    "title": "Toward a Modular Architecture for Embedded AI Agent Systems at the Edge",
+    "summary": "本研究提出了一种模块化的边缘AI智能体系统架构",
+    "score": 8,
+    "category": "研究",
+    "long": "本研究提出了一种模块化的边缘AI智能体系统架构，能够有效地实现边缘AI智能体系统的部署和管理",
+    "short": "边缘AI智能体系统架构",
+    "tweet": "边缘AI智能体系统架构",
+    "xiaohongshu": "本研究提出了一种模块化的边缘AI智能体系统架构",
+    "index": 18,
+    "link": "https://arxiv.org/abs/2606.02862"
+  },
+  {
+    "title": "Don't Gamble, GAMBLe: An Analytical Framework for AI-Driven Research Systems",
+    "summary": "本研究提出了一种分析框架用于AI驱动的研究系统",
+    "score": 8,
+    "category": "研究",
+    "long": "本研究提出了一种分析框架用于AI驱动的研究系统，能够有效地评估和优化AI驱动的研究系统",
+    "short": "AI驱动的研究系统分析框架",
+    "tweet": "AI驱动的研究系统分析框架",
+    "xiaohongshu": "本研究提出了一种分析框架用于AI驱动的研究系统",
+    "index": 19,
+    "link": "https://arxiv.org/abs/2606.02863"
+  },
+  {
+    "title": "ChatHealthAI: Aligning Electronic Health Record Representations with Large Language Models for Grounded Clinical Reasoning",
+    "summary": "ChatHealthAI 是一种用于电子健康记录表示与大型语言模型的对齐",
+    "score": 7,
+    "category": "研究",
+    "long": "ChatHealthAI 是一种用于电子健康记录表示与大型语言模型的对齐，能够有效地实现临床推理",
+    "short": "ChatHealthAI",
+    "tweet": "ChatHealthAI",
+    "xiaohongshu": "ChatHealthAI 是一种用于电子健康记录表示与大型语言模型的对齐",
+    "index": 14,
+    "link": "https://arxiv.org/abs/2606.02802"
+  },
+  {
+    "title": "BehaviorBench: Modeling Real-World User Decisions from Behavioral Traces",
+    "summary": "BehaviorBench 是一种用于模拟真实世界用户决策的行为追踪",
+    "score": 7,
+    "category": "研究",
+    "long": "BehaviorBench 是一种用于模拟真实世界用户决策的行为追踪，能够有效地评估和优化决策系统",
+    "short": "BehaviorBench",
+    "tweet": "BehaviorBench",
+    "xiaohongshu": "BehaviorBench 是一种用于模拟真实世界用户决策的行为追踪",
+    "index": 13,
+    "link": "https://arxiv.org/abs/2606.02798"
+  },
+  {
+    "title": "Visual Graph Scaffolds for Structural Reasoning in Large Language Models",
+    "summary": "本研究提出了一种用于大型语言模型结构推理的可视化图形框架",
+    "score": 7,
+    "category": "研究",
+    "long": "本研究提出了一种用于大型语言模型结构推理的可视化图形框架，能够有效地实现结构推理",
+    "short": "大型语言模型结构推理",
+    "tweet": "大型语言模型结构推理",
+    "xiaohongshu": "本研究提出了一种用于大型语言模型结构推理的可视化图形框架",
+    "index": 10,
+    "link": "https://arxiv.org/abs/2606.02673"
+  },
+  {
+    "title": "AURA: Action-Gated Memory for Robot Policies at Constant VRAM",
+    "summary": "AURA 是一种用于机器人政策的动作门控内存",
+    "score": 7,
+    "category": "研究",
+    "long": "AURA 是一种用于机器人政策的动作门控内存，能够有效地实现机器人政策的部署和管理",
+    "short": "AURA",
+    "tweet": "AURA",
+    "xiaohongshu": "AURA 是一种用于机器人政策的动作门控内存",
+    "index": 11,
+    "link": "https://arxiv.org/abs/2606.02775"
+  }
+]
