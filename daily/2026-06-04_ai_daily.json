@@ -1,0 +1,110 @@
+[
+  {
+    "title": "AI Emotional Dependence: How Routine AI Interactions Reshape Human Connection",
+    "summary": "研究发现，人与AI的日常互动可能导致人对AI的情感依赖",
+    "score": 9,
+    "category": "研究",
+    "long": "研究发现，人与AI的日常互动可能导致人对AI的情感依赖，这可能会影响人与人之间的关系",
+    "short": "人与AI的日常互动可能导致情感依赖",
+    "tweet": "AI Emotional Dependence: 人与AI的日常互动可能导致情感依赖 #AI #EmotionalDependence",
+    "xiaohongshu": "你知道吗？人与AI的日常互动可能导致情感依赖！",
+    "index": 11,
+    "link": "https://arxiv.org/abs/2606.04150"
+  },
+  {
+    "title": "Ontology-Grounded Simulation and Trust Certification for Enterprise AI Agents",
+    "summary": "研究提出了一种基于ontology的验证框架，用于确保企业AI代理的可信度",
+    "score": 8,
+    "category": "研究",
+    "long": "研究提出了一种基于ontology的验证框架，用于确保企业AI代理的可信度，这种框架结合了Agent Operational Envelope、ontology-to-scenario generation pipeline和Trust Certificate",
+    "short": "基于ontology的验证框架确保企业AI代理的可信度",
+    "tweet": "Ontology-Grounded Simulation and Trust Certification: 确保企业AI代理的可信度 #AI #TrustCertification",
+    "xiaohongshu": "你知道吗？基于ontology的验证框架可以确保企业AI代理的可信度！",
+    "index": 10,
+    "link": "https://arxiv.org/abs/2606.04037"
+  },
+  {
+    "title": "StepPRM-RTL: Stepwise Process-Reward Guided LLM Fine-Tuning for Enhanced RTL Synthesis",
+    "summary": "研究提出了一种基于步骤和奖励的框架，用于提高LLM在RTL合成中的表现",
+    "score": 8,
+    "category": "研究",
+    "long": "研究提出了一种基于步骤和奖励的框架，用于提高LLM在RTL合成中的表现，这种框架结合了stepwise trajectory modeling、process-reward modeling和retrieval-augmented fine-tuning",
+    "short": "基于步骤和奖励的框架提高LLM在RTL合成中的表现",
+    "tweet": "StepPRM-RTL: 基于步骤和奖励的框架提高LLM在RTL合成中的表现 #AI #RTL",
+    "xiaohongshu": "你知道吗？基于步骤和奖励的框架可以提高LLM在RTL合成中的表现！",
+    "index": 16,
+    "link": "https://arxiv.org/abs/2606.04246"
+  },
+  {
+    "title": "VAMPS: Visual-Assisted Mathematical Problem Solving Benchmark",
+    "summary": "研究提出了一种基于视觉辅助的数学问题解决的基准测试",
+    "score": 7,
+    "category": "研究",
+    "long": "研究提出了一种基于视觉辅助的数学问题解决的基准测试，这种基准测试结合了多模态和多语言的特点",
+    "short": "基于视觉辅助的数学问题解决的基准测试",
+    "tweet": "VAMPS: 基于视觉辅助的数学问题解决的基准测试 #AI #Math",
+    "xiaohongshu": "你知道吗？基于视觉辅助的数学问题解决的基准测试可以帮助提高数学问题解决的能力！",
+    "index": 15,
+    "link": "https://arxiv.org/abs/2606.04244"
+  },
+  {
+    "title": "Can Generalist Agents Automate Data Curation?",
+    "summary": "研究探讨了是否可以使用通用代理来自动化数据清洗",
+    "score": 7,
+    "category": "研究",
+    "long": "研究探讨了是否可以使用通用代理来自动化数据清洗，这种代理可以通过命令行接口来访问数据并实施数据清洗策略",
+    "short": "通用代理可以自动化数据清洗",
+    "tweet": "Can Generalist Agents Automate Data Curation? #AI #DataCuration",
+    "xiaohongshu": "你知道吗？通用代理可以自动化数据清洗！",
+    "index": 17,
+    "link": "https://arxiv.org/abs/2606.04261"
+  },
+  {
+    "title": "Characterizing initial human-AI proof formalization workflows",
+    "summary": "研究探讨了人与AI在证明形式化中的合作流程",
+    "score": 6,
+    "category": "研究",
+    "long": "研究探讨了人与AI在证明形式化中的合作流程，这种合作流程涉及到人与AI之间的互动和信息共享",
+    "short": "人与AI在证明形式化中的合作流程",
+    "tweet": "Characterizing initial human-AI proof formalization workflows #AI #ProofFormalization",
+    "xiaohongshu": "你知道吗？人与AI在证明形式化中的合作流程可以帮助提高证明形式化的效率！",
+    "index": 18,
+    "link": "https://arxiv.org/abs/2606.04273"
+  },
+  {
+    "title": "The Saturation Trap and the Subjectivity of Intervention Timing",
+    "summary": "研究探讨了干预时间的可靠性问题",
+    "score": 6,
+    "category": "研究",
+    "long": "研究探讨了干预时间的可靠性问题，这种问题涉及到人与AI之间的互动和信息共享",
+    "short": "干预时间的可靠性问题",
+    "tweet": "The Saturation Trap and the Subjectivity of Intervention Timing #AI #InterventionTiming",
+    "xiaohongshu": "你知道吗？干预时间的可靠性问题是人与AI合作中的一个重要问题！",
+    "index": 19,
+    "link": "https://arxiv.org/abs/2606.04296"
+  },
+  {
+    "title": "U.S. to Dismantle System Tracking Atlantic Currents That Are at Risk of Collapse",
+    "summary": "美国将拆除跟踪大西洋环流的系统",
+    "score": 5,
+    "category": "商业",
+    "long": "美国将拆除跟踪大西洋环流的系统，这个系统是用于监测大西洋环流的重要工具",
+    "short": "美国将拆除跟踪大西洋环流的系统",
+    "tweet": "U.S. to Dismantle System Tracking Atlantic Currents That Are at Risk of Collapse #News #Environment",
+    "xiaohongshu": "你知道吗？美国将拆除跟踪大西洋环流的系统！",
+    "index": 20,
+    "link": "https://e360.yale.edu/digest/trump-ooi-amoc"
+  },
+  {
+    "title": "Elixir v1.20: Now a gradually typed language",
+    "summary": "Elixir v1.20现在支持渐进式类型",
+    "score": 5,
+    "category": "工具",
+    "long": "Elixir v1.20现在支持渐进式类型，这个更新可以帮助开发者更好地管理代码",
+    "short": "Elixir v1.20支持渐进式类型",
+    "tweet": "Elixir v1.20: Now a gradually typed language #Elixir #Programming",
+    "xiaohongshu": "你知道吗？Elixir v1.20现在支持渐进式类型！",
+    "index": 21,
+    "link": "https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/"
+  }
+]
