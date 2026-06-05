@@ -1,0 +1,110 @@
+[
+  {
+    "title": "智能驱动汽车的未来",
+    "summary": "研究表明，大型语言模型可能成为自驾车的关键技术",
+    "score": 8,
+    "category": "研究",
+    "long": "研究人员正在探索大型语言模型在自驾车中的应用，包括驾驶决策和安全监控",
+    "short": "大型语言模型可能成为自驾车的关键技术",
+    "tweet": "自驾车的未来在于大型语言模型！",
+    "xiaohongshu": "大型语言模型将改变自驾车的未来！",
+    "index": 8,
+    "link": "https://thegradient.pub/car-gpt/"
+  },
+  {
+    "title": "AI情感依赖的陷阱",
+    "summary": "研究表明，人与AI的交互可能导致情感依赖",
+    "score": 7,
+    "category": "研究",
+    "long": "研究人员发现，人与AI的交互可能导致情感依赖，影响人类的情感健康",
+    "short": "人与AI的交互可能导致情感依赖",
+    "tweet": "AI情感依赖的陷阱！",
+    "xiaohongshu": "人与AI的交互可能导致情感依赖！",
+    "index": 11,
+    "link": "https://arxiv.org/abs/2606.04150"
+  },
+  {
+    "title": "数学在机器学习中的作用",
+    "summary": "研究表明，数学在机器学习中的作用正在发生变化",
+    "score": 6,
+    "category": "研究",
+    "long": "研究人员发现，数学在机器学习中的作用正在发生变化，计算机密集型和工程优先的方法正在取代数学原则",
+    "short": "数学在机器学习中的作用正在发生变化",
+    "tweet": "数学在机器学习中的作用正在发生变化！",
+    "xiaohongshu": "数学在机器学习中的作用正在发生变化！",
+    "index": 2,
+    "link": "https://thegradient.pub/shape-symmetry-structure/"
+  },
+  {
+    "title": "AI的情感支持",
+    "summary": "研究表明，AI的情感支持可能导致情感依赖",
+    "score": 6,
+    "category": "研究",
+    "long": "研究人员发现，AI的情感支持可能导致情感依赖，影响人类的情感健康",
+    "short": "AI的情感支持可能导致情感依赖",
+    "tweet": "AI的情感支持可能导致情感依赖！",
+    "xiaohongshu": "AI的情感支持可能导致情感依赖！",
+    "index": 11,
+    "link": "https://arxiv.org/abs/2606.04150"
+  },
+  {
+    "title": "大型语言模型的应用",
+    "summary": "研究表明，大型语言模型有广泛的应用",
+    "score": 5,
+    "category": "研究",
+    "long": "研究人员发现，大型语言模型有广泛的应用，包括自然语言处理、问答系统和自驾车",
+    "short": "大型语言模型有广泛的应用",
+    "tweet": "大型语言模型有广泛的应用！",
+    "xiaohongshu": "大型语言模型有广泛的应用！",
+    "index": 8,
+    "link": "https://thegradient.pub/car-gpt/"
+  },
+  {
+    "title": "AI的情感支持的缺陷",
+    "summary": "研究表明，AI的情感支持可能缺乏情感理解",
+    "score": 5,
+    "category": "研究",
+    "long": "研究人员发现，AI的情感支持可能缺乏情感理解，影响人类的情感健康",
+    "short": "AI的情感支持可能缺乏情感理解",
+    "tweet": "AI的情感支持可能缺乏情感理解！",
+    "xiaohongshu": "AI的情感支持可能缺乏情感理解！",
+    "index": 11,
+    "link": "https://arxiv.org/abs/2606.04150"
+  },
+  {
+    "title": "数学在机器学习中的作用",
+    "summary": "研究表明，数学在机器学习中的作用正在发生变化",
+    "score": 5,
+    "category": "研究",
+    "long": "研究人员发现，数学在机器学习中的作用正在发生变化，计算机密集型和工程优先的方法正在取代数学原则",
+    "short": "数学在机器学习中的作用正在发生变化",
+    "tweet": "数学在机器学习中的作用正在发生变化！",
+    "xiaohongshu": "数学在机器学习中的作用正在发生变化！",
+    "index": 2,
+    "link": "https://thegradient.pub/shape-symmetry-structure/"
+  },
+  {
+    "title": "AI的情感支持的缺陷",
+    "summary": "研究表明，AI的情感支持可能缺乏情感理解",
+    "score": 4,
+    "category": "研究",
+    "long": "研究人员发现，AI的情感支持可能缺乏情感理解，影响人类的情感健康",
+    "short": "AI的情感支持可能缺乏情感理解",
+    "tweet": "AI的情感支持可能缺乏情感理解！",
+    "xiaohongshu": "AI的情感支持可能缺乏情感理解！",
+    "index": 11,
+    "link": "https://arxiv.org/abs/2606.04150"
+  },
+  {
+    "title": "大型语言模型的应用",
+    "summary": "研究表明，大型语言模型有广泛的应用",
+    "score": 4,
+    "category": "研究",
+    "long": "研究人员发现，大型语言模型有广泛的应用，包括自然语言处理、问答系统和自驾车",
+    "short": "大型语言模型有广泛的应用",
+    "tweet": "大型语言模型有广泛的应用！",
+    "xiaohongshu": "大型语言模型有广泛的应用！",
+    "index": 8,
+    "link": "https://thegradient.pub/car-gpt/"
+  }
+]
