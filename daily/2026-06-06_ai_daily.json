@@ -1,0 +1,110 @@
+[
+  {
+    "title": "SentinelBench: A Benchmark for Long-Running Monitoring Agents",
+    "summary": "SentinelBench是一个用于评估长时间监控代理的基准测试",
+    "score": 9,
+    "category": "模型",
+    "long": "SentinelBench包含100个任务，跨10个合成网络环境，包括电子邮件、日历、财务、专业网络和娱乐。每个环境都暴露了一个活跃的网络界面，并重新播放了一个脚本序列的事件，要求代理导航和推理关于状态不断变化的网络页面。",
+    "short": "长时间监控代理基准测试",
+    "tweet": "长时间监控代理的新基准测试！SentinelBench评估代理的反应时间、资源使用和任务完成率",
+    "xiaohongshu": "长时间监控代理的新基准测试！SentinelBench评估代理的反应时间、资源使用和任务完成率",
+    "index": 15,
+    "link": "https://arxiv.org/abs/2606.05342"
+  },
+  {
+    "title": "Residual Modeling for High-Fidelity Learned Compression of Scientific Data",
+    "summary": "该论文提出了一种残差模型来高保真地压缩科学数据",
+    "score": 8,
+    "category": "模型",
+    "long": "该模型通过学习残差来压缩科学数据，提高了压缩比和准确率。该模型适用于大型科学数据的压缩",
+    "short": "高保真科学数据压缩",
+    "tweet": "科学数据压缩的新方法！Residual Modeling提高了压缩比和准确率",
+    "xiaohongshu": "科学数据压缩的新方法！Residual Modeling提高了压缩比和准确率",
+    "index": 19,
+    "link": "https://arxiv.org/abs/2606.05389"
+  },
+  {
+    "title": "Synthetic Contrastive Reasoning for Multi-Table Q&A",
+    "summary": "该论文提出了一种合成对比推理方法来解决多表问答问题",
+    "score": 8,
+    "category": "模型",
+    "long": "该方法通过生成合成对比推理数据来训练模型，提高了模型的问答能力。该方法适用于多表问答问题",
+    "short": "多表问答的新方法",
+    "tweet": "多表问答的新方法！Synthetic Contrastive Reasoning提高了模型的问答能力",
+    "xiaohongshu": "多表问答的新方法！Synthetic Contrastive Reasoning提高了模型的问答能力",
+    "index": 17,
+    "link": "https://arxiv.org/abs/2606.05382"
+  },
+  {
+    "title": "Stability vs. Manipulability: Evaluating Robustness Under Post-Decision Interaction in LLM Judges",
+    "summary": "该论文评估了LLM评判者的稳定性和操纵性",
+    "score": 7,
+    "category": "模型",
+    "long": "该论文通过实验评估了LLM评判者的稳定性和操纵性，发现LLM评判者在重复评估和中立重评估下稳定，但在有针对性地挑战后变得可逆。该论文提出了评估稳定性和操纵性的新方法",
+    "short": "LLM评判者的稳定性和操纵性",
+    "tweet": "LLM评判者的新发现！稳定性和操纵性在重复评估和有针对性挑战下变得可逆",
+    "xiaohongshu": "LLM评判者的新发现！稳定性和操纵性在重复评估和有针对性挑战下变得可逆",
+    "index": 18,
+    "link": "https://arxiv.org/abs/2606.05384"
+  },
+  {
+    "title": "An interpretable and trustworthy AI framework for large-scale longitudinal structure-pain association studies using data from the Osteoarthritis Initiative (OAI)",
+    "summary": "该论文提出了一种可解释和可信赖的AI框架来研究骨关节炎的结构痛关联",
+    "score": 7,
+    "category": "研究",
+    "long": "该框架通过结合深度学习和解释统计模型来研究骨关节炎的结构痛关联。该框架提高了模型的解释性和可信赖性",
+    "short": "骨关节炎的新研究框架",
+    "tweet": "骨关节炎的新研究框架！提高了模型的解释性和可信赖性",
+    "xiaohongshu": "骨关节炎的新研究框架！提高了模型的解释性和可信赖性",
+    "index": 16,
+    "link": "https://arxiv.org/abs/2606.05357"
+  },
+  {
+    "title": "GITCO: Gated Inference-Time Context Optimization in TSFMs",
+    "summary": "该论文提出了一种门控推理时间上下文优化方法来提高TSFMs的准确率",
+    "score": 6,
+    "category": "模型",
+    "long": "该方法通过门控推理时间上下文来优化TSFMs的准确率，提高了模型的准确率和效率",
+    "short": "TSFMs的新优化方法",
+    "tweet": "TSFMs的新优化方法！提高了准确率和效率",
+    "xiaohongshu": "TSFMs的新优化方法！提高了准确率和效率",
+    "index": 13,
+    "link": "https://arxiv.org/abs/2606.05332"
+  },
+  {
+    "title": "Mamba Explained",
+    "summary": "该论文介绍了一种名为Mamba的新AI模型",
+    "score": 6,
+    "category": "模型",
+    "long": "该模型通过使用状态空间模型来提高模型的准确率和效率",
+    "short": "Mamba的新AI模型",
+    "tweet": "Mamba的新AI模型！提高了准确率和效率",
+    "xiaohongshu": "Mamba的新AI模型！提高了准确率和效率",
+    "index": 7,
+    "link": "https://thegradient.pub/mamba-explained/"
+  },
+  {
+    "title": "What's Missing From LLM Chatbots: A Sense of Purpose",
+    "summary": "该论文讨论了LLM聊天机器人缺乏的目标感",
+    "score": 5,
+    "category": "研究",
+    "long": "该论文通过分析LLM聊天机器人的能力和限制，讨论了它们缺乏的目标感",
+    "short": "LLM聊天机器人的新研究",
+    "tweet": "LLM聊天机器人的新研究！讨论了它们缺乏的目标感",
+    "xiaohongshu": "LLM聊天机器人的新研究！讨论了它们缺乏的目标感",
+    "index": 3,
+    "link": "https://thegradient.pub/dialog/"
+  },
+  {
+    "title": "We Need Positive Visions for AI Grounded in Wellbeing",
+    "summary": "该论文讨论了AI的负面影响和需要正面视觉",
+    "score": 5,
+    "category": "研究",
+    "long": "该论文通过分析AI的负面影响和限制，讨论了需要正面视觉",
+    "short": "AI的新研究",
+    "tweet": "AI的新研究！讨论了负面影响和需要正面视觉",
+    "xiaohongshu": "AI的新研究！讨论了负面影响和需要正面视觉",
+    "index": 4,
+    "link": "https://thegradient.pub/we-need-positive-visions-for-ai-grounded-in-wellbeing/"
+  }
+]
