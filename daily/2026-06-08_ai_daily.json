@@ -1,0 +1,98 @@
+[
+  {
+    "title": "CARVE-Q: Quantum-Proposed, Classically Certified Interactive Driving Repair",
+    "summary": "CARVE-Q 是一种使用量子计算来修复驾驶系统中的错误的方法",
+    "score": 9,
+    "category": "研究",
+    "long": "CARVE-Q 使用量子计算来修复驾驶系统中的错误,并提供了一个可信的证书来证明修复的正确性",
+    "short": "量子计算修复驾驶系统错误",
+    "tweet": "量子计算修复驾驶系统错误,提高安全性!",
+    "xiaohongshu": "量子计算的神奇力量,让驾驶系统变得更加安全!",
+    "index": 16,
+    "link": "https://arxiv.org/abs/2606.06531"
+  },
+  {
+    "title": "Attack Selection in Agentic AI Control Evaluations Meaningfully Decreases Safety",
+    "summary": "攻击选择在人工智能控制评估中显著降低了安全性",
+    "score": 8,
+    "category": "研究",
+    "long": "攻击选择在人工智能控制评估中显著降低了安全性,这意味着当前的评估方法可能过于乐观",
+    "short": "攻击选择降低了安全性",
+    "tweet": "攻击选择降低了安全性,我们需要重新评估!",
+    "xiaohongshu": "攻击选择的阴暗面,让安全性变得更加脆弱!",
+    "index": 15,
+    "link": "https://arxiv.org/abs/2606.06529"
+  },
+  {
+    "title": "SafeGene: Reusable Adapters for Transferable Safety Alignment",
+    "summary": "SafeGene 是一种可重用的安全适配器,用于确保模型的安全性",
+    "score": 8,
+    "category": "研究",
+    "long": "SafeGene 是一种可重用的安全适配器,用于确保模型的安全性,并且可以在不同任务中重用",
+    "short": "安全适配器,提高安全性",
+    "tweet": "安全适配器,提高安全性!",
+    "xiaohongshu": "安全适配器的神奇力量,让模型变得更加安全!",
+    "index": 12,
+    "link": "https://arxiv.org/abs/2606.06519"
+  },
+  {
+    "title": "Lean4Agent: Formal Modeling and Verification for Agent Workflow and Trajectory",
+    "summary": "Lean4Agent 是一种形式化模型和验证的方法,用于确保代理的工作流程和轨迹的正确性",
+    "score": 8,
+    "category": "研究",
+    "long": "Lean4Agent 是一种形式化模型和验证的方法,用于确保代理的工作流程和轨迹的正确性,并且可以用于多个代理系统",
+    "short": "形式化模型和验证,提高正确性",
+    "tweet": "形式化模型和验证,提高正确性!",
+    "xiaohongshu": "形式化模型和验证的神奇力量,让代理变得更加可靠!",
+    "index": 13,
+    "link": "https://arxiv.org/abs/2606.06523"
+  },
+  {
+    "title": "Detecting and Mitigating Bias by Treating Fairness as a Symmetry Operation",
+    "summary": "该研究提出了一种方法,用于检测和减轻偏差,通过将公平性视为对称操作",
+    "score": 7,
+    "category": "研究",
+    "long": "该研究提出了一种方法,用于检测和减轻偏差,通过将公平性视为对称操作,并且可以用于多个数据集",
+    "short": "检测和减轻偏差",
+    "tweet": "检测和减轻偏差,提高公平性!",
+    "xiaohongshu": "检测和减轻偏差的神奇力量,让数据变得更加公平!",
+    "index": 10,
+    "link": "https://arxiv.org/abs/2606.06514"
+  },
+  {
+    "title": "DiBS: Diffusion-Informed Branch Selection",
+    "summary": "DiBS 是一种使用扩散模型来选择分支的方法,用于解决约束满足问题",
+    "score": 7,
+    "category": "研究",
+    "long": "DiBS 是一种使用扩散模型来选择分支的方法,用于解决约束满足问题,并且可以用于多个约束满足问题",
+    "short": "扩散模型选择分支",
+    "tweet": "扩散模型选择分支,提高约束满足率!",
+    "xiaohongshu": "扩散模型的神奇力量,让约束满足问题变得更加容易!",
+    "index": 11,
+    "link": "https://arxiv.org/abs/2606.06518"
+  },
+  {
+    "title": "A Brief Overview of Gender Bias in AI",
+    "summary": "该研究提供了一种对性别偏差在人工智能中的概述",
+    "score": 6,
+    "category": "研究",
+    "long": "该研究提供了一种对性别偏差在人工智能中的概述,并且可以用于了解和减轻偏差",
+    "short": "性别偏差概述",
+    "tweet": "性别偏差概述,提高公平性!",
+    "xiaohongshu": "性别偏差的神奇力量,让数据变得更加公平!",
+    "index": 6,
+    "link": "https://thegradient.pub/gender-bias-in-ai/"
+  },
+  {
+    "title": "Mamba Explained",
+    "summary": "Mamba 是一种新的AI模型,用于解决Transformer模型的不足",
+    "score": 6,
+    "category": "研究",
+    "long": "Mamba 是一种新的AI模型,用于解决Transformer模型的不足,并且可以用于多个自然语言处理任务",
+    "short": "Mamba模型,提高自然语言处理能力",
+    "tweet": "Mamba模型,提高自然语言处理能力!",
+    "xiaohongshu": "Mamba模型的神奇力量,让自然语言处理变得更加强大!",
+    "index": 7,
+    "link": "https://thegradient.pub/mamba-explained/"
+  }
+]
