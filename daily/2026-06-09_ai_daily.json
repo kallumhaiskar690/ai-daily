@@ -1,0 +1,122 @@
+[
+  {
+    "title": "AGI Is Not Multimodal",
+    "summary": "AGI 不是多模态的",
+    "score": 8,
+    "category": "模型",
+    "long": "AGI 不是多模态的，语言和其他模态之间的关系需要重新思考",
+    "short": "AGI 不是多模态的",
+    "tweet": "AGI 不是多模态的！我们需要重新思考语言和其他模态之间的关系",
+    "xiaohongshu": "AGI 不是多模态的！我们需要重新思考语言和其他模态之间的关系",
+    "index": 1,
+    "link": "https://thegradient.pub/agi-is-not-multimodal/"
+  },
+  {
+    "title": "PathoSage: Towards Multi-Source Evidence Adjudication in Pathology via Experience-Aware Agentic Workflow",
+    "summary": "PathoSage: 多源证据裁决在病理学中的应用",
+    "score": 9,
+    "category": "研究",
+    "long": "PathoSage 是一个多源证据裁决的框架，用于病理学中的应用",
+    "short": "PathoSage: 多源证据裁决",
+    "tweet": "PathoSage: 多源证据裁决在病理学中的应用！",
+    "xiaohongshu": "PathoSage: 多源证据裁决在病理学中的应用！",
+    "index": 10,
+    "link": "https://arxiv.org/abs/2606.07549"
+  },
+  {
+    "title": "OmniMem: Perturbation-aware Memory Compression for Streaming Audio-Visual LLMs",
+    "summary": "OmniMem: 媒体感知的内存压缩",
+    "score": 8,
+    "category": "模型",
+    "long": "OmniMem 是一个媒体感知的内存压缩框架，用于流式音频视觉 LLMs",
+    "short": "OmniMem: 媒体感知的内存压缩",
+    "tweet": "OmniMem: 媒体感知的内存压缩！",
+    "xiaohongshu": "OmniMem: 媒体感知的内存压缩！",
+    "index": 11,
+    "link": "https://arxiv.org/abs/2606.07577"
+  },
+  {
+    "title": "Syll: Open-Source Personal Automation with Cross-Surface Execution",
+    "summary": "Syll: 开源个人自动化",
+    "score": 8,
+    "category": "工具",
+    "long": "Syll 是一个开源的个人自动化框架，用于跨界面执行",
+    "short": "Syll: 开源个人自动化",
+    "tweet": "Syll: 开源个人自动化！",
+    "xiaohongshu": "Syll: 开源个人自动化！",
+    "index": 12,
+    "link": "https://arxiv.org/abs/2606.07594"
+  },
+  {
+    "title": "AGCLR: Adaptive Gated Continuous Latent Reasoning",
+    "summary": "AGCLR: 适应性门控持续潜在推理",
+    "score": 9,
+    "category": "模型",
+    "long": "AGCLR 是一个适应性门控持续潜在推理框架",
+    "short": "AGCLR: 适应性门控持续潜在推理",
+    "tweet": "AGCLR: 适应性门控持续潜在推理！",
+    "xiaohongshu": "AGCLR: 适应性门控持续潜在推理！",
+    "index": 14,
+    "link": "https://arxiv.org/abs/2606.07720"
+  },
+  {
+    "title": "Automatic Extraction of Structured Information from Brain MRI Reports Using an Open-Weight Large Language Model",
+    "summary": "大脑MRI报告中结构化信息的自动提取",
+    "score": 8,
+    "category": "研究",
+    "long": "该研究使用一个开放权重的大语言模型来提取大脑MRI报告中的结构化信息",
+    "short": "大脑MRI报告中结构化信息的自动提取",
+    "tweet": "大脑MRI报告中结构化信息的自动提取！",
+    "xiaohongshu": "大脑MRI报告中结构化信息的自动提取！",
+    "index": 15,
+    "link": "https://arxiv.org/abs/2606.07721"
+  },
+  {
+    "title": "Reconstructing and Forecasting Disease Trajectories of Patients with Alzheimer's Disease Using Routine Data in Resource-Constrained Settings",
+    "summary": "阿尔茨海默病患者疾病轨迹的重构和预测",
+    "score": 8,
+    "category": "研究",
+    "long": "该研究使用常规数据来重构和预测阿尔茨海默病患者的疾病轨迹",
+    "short": "阿尔茨海默病患者疾病轨迹的重构和预测",
+    "tweet": "阿尔茨海默病患者疾病轨迹的重构和预测！",
+    "xiaohongshu": "阿尔茨海默病患者疾病轨迹的重构和预测！",
+    "index": 18,
+    "link": "https://arxiv.org/abs/2606.07798"
+  },
+  {
+    "title": "Improving Multimodal Reasoning via Worst Dimension Optimization",
+    "summary": "多模态推理的改进",
+    "score": 8,
+    "category": "研究",
+    "long": "该研究使用最差维度优化来改进多模态推理",
+    "short": "多模态推理的改进",
+    "tweet": "多模态推理的改进！",
+    "xiaohongshu": "多模态推理的改进！",
+    "index": 19,
+    "link": "https://arxiv.org/abs/2606.07801"
+  },
+  {
+    "title": "Land cover and flood type govern the detection limits of satellite-based flood mapping across diverse global flood events",
+    "summary": "地表覆盖和洪水类型决定卫星洪水遥感的检测限度",
+    "score": 8,
+    "category": "研究",
+    "long": "该研究发现地表覆盖和洪水类型决定卫星洪水遥感的检测限度",
+    "short": "地表覆盖和洪水类型决定卫星洪水遥感的检测限度",
+    "tweet": "地表覆盖和洪水类型决定卫星洪水遥感的检测限度！",
+    "xiaohongshu": "地表覆盖和洪水类型决定卫星洪水遥感的检测限度！",
+    "index": 17,
+    "link": "https://arxiv.org/abs/2606.07780"
+  },
+  {
+    "title": "Why Limit the Residual Stream to Layers and Not Tokens? Persistent Memory for Continuous Latent Reasoning",
+    "summary": "为什么限制残余流到层次而不是令牌?",
+    "score": 8,
+    "category": "模型",
+    "long": "该研究探讨为什么限制残余流到层次而不是令牌",
+    "short": "为什么限制残余流到层次而不是令牌?",
+    "tweet": "为什么限制残余流到层次而不是令牌？",
+    "xiaohongshu": "为什么限制残余流到层次而不是令牌？",
+    "index": 14,
+    "link": "https://arxiv.org/abs/2606.07720"
+  }
+]
