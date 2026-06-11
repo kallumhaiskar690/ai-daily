@@ -1,0 +1,110 @@
+[
+  {
+    "title": "AGI Is Not Multimodal",
+    "summary": "AGI 不是多模态的",
+    "score": 9,
+    "category": "模型",
+    "long": "AGI 不是多模态的，多模态的模型可能无法捕捉人类的理解",
+    "short": "AGI 不是多模态的",
+    "tweet": "AGI 不是多模态的！多模态的模型可能无法捕捉人类的理解！",
+    "xiaohongshu": "AGI 不是多模态的！多模态的模型可能无法捕捉人类的理解！",
+    "index": 1,
+    "link": "https://thegradient.pub/agi-is-not-multimodal/"
+  },
+  {
+    "title": "Shape, Symmetries, and Structure: The Changing Role of Mathematics in Machine Learning Research",
+    "summary": "机器学习中的数学角色在变化",
+    "score": 8,
+    "category": "研究",
+    "long": "机器学习中的数学角色在变化，研究涉及设计和数学原则的架构",
+    "short": "机器学习中的数学角色在变化",
+    "tweet": "机器学习中的数学角色在变化！研究涉及设计和数学原则的架构！",
+    "xiaohongshu": "机器学习中的数学角色在变化！研究涉及设计和数学原则的架构！",
+    "index": 2,
+    "link": "https://thegradient.pub/shape-symmetry-structure/"
+  },
+  {
+    "title": "What's Missing From LLM Chatbots: A Sense of Purpose",
+    "summary": "LLM 聊天机器人缺乏目的感",
+    "score": 8,
+    "category": "模型",
+    "long": "LLM 聊天机器人缺乏目的感，用户体验可能不会随着分数的提高而提高",
+    "short": "LLM 聊天机器人缺乏目的感",
+    "tweet": "LLM 聊天机器人缺乏目的感！用户体验可能不会随着分数的提高而提高！",
+    "xiaohongshu": "LLM 聊天机器人缺乏目的感！用户体验可能不会随着分数的提高而提高！",
+    "index": 3,
+    "link": "https://thegradient.pub/dialog/"
+  },
+  {
+    "title": "Financial Market Applications of LLMs",
+    "summary": "LLM 在金融市场的应用",
+    "score": 7,
+    "category": "商业",
+    "long": "LLM 在金融市场的应用，LLM 可以模拟金融市场的行为",
+    "short": "LLM 在金融市场的应用",
+    "tweet": "LLM 在金融市场的应用！LLM 可以模拟金融市场的行为！",
+    "xiaohongshu": "LLM 在金融市场的应用！LLM 可以模拟金融市场的行为！",
+    "index": 5,
+    "link": "https://thegradient.pub/financial-market-applications-of-llms/"
+  },
+  {
+    "title": "A Brief Overview of Gender Bias in AI",
+    "summary": "AI 中的性别偏见概述",
+    "score": 7,
+    "category": "研究",
+    "long": "AI 中的性别偏见概述，性别偏见可能会影响 AI 的决策",
+    "short": "AI 中的性别偏见概述",
+    "tweet": "AI 中的性别偏见概述！性别偏见可能会影响 AI 的决策！",
+    "xiaohongshu": "AI 中的性别偏见概述！性别偏见可能会影响 AI 的决策！",
+    "index": 6,
+    "link": "https://thegradient.pub/gender-bias-in-ai/"
+  },
+  {
+    "title": "Mamba Explained",
+    "summary": "Mamba 解释",
+    "score": 6,
+    "category": "模型",
+    "long": "Mamba 是一种新的 AI 模型，能够处理长序列的数据",
+    "short": "Mamba 是一种新的 AI 模型",
+    "tweet": "Mamba 是一种新的 AI 模型！能够处理长序列的数据！",
+    "xiaohongshu": "Mamba 是一种新的 AI 模型！能够处理长序列的数据！",
+    "index": 7,
+    "link": "https://thegradient.pub/mamba-explained/"
+  },
+  {
+    "title": "Car-GPT: Could LLMs finally make self-driving cars happen?",
+    "summary": "LLM 是否可以实现自主驾驶",
+    "score": 6,
+    "category": "商业",
+    "long": "LLM 是否可以实现自主驾驶，LLM 可以模拟驾驶行为",
+    "short": "LLM 是否可以实现自主驾驶",
+    "tweet": "LLM 是否可以实现自主驾驶！LLM 可以模拟驾驶行为！",
+    "xiaohongshu": "LLM 是否可以实现自主驾驶！LLM 可以模拟驾驶行为！",
+    "index": 8,
+    "link": "https://thegradient.pub/car-gpt/"
+  },
+  {
+    "title": "Do text embeddings perfectly encode text?",
+    "summary": "文本嵌入是否可以完美地编码文本",
+    "score": 5,
+    "category": "研究",
+    "long": "文本嵌入是否可以完美地编码文本，研究涉及文本嵌入的准确性",
+    "short": "文本嵌入是否可以完美地编码文本",
+    "tweet": "文本嵌入是否可以完美地编码文本！研究涉及文本嵌入的准确性！",
+    "xiaohongshu": "文本嵌入是否可以完美地编码文本！研究涉及文本嵌入的准确性！",
+    "index": 9,
+    "link": "https://thegradient.pub/text-embedding-inversion/"
+  },
+  {
+    "title": "From Explicit Elements to Implicit Intent: A Predefined Library for Auditable Behavioral Inference",
+    "summary": "从显式元素到隐式意图：可审计行为推理的预定义库",
+    "score": 5,
+    "category": "研究",
+    "long": "从显式元素到隐式意图：可审计行为推理的预定义库，研究涉及行为推理的准确性",
+    "short": "从显式元素到隐式意图：可审计行为推理的预定义库",
+    "tweet": "从显式元素到隐式意图：可审计行为推理的预定义库！研究涉及行为推理的准确性！",
+    "xiaohongshu": "从显式元素到隐式意图：可审计行为推理的预定义库！研究涉及行为推理的准确性！",
+    "index": 10,
+    "link": "https://arxiv.org/abs/2606.11207"
+  }
+]
