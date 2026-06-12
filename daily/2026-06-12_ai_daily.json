@@ -1,0 +1,110 @@
+[
+  {
+    "title": "From AGI to ASI",
+    "summary": "研究报告探讨了人工智能从人类级别的通用智能到超级智能的发展",
+    "score": 9,
+    "category": "研究",
+    "long": "报告讨论了人工智能从人类级别的通用智能到超级智能的发展路径,包括四种可能的途径:扩展通用智能, AI范式转变,递归改进,以及由大规模多智能集群产生的超级智能。",
+    "short": "人工智能从人类级别的通用智能到超级智能的发展",
+    "tweet": "人工智能从人类级别的通用智能到超级智能的发展,四种途径:扩展通用智能, AI范式转变,递归改进,以及由大规模多智能集群产生的超级智能。",
+    "xiaohongshu": "你知道吗,人工智能从人类级别的通用智能到超级智能的发展,有四种途径呢!",
+    "index": 18,
+    "link": "https://arxiv.org/abs/2606.12683"
+  },
+  {
+    "title": "TrajGenAgent: A Hierarchical LLM Agent for Human Mobility Trajectory Generation",
+    "summary": "TrajGenAgent是一个用于生成人类移动轨迹的LLM代理",
+    "score": 8,
+    "category": "模型",
+    "long": "TrajGenAgent使用一个两阶段的orchestrator-worker设计,首先使用LLM生成一个个体和周日条件下的活动链,然后使用确定性的工作流将每个活动转化为完整的访问",
+    "short": "TrajGenAgent用于生成人类移动轨迹",
+    "tweet": "TrajGenAgent:生成人类移动轨迹的LLM代理",
+    "xiaohongshu": "你知道吗,有一个叫TrajGenAgent的LLM代理,可以生成人类移动轨迹呢!",
+    "index": 16,
+    "link": "https://arxiv.org/abs/2606.12657"
+  },
+  {
+    "title": "Evoflux: Inference-Time Evolution of Executable Tool Workflows for Compact Agents",
+    "summary": "Evoflux是一个用于演化可执行工具工作流的方法",
+    "score": 8,
+    "category": "模型",
+    "long": "Evoflux使用结构化编辑,执行反馈,自适应强度,元指引重设计,和多样性剪枝来演化可执行工具工作流",
+    "short": "Evoflux用于演化可执行工具工作流",
+    "tweet": "Evoflux:演化可执行工具工作流的方法",
+    "xiaohongshu": "你知道吗,有一个叫Evoflux的方法,可以演化可执行工具工作流呢!",
+    "index": 17,
+    "link": "https://arxiv.org/abs/2606.12674"
+  },
+  {
+    "title": "Arbor: Tree Search as a Cognition Layer for Autonomous Agents",
+    "summary": "Arbor是一个用于树搜索的认知层",
+    "score": 7,
+    "category": "模型",
+    "long": "Arbor使用一个orchestrator代理,来驱动优化,并使用一个critic代理,来 safeguard稳定性",
+    "short": "Arbor用于树搜索",
+    "tweet": "Arbor:树搜索的认知层",
+    "xiaohongshu": "你知道吗,有一个叫Arbor的认知层,可以用于树搜索呢!",
+    "index": 11,
+    "link": "https://arxiv.org/abs/2606.12563"
+  },
+  {
+    "title": "ToolSense: A Diagnostic Framework for Auditing Parametric Tool Knowledge in LLMs",
+    "summary": "ToolSense是一个用于诊断参数工具知识的框架",
+    "score": 7,
+    "category": "工具",
+    "long": "ToolSense使用三个benchmark来评估LLM的参数工具知识,包括一个真实检索benchmark,一个MCQ探测benchmark,和一个QA探测benchmark",
+    "short": "ToolSense用于诊断参数工具知识",
+    "tweet": "ToolSense:诊断参数工具知识的框架",
+    "xiaohongshu": "你知道吗,有一个叫ToolSense的框架,可以用于诊断参数工具知识呢!",
+    "index": 10,
+    "link": "https://arxiv.org/abs/2606.12451"
+  },
+  {
+    "title": "PersonaDrive: Human-Style Retrieval-Augmented VLA Agents for Closed-Loop Driving Simulation",
+    "summary": "PersonaDrive是一个用于模拟驾驶的代理",
+    "score": 7,
+    "category": "模型",
+    "long": "PersonaDrive使用一个两阶段的orchestrator-worker设计,首先使用LLM生成一个个体和周日条件下的活动链,然后使用确定性的工作流将每个活动转化为完整的访问",
+    "short": "PersonaDrive用于模拟驾驶",
+    "tweet": "PersonaDrive:模拟驾驶的代理",
+    "xiaohongshu": "你知道吗,有一个叫PersonaDrive的代理,可以用于模拟驾驶呢!",
+    "index": 14,
+    "link": "https://arxiv.org/abs/2606.12616"
+  },
+  {
+    "title": "Did you lie? Evaluating Lie Detectors across Model Scale and Belief-Verified Model Organisms",
+    "summary": "该研究评估了不同模型尺度和信念验证模型生物体的谎言检测器",
+    "score": 6,
+    "category": "研究",
+    "long": "该研究使用13个信念验证模型生物体来评估谎言检测器,包括一个链条思想法官,一个对数概率分类器,和两个激活探针",
+    "short": "评估谎言检测器",
+    "tweet": "评估谎言检测器,不同模型尺度和信念验证模型生物体",
+    "xiaohongshu": "你知道吗,有一个研究,评估了不同模型尺度和信念验证模型生物体的谎言检测器呢!",
+    "index": 15,
+    "link": "https://arxiv.org/abs/2606.12618"
+  },
+  {
+    "title": "Strategic Decision Support for AI Agents",
+    "summary": "该研究提出了一种策略决策支持框架",
+    "score": 6,
+    "category": "研究",
+    "long": "该研究使用一个优化问题来最小化支持使用,并且使用一个阈值规则来控制未被支持的错误",
+    "short": "策略决策支持",
+    "tweet": "策略决策支持,使用优化问题和阈值规则",
+    "xiaohongshu": "你知道吗,有一个研究,提出了一种策略决策支持框架呢!",
+    "index": 12,
+    "link": "https://arxiv.org/abs/2606.12587"
+  },
+  {
+    "title": "Mamba Explained",
+    "summary": "Mamba是一个用于处理长序列的模型",
+    "score": 5,
+    "category": "模型",
+    "long": "Mamba使用一个状态空间模型来处理长序列",
+    "short": "Mamba用于处理长序列",
+    "tweet": "Mamba:处理长序列的模型",
+    "xiaohongshu": "你知道吗,有一个叫Mamba的模型,可以用于处理长序列呢!",
+    "index": 7,
+    "link": "https://thegradient.pub/mamba-explained/"
+  }
+]
