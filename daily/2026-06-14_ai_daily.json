@@ -1,0 +1,110 @@
+[
+  {
+    "title": "AGI Is Not Multimodal",
+    "summary": "AI模型不能简单地模仿人类语言",
+    "score": 9,
+    "category": "研究",
+    "long": "AI模型不能简单地模仿人类语言，需要考虑人类的身体和理解",
+    "short": "AI模型不能简单地模仿人类语言",
+    "tweet": "AI models can't just mimic human language! #AI #Multimodal",
+    "xiaohongshu": "AI模型不能简单地模仿人类语言，需要考虑人类的身体和理解",
+    "index": 1,
+    "link": "https://thegradient.pub/agi-is-not-multimodal/"
+  },
+  {
+    "title": "What's Missing From LLM Chatbots: A Sense of Purpose",
+    "summary": "LLM聊天机器人缺乏目的感",
+    "score": 8,
+    "category": "研究",
+    "long": "LLM聊天机器人虽然有能力，但缺乏目的感和用户体验",
+    "short": "LLM聊天机器人缺乏目的感",
+    "tweet": "LLM chatbots lack purpose! #LLM #Chatbots",
+    "xiaohongshu": "LLM聊天机器人虽然有能力，但缺乏目的感和用户体验",
+    "index": 3,
+    "link": "https://thegradient.pub/dialog/"
+  },
+  {
+    "title": "We Need Positive Visions for AI Grounded in Wellbeing",
+    "summary": "AI需要以健康为基础的积极愿景",
+    "score": 8,
+    "category": "研究",
+    "long": "AI需要以健康为基础的积极愿景，来改变社会",
+    "short": "AI需要以健康为基础的积极愿景",
+    "tweet": "AI needs positive visions grounded in wellbeing! #AI #Wellbeing",
+    "xiaohongshu": "AI需要以健康为基础的积极愿景，来改变社会",
+    "index": 4,
+    "link": "https://thegradient.pub/we-need-positive-visions-for-ai-grounded-in-wellbeing/"
+  },
+  {
+    "title": "Mamba Explained",
+    "summary": "Mamba AI模型超越Transformer",
+    "score": 8,
+    "category": "模型",
+    "long": "Mamba AI模型超越Transformer，处理长序列的效率更高",
+    "short": "Mamba AI模型超越Transformer",
+    "tweet": "Mamba AI model surpasses Transformer! #Mamba #AI",
+    "xiaohongshu": "Mamba AI模型超越Transformer，处理长序列的效率更高",
+    "index": 7,
+    "link": "https://thegradient.pub/mamba-explained/"
+  },
+  {
+    "title": "Car-GPT: Could LLMs finally make self-driving cars happen?",
+    "summary": "LLM有助于实现自动驾驶",
+    "score": 7,
+    "category": "研究",
+    "long": "LLM有助于实现自动驾驶，但还存在关键挑战",
+    "short": "LLM有助于实现自动驾驶",
+    "tweet": "LLM can help make self-driving cars a reality! #LLM #AutonomousDriving",
+    "xiaohongshu": "LLM有助于实现自动驾驶，但还存在关键挑战",
+    "index": 8,
+    "link": "https://thegradient.pub/car-gpt/"
+  },
+  {
+    "title": "10th Gen Honda Civic Updates Are Signed with AOSP Test Keys",
+    "summary": "Honda新款车型更新",
+    "score": 6,
+    "category": "商业",
+    "long": "Honda新款车型更新，使用AOSP测试密钥",
+    "short": "Honda新款车型更新",
+    "tweet": "Honda updates 10th Gen Civic with AOSP test keys! #Honda #Civic",
+    "xiaohongshu": "Honda新款车型更新，使用AOSP测试密钥",
+    "index": 10,
+    "link": "https://juniperspring.org/posts/honda-evil-valet/"
+  },
+  {
+    "title": "Shape, Symmetries, and Structure: The Changing Role of Mathematics in Machine Learning Research",
+    "summary": "机器学习中数学的作用变化",
+    "score": 6,
+    "category": "研究",
+    "long": "机器学习中数学的作用变化，研究人员需要考虑数学和工程",
+    "short": "机器学习中数学的作用变化",
+    "tweet": "Math's role in machine learning is changing! #Math #MachineLearning",
+    "xiaohongshu": "机器学习中数学的作用变化，研究人员需要考虑数学和工程",
+    "index": 2,
+    "link": "https://thegradient.pub/shape-symmetry-structure/"
+  },
+  {
+    "title": "Financial Market Applications of LLMs",
+    "summary": "LLM在金融市场的应用",
+    "score": 5,
+    "category": "商业",
+    "long": "LLM在金融市场的应用，结构化数据和模型",
+    "short": "LLM在金融市场的应用",
+    "tweet": "LLM in financial markets! #LLM #Finance",
+    "xiaohongshu": "LLM在金融市场的应用，结构化数据和模型",
+    "index": 5,
+    "link": "https://thegradient.pub/financial-market-applications-of-llms/"
+  },
+  {
+    "title": "A Brief Overview of Gender Bias in AI",
+    "summary": "AI中性别偏见概述",
+    "score": 5,
+    "category": "研究",
+    "long": "AI中性别偏见概述，需要考虑和解决",
+    "short": "AI中性别偏见概述",
+    "tweet": "Overview of gender bias in AI! #AI #Bias",
+    "xiaohongshu": "AI中性别偏见概述，需要考虑和解决",
+    "index": 6,
+    "link": "https://thegradient.pub/gender-bias-in-ai/"
+  }
+]
