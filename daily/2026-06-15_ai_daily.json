@@ -1,0 +1,110 @@
+[
+  {
+    "title": "WorkBench Revisited: Workplace Agents Two Years On",
+    "summary": "工作场所代理人两年的复习",
+    "score": 9,
+    "category": "研究",
+    "long": "研究人员重新访问了WorkBench，发现前沿代理人在完成任务方面取得了显著进展，而安全性也得到了改善。",
+    "short": "工作场所代理人两年的进步",
+    "tweet": "工作场所代理人两年的进步：完成任务增加，安全性提高！",
+    "xiaohongshu": "工作场所代理人两年的进步：完成任务增加，安全性提高！",
+    "index": 15,
+    "link": "https://arxiv.org/abs/2606.13715"
+  },
+  {
+    "title": "Hybrid Open-Ended Tri-Evolution Makes Better Deep Researcher",
+    "summary": "混合开源三进化使深度研究者更好",
+    "score": 8,
+    "category": "研究",
+    "long": "研究人员提出了一种混合开源三进化框架，用于促进深度研究和代理人进化。",
+    "short": "混合开源三进化框架",
+    "tweet": "混合开源三进化框架：促进深度研究和代理人进化！",
+    "xiaohongshu": "混合开源三进化框架：促进深度研究和代理人进化！",
+    "index": 14,
+    "link": "https://arxiv.org/abs/2606.13710"
+  },
+  {
+    "title": "TwinBI: An Agentic Digital Twin for Efficient Augmented Interactions with Business Intelligence Dashboards",
+    "summary": "双BI：一种效率增强的商业智能仪表板数字孪生",
+    "score": 8,
+    "category": "工具",
+    "long": "研究人员提出了一种双BI框架，用于增强商业智能仪表板的交互性。",
+    "short": "双BI框架",
+    "tweet": "双BI框架：增强商业智能仪表板的交互性！",
+    "xiaohongshu": "双BI框架：增强商业智能仪表板的交互性！",
+    "index": 18,
+    "link": "https://arxiv.org/abs/2606.13731"
+  },
+  {
+    "title": "YeasierAgent: Agentic Social Sandbox as a Canvas for Intent-Driven Creation of Platform-Agnostic Symbiotic Agent-Native Applications",
+    "summary": "易易代理人：一种意图驱动的平台无关的同盟代理人原生应用",
+    "score": 7,
+    "category": "研究",
+    "long": "研究人员提出了一种易易代理人框架，用于创建意图驱动的平台无关的同盟代理人原生应用。",
+    "short": "易易代理人框架",
+    "tweet": "易易代理人框架：创建意图驱动的平台无关的同盟代理人原生应用！",
+    "xiaohongshu": "易易代理人框架：创建意图驱动的平台无关的同盟代理人原生应用！",
+    "index": 17,
+    "link": "https://arxiv.org/abs/2606.13722"
+  },
+  {
+    "title": "Orchestra-o1: Omnimodal Agent Orchestration",
+    "summary": "Orchestra-o1：一种多模态代理人协调框架",
+    "score": 7,
+    "category": "研究",
+    "long": "研究人员提出了一种Orchestra-o1框架，用于协调多模态代理人。",
+    "short": "Orchestra-o1框架",
+    "tweet": "Orchestra-o1框架：协调多模态代理人！",
+    "xiaohongshu": "Orchestra-o1框架：协调多模态代理人！",
+    "index": 13,
+    "link": "https://arxiv.org/abs/2606.13707"
+  },
+  {
+    "title": "UP-NRPA: User Portrait based Nested Rollout Policy Adaptation for Planning with Large Language Models in Goal-oriented Dialogue Systems",
+    "summary": "UP-NRPA：一种基于用户画像的嵌套回滚策略适应框架",
+    "score": 6,
+    "category": "研究",
+    "long": "研究人员提出了一种UP-NRPA框架，用于适应目标导向对话系统中的大规模语言模型。",
+    "short": "UP-NRPA框架",
+    "tweet": "UP-NRPA框架：适应目标导向对话系统中的大规模语言模型！",
+    "xiaohongshu": "UP-NRPA框架：适应目标导向对话系统中的大规模语言模型！",
+    "index": 11,
+    "link": "https://arxiv.org/abs/2606.13683"
+  },
+  {
+    "title": "A Brief Overview of Gender Bias in AI",
+    "summary": "AI中性别偏见简介",
+    "score": 6,
+    "category": "研究",
+    "long": "研究人员提供了AI中性别偏见的简介。",
+    "short": "AI中性别偏见简介",
+    "tweet": "AI中性别偏见简介：了解AI中的性别偏见！",
+    "xiaohongshu": "AI中性别偏见简介：了解AI中的性别偏见！",
+    "index": 6,
+    "link": "https://thegradient.pub/gender-bias-in-ai/"
+  },
+  {
+    "title": "Shape, Symmetries, and Structure: The Changing Role of Mathematics in Machine Learning Research",
+    "summary": "机器学习研究中的数学形状、对称性和结构",
+    "score": 5,
+    "category": "研究",
+    "long": "研究人员讨论了机器学习研究中的数学形状、对称性和结构的变化。",
+    "short": "机器学习研究中的数学形状、对称性和结构",
+    "tweet": "机器学习研究中的数学形状、对称性和结构：了解数学在机器学习中的作用！",
+    "xiaohongshu": "机器学习研究中的数学形状、对称性和结构：了解数学在机器学习中的作用！",
+    "index": 2,
+    "link": "https://thegradient.pub/shape-symmetry-structure/"
+  },
+  {
+    "title": "What's Missing From LLM Chatbots: A Sense of Purpose",
+    "summary": "LLM聊天机器人缺失的东西：一种目的感",
+    "score": 5,
+    "category": "研究",
+    "long": "研究人员讨论了LLM聊天机器人缺失的东西：一种目的感。",
+    "short": "LLM聊天机器人缺失的东西：一种目的感",
+    "tweet": "LLM聊天机器人缺失的东西：一种目的感！",
+    "xiaohongshu": "LLM聊天机器人缺失的东西：一种目的感！",
+    "index": 3,
+    "link": "https://thegradient.pub/dialog/"
+  }
+]
