@@ -1,0 +1,110 @@
+[
+  {
+    "title": "分布式通用代理网络",
+    "summary": "分布式通用代理网络研究",
+    "score": 9,
+    "category": "模型",
+    "long": "分布式通用代理网络研究旨在解决单个代理的局限性",
+    "short": "分布式通用代理网络",
+    "tweet": "分布式通用代理网络:解决单个代理的局限性",
+    "xiaohongshu": "分布式通用代理网络,让我们一起探索未来的可能性",
+    "index": 18,
+    "link": "https://arxiv.org/abs/2606.17368"
+  },
+  {
+    "title": "治疗反应优化的临床决策支持AI系统",
+    "summary": "治疗反应优化的临床决策支持AI系统",
+    "score": 8,
+    "category": "商业",
+    "long": "治疗反应优化的临床决策支持AI系统旨在适应患者条件",
+    "short": "治疗反应优化的临床决策支持AI系统",
+    "tweet": "治疗反应优化的临床决策支持AI系统:适应患者条件",
+    "xiaohongshu": "治疗反应优化的临床决策支持AI系统,让我们一起探索未来的可能性",
+    "index": 19,
+    "link": "https://arxiv.org/abs/2606.17405"
+  },
+  {
+    "title": "量化一致性在LLM逻辑推理中的结构不确定性",
+    "summary": "量化一致性在LLM逻辑推理中的结构不确定性",
+    "score": 8,
+    "category": "模型",
+    "long": "量化一致性在LLM逻辑推理中的结构不确定性研究",
+    "short": "量化一致性在LLM逻辑推理中的结构不确定性",
+    "tweet": "量化一致性在LLM逻辑推理中的结构不确定性",
+    "xiaohongshu": "量化一致性在LLM逻辑推理中的结构不确定性,让我们一起探索未来的可能性",
+    "index": 15,
+    "link": "https://arxiv.org/abs/2606.17312"
+  },
+  {
+    "title": "技能链Gym:一个技能重置意识的生产库存控制基准",
+    "summary": "技能链Gym:一个技能重置意识的生产库存控制基准",
+    "score": 7,
+    "category": "模型",
+    "long": "技能链Gym:一个技能重置意识的生产库存控制基准研究",
+    "short": "技能链Gym",
+    "tweet": "技能链Gym:技能重置意识的生产库存控制基准",
+    "xiaohongshu": "技能链Gym,让我们一起探索未来的可能性",
+    "index": 12,
+    "link": "https://arxiv.org/abs/2606.17266"
+  },
+  {
+    "title": "技能受限的模型预测控制",
+    "summary": "技能受限的模型预测控制",
+    "score": 7,
+    "category": "模型",
+    "long": "技能受限的模型预测控制研究",
+    "short": "技能受限的模型预测控制",
+    "tweet": "技能受限的模型预测控制",
+    "xiaohongshu": "技能受限的模型预测控制,让我们一起探索未来的可能性",
+    "index": 13,
+    "link": "https://arxiv.org/abs/2606.17269"
+  },
+  {
+    "title": "零的发现",
+    "summary": "零的发现",
+    "score": 7,
+    "category": "模型",
+    "long": "零的发现研究",
+    "short": "零的发现",
+    "tweet": "零的发现",
+    "xiaohongshu": "零的发现,让我们一起探索未来的可能性",
+    "index": 14,
+    "link": "https://arxiv.org/abs/2606.17289"
+  },
+  {
+    "title": "长期记忆的 MemTrace",
+    "summary": "长期记忆的 MemTrace",
+    "score": 6,
+    "category": "模型",
+    "long": "长期记忆的 MemTrace 研究",
+    "short": "长期记忆的 MemTrace",
+    "tweet": "长期记忆的 MemTrace",
+    "xiaohongshu": "长期记忆的 MemTrace,让我们一起探索未来的可能性",
+    "index": 16,
+    "link": "https://arxiv.org/abs/2606.17328"
+  },
+  {
+    "title": "临床语音AI的 SpeechDx",
+    "summary": "临床语音AI的 SpeechDx",
+    "score": 6,
+    "category": "模型",
+    "long": "临床语音AI的 SpeechDx 研究",
+    "short": "临床语音AI的 SpeechDx",
+    "tweet": "临床语音AI的 SpeechDx",
+    "xiaohongshu": "临床语音AI的 SpeechDx,让我们一起探索未来的可能性",
+    "index": 17,
+    "link": "https://arxiv.org/abs/2606.17339"
+  },
+  {
+    "title": "OpenAI 的财务数据泄露",
+    "summary": "OpenAI 的财务数据泄露",
+    "score": 5,
+    "category": "商业",
+    "long": "OpenAI 的财务数据泄露",
+    "short": "OpenAI 的财务数据泄露",
+    "tweet": "OpenAI 的财务数据泄露",
+    "xiaohongshu": "OpenAI 的财务数据泄露,让我们一起探索未来的可能性",
+    "index": 21,
+    "link": "https://runtimewire.com/article/openai-leaked-financials-altman-compute-burn"
+  }
+]
