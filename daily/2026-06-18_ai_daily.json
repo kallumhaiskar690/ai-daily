@@ -1,0 +1,122 @@
+[
+  {
+    "title": "CEO-Bench: Can Agents Play the Long Game?",
+    "summary": "评估语言模型代理的长期决策能力",
+    "score": 9,
+    "category": "模型",
+    "long": "CEO-Bench是一种评估语言模型代理长期决策能力的新方法,它模拟了一个代表性的真实世界任务:管理一家公司500天",
+    "short": "评估语言模型代理的长期决策能力",
+    "tweet": "CEO-Bench:评估语言模型代理的长期决策能力",
+    "xiaohongshu": "CEO-Bench:让语言模型代理玩长游戏",
+    "index": 13,
+    "link": "https://arxiv.org/abs/2606.18543"
+  },
+  {
+    "title": "NAVIO-Orbital: First In-Orbit Demonstration of a Zero-Shot Vision-Language Model for Autonomous Earth Observation",
+    "summary": "在轨飞行零点视觉语言模型的首次演示",
+    "score": 8,
+    "category": "研究",
+    "long": "NAVIO-Orbital是一种在轨飞行零点视觉语言模型,它可以在轨飞行中进行自主地球观测",
+    "short": "在轨飞行零点视觉语言模型",
+    "tweet": "NAVIO-Orbital:在轨飞行零点视觉语言模型",
+    "xiaohongshu": "NAVIO-Orbital:在轨飞行零点视觉语言模型,让地球观测更智能",
+    "index": 10,
+    "link": "https://arxiv.org/abs/2606.18271"
+  },
+  {
+    "title": "CaVe-VLM-CoT: An Interpretable Vision-Language Model Framework",
+    "summary": "解释性视觉语言模型框架",
+    "score": 8,
+    "category": "模型",
+    "long": "CaVe-VLM-CoT是一种解释性视觉语言模型框架,它可以解释视觉语言模型的输出",
+    "short": "解释性视觉语言模型框架",
+    "tweet": "CaVe-VLM-CoT:解释性视觉语言模型框架",
+    "xiaohongshu": "CaVe-VLM-CoT:让视觉语言模型更透明",
+    "index": 11,
+    "link": "https://arxiv.org/abs/2606.18385"
+  },
+  {
+    "title": "R2D-RL: A RoboCup 2D Soccer Environment for Multi-Agent Reinforcement Learning",
+    "summary": "多智能体强化学习的足球环境",
+    "score": 7,
+    "category": "模型",
+    "long": "R2D-RL是一种多智能体强化学习的足球环境,它可以模拟足球比赛",
+    "short": "多智能体强化学习的足球环境",
+    "tweet": "R2D-RL:多智能体强化学习的足球环境",
+    "xiaohongshu": "R2D-RL:让足球比赛更智能",
+    "index": 18,
+    "link": "https://arxiv.org/abs/2606.18786"
+  },
+  {
+    "title": "ProfiLLM: Utility-Aligned Agentic User Profiling for Industrial Ride-Hailing Dispatch",
+    "summary": "工业出行调度的用户画像",
+    "score": 7,
+    "category": "模型",
+    "long": "ProfiLLM是一种工业出行调度的用户画像,它可以帮助出行平台更好地匹配司机和乘客",
+    "short": "工业出行调度的用户画像",
+    "tweet": "ProfiLLM:工业出行调度的用户画像",
+    "xiaohongshu": "ProfiLLM:让出行更智能",
+    "index": 19,
+    "link": "https://arxiv.org/abs/2606.18803"
+  },
+  {
+    "title": "ForecastBench-Sim: A Simulated-World Forecasting Benchmark",
+    "summary": "模拟世界预测基准",
+    "score": 6,
+    "category": "研究",
+    "long": "ForecastBench-Sim是一种模拟世界预测基准,它可以评估预测模型的性能",
+    "short": "模拟世界预测基准",
+    "tweet": "ForecastBench-Sim:模拟世界预测基准",
+    "xiaohongshu": "ForecastBench-Sim:让预测更智能",
+    "index": 16,
+    "link": "https://arxiv.org/abs/2606.18686"
+  },
+  {
+    "title": "What Must Generalist Agents Remember?",
+    "summary": "通用代理的记忆要求",
+    "score": 6,
+    "category": "研究",
+    "long": "What Must Generalist Agents Remember?是一种研究通用代理的记忆要求的论文",
+    "short": "通用代理的记忆要求",
+    "tweet": "What Must Generalist Agents Remember?:通用代理的记忆要求",
+    "xiaohongshu": "What Must Generalist Agents Remember?:让通用代理更智能",
+    "index": 17,
+    "link": "https://arxiv.org/abs/2606.18746"
+  },
+  {
+    "title": "Mamba Explained",
+    "summary": "Mamba AI模型解释",
+    "score": 5,
+    "category": "模型",
+    "long": "Mamba Explained是一种Mamba AI模型的解释",
+    "short": "Mamba AI模型解释",
+    "tweet": "Mamba Explained:Mamba AI模型解释",
+    "xiaohongshu": "Mamba Explained:让Mamba AI模型更透明",
+    "index": 7,
+    "link": "https://thegradient.pub/mamba-explained/"
+  },
+  {
+    "title": "A Brief Overview of Gender Bias in AI",
+    "summary": "人工智能中的性别偏见概述",
+    "score": 5,
+    "category": "研究",
+    "long": "A Brief Overview of Gender Bias in AI是一种人工智能中的性别偏见概述",
+    "short": "人工智能中的性别偏见概述",
+    "tweet": "A Brief Overview of Gender Bias in AI:人工智能中的性别偏见概述",
+    "xiaohongshu": "A Brief Overview of Gender Bias in AI:让人工智能更公平",
+    "index": 6,
+    "link": "https://thegradient.pub/gender-bias-in-ai/"
+  },
+  {
+    "title": "What's Missing From LLM Chatbots: A Sense of Purpose",
+    "summary": "LLM聊天机器人的缺失之处",
+    "score": 5,
+    "category": "研究",
+    "long": "What's Missing From LLM Chatbots: A Sense of Purpose是一种LLM聊天机器人的缺失之处的研究",
+    "short": "LLM聊天机器人的缺失之处",
+    "tweet": "What's Missing From LLM Chatbots: A Sense of Purpose:LLM聊天机器人的缺失之处",
+    "xiaohongshu": "What's Missing From LLM Chatbots: A Sense of Purpose:让LLM聊天机器人更智能",
+    "index": 3,
+    "link": "https://thegradient.pub/dialog/"
+  }
+]
