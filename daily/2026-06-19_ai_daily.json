@@ -1,0 +1,110 @@
+[
+  {
+    "title": "ITNet: A Learnable Integral Transform",
+    "summary": "ITNet是一种统一的架构，能够学习和处理不同类型的信号",
+    "score": 9,
+    "category": "模型",
+    "long": "ITNet通过学习一个可learnable的kernel来实现统一，kernel可以处理局部、序列和内容相关的信号",
+    "short": "统一的信号处理架构",
+    "tweet": "ITNet:统一的信号处理架构！",
+    "xiaohongshu": "ITNet是如何统一处理不同信号的呢？",
+    "index": 18,
+    "link": "https://arxiv.org/abs/2606.19538"
+  },
+  {
+    "title": "Emergent Alignment",
+    "summary": "Emergent Alignment是一种在线技术，能够在训练、微调、对抗性提示和零样本学习中实现模型的自我纠正",
+    "score": 9,
+    "category": "模型",
+    "long": "Emergent Alignment通过直接偏好优化（DPO）来实现模型的自我纠正，能够在不同应用场景中实现模型的自我纠正",
+    "short": "模型自我纠正技术",
+    "tweet": "Emergent Alignment:模型自我纠正技术！",
+    "xiaohongshu": "Emergent Alignment是如何实现模型自我纠正的呢？",
+    "index": 17,
+    "link": "https://arxiv.org/abs/2606.19527"
+  },
+  {
+    "title": "REVEAL++: Differentiable Phenotypic Grouping",
+    "summary": "REVEAL++是一种可学习的群组化方法，能够在视觉语言对齐中实现不同群组的学习",
+    "score": 8,
+    "category": "模型",
+    "long": "REVEAL++通过学习群组化的权重来实现不同群组的学习，能够在视觉语言对齐中实现不同群组的学习",
+    "short": "可学习的群组化方法",
+    "tweet": "REVEAL++:可学习的群组化方法！",
+    "xiaohongshu": "REVEAL++是如何实现可学习的群组化的呢？",
+    "index": 16,
+    "link": "https://arxiv.org/abs/2606.19522"
+  },
+  {
+    "title": "Uncertainty Decomposition for Clarification Seeking",
+    "summary": "Uncertainty Decomposition是一种可学习的不确定性分解方法，能够在大型语言模型中实现任务的解释",
+    "score": 8,
+    "category": "模型",
+    "long": "Uncertainty Decomposition通过学习任务的不确定性分解来实现任务的解释，能够在大型语言模型中实现任务的解释",
+    "short": "可学习的不确定性分解方法",
+    "tweet": "Uncertainty Decomposition:可学习的不确定性分解方法！",
+    "xiaohongshu": "Uncertainty Decomposition是如何实现可学习的不确定性分解的呢？",
+    "index": 19,
+    "link": "https://arxiv.org/abs/2606.19559"
+  },
+  {
+    "title": "LLM Doesn't Know What It Doesn't Know",
+    "summary": "LLM Doesn't Know What It Doesn't Know是一种可学习的知识不确定性检测方法，能够在大型语言模型中实现知识不确定性的检测",
+    "score": 7,
+    "category": "模型",
+    "long": "LLM Doesn't Know What It Doesn't Know通过学习知识不确定性的检测来实现知识不确定性的检测，能够在大型语言模型中实现知识不确定性的检测",
+    "short": "可学习的知识不确定性检测方法",
+    "tweet": "LLM Doesn't Know What It Doesn't Know:可学习的知识不确定性检测方法！",
+    "xiaohongshu": "LLM Doesn't Know What It Doesn't Know是如何实现可学习的知识不确定性检测的呢？",
+    "index": 15,
+    "link": "https://arxiv.org/abs/2606.19509"
+  },
+  {
+    "title": "Deontic Policies for Runtime Governance",
+    "summary": "Deontic Policies是一种可学习的政策管理方法，能够在大型语言模型中实现运行时的政策管理",
+    "score": 7,
+    "category": "模型",
+    "long": "Deontic Policies通过学习政策管理来实现运行时的政策管理，能够在大型语言模型中实现运行时的政策管理",
+    "short": "可学习的政策管理方法",
+    "tweet": "Deontic Policies:可学习的政策管理方法！",
+    "xiaohongshu": "Deontic Policies是如何实现可学习的政策管理的呢？",
+    "index": 10,
+    "link": "https://arxiv.org/abs/2606.19464"
+  },
+  {
+    "title": "Diffusion Language Models",
+    "summary": "Diffusion Language Models是一种可学习的语言模型，能够在不同任务中实现语言模型的学习",
+    "score": 6,
+    "category": "模型",
+    "long": "Diffusion Language Models通过学习语言模型来实现语言模型的学习，能够在不同任务中实现语言模型的学习",
+    "short": "可学习的语言模型",
+    "tweet": "Diffusion Language Models:可学习的语言模型！",
+    "xiaohongshu": "Diffusion Language Models是如何实现可学习的语言模型的呢？",
+    "index": 12,
+    "link": "https://arxiv.org/abs/2606.19475"
+  },
+  {
+    "title": "Mamba Explained",
+    "summary": "Mamba是一种可学习的模型，能够在不同任务中实现模型的学习",
+    "score": 6,
+    "category": "模型",
+    "long": "Mamba通过学习模型来实现模型的学习，能够在不同任务中实现模型的学习",
+    "short": "可学习的模型",
+    "tweet": "Mamba:可学习的模型！",
+    "xiaohongshu": "Mamba是如何实现可学习的模型的呢？",
+    "index": 7,
+    "link": "https://thegradient.pub/mamba-explained/"
+  },
+  {
+    "title": "Car-GPT: Could LLMs finally make self-driving cars happen?",
+    "summary": "Car-GPT是一种可学习的模型，能够在自驾车任务中实现模型的学习",
+    "score": 5,
+    "category": "研究",
+    "long": "Car-GPT通过学习模型来实现自驾车任务的学习，能够在自驾车任务中实现模型的学习",
+    "short": "可学习的自驾车模型",
+    "tweet": "Car-GPT:可学习的自驾车模型！",
+    "xiaohongshu": "Car-GPT是如何实现可学习的自驾车模型的呢？",
+    "index": 8,
+    "link": "https://thegradient.pub/car-gpt/"
+  }
+]
