@@ -1,0 +1,110 @@
+[
+  {
+    "title": "ITNet: A Learnable Integral Transform That Subsumes Convolution, Attention, and Recurrence",
+    "summary": "ITNet是一种统一的架构，能够学习整合位置和特征的整合变换，能够适应不同任务的需求",
+    "score": 9,
+    "category": "模型",
+    "long": "ITNet通过学习整合变换来统一不同架构的优势，能够适应不同任务的需求",
+    "short": "统一的整合变换架构",
+    "tweet": "ITNet: 一种统一的整合变换架构，能够学习整合位置和特征的整合变换",
+    "xiaohongshu": "ITNet：一种超级智能的整合变换架构，能够学习整合位置和特征的整合变换",
+    "index": 18,
+    "link": "https://arxiv.org/abs/2606.19538"
+  },
+  {
+    "title": "Emergent Alignment",
+    "summary": "Emergent Alignment是一种在线技术，能够让LLM在训练、微调、对抗性提示和零样本学习等场景中实现自我纠正",
+    "score": 8,
+    "category": "模型",
+    "long": "Emergent Alignment通过直接偏好优化来让LLM在训练、微调、对抗性提示和零样本学习等场景中实现自我纠正",
+    "short": "在线自我纠正技术",
+    "tweet": "Emergent Alignment: 一种在线自我纠正技术，能够让LLM在训练、微调、对抗性提示和零样本学习等场景中实现自我纠正",
+    "xiaohongshu": "Emergent Alignment：一种超级智能的在线自我纠正技术，能够让LLM在训练、微调、对抗性提示和零样本学习等场景中实现自我纠正",
+    "index": 17,
+    "link": "https://arxiv.org/abs/2606.19527"
+  },
+  {
+    "title": "Uncertainty Decomposition for Clarification Seeking in LLM Agents",
+    "summary": "该论文提出了一种简单的分解方法，能够分离动作信心和请求不确定性",
+    "score": 7,
+    "category": "模型",
+    "long": "该分解方法能够让LLM在任务规范模糊时主动询问澄清",
+    "short": "动作信心和请求不确定性分解",
+    "tweet": "Uncertainty Decomposition: 一种动作信心和请求不确定性分解方法",
+    "xiaohongshu": "Uncertainty Decomposition：一种超级智能的动作信心和请求不确定性分解方法",
+    "index": 19,
+    "link": "https://arxiv.org/abs/2606.19559"
+  },
+  {
+    "title": "Deontic Policies for Runtime Governance of Agentic AI Systems",
+    "summary": "该论文提出了一种基于德伦提克政策的运行时治理方法，能够让AI系统在运行时遵守规则",
+    "score": 7,
+    "category": "模型",
+    "long": "该方法能够让AI系统在运行时遵守规则，避免安全和隐私风险",
+    "short": "基于德伦提克政策的运行时治理",
+    "tweet": "Deontic Policies: 一种基于德伦提克政策的运行时治理方法",
+    "xiaohongshu": "Deontic Policies：一种超级智能的基于德伦提克政策的运行时治理方法",
+    "index": 10,
+    "link": "https://arxiv.org/abs/2606.19464"
+  },
+  {
+    "title": "Diffusion Language Models: An Experimental Analysis",
+    "summary": "该论文进行了一项实验性分析，评估了不同Diffusion Language Model的性能",
+    "score": 6,
+    "category": "模型",
+    "long": "该分析评估了Diffusion Language Model在不同任务上的性能",
+    "short": "Diffusion Language Model性能评估",
+    "tweet": "Diffusion Language Models: 一项实验性分析",
+    "xiaohongshu": "Diffusion Language Models：一种超级智能的Diffusion Language Model性能评估",
+    "index": 12,
+    "link": "https://arxiv.org/abs/2606.19475"
+  },
+  {
+    "title": "Hidden Anchors in Multi-Agent LLM Deliberation",
+    "summary": "该论文提出了一种模型，能够让LLM在多智能体协作中发现隐含的锚点",
+    "score": 6,
+    "category": "模型",
+    "long": "该模型能够让LLM在多智能体协作中发现隐含的锚点",
+    "short": "隐含的锚点发现",
+    "tweet": "Hidden Anchors: 一种隐含的锚点发现方法",
+    "xiaohongshu": "Hidden Anchors：一种超级智能的隐含的锚点发现方法",
+    "index": 13,
+    "link": "https://arxiv.org/abs/2606.19494"
+  },
+  {
+    "title": "REVEAL++: Differentiable Phenotypic Grouping for Vision-Language Retinal Modeling of Alzheimer's Disease Risk",
+    "summary": "该论文提出了一种可微分的表型分组方法，能够让LLM在视觉语言视网膜模型中预测阿尔茨海默病风险",
+    "score": 6,
+    "category": "模型",
+    "long": "该方法能够让LLM在视觉语言视网膜模型中预测阿尔茨海默病风险",
+    "short": "可微分的表型分组",
+    "tweet": "REVEAL++: 一种可微分的表型分组方法",
+    "xiaohongshu": "REVEAL++：一种超级智能的可微分的表型分组方法",
+    "index": 16,
+    "link": "https://arxiv.org/abs/2606.19522"
+  },
+  {
+    "title": "LSTM vs. Transformer: A Comparative Study",
+    "summary": "该论文进行了一项比较研究，评估了LSTM和Transformer在不同任务上的性能",
+    "score": 5,
+    "category": "模型",
+    "long": "该研究评估了LSTM和Transformer在不同任务上的性能",
+    "short": "LSTM和Transformer比较研究",
+    "tweet": "LSTM vs. Transformer: 一项比较研究",
+    "xiaohongshu": "LSTM vs. Transformer：一种超级智能的LSTM和Transformer比较研究",
+    "index": 0,
+    "link": "https://thegradient.pub/virtue-ethics-ai-alignment/"
+  },
+  {
+    "title": "Financial Market Applications of LLMs",
+    "summary": "该论文讨论了LLM在金融市场中的应用",
+    "score": 5,
+    "category": "商业",
+    "long": "该论文讨论了LLM在金融市场中的应用",
+    "short": "LLM在金融市场中的应用",
+    "tweet": "Financial Market Applications of LLMs: 一项讨论",
+    "xiaohongshu": "Financial Market Applications of LLMs：一种超级智能的LLM在金融市场中的应用",
+    "index": 5,
+    "link": "https://thegradient.pub/financial-market-applications-of-llms/"
+  }
+]
