@@ -1,0 +1,110 @@
+[
+  {
+    "title": "AGI Is Not Multimodal",
+    "summary": "AGI 不是多模态的，研究人员需要重新思考智能的本质",
+    "score": 9,
+    "category": "研究",
+    "long": "AGI 的发展被认为是多模态的，但实际上，这种理解是有误导的。研究人员需要重新思考智能的本质和多模态的概念",
+    "short": "AGI 不是多模态的",
+    "tweet": "AGI 不是多模态的！我们需要重新思考智能的本质",
+    "xiaohongshu": "AGI 的发展被误导了！我们需要重新思考智能的本质",
+    "index": 1,
+    "link": "https://thegradient.pub/agi-is-not-multimodal/"
+  },
+  {
+    "title": "Shape, Symmetries, and Structure: The Changing Role of Mathematics in Machine Learning Research",
+    "summary": "机器学习研究中的数学角色正在发生变化",
+    "score": 8,
+    "category": "研究",
+    "long": "机器学习研究中的数学角色正在发生变化，计算机密集型和工程化的方法正在取代数学原则",
+    "short": "机器学习中的数学角色变化",
+    "tweet": "机器学习中的数学角色正在变化！",
+    "xiaohongshu": "机器学习中的数学角色正在发生变化",
+    "index": 2,
+    "link": "https://thegradient.pub/shape-symmetry-structure/"
+  },
+  {
+    "title": "We Need Positive Visions for AI Grounded in Wellbeing",
+    "summary": "我们需要基于福祉的积极的AI愿景",
+    "score": 7,
+    "category": "研究",
+    "long": "我们需要基于福祉的积极的AI愿景，而不是仅仅关注技术的发展",
+    "short": "基于福祉的AI愿景",
+    "tweet": "我们需要基于福祉的AI愿景！",
+    "xiaohongshu": "我们需要基于福祉的AI愿景",
+    "index": 4,
+    "link": "https://thegradient.pub/we-need-positive-visions-for-ai-grounded-in-wellbeing/"
+  },
+  {
+    "title": "Financial Market Applications of LLMs",
+    "summary": "LLMs 在金融市场的应用",
+    "score": 6,
+    "category": "商业",
+    "long": "LLMs 在金融市场的应用正在迅速发展，包括交易和风险管理",
+    "short": "LLMs 在金融市场的应用",
+    "tweet": "LLMs 在金融市场的应用！",
+    "xiaohongshu": "LLMs 在金融市场的应用",
+    "index": 5,
+    "link": "https://thegradient.pub/financial-market-applications-of-llms/"
+  },
+  {
+    "title": "A Brief Overview of Gender Bias in AI",
+    "summary": "AI 中的性别偏见概述",
+    "score": 5,
+    "category": "研究",
+    "long": "AI 中的性别偏见是一个重要问题，需要被研究和解决",
+    "short": "AI 中的性别偏见",
+    "tweet": "AI 中的性别偏见！",
+    "xiaohongshu": "AI 中的性别偏见",
+    "index": 6,
+    "link": "https://thegradient.pub/gender-bias-in-ai/"
+  },
+  {
+    "title": "Mamba Explained",
+    "summary": "Mamba AI 模型解释",
+    "score": 4,
+    "category": "工具",
+    "long": "Mamba AI 模型是一种基于状态空间模型的模型，旨在解决Transformer模型的不足",
+    "short": "Mamba AI 模型",
+    "tweet": "Mamba AI 模型！",
+    "xiaohongshu": "Mamba AI 模型",
+    "index": 7,
+    "link": "https://thegradient.pub/mamba-explained/"
+  },
+  {
+    "title": "Car-GPT: Could LLMs finally make self-driving cars happen?",
+    "summary": "LLMs 是否可以实现自动驾驶",
+    "score": 3,
+    "category": "研究",
+    "long": "LLMs 是否可以实现自动驾驶，仍然是一个开放的问题",
+    "short": "LLMs 和自动驾驶",
+    "tweet": "LLMs 和自动驾驶！",
+    "xiaohongshu": "LLMs 和自动驾驶",
+    "index": 8,
+    "link": "https://thegradient.pub/car-gpt/"
+  },
+  {
+    "title": "Do text embeddings perfectly encode text?",
+    "summary": "文本嵌入是否完美地编码文本",
+    "score": 2,
+    "category": "研究",
+    "long": "文本嵌入是否完美地编码文本是一个重要问题，需要被研究和解决",
+    "short": "文本嵌入和编码",
+    "tweet": "文本嵌入和编码！",
+    "xiaohongshu": "文本嵌入和编码",
+    "index": 9,
+    "link": "https://thegradient.pub/text-embedding-inversion/"
+  },
+  {
+    "title": "After Orthogonality: Virtue-Ethical Agency and AI Alignment",
+    "summary": "道德行为和AI对齐",
+    "score": 1,
+    "category": "研究",
+    "long": "道德行为和AI对齐是一个重要问题，需要被研究和解决",
+    "short": "道德行为和AI对齐",
+    "tweet": "道德行为和AI对齐！",
+    "xiaohongshu": "道德行为和AI对齐",
+    "index": 0,
+    "link": "https://thegradient.pub/virtue-ethics-ai-alignment/"
+  }
+]
