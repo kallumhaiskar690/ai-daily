@@ -1,0 +1,110 @@
+[
+  {
+    "title": "RIFT-Bench: Dynamic Red-teaming For Agentic AI Systems",
+    "summary": "RIFT-Bench是一种动态红队评估方法，用于评估智能AI系统的安全性",
+    "score": 9,
+    "category": "研究",
+    "long": "RIFT-Bench通过图形表示驱动的方法来评估智能AI系统的安全性，提供了统一的比较框架",
+    "short": "动态红队评估方法",
+    "tweet": "动态红队评估方法RIFT-Bench评估智能AI系统的安全性",
+    "xiaohongshu": "智能AI系统的安全性评估，动态红队评估方法RIFT-Bench",
+    "index": 10,
+    "link": "https://arxiv.org/abs/2606.23927"
+  },
+  {
+    "title": "Neuro-Symbolic Drive: Rule-Grounded Faithful Reasoning for Driving VLAs",
+    "summary": "Neuro-Symbolic Drive是一种神经符号驱动框架，用于驾驶VLAs",
+    "score": 8,
+    "category": "研究",
+    "long": "Neuro-Symbolic Drive通过规则驱动的方法来实现驾驶VLAs的可靠性",
+    "short": "神经符号驱动框架",
+    "tweet": "神经符号驱动框架Neuro-Symbolic Drive驾驶VLAs",
+    "xiaohongshu": "神经符号驱动框架Neuro-Symbolic Drive，驾驶VLAs的可靠性",
+    "index": 11,
+    "link": "https://arxiv.org/abs/2606.23938"
+  },
+  {
+    "title": "Safe and Generalizable Hierarchical Multi-Agent RL via Constraint Manifold Control",
+    "summary": "Safe and Generalizable Hierarchical Multi-Agent RL是一种安全和可普遍化的多智能体RL方法",
+    "score": 8,
+    "category": "研究",
+    "long": "Safe and Generalizable Hierarchical Multi-Agent RL通过约束流形控制来实现安全和可普遍化",
+    "short": "安全和可普遍化的多智能体RL方法",
+    "tweet": "安全和可普遍化的多智能体RL方法Safe and Generalizable Hierarchical Multi-Agent RL",
+    "xiaohongshu": "安全和可普遍化的多智能体RL方法Safe and Generalizable Hierarchical Multi-Agent RL",
+    "index": 13,
+    "link": "https://arxiv.org/abs/2606.24010"
+  },
+  {
+    "title": "Reinforcement Learning Towards Broadly and Persistently Beneficial Models",
+    "summary": "Reinforcement Learning Towards Broadly and Persistently Beneficial Models是一种强化学习方法，用于训练有益的模型",
+    "score": 8,
+    "category": "研究",
+    "long": "Reinforcement Learning Towards Broadly and Persistently Beneficial Models通过强化学习来训练有益的模型",
+    "short": "强化学习方法",
+    "tweet": "强化学习方法Reinforcement Learning Towards Broadly and Persistently Beneficial Models",
+    "xiaohongshu": "强化学习方法Reinforcement Learning Towards Broadly and Persistently Beneficial Models",
+    "index": 14,
+    "link": "https://arxiv.org/abs/2606.24014"
+  },
+  {
+    "title": "Breaking the Filter Bubble: A Semantic Pareto-DQN Framework for Multi-Objective Recommendation",
+    "summary": "Breaking the Filter Bubble是一种语义Pareto-DQN框架，用于多目标推荐",
+    "score": 7,
+    "category": "研究",
+    "long": "Breaking the Filter Bubble通过语义Pareto-DQN框架来实现多目标推荐",
+    "short": "语义Pareto-DQN框架",
+    "tweet": "语义Pareto-DQN框架Breaking the Filter Bubble",
+    "xiaohongshu": "语义Pareto-DQN框架Breaking the Filter Bubble",
+    "index": 16,
+    "link": "https://arxiv.org/abs/2606.24042"
+  },
+  {
+    "title": "Ensemble Feature Selection and Harris Hawks Optimization for Explainable Mental Health Risk Prediction in Female Sex Workers",
+    "summary": "Ensemble Feature Selection and Harris Hawks Optimization是一种集成特征选择和哈里斯鹰优化方法，用于可解释性心理健康风险预测",
+    "score": 7,
+    "category": "研究",
+    "long": "Ensemble Feature Selection and Harris Hawks Optimization通过集成特征选择和哈里斯鹰优化来实现可解释性心理健康风险预测",
+    "short": "集成特征选择和哈里斯鹰优化方法",
+    "tweet": "集成特征选择和哈里斯鹰优化方法Ensemble Feature Selection and Harris Hawks Optimization",
+    "xiaohongshu": "集成特征选择和哈里斯鹰优化方法Ensemble Feature Selection and Harris Hawks Optimization",
+    "index": 17,
+    "link": "https://arxiv.org/abs/2606.24047"
+  },
+  {
+    "title": "Beyond Trajectory Imitation: Strategy-Guided Policy Optimization for LLM Reasoning",
+    "summary": "Beyond Trajectory Imitation是一种策略引导的政策优化方法，用于LLM推理",
+    "score": 7,
+    "category": "研究",
+    "long": "Beyond Trajectory Imitation通过策略引导的政策优化来实现LLM推理",
+    "short": "策略引导的政策优化方法",
+    "tweet": "策略引导的政策优化方法Beyond Trajectory Imitation",
+    "xiaohongshu": "策略引导的政策优化方法Beyond Trajectory Imitation",
+    "index": 18,
+    "link": "https://arxiv.org/abs/2606.24064"
+  },
+  {
+    "title": "Exploring Academic Influence of Algorithms by Co-occurrence Network Based on Full-text of Academic Papers",
+    "summary": "Exploring Academic Influence of Algorithms是一种基于全文学术论文的协发网络方法，用于探索算法的学术影响",
+    "score": 6,
+    "category": "研究",
+    "long": "Exploring Academic Influence of Algorithms通过基于全文学术论文的协发网络来探索算法的学术影响",
+    "short": "基于全文学术论文的协发网络方法",
+    "tweet": "基于全文学术论文的协发网络方法Exploring Academic Influence of Algorithms",
+    "xiaohongshu": "基于全文学术论文的协发网络方法Exploring Academic Influence of Algorithms",
+    "index": 19,
+    "link": "https://arxiv.org/abs/2606.24099"
+  },
+  {
+    "title": "Vulnerability reports are not special anymore",
+    "summary": "Vulnerability reports are not special anymore是一篇关于漏洞报告的文章",
+    "score": 5,
+    "category": "新闻",
+    "long": "Vulnerability reports are not special anymore是一篇关于漏洞报告的文章",
+    "short": "漏洞报告文章",
+    "tweet": "漏洞报告文章Vulnerability reports are not special anymore",
+    "xiaohongshu": "漏洞报告文章Vulnerability reports are not special anymore",
+    "index": 20,
+    "link": "https://words.filippo.io/vuln-reports/"
+  }
+]
