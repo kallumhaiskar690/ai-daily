@@ -1,0 +1,98 @@
+[
+  {
+    "title": "AlgoEvolve: LLM-driven Meta-evolution of Algorithmic Trading Programs",
+    "summary": "使用大型语言模型（LLM）驱动的演化框架生成、评估和改进可执行交易策略",
+    "score": 9,
+    "category": "模型",
+    "long": "AlgoEvolve是一种LLM驱动的演化框架，用于生成、评估和改进可执行交易策略。它通过在Python代码中使用LLM来实现演化过程。实验结果表明，AlgoEvolve能够产生出色的交易策略，并且能够适应市场变化。",
+    "short": "使用LLM驱动的演化框架生成交易策略",
+    "tweet": "AI驱动的交易策略生成！使用LLM驱动的演化框架生成出色的交易策略！",
+    "xiaohongshu": "AI交易策略生成！使用LLM驱动的演化框架生成出色的交易策略！",
+    "index": 13,
+    "link": "https://arxiv.org/abs/2606.26173"
+  },
+  {
+    "title": "Governing Actions, Not Agents: Institutional Attestation as a Governance Model for Autonomous AI Systems",
+    "summary": "一种基于机构认证的治理模型，用于控制自治AI系统的行动",
+    "score": 8,
+    "category": "模型",
+    "long": "该模型通过在高风险行动之前要求机构认证来控制自治AI系统的行动。认证由独立的权威来源提供，且与声明意图绑定。该模型通过记录决策以便独立重新验证来确保透明度。",
+    "short": "基于机构认证的治理模型",
+    "tweet": "AI治理！一种基于机构认证的治理模型来控制自治AI系统的行动！",
+    "xiaohongshu": "AI治理！一种基于机构认证的治理模型来控制自治AI系统的行动！",
+    "index": 17,
+    "link": "https://arxiv.org/abs/2606.26298"
+  },
+  {
+    "title": "COrigami: An AI Pipeline for Co-Designing Flat-Foldable Visually Recognisable Origami",
+    "summary": "一种AI管道，用于协同设计可折叠的视觉可识别的折纸",
+    "score": 8,
+    "category": "模型",
+    "long": "COrigami是一种AI管道，用于协同设计可折叠的视觉可识别的折纸。它通过生成语义棍子图、计算基准包装、求解可折叠的折纸图案、形成折叠的折纸图案和通过自主美学评估循环来实现。",
+    "short": "AI折纸设计！",
+    "tweet": "AI折纸设计！一种AI管道，用于协同设计可折叠的视觉可识别的折纸！",
+    "xiaohongshu": "AI折纸设计！一种AI管道，用于协同设计可折叠的视觉可识别的折纸！",
+    "index": 18,
+    "link": "https://arxiv.org/abs/2606.26299"
+  },
+  {
+    "title": "The Verification Horizon: No Silver Bullet for Coding Agent Rewards",
+    "summary": "验证的挑战：没有银弹可以解决编码代理的奖励问题",
+    "score": 8,
+    "category": "模型",
+    "long": "该论文探讨了验证的挑战，特别是在编码代理的奖励问题上。它表明，验证是一个复杂的问题，需要在可伸缩性、真实性和鲁棒性等方面取得平衡。",
+    "short": "验证的挑战！",
+    "tweet": "AI验证的挑战！没有银弹可以解决编码代理的奖励问题！",
+    "xiaohongshu": "AI验证的挑战！没有银弹可以解决编码代理的奖励问题！",
+    "index": 19,
+    "link": "https://arxiv.org/abs/2606.26300"
+  },
+  {
+    "title": "Agentic Analysis for Agentic Infrastructure: An LLM-Powered Pipeline for Comparative Governance of DAO and Corporate AI Protocols",
+    "summary": "一种LLM驱动的管道，用于比较DAO和公司AI协议的治理",
+    "score": 7,
+    "category": "模型",
+    "long": "该管道通过自动注释、神经主题建模和多层网络分析来比较DAO和公司AI协议的治理。它通过分析4,323个治理参与记录来研究社会技术权力结构。",
+    "short": "AI治理比较！",
+    "tweet": "AI治理比较！一种LLM驱动的管道，用于比较DAO和公司AI协议的治理！",
+    "xiaohongshu": "AI治理比较！一种LLM驱动的管道，用于比较DAO和公司AI协议的治理！",
+    "index": 14,
+    "link": "https://arxiv.org/abs/2606.26203"
+  },
+  {
+    "title": "Knowledge-augmented Agentic AI for Mental Health Medication Information Seeking",
+    "summary": "一种增强的代理AI，用于精神健康药物信息寻求",
+    "score": 7,
+    "category": "模型",
+    "long": "该模型通过集成Reddit帖子、WebMD评论和FDA不良事件报告系统记录来提供精神健康药物信息。它通过识别实体和计算知识图谱来实现。",
+    "short": "AI精神健康药物信息！",
+    "tweet": "AI精神健康药物信息！一种增强的代理AI，用于精神健康药物信息寻求！",
+    "xiaohongshu": "AI精神健康药物信息！一种增强的代理AI，用于精神健康药物信息寻求！",
+    "index": 15,
+    "link": "https://arxiv.org/abs/2606.26205"
+  },
+  {
+    "title": "Accelerating Skill Assessment in Chess: A Drift-Diffusion-Enhanced Elo Rating System",
+    "summary": "一种基于漂移扩散的Elo评分系统，用于加速棋盘技能评估",
+    "score": 7,
+    "category": "模型",
+    "long": "该系统通过模型技能表达作为决策过程来评估棋盘技能。它通过分析移动级别数据来捕捉技能快速波动。",
+    "short": "AI棋盘技能评估！",
+    "tweet": "AI棋盘技能评估！一种基于漂移扩散的Elo评分系统，用于加速棋盘技能评估！",
+    "xiaohongshu": "AI棋盘技能评估！一种基于漂移扩散的Elo评分系统，用于加速棋盘技能评估！",
+    "index": 16,
+    "link": "https://arxiv.org/abs/2606.26267"
+  },
+  {
+    "title": "Mamba Explained",
+    "summary": "一种基于状态空间模型（SSM）的AI模型，用于替代Transformer模型",
+    "score": 6,
+    "category": "模型",
+    "long": "Mamba是一种基于SSM的AI模型，用于替代Transformer模型。它通过处理长序列来解决Transformer模型的效率问题。",
+    "short": "AI模型！",
+    "tweet": "AI模型！一种基于SSM的AI模型，用于替代Transformer模型！",
+    "xiaohongshu": "AI模型！一种基于SSM的AI模型，用于替代Transformer模型！",
+    "index": 7,
+    "link": "https://thegradient.pub/mamba-explained/"
+  }
+]
