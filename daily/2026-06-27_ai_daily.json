@@ -1,0 +1,110 @@
+[
+  {
+    "title": "AlgoEvolve: LLM-driven Meta-evolution of Algorithmic Trading Programs",
+    "summary": "使用大语言模型（LLM）驱动的演化框架，生成、评估和改进可执行交易策略",
+    "score": 9,
+    "category": "模型",
+    "long": "AlgoEvolve是一种LLM驱动的演化框架，用于生成、评估和改进可执行交易策略。该框架利用LLM的语义变异能力来发现和优化交易策略。",
+    "short": "使用LLM驱动的演化框架生成交易策略",
+    "tweet": "LLM驱动的演化框架 revolutionizes algorithmic trading! #AlgoEvolve #LLM",
+    "xiaohongshu": "大语言模型让交易策略的生成和优化变得更加高效！",
+    "index": 13,
+    "link": "https://arxiv.org/abs/2606.26173"
+  },
+  {
+    "title": "COrigami: An AI Pipeline for Co-Designing Flat-Foldable Visually Recognisable Origami",
+    "summary": "使用AI管道协同设计可折叠的可视化折纸",
+    "score": 8,
+    "category": "模型",
+    "long": "COrigami是一种AI管道，用于协同设计可折叠的可视化折纸。该管道利用算法优化和自主美学评估循环来生成折纸模式。",
+    "short": "使用AI管道协同设计可折叠的折纸",
+    "tweet": "AI管道 revolutionizes origami design! #COrigami #AI",
+    "xiaohongshu": "AI让折纸设计变得更加高效和美观！",
+    "index": 18,
+    "link": "https://arxiv.org/abs/2606.26299"
+  },
+  {
+    "title": "Governing Actions, Not Agents: Institutional Attestation as a Governance Model for Autonomous AI Systems",
+    "summary": "使用机构认证作为自治AI系统的治理模型",
+    "score": 8,
+    "category": "模型",
+    "long": "该模型利用机构认证来治理自治AI系统。该模型要求AI系统在执行高风险动作之前获得独立认证。",
+    "short": "使用机构认证治理自治AI系统",
+    "tweet": "机构认证 revolutionizes AI governance! #GoverningActions #AI",
+    "xiaohongshu": "AI治理变得更加高效和可信赖！",
+    "index": 17,
+    "link": "https://arxiv.org/abs/2606.26298"
+  },
+  {
+    "title": "The Verification Horizon: No Silver Bullet for Coding Agent Rewards",
+    "summary": "验证奖励的挑战",
+    "score": 7,
+    "category": "模型",
+    "long": "该论文讨论了验证奖励的挑战。验证奖励需要同时考虑可伸缩性、忠实性和鲁棒性。",
+    "short": "验证奖励的挑战",
+    "tweet": "验证奖励的挑战！ #VerificationHorizon #AI",
+    "xiaohongshu": "AI奖励验证变得更加复杂！",
+    "index": 19,
+    "link": "https://arxiv.org/abs/2606.26300"
+  },
+  {
+    "title": "Detecting and Controlling Sycophancy with Cascading Linear Features",
+    "summary": "检测和控制溜须拍马",
+    "score": 7,
+    "category": "模型",
+    "long": "该论文讨论了检测和控制溜须拍马的方法。该方法利用级联线性特征来检测溜须拍马。",
+    "short": "检测和控制溜须拍马",
+    "tweet": "溜须拍马的挑战！ #DetectingSycophancy #AI",
+    "xiaohongshu": "AI让溜须拍马的检测变得更加高效！",
+    "index": 10,
+    "link": "https://arxiv.org/abs/2606.26155"
+  },
+  {
+    "title": "Life After Benchmark Saturation: A Case Study of CORE-Bench",
+    "summary": "评估基准的挑战",
+    "score": 6,
+    "category": "模型",
+    "long": "该论文讨论了评估基准的挑战。评估基准需要考虑多个维度，包括准确性、有效性、可靠性等。",
+    "short": "评估基准的挑战",
+    "tweet": "评估基准的挑战！ #LifeAfterBenchmark #AI",
+    "xiaohongshu": "AI评估基准变得更加复杂！",
+    "index": 11,
+    "link": "https://arxiv.org/abs/2606.26158"
+  },
+  {
+    "title": "Refusal Lives Downstream of Persona in Chat Models",
+    "summary": "拒绝与角色在聊天模型中的关系",
+    "score": 6,
+    "category": "模型",
+    "long": "该论文讨论了拒绝与角色在聊天模型中的关系。拒绝被发现与角色有关联。",
+    "short": "拒绝与角色在聊天模型中的关系",
+    "tweet": "拒绝与角色在聊天模型中的关系！ #RefusalLives #AI",
+    "xiaohongshu": "AI让拒绝与角色之间的关系变得更加明显！",
+    "index": 12,
+    "link": "https://arxiv.org/abs/2606.26161"
+  },
+  {
+    "title": "Agentic Analysis for Agentic Infrastructure: An LLM-Powered Pipeline for Comparative Governance of DAO and Corporate AI Protocols",
+    "summary": "使用LLM驱动的管道进行DAO和企业AI协议的比较治理",
+    "score": 6,
+    "category": "模型",
+    "long": "该论文讨论了使用LLM驱动的管道进行DAO和企业AI协议的比较治理。该管道利用自动化注释、神经主题模型和多层网络分析来研究社会技术权力结构。",
+    "short": "使用LLM驱动的管道进行DAO和企业AI协议的比较治理",
+    "tweet": "LLM驱动的管道 revolutionizes DAO和企业AI协议的比较治理！ #AgenticAnalysis #AI",
+    "xiaohongshu": "AI让DAO和企业AI协议的比较治理变得更加高效！",
+    "index": 14,
+    "link": "https://arxiv.org/abs/2606.26203"
+  },
+  {
+    "title": "Accelerating Skill Assessment in Chess: A Drift-Diffusion-Enhanced Elo Rating System",
+    "summary": "使用漂移扩散增强的Elo评分系统加速棋力评估",
+    "score": 5,
+    "category": "模型",
+    "long": "该论文讨论了使用漂移扩散增强的Elo评分系统加速棋力评估。该系统利用漂移扩散模型来捕捉棋力变化。",
+    "short": "使用漂移扩散增强的Elo评分系统加速棋力评估",
+    "tweet": "漂移扩散增强的Elo评分系统 revolutionizes 棋力评估！ #AcceleratingSkill #AI",
+    "xiaohongshu": "AI让棋力评估变得更加高效！",
+    "index": 16,
+    "link": "https://arxiv.org/abs/2606.26267"
+  }
+]
