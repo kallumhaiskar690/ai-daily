@@ -1,0 +1,110 @@
+[
+  {
+    "title": "Grounded Iterative Language Planning",
+    "summary": "一种新的语言规划方法，通过结合参数化世界模型和LLM的API来减少幻觉传播",
+    "score": 9,
+    "category": "模型",
+    "long": "该方法通过训练一个小的参数化骨架和结合它与API的语言推理来实现。骨架提供了有效的动作、预测的状态差异、风险和价值，而LLM则草拟了动作和想象的差异。一个一致性门控询问了修正时两个不一致时。",
+    "short": "减少幻觉传播",
+    "tweet": "新方法! Grounded Iterative Language Planning",
+    "xiaohongshu": "哇! 这个方法太厉害了! 可以减少幻觉传播",
+    "index": 19,
+    "link": "https://arxiv.org/abs/2606.27806"
+  },
+  {
+    "title": "ToE: 一个可解释的证据链",
+    "summary": "一种新的证据链框架，用于自动证实",
+    "score": 8,
+    "category": "模型",
+    "long": "该框架通过将每个声明作为动态扩展的论据树来模型。它集成了多源检索代理、证据评估代理和论据树聚合算法来迭代分解、检索和证实声明。",
+    "short": "可解释的证据链",
+    "tweet": "新方法! ToE",
+    "xiaohongshu": "哇! 这个方法太厉害了! 可以自动证实",
+    "index": 16,
+    "link": "https://arxiv.org/abs/2606.27736"
+  },
+  {
+    "title": "MER-R1: 多模态情感推理",
+    "summary": "一种新的多模态情感推理框架",
+    "score": 8,
+    "category": "模型",
+    "long": "该框架通过结合快速思考和慢思考来实现。快速思考通过触发直接答案来提高回忆，而慢思考则通过保守过滤错误类别来提高准确性。",
+    "short": "多模态情感推理",
+    "tweet": "新方法! MER-R1",
+    "xiaohongshu": "哇! 这个方法太厉害了! 可以多模态情感推理",
+    "index": 15,
+    "link": "https://arxiv.org/abs/2606.27652"
+  },
+  {
+    "title": "DysLexLens: 一个低资源LLM框架",
+    "summary": "一种新的低资源LLM框架，用于分析失语症学习者",
+    "score": 7,
+    "category": "模型",
+    "long": "该框架通过将失语症学习者在线论坛讨论转化为字典驱动的语料库来实现。它集成了LLM辅助语义分析和知识图谱（KG）基于的查询推理来揭示有意义的模式。",
+    "short": "低资源LLM框架",
+    "tweet": "新方法! DysLexLens",
+    "xiaohongshu": "哇! 这个方法太厉害了! 可以分析失语症学习者",
+    "index": 14,
+    "link": "https://arxiv.org/abs/2606.27619"
+  },
+  {
+    "title": "Internalizing the Future: 一个统一的主体训练范式",
+    "summary": "一种新的主体训练范式",
+    "score": 7,
+    "category": "模型",
+    "long": "该范式通过训练一个单独的自回归模型来实现。该模型可以预测潜在的状态滚动和计划条件成功估计。",
+    "short": "统一的主体训练范式",
+    "tweet": "新方法! Internalizing the Future",
+    "xiaohongshu": "哇! 这个方法太厉害了! 可以统一主体训练",
+    "index": 12,
+    "link": "https://arxiv.org/abs/2606.27483"
+  },
+  {
+    "title": "Odyssey: 一个可验证的局部真实性保护模型",
+    "summary": "一种新的可验证的局部真实性保护模型",
+    "score": 6,
+    "category": "模型",
+    "long": "该模型通过将模型构建为可验证的局部真实性保护模型来实现。它集成了左和右Kan延伸来构建模型。",
+    "short": "可验证的局部真实性保护模型",
+    "tweet": "新方法! Odyssey",
+    "xiaohongshu": "哇! 这个方法太厉害了! 可以可验证的局部真实性保护",
+    "index": 13,
+    "link": "https://arxiv.org/abs/2606.27593"
+  },
+  {
+    "title": "Shape, Symmetries, and Structure: 机器学习研究中的数学作用",
+    "summary": "机器学习研究中的数学作用",
+    "score": 6,
+    "category": "研究",
+    "long": "该研究通过分析机器学习研究中的数学作用来实现。它发现了数学在机器学习研究中的重要性。",
+    "short": "机器学习研究中的数学作用",
+    "tweet": "新研究! Shape, Symmetries, and Structure",
+    "xiaohongshu": "哇! 这个研究太厉害了! 可以分析机器学习研究中的数学作用",
+    "index": 2,
+    "link": "https://thegradient.pub/shape-symmetry-structure/"
+  },
+  {
+    "title": "What's Missing From LLM Chatbots: 一个目的感",
+    "summary": "LLM聊天机器人的缺失",
+    "score": 5,
+    "category": "研究",
+    "long": "该研究通过分析LLM聊天机器人的缺失来实现。它发现了目的感在LLM聊天机器人中的重要性。",
+    "short": "LLM聊天机器人的缺失",
+    "tweet": "新研究! What's Missing From LLM Chatbots",
+    "xiaohongshu": "哇! 这个研究太厉害了! 可以分析LLM聊天机器人的缺失",
+    "index": 3,
+    "link": "https://thegradient.pub/dialog/"
+  },
+  {
+    "title": "We Need Positive Visions for AI Grounded in Wellbeing",
+    "summary": "AI的积极愿景",
+    "score": 5,
+    "category": "研究",
+    "long": "该研究通过分析AI的积极愿景来实现。它发现了积极愿景在AI中的重要性。",
+    "short": "AI的积极愿景",
+    "tweet": "新研究! We Need Positive Visions for AI Grounded in Wellbeing",
+    "xiaohongshu": "哇! 这个研究太厉害了! 可以分析AI的积极愿景",
+    "index": 4,
+    "link": "https://thegradient.pub/we-need-positive-visions-for-ai-grounded-in-wellbeing/"
+  }
+]
