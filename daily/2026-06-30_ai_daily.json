@@ -1,0 +1,122 @@
+[
+  {
+    "title": "ATHENA-R1: AI Agent for Treatment Reasoning",
+    "summary": "AI agent for treatment reasoning across all FDA approved drugs",
+    "score": 9,
+    "category": "研究",
+    "long": "ATHENA-R1 is an AI agent that integrates disease context, comorbidities, medications, contraindications, and evolving biomedical knowledge to select an appropriate therapy.",
+    "short": "AI agent for treatment reasoning",
+    "tweet": "AI agent ATHENA-R1 revolutionizes treatment reasoning with 94.7% accuracy",
+    "xiaohongshu": "AI助力医疗领域的治疗决策!",
+    "index": 16,
+    "link": "https://arxiv.org/abs/2606.28692"
+  },
+  {
+    "title": "COMPASS: Grounding Composition-Intent Guidance",
+    "summary": "Unified multimodal framework for composition perception and generation",
+    "score": 8,
+    "category": "模型",
+    "long": "COMPASS injects composition expertise into an MoE backbone and distills the inferred intent into a shared expert token.",
+    "short": "Unified multimodal framework for composition",
+    "tweet": "COMPASS revolutionizes composition perception and generation",
+    "xiaohongshu": "AI助力视觉设计领域的组成意图指导!",
+    "index": 17,
+    "link": "https://arxiv.org/abs/2606.28696"
+  },
+  {
+    "title": "BV-Blend: Uncertainty-Weighted Historical Baselines",
+    "summary": "Stabilizes advantage estimation in critic-free reinforcement learning",
+    "score": 8,
+    "category": "模型",
+    "long": "BV-Blend combines prompt-local on-policy statistics with semantic-cluster-conditioned historical moments to stabilize advantage estimation.",
+    "short": "Stabilizes advantage estimation in critic-free RL",
+    "tweet": "BV-Blend revolutionizes critic-free reinforcement learning",
+    "xiaohongshu": "AI助力稳定优势估计!",
+    "index": 18,
+    "link": "https://arxiv.org/abs/2606.28707"
+  },
+  {
+    "title": "The Two Genie Game: Adoption and Welfare in Audit-Grounded AI Governance",
+    "summary": "Formalizes conditions for an agent with a harm-minimizing policy to displace an approval-seeking agent",
+    "score": 8,
+    "category": "研究",
+    "long": "The Two Genie Game uses evolutionary game theory to formalize conditions for adoption and welfare in audit-grounded AI governance.",
+    "short": "Formalizes conditions for adoption and welfare in AI governance",
+    "tweet": "The Two Genie Game revolutionizes AI governance",
+    "xiaohongshu": "AI助力AI治理领域的研究!",
+    "index": 19,
+    "link": "https://arxiv.org/abs/2606.28710"
+  },
+  {
+    "title": "Qwen 3.6 27B is the sweet spot for local development",
+    "summary": "Qwen 3.6 27B is a suitable model for local development",
+    "score": 7,
+    "category": "工具",
+    "long": "Qwen 3.6 27B is a suitable model for local development.",
+    "short": "Suitable model for local development",
+    "tweet": "Qwen 3.6 27B is the sweet spot for local development",
+    "xiaohongshu": "AI助力本地开发!",
+    "index": 20,
+    "link": "https://quesma.com/blog/qwen-36-is-awesome/"
+  },
+  {
+    "title": ".self: A new top-level domain designed to support self-hosting",
+    "summary": ".self is a new top-level domain for self-hosting",
+    "score": 7,
+    "category": "商业",
+    "long": ".self is a new top-level domain designed to support self-hosting.",
+    "short": "New top-level domain for self-hosting",
+    "tweet": ".self revolutionizes self-hosting",
+    "xiaohongshu": "AI助力自主托管!",
+    "index": 21,
+    "link": "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/"
+  },
+  {
+    "title": "Free the Icons",
+    "summary": "Free the Icons is a project to free icons",
+    "score": 6,
+    "category": "商业",
+    "long": "Free the Icons is a project to free icons.",
+    "short": "Free icons project",
+    "tweet": "Free the Icons revolutionizes icon design",
+    "xiaohongshu": "AI助力图标设计!",
+    "index": 22,
+    "link": "https://weblog.rogueamoeba.com/2026/06/26/free-the-icons/"
+  },
+  {
+    "title": "Memory Safe Context Switching (longjmp, setjmp) in Fil-C",
+    "summary": "Memory safe context switching in Fil-C",
+    "score": 6,
+    "category": "工具",
+    "long": "Memory safe context switching in Fil-C.",
+    "short": "Memory safe context switching",
+    "tweet": "Memory safe context switching in Fil-C",
+    "xiaohongshu": "AI助力内存安全上下文切换!",
+    "index": 23,
+    "link": "https://fil-c.org/context_switches"
+  },
+  {
+    "title": "LongCat-2.0, a large-scale MoE model with 1.6T total and 48B Active",
+    "summary": "LongCat-2.0 is a large-scale MoE model",
+    "score": 6,
+    "category": "模型",
+    "long": "LongCat-2.0 is a large-scale MoE model with 1.6T total and 48B Active.",
+    "short": "Large-scale MoE model",
+    "tweet": "LongCat-2.0 revolutionizes MoE models",
+    "xiaohongshu": "AI助力大规模MoE模型!",
+    "index": 24,
+    "link": "https://longcat.chat/blog/longcat-2.0/"
+  },
+  {
+    "title": "Exploring PDP-1 Lisp (1960)",
+    "summary": "Exploring PDP-1 Lisp in 1960",
+    "score": 5,
+    "category": "历史",
+    "long": "Exploring PDP-1 Lisp in 1960.",
+    "short": "Exploring PDP-1 Lisp",
+    "tweet": "Exploring PDP-1 Lisp in 1960",
+    "xiaohongshu": "AI助力 Lisp 历史!",
+    "index": 25,
+    "link": "https://obsolescence.dev/pdp1-lisp-introduction.html"
+  }
+]
