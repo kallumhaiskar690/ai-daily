@@ -1,0 +1,110 @@
+[
+  {
+    "title": "RareDxR1: Autonomous Medical Reasoning for Rare Disease Diagnosis",
+    "summary": "RareDxR1是一款专门用于罕见疾病诊断的自主医疗推理模型",
+    "score": 9,
+    "category": "研究",
+    "long": "RareDxR1通过进化学习和反射性推理能力，能够从未结构化的临床笔记中识别罕见疾病的特征和诊断。",
+    "short": "罕见疾病诊断的AI模型",
+    "tweet": "RareDxR1：罕见疾病诊断的AI模型，通过进化学习和反射性推理能力，提高诊断准确率！",
+    "xiaohongshu": "罕见疾病诊断的AI模型RareDxR1，让我们更准确地诊断罕见疾病！",
+    "index": 15,
+    "link": "https://arxiv.org/abs/2607.00147"
+  },
+  {
+    "title": "Seed2.0 Model Card: Towards Intelligence Frontier for Real-World Complexity",
+    "summary": "Seed2.0是一款专门用于解决复杂现实世界任务的模型系列",
+    "score": 8,
+    "category": "研究",
+    "long": "Seed2.0通过识别用户的真实需求和构建一个可靠的前瞻性评估系统，解决了长尾知识和复杂指令遵循的问题。",
+    "short": "复杂现实世界任务的AI模型",
+    "tweet": "Seed2.0：复杂现实世界任务的AI模型，通过识别用户需求和构建评估系统，提高解决问题的能力！",
+    "xiaohongshu": "复杂现实世界任务的AI模型Seed2.0，让我们更好地解决复杂问题！",
+    "index": 19,
+    "link": "https://arxiv.org/abs/2607.00248"
+  },
+  {
+    "title": "Constructive Alignment: Governing Preference Dynamics in Human-AI Interaction",
+    "summary": "Constructive Alignment是一种新的AI对齐方法，通过控制人类偏好动态来实现对齐",
+    "score": 8,
+    "category": "研究",
+    "long": "Constructive Alignment通过模型偏好作为控制目标，来实现对齐，避免了传统方法的局限性。",
+    "short": "人机交互的AI对齐方法",
+    "tweet": "Constructive Alignment：人机交互的AI对齐方法，通过控制偏好动态来实现对齐！",
+    "xiaohongshu": "人机交互的AI对齐方法Constructive Alignment，让我们更好地理解人机交互！",
+    "index": 10,
+    "link": "https://arxiv.org/abs/2607.00001"
+  },
+  {
+    "title": "Bounded Morality: Defining the Space of Moral Computation",
+    "summary": "Bounded Morality是一种新的道德计算框架，通过定义道德计算的空间来实现道德计算",
+    "score": 7,
+    "category": "研究",
+    "long": "Bounded Morality通过定义道德计算的空间和道德计算的局限性，来实现道德计算。",
+    "short": "道德计算的AI框架",
+    "tweet": "Bounded Morality：道德计算的AI框架，通过定义道德计算的空间来实现道德计算！",
+    "xiaohongshu": "道德计算的AI框架Bounded Morality，让我们更好地理解道德计算！",
+    "index": 11,
+    "link": "https://arxiv.org/abs/2607.00002"
+  },
+  {
+    "title": "The MMM Data Model -- A Normative Specification for Knowledge Interoperability in a Decentralisable Knowledge Commons",
+    "summary": "MMM数据模型是一种用于知识共享的规范规范",
+    "score": 7,
+    "category": "研究",
+    "long": "MMM数据模型通过定义知识共享的规范和标准，来实现知识共享。",
+    "short": "知识共享的AI模型",
+    "tweet": "MMM数据模型：知识共享的AI模型，通过定义规范和标准来实现知识共享！",
+    "xiaohongshu": "知识共享的AI模型MMM数据模型，让我们更好地共享知识！",
+    "index": 12,
+    "link": "https://arxiv.org/abs/2607.00032"
+  },
+  {
+    "title": "Making Failure Safe: A Constrained, Verifiable Agent Framework for Open-Web Data Collection",
+    "summary": "Making Failure Safe是一种用于开放网络数据采集的安全框架",
+    "score": 7,
+    "category": "研究",
+    "long": "Making Failure Safe通过定义安全规范和标准，来实现开放网络数据采集的安全性。",
+    "short": "开放网络数据采集的AI安全框架",
+    "tweet": "Making Failure Safe：开放网络数据采集的AI安全框架，通过定义安全规范和标准来实现安全性！",
+    "xiaohongshu": "开放网络数据采集的AI安全框架Making Failure Safe，让我们更好地保护数据！",
+    "index": 13,
+    "link": "https://arxiv.org/abs/2607.00035"
+  },
+  {
+    "title": "From Signals to Structure: How Memory Architecture Drives Language Emergence in LLM Agents",
+    "summary": "From Signals to Structure是一种用于LLM代理语言产生的记忆架构研究",
+    "score": 6,
+    "category": "研究",
+    "long": "From Signals to Structure通过研究记忆架构的影响，来理解LLM代理语言产生的机制。",
+    "short": "LLM代理语言产生的AI研究",
+    "tweet": "From Signals to Structure：LLM代理语言产生的AI研究，通过研究记忆架构来理解语言产生的机制！",
+    "xiaohongshu": "LLM代理语言产生的AI研究From Signals to Structure，让我们更好地理解语言产生的机制！",
+    "index": 18,
+    "link": "https://arxiv.org/abs/2607.00233"
+  },
+  {
+    "title": "RareDxR1: Autonomous Medical Reasoning for Rare Disease Diagnosis Beyond Human Annotation",
+    "summary": "RareDxR1是一款专门用于罕见疾病诊断的自主医疗推理模型",
+    "score": 6,
+    "category": "研究",
+    "long": "RareDxR1通过进化学习和反射性推理能力，能够从未结构化的临床笔记中识别罕见疾病的特征和诊断。",
+    "short": "罕见疾病诊断的AI模型",
+    "tweet": "RareDxR1：罕见疾病诊断的AI模型，通过进化学习和反射性推理能力，提高诊断准确率！",
+    "xiaohongshu": "罕见疾病诊断的AI模型RareDxR1，让我们更准确地诊断罕见疾病！",
+    "index": 15,
+    "link": "https://arxiv.org/abs/2607.00147"
+  },
+  {
+    "title": "Constructive Alignment: Governing Preference Dynamics in Human-AI Interaction",
+    "summary": "Constructive Alignment是一种新的AI对齐方法，通过控制人类偏好动态来实现对齐",
+    "score": 6,
+    "category": "研究",
+    "long": "Constructive Alignment通过模型偏好作为控制目标，来实现对齐，避免了传统方法的局限性。",
+    "short": "人机交互的AI对齐方法",
+    "tweet": "Constructive Alignment：人机交互的AI对齐方法，通过控制偏好动态来实现对齐！",
+    "xiaohongshu": "人机交互的AI对齐方法Constructive Alignment，让我们更好地理解人机交互！",
+    "index": 10,
+    "link": "https://arxiv.org/abs/2607.00001"
+  }
+]
