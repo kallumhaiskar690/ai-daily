@@ -1,0 +1,110 @@
+[
+  {
+    "title": "RareDxR1: Autonomous Medical Reasoning for Rare Disease Diagnosis",
+    "summary": "RareDxR1是一款用于罕见疾病诊断的自主医疗推理模型",
+    "score": 9,
+    "category": "研究",
+    "long": "RareDxR1通过进化学习和反射增强推理采样（RERS）来实现罕见疾病诊断的自主医疗推理",
+    "short": "罕见疾病诊断的自主医疗推理模型",
+    "tweet": "RareDxR1: Revolutionizing Rare Disease Diagnosis with Autonomous Medical Reasoning",
+    "xiaohongshu": "罕见疾病诊断的未来已来！RareDxR1带来自主医疗推理的新时代",
+    "index": 15,
+    "link": "https://arxiv.org/abs/2607.00147"
+  },
+  {
+    "title": "Seed2.0 Model Card: Towards Intelligence Frontier for Real-World Complexity",
+    "summary": "Seed2.0是一款用于解决复杂现实世界任务的模型系列",
+    "score": 8,
+    "category": "研究",
+    "long": "Seed2.0通过识别用户的真实需求并构建一个可靠的前瞻性评估系统来解决复杂现实世界任务",
+    "short": "复杂现实世界任务的模型系列",
+    "tweet": "Seed2.0: Pushing the Frontier of Intelligence for Real-World Complexity",
+    "xiaohongshu": "现实世界复杂任务的解决方案已来！Seed2.0带来新一轮的智能革命",
+    "index": 19,
+    "link": "https://arxiv.org/abs/2607.00248"
+  },
+  {
+    "title": "Constructive Alignment: Governing Preference Dynamics in Human-AI Interaction",
+    "summary": "Constructive Alignment是一种新的人机交互偏好动态管理方法",
+    "score": 8,
+    "category": "研究",
+    "long": "Constructive Alignment通过控制人机交互偏好动态来实现人机交互偏好管理",
+    "short": "人机交互偏好动态管理方法",
+    "tweet": "Constructive Alignment: Revolutionizing Human-AI Interaction with Preference Dynamics",
+    "xiaohongshu": "人机交互偏好动态管理的新时代已来！Constructive Alignment带来新一轮的智能革命",
+    "index": 10,
+    "link": "https://arxiv.org/abs/2607.00001"
+  },
+  {
+    "title": "Bounded Morality: Defining the Space of Moral Computation",
+    "summary": "Bounded Morality是一种新的道德计算空间定义方法",
+    "score": 7,
+    "category": "研究",
+    "long": "Bounded Morality通过道德宽度和道德深度来定义道德计算空间",
+    "short": "道德计算空间定义方法",
+    "tweet": "Bounded Morality: Defining the Space of Moral Computation for AI",
+    "xiaohongshu": "道德计算空间的新定义已来！Bounded Morality带来新一轮的智能革命",
+    "index": 11,
+    "link": "https://arxiv.org/abs/2607.00002"
+  },
+  {
+    "title": "The MMM Data Model -- A Normative Specification for Knowledge Interoperability in a Decentralisable Knowledge Commons",
+    "summary": "MMM是一种用于知识共享的规范数据模型",
+    "score": 7,
+    "category": "研究",
+    "long": "MMM通过规范数据模型来实现知识共享",
+    "short": "知识共享的规范数据模型",
+    "tweet": "MMM: Revolutionizing Knowledge Interoperability with a Normative Data Model",
+    "xiaohongshu": "知识共享的新时代已来！MMM带来新一轮的智能革命",
+    "index": 12,
+    "link": "https://arxiv.org/abs/2607.00032"
+  },
+  {
+    "title": "Making Failure Safe: A Constrained, Verifiable Agent Framework for Open-Web Data Collection",
+    "summary": "Making Failure Safe是一种用于开放网络数据采集的安全代理框架",
+    "score": 7,
+    "category": "研究",
+    "long": "Making Failure Safe通过安全代理框架来实现开放网络数据采集",
+    "short": "开放网络数据采集的安全代理框架",
+    "tweet": "Making Failure Safe: Ensuring Safe Open-Web Data Collection with a Constrained Agent Framework",
+    "xiaohongshu": "开放网络数据采集的新安全标准已来！Making Failure Safe带来新一轮的智能革命",
+    "index": 13,
+    "link": "https://arxiv.org/abs/2607.00035"
+  },
+  {
+    "title": "Solution space path planning for supporting en-route air traffic control",
+    "summary": "Solution space path planning是一种用于空中交通管制的路径规划方法",
+    "score": 6,
+    "category": "研究",
+    "long": "Solution space path planning通过路径规划方法来实现空中交通管制",
+    "short": "空中交通管制的路径规划方法",
+    "tweet": "Solution space path planning: Revolutionizing Air Traffic Control with Path Planning",
+    "xiaohongshu": "空中交通管制的新路径规划方法已来！Solution space path planning带来新一轮的智能革命",
+    "index": 14,
+    "link": "https://arxiv.org/abs/2607.00064"
+  },
+  {
+    "title": "A Contextual-Bandit Oversight Game with Two-Sided Informational Asymmetry",
+    "summary": "A Contextual-Bandit Oversight Game是一种用于两边信息不对称的监督游戏",
+    "score": 6,
+    "category": "研究",
+    "long": "A Contextual-Bandit Oversight Game通过监督游戏来实现两边信息不对称",
+    "short": "两边信息不对称的监督游戏",
+    "tweet": "A Contextual-Bandit Oversight Game: Solving Two-Sided Informational Asymmetry with a Supervision Game",
+    "xiaohongshu": "两边信息不对称的新监督游戏已来！A Contextual-Bandit Oversight Game带来新一轮的智能革命",
+    "index": 16,
+    "link": "https://arxiv.org/abs/2607.00155"
+  },
+  {
+    "title": "From Signals to Structure: How Memory Architecture Drives Language Emergence in LLM Agents",
+    "summary": "From Signals to Structure是一种用于LLM代理语言产生的记忆架构驱动方法",
+    "score": 6,
+    "category": "研究",
+    "long": "From Signals to Structure通过记忆架构驱动来实现LLM代理语言产生",
+    "short": "LLM代理语言产生的记忆架构驱动方法",
+    "tweet": "From Signals to Structure: Uncovering the Role of Memory Architecture in LLM Language Emergence",
+    "xiaohongshu": "LLM代理语言产生的新记忆架构驱动方法已来！From Signals to Structure带来新一轮的智能革命",
+    "index": 18,
+    "link": "https://arxiv.org/abs/2607.00233"
+  }
+]
