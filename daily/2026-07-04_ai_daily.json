@@ -1,0 +1,110 @@
+[
+  {
+    "title": "CreativityNeuro: Steering Language Model Weights to Improve Divergent Thinking",
+    "summary": "CreativityNeuro是一种数据无需的方法，通过对比权重来提高语言模型的创造性",
+    "score": 9,
+    "category": "模型",
+    "long": "CreativityNeuro通过对比权重来提高语言模型的创造性，能够提高语言模型的开放性和多样性",
+    "short": "提高语言模型的创造性",
+    "tweet": "CreativityNeuro: Boosting Language Model Creativity Without Data",
+    "xiaohongshu": "让语言模型变得更有创意！",
+    "index": 15,
+    "link": "https://arxiv.org/abs/2607.01433"
+  },
+  {
+    "title": "Procedural Memory Distillation: Online Reflection for Self-Improving Language Models",
+    "summary": "Procedural Memory Distillation是一种在线反射的方法，用于改进语言模型",
+    "score": 8,
+    "category": "模型",
+    "long": "Procedural Memory Distillation通过在线反射来改进语言模型，能够提高语言模型的性能和稳定性",
+    "short": "在线反射改进语言模型",
+    "tweet": "Procedural Memory Distillation: Improving Language Models with Online Reflection",
+    "xiaohongshu": "让语言模型变得更强大！",
+    "index": 19,
+    "link": "https://arxiv.org/abs/2607.01480"
+  },
+  {
+    "title": "Discrete Diffusion Language Models for Interactive Radiology Report Drafting",
+    "summary": "Discrete Diffusion Language Models是一种用于交互式放射学报告撰写的语言模型",
+    "score": 7,
+    "category": "模型",
+    "long": "Discrete Diffusion Language Models通过交互式放射学报告撰写来提高语言模型的性能和稳定性",
+    "short": "交互式放射学报告撰写",
+    "tweet": "Discrete Diffusion Language Models: Interactive Radiology Report Drafting",
+    "xiaohongshu": "让放射学报告撰写变得更容易！",
+    "index": 16,
+    "link": "https://arxiv.org/abs/2607.01436"
+  },
+  {
+    "title": "Agent4cs: A Multi-agent System for Code Summarization in Large Hierarchical Codebases",
+    "summary": "Agent4cs是一种用于代码总结的多代理系统",
+    "score": 6,
+    "category": "模型",
+    "long": "Agent4cs通过多代理系统来提高代码总结的性能和稳定性",
+    "short": "代码总结",
+    "tweet": "Agent4cs: A Multi-agent System for Code Summarization",
+    "xiaohongshu": "让代码总结变得更容易！",
+    "index": 13,
+    "link": "https://arxiv.org/abs/2607.01425"
+  },
+  {
+    "title": "Auto-FL-Research: Agentic Search for Federated Learning Algorithms",
+    "summary": "Auto-FL-Research是一种用于联合学习算法搜索的代理系统",
+    "score": 5,
+    "category": "模型",
+    "long": "Auto-FL-Research通过代理系统来提高联合学习算法搜索的性能和稳定性",
+    "short": "联合学习算法搜索",
+    "tweet": "Auto-FL-Research: Agentic Search for Federated Learning Algorithms",
+    "xiaohongshu": "让联合学习算法搜索变得更容易！",
+    "index": 11,
+    "link": "https://arxiv.org/abs/2607.01366"
+  },
+  {
+    "title": "The Wiola Architecture for Efficient Small Language Models",
+    "summary": "Wiola是一种用于高效小型语言模型的架构",
+    "score": 4,
+    "category": "模型",
+    "long": "Wiola通过高效小型语言模型来提高语言模型的性能和稳定性",
+    "short": "高效小型语言模型",
+    "tweet": "The Wiola Architecture: Efficient Small Language Models",
+    "xiaohongshu": "让语言模型变得更高效！",
+    "index": 12,
+    "link": "https://arxiv.org/abs/2607.01394"
+  },
+  {
+    "title": "Beyond Next-Token Prediction: An RLVR Proof of Concept for Tool-Use Agents on Atlassian Workflows",
+    "summary": "Beyond Next-Token Prediction是一种用于工具使用代理的RLVR概念",
+    "score": 3,
+    "category": "模型",
+    "long": "Beyond Next-Token Prediction通过RLVR概念来提高工具使用代理的性能和稳定性",
+    "short": "工具使用代理",
+    "tweet": "Beyond Next-Token Prediction: RLVR for Tool-Use Agents",
+    "xiaohongshu": "让工具使用代理变得更强大！",
+    "index": 17,
+    "link": "https://arxiv.org/abs/2607.01465"
+  },
+  {
+    "title": "World Feedback for Clinical Agents: Diagnosing RL in FHIR Environments",
+    "summary": "World Feedback for Clinical Agents是一种用于临床代理的世界反馈诊断",
+    "score": 2,
+    "category": "模型",
+    "long": "World Feedback for Clinical Agents通过世界反馈诊断来提高临床代理的性能和稳定性",
+    "short": "临床代理",
+    "tweet": "World Feedback for Clinical Agents: Diagnosing RL in FHIR Environments",
+    "xiaohongshu": "让临床代理变得更强大！",
+    "index": 18,
+    "link": "https://arxiv.org/abs/2607.01470"
+  },
+  {
+    "title": "Financial Market Applications of LLMs",
+    "summary": "Financial Market Applications of LLMs是一种用于金融市场的LLMs应用",
+    "score": 1,
+    "category": "商业",
+    "long": "Financial Market Applications of LLMs通过LLMs应用来提高金融市场的性能和稳定性",
+    "short": "金融市场LLMs应用",
+    "tweet": "Financial Market Applications of LLMs: Revolutionizing Finance",
+    "xiaohongshu": "让金融市场变得更强大！",
+    "index": 5,
+    "link": "https://thegradient.pub/financial-market-applications-of-llms/"
+  }
+]
