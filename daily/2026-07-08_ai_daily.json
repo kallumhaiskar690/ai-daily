@@ -1,0 +1,110 @@
+[
+  {
+    "title": "Oyster-II: Reinforcement Learning for Constructive Safety Alignment in Large Language Models",
+    "summary": "Oyster-II是一种基于强化学习的安全对齐框架，旨在确保大型语言模型的安全性、帮助性和可信度",
+    "score": 9,
+    "category": "模型",
+    "long": "Oyster-II通过采用零强化学习（Zero-RL）范式和多阶段强化学习策略来解决安全对齐的挑战",
+    "short": "安全性、帮助性和可信度的强化学习框架",
+    "tweet": "Oyster-II：安全性、帮助性和可信度的强化学习框架",
+    "xiaohongshu": "让语言模型变得可信、有帮助和安全！",
+    "index": 17,
+    "link": "https://arxiv.org/abs/2607.02914"
+  },
+  {
+    "title": "VERITAS: Towards a General-Purpose Replication Tool for Scientific Research",
+    "summary": "VERITAS是一种通用复制工具，旨在自动化科学研究的复制过程",
+    "score": 8,
+    "category": "工具",
+    "long": "VERITAS通过CLI编码代理来实现复制流程，包括提取论文的断言、运行方法和评估断言",
+    "short": "科学研究的通用复制工具",
+    "tweet": "VERITAS：科学研究的通用复制工具",
+    "xiaohongshu": "让科学研究变得更可靠和可复制！",
+    "index": 18,
+    "link": "https://arxiv.org/abs/2607.02931"
+  },
+  {
+    "title": "Mamba Explained",
+    "summary": "Mamba是一种基于状态空间模型（SSMs）的AI模型，旨在解决Transformer模型的不足",
+    "score": 8,
+    "category": "模型",
+    "long": "Mamba通过使用SSMs来处理长序列数据，解决Transformer模型的不足",
+    "short": "基于SSMs的AI模型",
+    "tweet": "Mamba：基于SSMs的AI模型",
+    "xiaohongshu": "让AI模型变得更强大和高效！",
+    "index": 7,
+    "link": "https://thegradient.pub/mamba-explained/"
+  },
+  {
+    "title": "Automated Data Readiness for Scientific AI",
+    "summary": "REDI是一种自动化数据准备框架，旨在将科学数据转换为AI可用的格式",
+    "score": 8,
+    "category": "工具",
+    "long": "REDI通过五个阶段的流水线来实现数据准备，包括获取、预处理、转换、结构化和输出",
+    "short": "科学数据的自动化准备框架",
+    "tweet": "REDI：科学数据的自动化准备框架",
+    "xiaohongshu": "让科学数据变得更易于使用！",
+    "index": 13,
+    "link": "https://arxiv.org/abs/2607.02771"
+  },
+  {
+    "title": "Object-Centric Environment Modeling for Agentic Tasks",
+    "summary": "OCM是一种基于对象中心的环境模型，旨在组织经验并维护可执行的环境模型",
+    "score": 7,
+    "category": "模型",
+    "long": "OCM通过维护两个连接的代码库来实现环境模型，包括对象知识和程序知识",
+    "short": "基于对象中心的环境模型",
+    "tweet": "OCM：基于对象中心的环境模型",
+    "xiaohongshu": "让环境模型变得更强大和可执行！",
+    "index": 15,
+    "link": "https://arxiv.org/abs/2607.02846"
+  },
+  {
+    "title": "SwarmResearch: Orchestrating Coding Agents for Open-Ended Discovery",
+    "summary": "SwarmResearch是一种编码代理的协调框架，旨在发现开源问题的优化",
+    "score": 7,
+    "category": "模型",
+    "long": "SwarmResearch通过使用Shepherd代理来协调Search代理，实现开源问题的优化",
+    "short": "编码代理的协调框架",
+    "tweet": "SwarmResearch：编码代理的协调框架",
+    "xiaohongshu": "让开源问题变得更容易解决！",
+    "index": 14,
+    "link": "https://arxiv.org/abs/2607.02807"
+  },
+  {
+    "title": "MedCalc-Pro: Solving Complex Medical Calculations with LLM Agents",
+    "summary": "MedCalc-Pro是一种基于LLM代理的复杂医疗计算解决方案",
+    "score": 7,
+    "category": "模型",
+    "long": "MedCalc-Pro通过使用LLM代理来解决复杂医疗计算问题",
+    "short": "基于LLM代理的复杂医疗计算解决方案",
+    "tweet": "MedCalc-Pro：基于LLM代理的复杂医疗计算解决方案",
+    "xiaohongshu": "让医疗计算变得更容易！",
+    "index": 16,
+    "link": "https://arxiv.org/abs/2607.02879"
+  },
+  {
+    "title": "ASK in the Dark: Uncertainty-Gated LLM Assistance under Partial Observability",
+    "summary": "ASK+是一种基于不确定性门控的LLM辅助框架，旨在在部分可观察性下提供帮助",
+    "score": 6,
+    "category": "模型",
+    "long": "ASK+通过使用不确定性门控来提供帮助，解决部分可观察性下的挑战",
+    "short": "基于不确定性门控的LLM辅助框架",
+    "tweet": "ASK+：基于不确定性门控的LLM辅助框架",
+    "xiaohongshu": "让LLM辅助变得更强大和可靠！",
+    "index": 12,
+    "link": "https://arxiv.org/abs/2607.02686"
+  },
+  {
+    "title": "A Brief Overview of Gender Bias in AI",
+    "summary": "本文提供了对AI中性别偏见的简要概述",
+    "score": 6,
+    "category": "其他",
+    "long": "本文讨论了AI中性别偏见的原因和影响",
+    "short": "AI中性别偏见的简要概述",
+    "tweet": "AI中性别偏见的简要概述",
+    "xiaohongshu": "让AI变得更公平和包容！",
+    "index": 6,
+    "link": "https://thegradient.pub/gender-bias-in-ai/"
+  }
+]
