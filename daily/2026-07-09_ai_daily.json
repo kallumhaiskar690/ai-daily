@@ -1,0 +1,110 @@
+[
+  {
+    "title": "ArtisanCAD: An Industrial-Level CAD Agent with Expert-Grounded Knowledge Distillation",
+    "summary": "ArtisanCAD是一款工业级CAD代理，使用专家知识蒸馏技术，能够生成生产级B-Rep模型",
+    "score": 9,
+    "category": "模型",
+    "long": "ArtisanCAD使用CAD中间表示（CAD-IR）作为知识蒸馏的载体，能够生成可执行的程序化表示，包含参数，顺序操作，MCP工具绑定，依赖性，生成的实体和验证规则。",
+    "short": "ArtisanCAD是一款工业级CAD代理",
+    "tweet": "Industrial-level CAD agent with expert-grounded knowledge distillation! #ArtisanCAD #CAD #AI",
+    "xiaohongshu": "你知道吗？ArtisanCAD是一款工业级CAD代理，使用专家知识蒸馏技术，能够生成生产级B-Rep模型！",
+    "index": 18,
+    "link": "https://arxiv.org/abs/2607.05750"
+  },
+  {
+    "title": "Memory in the Loop: In-Process Retrieval as ExtendedWorking Memory for Language Agents",
+    "summary": "Memory in the Loop是一款语言代理的内存系统，能够在每个步骤中读写内存，提高语言代理的性能",
+    "score": 8,
+    "category": "模型",
+    "long": "Memory in the Loop使用内存移动到循环内部的方法，能够提高语言代理的性能，减少延迟，提高准确率",
+    "short": "Memory in the Loop是一款语言代理的内存系统",
+    "tweet": "In-process retrieval as extended working memory for language agents! #MemoryInTheLoop #LanguageAgents #AI",
+    "xiaohongshu": "你知道吗？Memory in the Loop是一款语言代理的内存系统，能够在每个步骤中读写内存，提高语言代理的性能！",
+    "index": 16,
+    "link": "https://arxiv.org/abs/2607.05690"
+  },
+  {
+    "title": "Akashic: A Low-Overhead LLM Inference Service with MemAttention",
+    "summary": "Akashic是一款低延迟的LLM推理服务，使用MemAttention技术，能够提高推理效率",
+    "score": 8,
+    "category": "模型",
+    "long": "Akashic使用MemAttention技术，能够组织上下文为有界块，模型语义关系，减少推理延迟",
+    "short": "Akashic是一款低延迟的LLM推理服务",
+    "tweet": "Low-overhead LLM inference service with MemAttention! #Akashic #LLM #AI",
+    "xiaohongshu": "你知道吗？Akashic是一款低延迟的LLM推理服务，使用MemAttention技术，能够提高推理效率！",
+    "index": 17,
+    "link": "https://arxiv.org/abs/2607.05708"
+  },
+  {
+    "title": "Synthetic Consumer Insight Generation with Large Language Models",
+    "summary": "Synthetic Consumer Insight Generation使用大语言模型生成模拟消费者数据",
+    "score": 7,
+    "category": "商业",
+    "long": "Synthetic Consumer Insight Generation使用大语言模型生成模拟消费者数据，能够提高数据收集效率",
+    "short": "Synthetic Consumer Insight Generation使用大语言模型生成模拟消费者数据",
+    "tweet": "Synthetic consumer insight generation with large language models! #SyntheticConsumerInsight #LLM #AI",
+    "xiaohongshu": "你知道吗？Synthetic Consumer Insight Generation使用大语言模型生成模拟消费者数据，能够提高数据收集效率！",
+    "index": 19,
+    "link": "https://arxiv.org/abs/2607.05761"
+  },
+  {
+    "title": "John Deere owners will get the right to repair equipment under FTC settlement",
+    "summary": "John Deere用户将获得修复设备的权利",
+    "score": 7,
+    "category": "商业",
+    "long": "John Deere用户将获得修复设备的权利，能够提高设备维护效率",
+    "short": "John Deere用户将获得修复设备的权利",
+    "tweet": "John Deere users will get the right to repair equipment under FTC settlement! #JohnDeere #Repair #FTC",
+    "xiaohongshu": "你知道吗？John Deere用户将获得修复设备的权利，能够提高设备维护效率！",
+    "index": 20,
+    "link": "https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02"
+  },
+  {
+    "title": "Mamba Explained",
+    "summary": "Mamba是一款AI模型，能够处理长序列数据",
+    "score": 6,
+    "category": "模型",
+    "long": "Mamba使用State Space Models（SSMs）作为基础模型，能够处理长序列数据",
+    "short": "Mamba是一款AI模型",
+    "tweet": "Mamba: a novel AI model for handling long sequences! #Mamba #AI #Models",
+    "xiaohongshu": "你知道吗？Mamba是一款AI模型，能够处理长序列数据！",
+    "index": 7,
+    "link": "https://thegradient.pub/mamba-explained/"
+  },
+  {
+    "title": "Car-GPT: Could LLMs finally make self-driving cars happen?",
+    "summary": "Car-GPT使用LLM技术，能够提高自驾车的安全性",
+    "score": 6,
+    "category": "商业",
+    "long": "Car-GPT使用LLM技术，能够提高自驾车的安全性，减少事故率",
+    "short": "Car-GPT使用LLM技术，能够提高自驾车的安全性",
+    "tweet": "Car-GPT: could LLMs finally make self-driving cars happen? #CarGPT #LLM #AutonomousVehicles",
+    "xiaohongshu": "你知道吗？Car-GPT使用LLM技术，能够提高自驾车的安全性，减少事故率！",
+    "index": 8,
+    "link": "https://thegradient.pub/car-gpt/"
+  },
+  {
+    "title": "We Need Positive Visions for AI Grounded in Wellbeing",
+    "summary": "我们需要基于福祉的积极愿景",
+    "score": 5,
+    "category": "研究",
+    "long": "我们需要基于福祉的积极愿景，能够提高人工智能的社会效益",
+    "short": "我们需要基于福祉的积极愿景",
+    "tweet": "We need positive visions for AI grounded in wellbeing! #Wellbeing #AI #PositiveVision",
+    "xiaohongshu": "你知道吗？我们需要基于福祉的积极愿景，能够提高人工智能的社会效益！",
+    "index": 4,
+    "link": "https://thegradient.pub/we-need-positive-visions-for-ai-grounded-in-wellbeing/"
+  },
+  {
+    "title": "What's Missing From LLM Chatbots: A Sense of Purpose",
+    "summary": "LLM聊天机器人缺乏目的感",
+    "score": 5,
+    "category": "商业",
+    "long": "LLM聊天机器人缺乏目的感，无法满足用户的需求",
+    "short": "LLM聊天机器人缺乏目的感",
+    "tweet": "What's missing from LLM chatbots: a sense of purpose! #LLMChatbots #Purpose #AI",
+    "xiaohongshu": "你知道吗？LLM聊天机器人缺乏目的感，无法满足用户的需求！",
+    "index": 3,
+    "link": "https://thegradient.pub/dialog/"
+  }
+]
