@@ -1,0 +1,110 @@
+[
+  {
+    "title": "Harness Effect: How Orchestration Design Sets the Token Economics of Enterprise Agentic AI",
+    "summary": "研究表明，orchestration 设计可以显著改善企业 agentic AI 的 token 经济效率",
+    "score": 9,
+    "category": "模型",
+    "long": "研究发现，orchestration 设计可以显著改善企业 agentic AI 的 token 经济效率，降低 token 每任务的成本，提高任务完成质量",
+    "short": "orchestration 设计改善 token 经济效率",
+    "tweet": "Orchestration 设计可以改善企业 agentic AI 的 token 经济效率！",
+    "xiaohongshu": "你知道吗？orchestration 设计可以让你的 agentic AI 更加高效！",
+    "index": 16,
+    "link": "https://arxiv.org/abs/2607.06906"
+  },
+  {
+    "title": "Grounding Spatial Relations in a Compact World Model: Instruction Leakage and a Goal-Free Dynamics Fix",
+    "summary": "研究指出，当前的 compact world 模型存在 instruction leakage 问题，需要 goal-free dynamics 修复",
+    "score": 8,
+    "category": "模型",
+    "long": "研究发现，当前的 compact world 模型存在 instruction leakage 问题，导致模型无法真正地理解空间关系，需要 goal-free dynamics 修复",
+    "short": "compact world 模型存在 instruction leakage 问题",
+    "tweet": "Compact world 模型存在 instruction leakage 问题！",
+    "xiaohongshu": "你知道吗？compact world 模型存在 instruction leakage 问题！",
+    "index": 17,
+    "link": "https://arxiv.org/abs/2607.06925"
+  },
+  {
+    "title": "Learning social norms enhances compatibility in dynamic human-AI coordination",
+    "summary": "研究表明，学习社会规范可以显著提高人机协调的兼容性",
+    "score": 8,
+    "category": "研究",
+    "long": "研究发现，学习社会规范可以显著提高人机协调的兼容性，提高 AI 代理的表现",
+    "short": "学习社会规范提高人机协调兼容性",
+    "tweet": "学习社会规范可以提高人机协调的兼容性！",
+    "xiaohongshu": "你知道吗？学习社会规范可以提高人机协调的兼容性！",
+    "index": 19,
+    "link": "https://arxiv.org/abs/2607.07021"
+  },
+  {
+    "title": "Large Behavior Model: A Promptable Digital Twin of the Retail Customer",
+    "summary": "研究提出了一种大规模行为模型，用于模拟零售客户的行为",
+    "score": 7,
+    "category": "模型",
+    "long": "研究提出了一种大规模行为模型，用于模拟零售客户的行为，提高推荐系统的准确性",
+    "short": "大规模行为模型模拟零售客户行为",
+    "tweet": "大规模行为模型可以模拟零售客户的行为！",
+    "xiaohongshu": "你知道吗？大规模行为模型可以模拟零售客户的行为！",
+    "index": 18,
+    "link": "https://arxiv.org/abs/2607.06993"
+  },
+  {
+    "title": "What's Missing From LLM Chatbots: A Sense of Purpose",
+    "summary": "研究指出，LLM 聊天机器人缺乏目的感",
+    "score": 7,
+    "category": "研究",
+    "long": "研究发现，LLM 聊天机器人缺乏目的感，导致用户体验不佳",
+    "short": "LLM 聊天机器人缺乏目的感",
+    "tweet": "LLM 聊天机器人缺乏目的感！",
+    "xiaohongshu": "你知道吗？LLM 聊天机器人缺乏目的感！",
+    "index": 3,
+    "link": "https://thegradient.pub/dialog/"
+  },
+  {
+    "title": "Shape, Symmetries, and Structure: The Changing Role of Mathematics in Machine Learning Research",
+    "summary": "研究指出，数学在机器学习研究中的作用正在发生变化",
+    "score": 6,
+    "category": "研究",
+    "long": "研究发现，数学在机器学习研究中的作用正在发生变化，研究人员需要更好地理解数学的作用",
+    "short": "数学在机器学习研究中的作用正在发生变化",
+    "tweet": "数学在机器学习研究中的作用正在发生变化！",
+    "xiaohongshu": "你知道吗？数学在机器学习研究中的作用正在发生变化！",
+    "index": 2,
+    "link": "https://thegradient.pub/shape-symmetry-structure/"
+  },
+  {
+    "title": "AGI Is Not Multimodal",
+    "summary": "研究指出，AGI 不是多模态的",
+    "score": 6,
+    "category": "研究",
+    "long": "研究发现，AGI 不是多模态的，需要更好地理解 AGI 的性质",
+    "short": "AGI 不是多模态的",
+    "tweet": "AGI 不是多模态的！",
+    "xiaohongshu": "你知道吗？AGI 不是多模态的！",
+    "index": 1,
+    "link": "https://thegradient.pub/agi-is-not-multimodal/"
+  },
+  {
+    "title": "We Need Positive Visions for AI Grounded in Wellbeing",
+    "summary": "研究指出，我们需要对 AI 有积极的愿景",
+    "score": 5,
+    "category": "研究",
+    "long": "研究发现，我们需要对 AI 有积极的愿景，关注 AI 对人类福祉的影响",
+    "short": "我们需要对 AI 有积极的愿景",
+    "tweet": "我们需要对 AI 有积极的愿景！",
+    "xiaohongshu": "你知道吗？我们需要对 AI 有积极的愿景！",
+    "index": 4,
+    "link": "https://thegradient.pub/we-need-positive-visions-for-ai-grounded-in-wellbeing/"
+  },
+  {
+    "title": "Mamba Explained",
+    "summary": "研究提出了一种新的 AI 模型 Mamba",
+    "score": 5,
+    "category": "模型",
+    "long": "研究提出了一种新的 AI 模型 Mamba，用于处理长序列数据",
+    "short": "Mamba 是一种新的 AI 模型",
+    "tweet": "Mamba 是一种新的 AI 模型！",
+    "xiaohongshu": "你知道吗？Mamba 是一种新的 AI 模型！",
+    "index": 7,
+    "link": "https://thegradient.pub/mamba-explained/"
+  }
+]
