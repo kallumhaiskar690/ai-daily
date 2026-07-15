@@ -1,0 +1,98 @@
+[
+  {
+    "title": "YUKTI: 从自然语言情况到可靠、可验证的决策",
+    "summary": "YUKTI是一种新型的决策系统，使用自然语言情况来生成可靠、可验证的决策",
+    "score": 9,
+    "category": "研究",
+    "long": "YUKTI使用一种称为typed-proposition图的新型表示法来表示决策过程。这种表示法可以捕捉决策过程中的不确定性和假设，并可以生成可靠、可验证的决策。YUKTI还引入了一种称为Assumption-Robust Pareto Frontiers（ARPF）的新型决策方法，这种方法可以在不损害决策可靠性的情况下最大化决策的效率。",
+    "short": "YUKTI是一种新型的决策系统，使用自然语言情况来生成可靠、可验证的决策",
+    "tweet": "YUKTI：从自然语言情况到可靠、可验证的决策！",
+    "xiaohongshu": "YUKTI是一种新型的决策系统，使用自然语言情况来生成可靠、可验证的决策！",
+    "index": 15,
+    "link": "https://arxiv.org/abs/2607.09706"
+  },
+  {
+    "title": "GES-TSP：图边削减算法",
+    "summary": "GES-TSP是一种新型的图边削减算法，用于解决旅行商问题",
+    "score": 8,
+    "category": "研究",
+    "long": "GES-TSP使用一种称为Graph Edge Sparsification（GES）的新型算法来削减图边。这种算法可以有效地削减图边，并且可以用于解决旅行商问题。GES-TSP还引入了一种称为Euclidean TSP的新型问题，这种问题可以用于模拟现实世界中的旅行商问题。",
+    "short": "GES-TSP是一种新型的图边削减算法",
+    "tweet": "GES-TSP：图边削减算法！",
+    "xiaohongshu": "GES-TSP是一种新型的图边削减算法，用于解决旅行商问题！",
+    "index": 16,
+    "link": "https://arxiv.org/abs/2607.09708"
+  },
+  {
+    "title": "Boltzmann MapReduce：一个分区函数减少算法",
+    "summary": "Boltzmann MapReduce是一种新型的分区函数减少算法",
+    "score": 8,
+    "category": "研究",
+    "long": "Boltzmann MapReduce使用一种称为Boltzmann分布的新型分布来减少分区函数。这种分布可以有效地减少分区函数，并且可以用于解决各种问题。Boltzmann MapReduce还引入了一种称为MapReduce的新型算法，这种算法可以用于并行化计算。",
+    "short": "Boltzmann MapReduce是一种新型的分区函数减少算法",
+    "tweet": "Boltzmann MapReduce：分区函数减少算法！",
+    "xiaohongshu": "Boltzmann MapReduce是一种新型的分区函数减少算法，用于解决各种问题！",
+    "index": 13,
+    "link": "https://arxiv.org/abs/2607.09689"
+  },
+  {
+    "title": "Closed-Loop Control with Rule-Aligned Small Language Models and Multi-Agent Self-Correction",
+    "summary": "Closed-Loop Control是一种新型的闭环控制系统",
+    "score": 7,
+    "category": "研究",
+    "long": "Closed-Loop Control使用一种称为Rule-Aligned Small Language Models的新型模型来实现闭环控制。这种模型可以有效地实现闭环控制，并且可以用于解决各种问题。Closed-Loop Control还引入了一种称为Multi-Agent Self-Correction的新型算法，这种算法可以用于实现自我纠正。",
+    "short": "Closed-Loop Control是一种新型的闭环控制系统",
+    "tweet": "Closed-Loop Control：闭环控制系统！",
+    "xiaohongshu": "Closed-Loop Control是一种新型的闭环控制系统，用于解决各种问题！",
+    "index": 18,
+    "link": "https://arxiv.org/abs/2607.09713"
+  },
+  {
+    "title": "Feedback-Coupled Memory Systems in Continuous Time",
+    "summary": "Feedback-Coupled Memory Systems是一种新型的闭环记忆系统",
+    "score": 7,
+    "category": "研究",
+    "long": "Feedback-Coupled Memory Systems使用一种称为Feedback-Coupled Memory Systems的新型算法来实现闭环记忆。这种算法可以有效地实现闭环记忆，并且可以用于解决各种问题。Feedback-Coupled Memory Systems还引入了一种称为Continuous Time的新型时间域，这种时间域可以用于模拟现实世界中的闭环记忆。",
+    "short": "Feedback-Coupled Memory Systems是一种新型的闭环记忆系统",
+    "tweet": "Feedback-Coupled Memory Systems：闭环记忆系统！",
+    "xiaohongshu": "Feedback-Coupled Memory Systems是一种新型的闭环记忆系统，用于解决各种问题！",
+    "index": 19,
+    "link": "https://arxiv.org/abs/2607.09714"
+  },
+  {
+    "title": "The Verifier is the Curriculum：Execution-Gated Self-Distillation for Cross-Family Game Generation",
+    "summary": "The Verifier is the Curriculum是一种新型的自我学习系统",
+    "score": 6,
+    "category": "研究",
+    "long": "The Verifier is the Curriculum使用一种称为Execution-Gated Self-Distillation的新型算法来实现自我学习。这种算法可以有效地实现自我学习，并且可以用于解决各种问题。The Verifier is the Curriculum还引入了一种称为Cross-Family Game Generation的新型游戏生成方法，这种方法可以用于生成各种类型的游戏。",
+    "short": "The Verifier is the Curriculum是一种新型的自我学习系统",
+    "tweet": "The Verifier is the Curriculum：自我学习系统！",
+    "xiaohongshu": "The Verifier is the Curriculum是一种新型的自我学习系统，用于解决各种问题！",
+    "index": 17,
+    "link": "https://arxiv.org/abs/2607.09709"
+  },
+  {
+    "title": "GES-TSP：图边削减算法",
+    "summary": "GES-TSP是一种新型的图边削减算法",
+    "score": 6,
+    "category": "研究",
+    "long": "GES-TSP使用一种称为Graph Edge Sparsification（GES）的新型算法来削减图边。这种算法可以有效地削减图边，并且可以用于解决旅行商问题。GES-TSP还引入了一种称为Euclidean TSP的新型问题，这种问题可以用于模拟现实世界中的旅行商问题。",
+    "short": "GES-TSP是一种新型的图边削减算法",
+    "tweet": "GES-TSP：图边削减算法！",
+    "xiaohongshu": "GES-TSP是一种新型的图边削减算法，用于解决旅行商问题！",
+    "index": 16,
+    "link": "https://arxiv.org/abs/2607.09708"
+  },
+  {
+    "title": "Boltzmann MapReduce：一个分区函数减少算法",
+    "summary": "Boltzmann MapReduce是一种新型的分区函数减少算法",
+    "score": 5,
+    "category": "研究",
+    "long": "Boltzmann MapReduce使用一种称为Boltzmann分布的新型分布来减少分区函数。这种分布可以有效地减少分区函数，并且可以用于解决各种问题。Boltzmann MapReduce还引入了一种称为MapReduce的新型算法，这种算法可以用于并行化计算。",
+    "short": "Boltzmann MapReduce是一种新型的分区函数减少算法",
+    "tweet": "Boltzmann MapReduce：分区函数减少算法！",
+    "xiaohongshu": "Boltzmann MapReduce是一种新型的分区函数减少算法，用于解决各种问题！",
+    "index": 13,
+    "link": "https://arxiv.org/abs/2607.09689"
+  }
+]
