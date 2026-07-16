@@ -1,0 +1,110 @@
+[
+  {
+    "title": "AI Alignment",
+    "summary": "讨论人工智能的目标和价值",
+    "score": 9,
+    "category": "研究",
+    "long": "人工智能的目标和价值是研究的重要方面,需要考虑到人工智能的伦理和社会影响",
+    "short": "人工智能的目标和价值",
+    "tweet": "AI alignment: aligning AI goals with human values",
+    "xiaohongshu": "人工智能的目标和价值,让我们一起探索",
+    "index": 0,
+    "link": "https://thegradient.pub/virtue-ethics-ai-alignment/"
+  },
+  {
+    "title": "AGI Is Not Multimodal",
+    "summary": "讨论人工智能的多模态性质",
+    "score": 8,
+    "category": "研究",
+    "long": "人工智能的多模态性质是研究的重要方面,需要考虑到人工智能的认知和感知能力",
+    "short": "人工智能的多模态性质",
+    "tweet": "AGI is not multimodal, but what does that mean?",
+    "xiaohongshu": "人工智能的多模态性质,让我们一起探索",
+    "index": 1,
+    "link": "https://thegradient.pub/agi-is-not-multimodal/"
+  },
+  {
+    "title": "Shape, Symmetries, and Structure",
+    "summary": "讨论机器学习中的几何学和对称性",
+    "score": 8,
+    "category": "研究",
+    "long": "机器学习中的几何学和对称性是研究的重要方面,需要考虑到机器学习的算法和模型",
+    "short": "机器学习中的几何学和对称性",
+    "tweet": "Shape, symmetries, and structure in machine learning",
+    "xiaohongshu": "机器学习中的几何学和对称性,让我们一起探索",
+    "index": 2,
+    "link": "https://thegradient.pub/shape-symmetry-structure/"
+  },
+  {
+    "title": "What's Missing From LLM Chatbots",
+    "summary": "讨论LLM聊天机器人的缺陷",
+    "score": 8,
+    "category": "研究",
+    "long": "LLM聊天机器人的缺陷是研究的重要方面,需要考虑到聊天机器人的设计和开发",
+    "short": "LLM聊天机器人的缺陷",
+    "tweet": "What's missing from LLM chatbots?",
+    "xiaohongshu": "LLM聊天机器人的缺陷,让我们一起探索",
+    "index": 3,
+    "link": "https://thegradient.pub/dialog/"
+  },
+  {
+    "title": "We Need Positive Visions for AI",
+    "summary": "讨论人工智能的正面愿景",
+    "score": 8,
+    "category": "研究",
+    "long": "人工智能的正面愿景是研究的重要方面,需要考虑到人工智能的伦理和社会影响",
+    "short": "人工智能的正面愿景",
+    "tweet": "We need positive visions for AI",
+    "xiaohongshu": "人工智能的正面愿景,让我们一起探索",
+    "index": 4,
+    "link": "https://thegradient.pub/we-need-positive-visions-for-ai-grounded-in-wellbeing/"
+  },
+  {
+    "title": "Financial Market Applications of LLMs",
+    "summary": "讨论LLM在金融市场的应用",
+    "score": 7,
+    "category": "商业",
+    "long": "LLM在金融市场的应用是研究的重要方面,需要考虑到金融市场的风险和收益",
+    "short": "LLM在金融市场的应用",
+    "tweet": "LLMs in financial markets: opportunities and challenges",
+    "xiaohongshu": "LLM在金融市场的应用,让我们一起探索",
+    "index": 5,
+    "link": "https://thegradient.pub/financial-market-applications-of-llms/"
+  },
+  {
+    "title": "A Brief Overview of Gender Bias in AI",
+    "summary": "讨论人工智能中的性别偏见",
+    "score": 7,
+    "category": "研究",
+    "long": "人工智能中的性别偏见是研究的重要方面,需要考虑到人工智能的伦理和社会影响",
+    "short": "人工智能中的性别偏见",
+    "tweet": "A brief overview of gender bias in AI",
+    "xiaohongshu": "人工智能中的性别偏见,让我们一起探索",
+    "index": 6,
+    "link": "https://thegradient.pub/gender-bias-in-ai/"
+  },
+  {
+    "title": "Mamba Explained",
+    "summary": "讨论Mamba AI模型",
+    "score": 7,
+    "category": "模型",
+    "long": "Mamba AI模型是研究的重要方面,需要考虑到AI模型的设计和开发",
+    "short": "Mamba AI模型",
+    "tweet": "Mamba: a novel AI model",
+    "xiaohongshu": "Mamba AI模型,让我们一起探索",
+    "index": 7,
+    "link": "https://thegradient.pub/mamba-explained/"
+  },
+  {
+    "title": "Car-GPT: Could LLMs finally make self-driving cars happen?",
+    "summary": "讨论LLM在自主驾驶汽车中的应用",
+    "score": 7,
+    "category": "商业",
+    "long": "LLM在自主驾驶汽车中的应用是研究的重要方面,需要考虑到自主驾驶汽车的风险和收益",
+    "short": "LLM在自主驾驶汽车中的应用",
+    "tweet": "LLMs in self-driving cars: a game-changer?",
+    "xiaohongshu": "LLM在自主驾驶汽车中的应用,让我们一起探索",
+    "index": 8,
+    "link": "https://thegradient.pub/car-gpt/"
+  }
+]
