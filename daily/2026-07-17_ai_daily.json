@@ -1,0 +1,110 @@
+[
+  {
+    "title": "SPINE: Bridging the Cyber-Physical Gap with Agentic AI",
+    "summary": "SPINE是一种新颖的框架，旨在解决机器人部署的瓶颈，通过提供一个系统的调试和部署过程",
+    "score": 9,
+    "category": "模型",
+    "long": "SPINE通过提供一个系统的调试和部署过程，旨在解决机器人部署的瓶颈。它通过提供一个多代理工作流程，包括一个配置生成器和一个调试器，来实现这一目标。",
+    "short": "SPINE是一种新颖的框架，旨在解决机器人部署的瓶颈",
+    "tweet": "SPINE：解决机器人部署瓶颈的新颖框架！",
+    "xiaohongshu": "SPINE，解决机器人部署瓶颈的神器！",
+    "index": 11,
+    "link": "https://arxiv.org/abs/2607.13049"
+  },
+  {
+    "title": "Oracle Agent Memory as an Enterprise Memory Substrate for Long-Horizon AI Agents",
+    "summary": "Oracle Agent Memory是一种新颖的记忆层，旨在解决长期AI代理的记忆问题",
+    "score": 8,
+    "category": "模型",
+    "long": "Oracle Agent Memory通过提供一个数据库内存层，旨在解决长期AI代理的记忆问题。它通过提供一个记忆生命周期，包括数据 ingestion、数据提取、数据合并、数据检索、数据总结和数据更新，来实现这一目标。",
+    "short": "Oracle Agent Memory是一种新颖的记忆层，旨在解决长期AI代理的记忆问题",
+    "tweet": "Oracle Agent Memory：解决长期AI代理记忆问题的新颖记忆层！",
+    "xiaohongshu": "Oracle Agent Memory，解决长期AI代理记忆问题的神器！",
+    "index": 16,
+    "link": "https://arxiv.org/abs/2607.13157"
+  },
+  {
+    "title": "Learning Safe Agent Behaviour from Human Preferences and Justifications via World Models",
+    "summary": "DROPJ是一种新颖的方法，旨在解决安全训练和部署的问题",
+    "score": 8,
+    "category": "模型",
+    "long": "DROPJ通过学习一个世界模型和一个奖励模型，旨在解决安全训练和部署的问题。它通过提供一个人类中心的方法，包括人类的偏好和正当理由，来实现这一目标。",
+    "short": "DROPJ是一种新颖的方法，旨在解决安全训练和部署的问题",
+    "tweet": "DROPJ：解决安全训练和部署的问题的新颖方法！",
+    "xiaohongshu": "DROPJ，解决安全训练和部署的问题的神器！",
+    "index": 17,
+    "link": "https://arxiv.org/abs/2607.13172"
+  },
+  {
+    "title": "Mamba Explained",
+    "summary": "Mamba是一种新颖的AI模型，旨在解决Transformer模型的不足",
+    "score": 7,
+    "category": "模型",
+    "long": "Mamba通过提供一个基于状态空间模型的新颖框架，旨在解决Transformer模型的不足。它通过提供一个更有效的处理长序列的方法，来实现这一目标。",
+    "short": "Mamba是一种新颖的AI模型，旨在解决Transformer模型的不足",
+    "tweet": "Mamba：解决Transformer模型不足的新颖AI模型！",
+    "xiaohongshu": "Mamba，解决Transformer模型不足的神器！",
+    "index": 7,
+    "link": "https://thegradient.pub/mamba-explained/"
+  },
+  {
+    "title": "Car-GPT: Could LLMs finally make self-driving cars happen?",
+    "summary": "Car-GPT是一种新颖的方法，旨在解决自驾车问题",
+    "score": 7,
+    "category": "商业",
+    "long": "Car-GPT通过提供一个基于大规模语言模型的新颖框架，旨在解决自驾车问题。它通过提供一个更有效的处理语言理解和驾驶控制的方法，来实现这一目标。",
+    "short": "Car-GPT是一种新颖的方法，旨在解决自驾车问题",
+    "tweet": "Car-GPT：解决自驾车问题的新颖方法！",
+    "xiaohongshu": "Car-GPT，解决自驾车问题的神器！",
+    "index": 8,
+    "link": "https://thegradient.pub/car-gpt/"
+  },
+  {
+    "title": "What's Missing From LLM Chatbots: A Sense of Purpose",
+    "summary": "LLM Chatbots缺乏一个明确的目的",
+    "score": 6,
+    "category": "商业",
+    "long": "LLM Chatbots缺乏一个明确的目的，导致它们无法提供高质量的服务。通过提供一个明确的目的，LLM Chatbots可以更好地理解用户需求并提供更好的服务。",
+    "short": "LLM Chatbots缺乏一个明确的目的",
+    "tweet": "LLM Chatbots缺乏一个明确的目的！",
+    "xiaohongshu": "LLM Chatbots缺乏一个明确的目的，需要神器来解决！",
+    "index": 3,
+    "link": "https://thegradient.pub/dialog/"
+  },
+  {
+    "title": "Financial Market Applications of LLMs",
+    "summary": "LLMs在金融市场的应用",
+    "score": 6,
+    "category": "商业",
+    "long": "LLMs在金融市场的应用包括风险评估、投资决策和交易执行。通过提供一个更有效的处理语言理解和金融数据的方法，LLMs可以帮助金融机构更好地理解市场趋势并做出更好的决策。",
+    "short": "LLMs在金融市场的应用",
+    "tweet": "LLMs在金融市场的应用！",
+    "xiaohongshu": "LLMs在金融市场的应用，神器！",
+    "index": 5,
+    "link": "https://thegradient.pub/financial-market-applications-of-llms/"
+  },
+  {
+    "title": "OriginBlame: Record- and Token-Level Data Provenance for AI Training Datasets",
+    "summary": "OriginBlame是一种新颖的方法，旨在解决数据源问题",
+    "score": 5,
+    "category": "工具",
+    "long": "OriginBlame通过提供一个记录和令牌级别的数据源追踪系统，旨在解决数据源问题。它通过提供一个更有效的处理数据源追踪的方法，来实现这一目标。",
+    "short": "OriginBlame是一种新颖的方法，旨在解决数据源问题",
+    "tweet": "OriginBlame：解决数据源问题的新颖方法！",
+    "xiaohongshu": "OriginBlame，解决数据源问题的神器！",
+    "index": 10,
+    "link": "https://arxiv.org/abs/2607.13037"
+  },
+  {
+    "title": "AGI Is Not Multimodal",
+    "summary": "AGI不是多模态的",
+    "score": 5,
+    "category": "研究",
+    "long": "AGI不是多模态的，尽管它可以处理多种类型的信息。通过提供一个更有效的处理语言理解和其他类型信息的方法，AGI可以帮助解决多模态问题。",
+    "short": "AGI不是多模态的",
+    "tweet": "AGI不是多模态的！",
+    "xiaohongshu": "AGI不是多模态的，需要神器来解决！",
+    "index": 1,
+    "link": "https://thegradient.pub/agi-is-not-multimodal/"
+  }
+]
