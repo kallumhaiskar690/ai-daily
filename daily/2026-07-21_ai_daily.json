@@ -1,0 +1,110 @@
+[
+  {
+    "title": "Cura 1T: Specialized Model for Agentic Healthcare",
+    "summary": "Cura 1T是一款专门为医疗领域设计的AI模型，能够处理患者咨询、临床推理和电子健康记录等任务",
+    "score": 9,
+    "category": "模型",
+    "long": "Cura 1T通过人机交互的自我演化循环进行训练，能够处理复杂的医疗任务",
+    "short": "专门为医疗领域设计的AI模型",
+    "tweet": "Cura 1T revolutionizes healthcare with AI-powered patient consultation, clinical reasoning, and electronic health records",
+    "xiaohongshu": "Cura 1T是一款超级强大的医疗AI模型，能让你轻松处理各种医疗任务",
+    "index": 12,
+    "link": "https://arxiv.org/abs/2607.15314"
+  },
+  {
+    "title": "AnovaX: A Local, Multi-Agent Voice Assistant with LLM Planning, Typed Executors, and Adaptive Recovery",
+    "summary": "AnovaX是一款本地化的多代理语音助手，能够处理各种语音命令和任务",
+    "score": 8,
+    "category": "模型",
+    "long": "AnovaX通过LLM规划、类型执行器和自适应恢复来处理语音命令和任务",
+    "short": "本地化的多代理语音助手",
+    "tweet": "AnovaX revolutionizes voice assistants with local, multi-agent planning and adaptive recovery",
+    "xiaohongshu": "AnovaX是一款超级强大的语音助手，能让你轻松处理各种语音命令和任务",
+    "index": 13,
+    "link": "https://arxiv.org/abs/2607.15367"
+  },
+  {
+    "title": "DrawingVQA: A Real-World Benchmark for Multi-Depth Visual-Textual Reasoning on Construction Drawings",
+    "summary": "DrawingVQA是一款用于评估多层次视觉文本推理能力的基准测试",
+    "score": 8,
+    "category": "基准测试",
+    "long": "DrawingVQA通过构建图纸和问题答案对来评估视觉文本推理能力",
+    "short": "用于评估多层次视觉文本推理能力的基准测试",
+    "tweet": "DrawingVQA sets a new standard for visual-textual reasoning on construction drawings",
+    "xiaohongshu": "DrawingVQA是一款超级强大的基准测试，能让你轻松评估视觉文本推理能力",
+    "index": 15,
+    "link": "https://arxiv.org/abs/2607.15418"
+  },
+  {
+    "title": "Beyond a Joke: Multi-Angle Reasoning for Detecting and Explaining Harmful Humor in Memes",
+    "summary": "Beyond a Joke是一款用于检测和解释有害幽默的多角度推理模型",
+    "score": 8,
+    "category": "模型",
+    "long": "Beyond a Joke通过视觉语言模型和角度软门控注意力机制来检测和解释有害幽默",
+    "short": "用于检测和解释有害幽默的多角度推理模型",
+    "tweet": "Beyond a Joke revolutionizes meme understanding with multi-angle reasoning for detecting and explaining harmful humor",
+    "xiaohongshu": "Beyond a Joke是一款超级强大的模型，能让你轻松检测和解释有害幽默",
+    "index": 17,
+    "link": "https://arxiv.org/abs/2607.15442"
+  },
+  {
+    "title": "From Black Box to Executable Logic: Explainable Reinforcement Learning through Prolog Expert Systems",
+    "summary": "From Black Box to Executable Logic是一款用于解释强化学习的Prolog专家系统",
+    "score": 7,
+    "category": "模型",
+    "long": "From Black Box to Executable Logic通过三阶段后处理转换来解释强化学习",
+    "short": "用于解释强化学习的Prolog专家系统",
+    "tweet": "From Black Box to Executable Logic revolutionizes explainable reinforcement learning with Prolog expert systems",
+    "xiaohongshu": "From Black Box to Executable Logic是一款超级强大的模型，能让你轻松解释强化学习",
+    "index": 18,
+    "link": "https://arxiv.org/abs/2607.15459"
+  },
+  {
+    "title": "A Critical Analysis of Trustworthy AI Tools, Mark Frameworks, and the Implementation Chasms",
+    "summary": "A Critical Analysis of Trustworthy AI Tools是一款用于评估可信赖AI工具和标记框架的分析工具",
+    "score": 7,
+    "category": "分析",
+    "long": "A Critical Analysis of Trustworthy AI Tools通过数据集和比较分析来评估可信赖AI工具和标记框架",
+    "short": "用于评估可信赖AI工具和标记框架的分析工具",
+    "tweet": "A Critical Analysis of Trustworthy AI Tools sets a new standard for evaluating trustworthy AI tools and mark frameworks",
+    "xiaohongshu": "A Critical Analysis of Trustworthy AI Tools是一款超级强大的分析工具，能让你轻松评估可信赖AI工具和标记框架",
+    "index": 19,
+    "link": "https://arxiv.org/abs/2607.15480"
+  },
+  {
+    "title": "Who's afraid of Chinese models?",
+    "summary": "Who's afraid of Chinese models?是一款用于讨论中国模型的新闻文章",
+    "score": 6,
+    "category": "新闻",
+    "long": "Who's afraid of Chinese models?讨论了中国模型在全球的影响和挑战",
+    "short": "用于讨论中国模型的新闻文章",
+    "tweet": "Who's afraid of Chinese models? sparks a global discussion on the impact and challenges of Chinese AI models",
+    "xiaohongshu": "Who's afraid of Chinese models?是一款超级强大的新闻文章，能让你轻松了解中国模型的影响和挑战",
+    "index": 20,
+    "link": "https://stratechery.com/2026/whos-afraid-of-chinese-models/"
+  },
+  {
+    "title": "Jellyfin founder Andrew leaves team",
+    "summary": "Jellyfin founder Andrew leaves team是一款用于讨论Jellyfin创始人离开团队的新闻文章",
+    "score": 6,
+    "category": "新闻",
+    "long": "Jellyfin founder Andrew leaves team讨论了Jellyfin创始人离开团队的原因和影响",
+    "short": "用于讨论Jellyfin创始人离开团队的新闻文章",
+    "tweet": "Jellyfin founder Andrew leaves team sparks a discussion on the impact of his departure on the team",
+    "xiaohongshu": "Jellyfin founder Andrew leaves team是一款超级强大的新闻文章，能让你轻松了解Jellyfin创始人离开团队的原因和影响",
+    "index": 21,
+    "link": "https://forum.jellyfin.org/t-project-leadership-changes"
+  },
+  {
+    "title": "Kimberly Clark's AI-powered toilet paper dispenser",
+    "summary": "Kimberly Clark's AI-powered toilet paper dispenser是一款用于讨论金伯利克拉克公司AI智能马桶纸盒的新闻文章",
+    "score": 5,
+    "category": "新闻",
+    "long": "Kimberly Clark's AI-powered toilet paper dispenser讨论了金伯利克拉克公司AI智能马桶纸盒的功能和应用",
+    "short": "用于讨论金伯利克拉克公司AI智能马桶纸盒的新闻文章",
+    "tweet": "Kimberly Clark's AI-powered toilet paper dispenser revolutionizes the way we use toilet paper",
+    "xiaohongshu": "Kimberly Clark's AI-powered toilet paper dispenser是一款超级强大的新闻文章，能让你轻松了解金伯利克拉克公司AI智能马桶纸盒的功能和应用",
+    "index": 22,
+    "link": "https://www.kimi.com/products/kimi-work"
+  }
+]
