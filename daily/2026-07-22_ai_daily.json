@@ -1,0 +1,110 @@
+[
+  {
+    "title": "Generative Ontology Induction",
+    "summary": "一种新型的知识图谱生成方法",
+    "score": 9,
+    "category": "研究",
+    "long": "该方法可以从文档库中生成知识图谱的结构和内容",
+    "short": "生成知识图谱",
+    "tweet": "新型知识图谱生成方法! ",
+    "xiaohongshu": "知识图谱生成新方法!",
+    "index": 16,
+    "link": "https://arxiv.org/abs/2607.16201"
+  },
+  {
+    "title": "Masked Diffusion Language Models",
+    "summary": "一种强大的文本世界模型",
+    "score": 9,
+    "category": "研究",
+    "long": "该模型可以模拟环境状态并进行决策",
+    "short": "强大的文本世界模型",
+    "tweet": "新型文本世界模型! ",
+    "xiaohongshu": "强大的文本世界模型!",
+    "index": 18,
+    "link": "https://arxiv.org/abs/2607.16204"
+  },
+  {
+    "title": "It Takes 8 Tokens",
+    "summary": "一种弱到强的强化学习方法",
+    "score": 8,
+    "category": "研究",
+    "long": "该方法可以通过辅助模型来扩展目标模型的探索",
+    "short": "弱到强的强化学习",
+    "tweet": "新型强化学习方法! ",
+    "xiaohongshu": "弱到强的强化学习!",
+    "index": 19,
+    "link": "https://arxiv.org/abs/2607.16205"
+  },
+  {
+    "title": "PlanFlip",
+    "summary": "一种攻击多智能体LLM系统的方法",
+    "score": 8,
+    "category": "研究",
+    "long": "该方法可以通过计划阶段的注入来攻击系统",
+    "short": "攻击多智能体LLM",
+    "tweet": "新型攻击方法! ",
+    "xiaohongshu": "攻击多智能体LLM!",
+    "index": 14,
+    "link": "https://arxiv.org/abs/2607.16199"
+  },
+  {
+    "title": "Deterministic Replay",
+    "summary": "一种确定性重放的方法",
+    "score": 7,
+    "category": "研究",
+    "long": "该方法可以通过中间代理来重放执行",
+    "short": "确定性重放",
+    "tweet": "新型重放方法! ",
+    "xiaohongshu": "确定性重放!",
+    "index": 15,
+    "link": "https://arxiv.org/abs/2607.16200"
+  },
+  {
+    "title": "Democratizing AI",
+    "summary": "一种民主化AI的方法",
+    "score": 7,
+    "category": "研究",
+    "long": "该方法可以通过结构化基准和参数效率的微调来实现",
+    "short": "民主化AI",
+    "tweet": "新型民主化AI方法! ",
+    "xiaohongshu": "民主化AI!",
+    "index": 17,
+    "link": "https://arxiv.org/abs/2607.16202"
+  },
+  {
+    "title": "AGI Is Not Multimodal",
+    "summary": "一种新型的AGI方法",
+    "score": 6,
+    "category": "研究",
+    "long": "该方法可以通过多模态的理解来实现AGI",
+    "short": "新型AGI",
+    "tweet": "新型AGI方法! ",
+    "xiaohongshu": "新型AGI!",
+    "index": 1,
+    "link": "https://thegradient.pub/agi-is-not-multimodal/"
+  },
+  {
+    "title": "Rater State Bias",
+    "summary": "一种评分状态偏差的方法",
+    "score": 6,
+    "category": "研究",
+    "long": "该方法可以通过状态偏差来评估评分",
+    "short": "评分状态偏差",
+    "tweet": "新型评分方法! ",
+    "xiaohongshu": "评分状态偏差!",
+    "index": 10,
+    "link": "https://arxiv.org/abs/2607.16195"
+  },
+  {
+    "title": "A Brief Overview of Gender Bias in AI",
+    "summary": "一种性别偏差的概述",
+    "score": 5,
+    "category": "研究",
+    "long": "该方法可以通过性别偏差来评估AI",
+    "short": "性别偏差",
+    "tweet": "新型性别偏差方法! ",
+    "xiaohongshu": "性别偏差!",
+    "index": 6,
+    "link": "https://thegradient.pub/gender-bias-in-ai/"
+  }
+]
