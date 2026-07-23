@@ -1,0 +1,110 @@
+[
+  {
+    "title": "SAAG: Structured Agent Assessment and Grounding",
+    "summary": "一种新的评估机器人行为的方法，能够识别不同类型的失败模式",
+    "score": 9,
+    "category": "模型",
+    "long": "SAAG是一种结构化的评估方法，能够识别机器人行为中的不同类型的失败模式，包括注册、结构完整性和参数关联性。这种方法能够提供更准确和详细的评估结果，帮助开发者改进机器人行为。",
+    "short": "一种新的评估机器人行为的方法",
+    "tweet": "机器人行为评估的新方法！ SAAG能够识别不同类型的失败模式，改进机器人行为！ #机器人 #AI",
+    "xiaohongshu": "机器人行为评估的新方法！ SAAG能够识别不同类型的失败模式，改进机器人行为！",
+    "index": 15,
+    "link": "https://arxiv.org/abs/2607.18245"
+  },
+  {
+    "title": "Phionyx: A Deterministic AI Runtime Architecture",
+    "summary": "一种新的AI运行时架构，能够提供确定性的行为和可控的状态",
+    "score": 8,
+    "category": "模型",
+    "long": "Phionyx是一种新的AI运行时架构，能够提供确定性的行为和可控的状态。这种架构能够通过结构化的状态管理和预响应管控来实现这一目标，提供更安全和可靠的AI应用。",
+    "short": "一种新的AI运行时架构",
+    "tweet": "AI运行时架构的新方法！ Phionyx能够提供确定性的行为和可控的状态！ #AI #运行时",
+    "xiaohongshu": "AI运行时架构的新方法！ Phionyx能够提供确定性的行为和可控的状态！",
+    "index": 16,
+    "link": "https://arxiv.org/abs/2607.18246"
+  },
+  {
+    "title": "MILP-Evo: Closed-Loop Fully Automatic Design of MILP Solvers",
+    "summary": "一种新的MILP求解器设计方法，能够自动设计和优化求解器",
+    "score": 8,
+    "category": "模型",
+    "long": "MILP-Evo是一种新的MILP求解器设计方法，能够自动设计和优化求解器。这种方法能够通过闭环搜索和反馈控制来实现这一目标，提供更高效和准确的求解器。",
+    "short": "一种新的MILP求解器设计方法",
+    "tweet": "MILP求解器设计的新方法！ MILP-Evo能够自动设计和优化求解器！ #MILP #求解器",
+    "xiaohongshu": "MILP求解器设计的新方法！ MILP-Evo能够自动设计和优化求解器！",
+    "index": 18,
+    "link": "https://arxiv.org/abs/2607.18252"
+  },
+  {
+    "title": "Beyond Accuracy and Cost: Latency-Aware LLM Query Routing",
+    "summary": "一种新的LLM查询路由方法，能够考虑延迟和动态负载",
+    "score": 7,
+    "category": "模型",
+    "long": "Beyond Accuracy and Cost是一种新的LLM查询路由方法，能够考虑延迟和动态负载。这种方法能够通过轻量级延迟估计器和联合优化来实现这一目标，提供更高效和准确的路由。",
+    "short": "一种新的LLM查询路由方法",
+    "tweet": "LLM查询路由的新方法！ Beyond Accuracy and Cost能够考虑延迟和动态负载！ #LLM #路由",
+    "xiaohongshu": "LLM查询路由的新方法！ Beyond Accuracy and Cost能够考虑延迟和动态负载！",
+    "index": 19,
+    "link": "https://arxiv.org/abs/2607.18253"
+  },
+  {
+    "title": "AGI Is Not Multimodal",
+    "summary": "一种新的AGI理论，能够解释人类智能的本质",
+    "score": 7,
+    "category": "模型",
+    "long": "AGI Is Not Multimodal是一种新的AGI理论，能够解释人类智能的本质。这种理论能够通过将人类智能与多模态信息联系起来来实现这一目标，提供更深入和准确的理解。",
+    "short": "一种新的AGI理论",
+    "tweet": "AGI理论的新方法！ AGI Is Not Multimodal能够解释人类智能的本质！ #AGI #理论",
+    "xiaohongshu": "AGI理论的新方法！ AGI Is Not Multimodal能够解释人类智能的本质！",
+    "index": 1,
+    "link": "https://thegradient.pub/agi-is-not-multimodal/"
+  },
+  {
+    "title": "Shape, Symmetries, and Structure: The Changing Role of Mathematics in Machine Learning Research",
+    "summary": "一种新的机器学习研究方法，能够考虑数学结构和对称性",
+    "score": 6,
+    "category": "研究",
+    "long": "Shape, Symmetries, and Structure是一种新的机器学习研究方法，能够考虑数学结构和对称性。这种方法能够通过分析数学结构和对称性来实现这一目标，提供更深入和准确的理解。",
+    "short": "一种新的机器学习研究方法",
+    "tweet": "机器学习研究的新方法！ Shape, Symmetries, and Structure能够考虑数学结构和对称性！ #机器学习 #研究",
+    "xiaohongshu": "机器学习研究的新方法！ Shape, Symmetries, and Structure能够考虑数学结构和对称性！",
+    "index": 2,
+    "link": "https://thegradient.pub/shape-symmetry-structure/"
+  },
+  {
+    "title": "What's Missing From LLM Chatbots: A Sense of Purpose",
+    "summary": "一种新的LLM聊天机器人理论，能够考虑目的和目的感",
+    "score": 6,
+    "category": "模型",
+    "long": "What's Missing From LLM Chatbots是一种新的LLM聊天机器人理论，能够考虑目的和目的感。这种理论能够通过分析目的和目的感来实现这一目标，提供更深入和准确的理解。",
+    "short": "一种新的LLM聊天机器人理论",
+    "tweet": "LLM聊天机器人理论的新方法！ What's Missing From LLM Chatbots能够考虑目的和目的感！ #LLM #聊天机器人",
+    "xiaohongshu": "LLM聊天机器人理论的新方法！ What's Missing From LLM Chatbots能够考虑目的和目的感！",
+    "index": 3,
+    "link": "https://thegradient.pub/dialog/"
+  },
+  {
+    "title": "We Need Positive Visions for AI Grounded in Wellbeing",
+    "summary": "一种新的AI理论，能够考虑幸福感和福祉",
+    "score": 5,
+    "category": "研究",
+    "long": "We Need Positive Visions for AI Grounded in Wellbeing是一种新的AI理论，能够考虑幸福感和福祉。这种理论能够通过分析幸福感和福祉来实现这一目标，提供更深入和准确的理解。",
+    "short": "一种新的AI理论",
+    "tweet": "AI理论的新方法！ We Need Positive Visions for AI Grounded in Wellbeing能够考虑幸福感和福祉！ #AI #理论",
+    "xiaohongshu": "AI理论的新方法！ We Need Positive Visions for AI Grounded in Wellbeing能够考虑幸福感和福祉！",
+    "index": 4,
+    "link": "https://thegradient.pub/we-need-positive-visions-for-ai-grounded-in-wellbeing/"
+  },
+  {
+    "title": "Financial Market Applications of LLMs",
+    "summary": "一种新的LLM应用方法，能够考虑金融市场和风险管理",
+    "score": 5,
+    "category": "商业",
+    "long": "Financial Market Applications of LLMs是一种新的LLM应用方法，能够考虑金融市场和风险管理。这种方法能够通过分析金融市场和风险管理来实现这一目标，提供更深入和准确的理解。",
+    "short": "一种新的LLM应用方法",
+    "tweet": "LLM应用方法的新方法！ Financial Market Applications of LLMs能够考虑金融市场和风险管理！ #LLM #应用",
+    "xiaohongshu": "LLM应用方法的新方法！ Financial Market Applications of LLMs能够考虑金融市场和风险管理！",
+    "index": 5,
+    "link": "https://thegradient.pub/financial-market-applications-of-llms/"
+  }
+]
