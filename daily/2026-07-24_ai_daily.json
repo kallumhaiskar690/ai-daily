@@ -1,0 +1,110 @@
+[
+  {
+    "title": "NEXUS: Structured Runtime Safety for Tool-Using LLM Agents",
+    "summary": "NEXUS 是一个结构化的运行时安全监控系统，用于工具使用的 LLM 代理",
+    "score": 9,
+    "category": "模型",
+    "long": "NEXUS 使用确定性安全规则、论据级别的检查和一个校准的逻辑回归风险评分来实现安全监控",
+    "short": "NEXUS 提供了一个结构化的安全监控系统",
+    "tweet": "NEXUS: 一个结构化的安全监控系统，保护工具使用的 LLM 代理",
+    "xiaohongshu": "NEXUS 是一个安全监控系统，保护工具使用的 LLM 代理",
+    "index": 16,
+    "link": "https://arxiv.org/abs/2607.19356"
+  },
+  {
+    "title": "LISA: Linear-Indexed Sparse Attention for Efficient Long-Context Reasoning",
+    "summary": "LISA 是一个线性索引稀疏注意力机制，用于高效的长上下文推理",
+    "score": 8,
+    "category": "模型",
+    "long": "LISA 将注意力机制分为两个轻量级组件：线性注意力和闪电索引器",
+    "short": "LISA 提供了一个高效的注意力机制",
+    "tweet": "LISA: 一个高效的注意力机制，用于长上下文推理",
+    "xiaohongshu": "LISA 是一个高效的注意力机制，用于长上下文推理",
+    "index": 18,
+    "link": "https://arxiv.org/abs/2607.19358"
+  },
+  {
+    "title": "Profile-Graph Memory for LLM Agents: Implicit Cross-Entity Traversal through Narrative Profiles",
+    "summary": "Profile-Graph Memory 是一个用于 LLM 代理的隐式跨实体遍历机制",
+    "score": 8,
+    "category": "模型",
+    "long": "Profile-Graph Memory 使用-profile 扩展和压缩残差来实现跨实体遍历",
+    "short": "Profile-Graph Memory 提供了一个隐式跨实体遍历机制",
+    "tweet": "Profile-Graph Memory: 一个隐式跨实体遍历机制，用于 LLM 代理",
+    "xiaohongshu": "Profile-Graph Memory 是一个隐式跨实体遍历机制，用于 LLM 代理",
+    "index": 19,
+    "link": "https://arxiv.org/abs/2607.19359"
+  },
+  {
+    "title": "OpenEvoShield: Dual Non-Stationary Continual Defense for Open-World Multi-Agent System Attacks",
+    "summary": "OpenEvoShield 是一个双非平稳连续防御系统，用于开放世界多代理系统攻击",
+    "score": 7,
+    "category": "模型",
+    "long": "OpenEvoShield 使用一个不对称率控制器、一个正常边界更新器和一个 EWC 正则化策略来实现防御",
+    "short": "OpenEvoShield 提供了一个双非平稳连续防御系统",
+    "tweet": "OpenEvoShield: 一个双非平稳连续防御系统，用于开放世界多代理系统攻击",
+    "xiaohongshu": "OpenEvoShield 是一个双非平稳连续防御系统，用于开放世界多代理系统攻击",
+    "index": 12,
+    "link": "https://arxiv.org/abs/2607.19351"
+  },
+  {
+    "title": "FineServe: A Fine-Grained Dataset and Characterization of Global LLM Serving Workloads",
+    "summary": "FineServe 是一个细粒度数据集和全球 LLM 服务负载特征化系统",
+    "score": 7,
+    "category": "数据集",
+    "long": "FineServe 收集了来自全球商业市场的多模型 LLM 服务负载数据",
+    "short": "FineServe 提供了一个细粒度数据集",
+    "tweet": "FineServe: 一个细粒度数据集，用于全球 LLM 服务负载特征化",
+    "xiaohongshu": "FineServe 是一个细粒度数据集，用于全球 LLM 服务负载特征化",
+    "index": 10,
+    "link": "https://arxiv.org/abs/2607.19349"
+  },
+  {
+    "title": "Hybrid LSTM-Graph Neural Framework for Robust Financial Fraud Detection and Adversarial Resilience",
+    "summary": "Hybrid LSTM-Graph Neural Framework 是一个用于财务欺诈检测和对抗性抗性框架",
+    "score": 7,
+    "category": "模型",
+    "long": "Hybrid LSTM-Graph Neural Framework 使用 LSTM 网络和图神经网络来实现检测和抗性",
+    "short": "Hybrid LSTM-Graph Neural Framework 提供了一个用于财务欺诈检测和对抗性抗性框架",
+    "tweet": "Hybrid LSTM-Graph Neural Framework: 一个用于财务欺诈检测和对抗性抗性框架",
+    "xiaohongshu": "Hybrid LSTM-Graph Neural Framework 是一个用于财务欺诈检测和对抗性抗性框架",
+    "index": 11,
+    "link": "https://arxiv.org/abs/2607.19350"
+  },
+  {
+    "title": "AGI Is Not Multimodal",
+    "summary": "AGI 不是多模态的",
+    "score": 6,
+    "category": "研究",
+    "long": "AGI 的成功与单模态的语言模型有关",
+    "short": "AGI 不是多模态的",
+    "tweet": "AGI 不是多模态的，语言模型才是关键",
+    "xiaohongshu": "AGI 不是多模态的，语言模型才是关键",
+    "index": 1,
+    "link": "https://thegradient.pub/agi-is-not-multimodal/"
+  },
+  {
+    "title": "Shape, Symmetries, and Structure: The Changing Role of Mathematics in Machine Learning Research",
+    "summary": "形状、对称性和结构：机器学习研究中的数学角色的变化",
+    "score": 6,
+    "category": "研究",
+    "long": "数学在机器学习研究中的作用正在发生变化",
+    "short": "数学在机器学习研究中的作用正在发生变化",
+    "tweet": "数学在机器学习研究中的作用正在发生变化",
+    "xiaohongshu": "数学在机器学习研究中的作用正在发生变化",
+    "index": 2,
+    "link": "https://thegradient.pub/shape-symmetry-structure/"
+  },
+  {
+    "title": "What's Missing From LLM Chatbots: A Sense of Purpose",
+    "summary": "LLM 聊天机器人的缺失：一种目的感",
+    "score": 6,
+    "category": "研究",
+    "long": "LLM 聊天机器人缺乏一种目的感",
+    "short": "LLM 聊天机器人缺乏一种目的感",
+    "tweet": "LLM 聊天机器人缺乏一种目的感",
+    "xiaohongshu": "LLM 聊天机器人缺乏一种目的感",
+    "index": 3,
+    "link": "https://thegradient.pub/dialog/"
+  }
+]
