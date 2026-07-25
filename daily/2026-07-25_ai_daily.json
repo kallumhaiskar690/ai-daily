@@ -1,0 +1,110 @@
+[
+  {
+    "title": "AINTMA: Agentic AI Architecture for Autonomous Test Management",
+    "summary": "AINTMA是一种多智能体的AI系统，用于自动化测试管理，提高软件质量和效率。",
+    "score": 9,
+    "category": "研究",
+    "long": "AINTMA通过六个专门的AI代理来实现测试管理的自动化，包括测试发现、风险评估、优先级学习、执行协调、质量生成和云安全监控。",
+    "short": "AINTMA是一种自动化测试管理的AI系统",
+    "tweet": "AINTMA: Revolutionizing Software Testing with AI",
+    "xiaohongshu": "AINTMA让测试管理变得更加智能和自动化！",
+    "index": 10,
+    "link": "https://arxiv.org/abs/2607.20452"
+  },
+  {
+    "title": "DecodeShare: Tracing the Shared Subspace of LLM Decode-Time Decisions",
+    "summary": "DecodeShare是一种识别LLM解码时间决策共享子空间的协议，用于提高决策性能。",
+    "score": 8,
+    "category": "研究",
+    "long": "DecodeShare通过识别LLM解码时间决策共享子空间来提高决策性能，实验结果表明，干扰发现的共享子空间会导致决策性能下降。",
+    "short": "DecodeShare提高LLM决策性能",
+    "tweet": "DecodeShare: Unlocking the Secrets of LLM Decision Making",
+    "xiaohongshu": "DecodeShare让LLM决策变得更加高效！",
+    "index": 17,
+    "link": "https://arxiv.org/abs/2607.20469"
+  },
+  {
+    "title": "PlanE: Meta Planning of Data, Tuning, and Inference for Extractive-based LLMs",
+    "summary": "PlanE是一种用于构建提取式LLM的规划框架，包括数据分解、指令调优和推理。",
+    "score": 8,
+    "category": "研究",
+    "long": "PlanE通过规划框架来提高提取式LLM的构建效率，实验结果表明，PlanE在不同数据集和不同基LLM下都有效。",
+    "short": "PlanE提高提取式LLM构建效率",
+    "tweet": "PlanE: Revolutionizing Extractive-based LLMs",
+    "xiaohongshu": "PlanE让提取式LLM变得更加高效！",
+    "index": 18,
+    "link": "https://arxiv.org/abs/2607.20470"
+  },
+  {
+    "title": "InferenceBench: A Benchmark for Open-Ended LLM Inference Optimization by AI Agents",
+    "summary": "InferenceBench是一种用于评估AI代理在开放式LLM推理优化中的性能的基准测试套件。",
+    "score": 7,
+    "category": "研究",
+    "long": "InferenceBench通过开放式LLM推理优化来评估AI代理的性能，实验结果表明，AI代理在推理优化中仍然存在瓶颈。",
+    "short": "InferenceBench评估AI代理性能",
+    "tweet": "InferenceBench: Evaluating AI Agents in Open-Ended LLM Inference Optimization",
+    "xiaohongshu": "InferenceBench让AI代理变得更加高效！",
+    "index": 16,
+    "link": "https://arxiv.org/abs/2607.20468"
+  },
+  {
+    "title": "DC-Leap: Training-Free Acceleration of dLLMs via Draft-Guided Contiguous Leaping Decoding",
+    "summary": "DC-Leap是一种用于加速dLLMs的训练免费加速框架，通过动态连续验证来提高效率。",
+    "score": 7,
+    "category": "研究",
+    "long": "DC-Leap通过训练免费加速框架来提高dLLMs的效率，实验结果表明，DC-Leap在长序列生成中提高了53.19倍的效率。",
+    "short": "DC-Leap提高dLLMs效率",
+    "tweet": "DC-Leap: Accelerating dLLMs without Training",
+    "xiaohongshu": "DC-Leap让dLLMs变得更加高效！",
+    "index": 15,
+    "link": "https://arxiv.org/abs/2607.20467"
+  },
+  {
+    "title": "JAXBench: Benchmarking Autonomous TPU Kernel Optimization",
+    "summary": "JAXBench是一种用于评估TPU内核优化的基准测试套件，通过AI生成内核来提高效率。",
+    "score": 6,
+    "category": "研究",
+    "long": "JAXBench通过AI生成内核来评估TPU内核优化，实验结果表明，JAXBench在TPU内核优化中提高了效率。",
+    "short": "JAXBench评估TPU内核优化",
+    "tweet": "JAXBench: Evaluating TPU Kernel Optimization",
+    "xiaohongshu": "JAXBench让TPU内核优化变得更加高效！",
+    "index": 14,
+    "link": "https://arxiv.org/abs/2607.20466"
+  },
+  {
+    "title": "ClickGuard: Detecting and Spoiling Clickbait News with Informativeness Measures and Large Language Models",
+    "summary": "ClickGuard是一种用于检测和阻止点击陷阱新闻的AI驱动浏览器扩展，通过信息量度量和大语言模型来提高准确率。",
+    "score": 6,
+    "category": "研究",
+    "long": "ClickGuard通过信息量度量和大语言模型来检测和阻止点击陷阱新闻，实验结果表明，ClickGuard提高了91%的准确率。",
+    "short": "ClickGuard检测点击陷阱新闻",
+    "tweet": "ClickGuard: Protecting You from Clickbait News",
+    "xiaohongshu": "ClickGuard让你免受点击陷阱新闻的伤害！",
+    "index": 12,
+    "link": "https://arxiv.org/abs/2607.20463"
+  },
+  {
+    "title": "Marking the Wrong Symptoms: Evaluating LLM Watermarks in Medical Texts",
+    "summary": "该论文评估了LLM水印在医学文本中的性能，发现水印可能会导致医学文本的语义变化和错误。",
+    "score": 5,
+    "category": "研究",
+    "long": "该论文通过实验结果表明，LLM水印在医学文本中的性能不佳，可能会导致语义变化和错误。",
+    "short": "LLM水印在医学文本中的性能不佳",
+    "tweet": "LLM Watermarks in Medical Texts: A Study",
+    "xiaohongshu": "LLM水印让医学文本变得更加危险！",
+    "index": 11,
+    "link": "https://arxiv.org/abs/2607.20462"
+  },
+  {
+    "title": "Stochastic Sampling is Epistemically Shallow: The Dimensionality Gap Between Temperature Variation and Model Diversity in LLMs",
+    "summary": "该论文研究了LLM在温度变化和模型多样性之间的维度差距，发现温度变化可能会导致模型多样性的下降。",
+    "score": 5,
+    "category": "研究",
+    "long": "该论文通过实验结果表明，温度变化可能会导致模型多样性的下降，维度差距可能会影响LLM的性能。",
+    "short": "温度变化影响LLM多样性",
+    "tweet": "Temperature Variation and Model Diversity in LLMs: A Study",
+    "xiaohongshu": "温度变化让LLM变得更加危险！",
+    "index": 13,
+    "link": "https://arxiv.org/abs/2607.20464"
+  }
+]
