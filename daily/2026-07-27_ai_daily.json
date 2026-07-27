@@ -1,0 +1,122 @@
+[
+  {
+    "title": "AGI Is Not Multimodal",
+    "summary": "AI模型不能简单地将语言作为思维的模型，忽视了我们智能的隐含体验。",
+    "score": 9,
+    "category": "研究",
+    "long": "AI模型不能简单地将语言作为思维的模型，忽视了我们智能的隐含体验。",
+    "short": "AI模型不能简单地将语言作为思维的模型",
+    "tweet": "AI模型不能简单地将语言作为思维的模型！我们需要考虑隐含的体验！",
+    "xiaohongshu": "AI模型不能简单地将语言作为思维的模型！我们需要考虑隐含的体验！",
+    "index": 1,
+    "link": "https://thegradient.pub/agi-is-not-multimodal/"
+  },
+  {
+    "title": "What's Missing From LLM Chatbots: A Sense of Purpose",
+    "summary": "LLM聊天机器人缺乏目的感，用户体验不佳。",
+    "score": 8,
+    "category": "研究",
+    "long": "LLM聊天机器人缺乏目的感，用户体验不佳。",
+    "short": "LLM聊天机器人缺乏目的感",
+    "tweet": "LLM聊天机器人缺乏目的感！用户体验不佳！",
+    "xiaohongshu": "LLM聊天机器人缺乏目的感！用户体验不佳！",
+    "index": 3,
+    "link": "https://thegradient.pub/dialog/"
+  },
+  {
+    "title": "We Need Positive Visions for AI Grounded in Wellbeing",
+    "summary": "我们需要基于福祉的积极视角来看待AI。",
+    "score": 8,
+    "category": "研究",
+    "long": "我们需要基于福祉的积极视角来看待AI。",
+    "short": "我们需要基于福祉的积极视角",
+    "tweet": "我们需要基于福祉的积极视角来看待AI！",
+    "xiaohongshu": "我们需要基于福祉的积极视角来看待AI！",
+    "index": 4,
+    "link": "https://thegradient.pub/we-need-positive-visions-for-ai-grounded-in-wellbeing/"
+  },
+  {
+    "title": "Mamba Explained",
+    "summary": "Mamba是一种新型AI模型，基于状态空间模型，解决了Transformer模型在处理长序列时的效率问题。",
+    "score": 8,
+    "category": "研究",
+    "long": "Mamba是一种新型AI模型，基于状态空间模型，解决了Transformer模型在处理长序列时的效率问题。",
+    "short": "Mamba是一种新型AI模型",
+    "tweet": "Mamba是一种新型AI模型！解决了Transformer模型的效率问题！",
+    "xiaohongshu": "Mamba是一种新型AI模型！解决了Transformer模型的效率问题！",
+    "index": 7,
+    "link": "https://thegradient.pub/mamba-explained/"
+  },
+  {
+    "title": "Car-GPT: Could LLMs finally make self-driving cars happen?",
+    "summary": "大语言模型是否能让自驾车成为现实？",
+    "score": 7,
+    "category": "研究",
+    "long": "大语言模型是否能让自驾车成为现实？",
+    "short": "大语言模型是否能让自驾车成为现实",
+    "tweet": "大语言模型是否能让自驾车成为现实？",
+    "xiaohongshu": "大语言模型是否能让自驾车成为现实？",
+    "index": 8,
+    "link": "https://thegradient.pub/car-gpt/"
+  },
+  {
+    "title": "Financial Market Applications of LLMs",
+    "summary": "大语言模型在金融市场的应用。",
+    "score": 7,
+    "category": "商业",
+    "long": "大语言模型在金融市场的应用。",
+    "short": "大语言模型在金融市场的应用",
+    "tweet": "大语言模型在金融市场的应用！",
+    "xiaohongshu": "大语言模型在金融市场的应用！",
+    "index": 5,
+    "link": "https://thegradient.pub/financial-market-applications-of-llms/"
+  },
+  {
+    "title": "A Brief Overview of Gender Bias in AI",
+    "summary": "AI中性别偏见的简要概述。",
+    "score": 6,
+    "category": "研究",
+    "long": "AI中性别偏见的简要概述。",
+    "short": "AI中性别偏见的简要概述",
+    "tweet": "AI中性别偏见的简要概述！",
+    "xiaohongshu": "AI中性别偏见的简要概述！",
+    "index": 6,
+    "link": "https://thegradient.pub/gender-bias-in-ai/"
+  },
+  {
+    "title": "Shape, Symmetries, and Structure: The Changing Role of Mathematics in Machine Learning Research",
+    "summary": "机器学习研究中数学的作用在变化。",
+    "score": 6,
+    "category": "研究",
+    "long": "机器学习研究中数学的作用在变化。",
+    "short": "机器学习研究中数学的作用在变化",
+    "tweet": "机器学习研究中数学的作用在变化！",
+    "xiaohongshu": "机器学习研究中数学的作用在变化！",
+    "index": 2,
+    "link": "https://thegradient.pub/shape-symmetry-structure/"
+  },
+  {
+    "title": "PGSimCity - How PostgreSQL Works",
+    "summary": "PostgreSQL的工作原理。",
+    "score": 5,
+    "category": "工具",
+    "long": "PostgreSQL的工作原理。",
+    "short": "PostgreSQL的工作原理",
+    "tweet": "PostgreSQL的工作原理！",
+    "xiaohongshu": "PostgreSQL的工作原理！",
+    "index": 10,
+    "link": "https://nikolays.github.io/PGSimCity/"
+  },
+  {
+    "title": "Show HN: Physically accurate black hole you can put in your room",
+    "summary": "一个物理准确的黑洞模型。",
+    "score": 5,
+    "category": "其他",
+    "long": "一个物理准确的黑洞模型。",
+    "short": "一个物理准确的黑洞模型",
+    "tweet": "一个物理准确的黑洞模型！",
+    "xiaohongshu": "一个物理准确的黑洞模型！",
+    "index": 11,
+    "link": "https://blackhole.plav.in"
+  }
+]
