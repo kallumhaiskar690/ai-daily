@@ -1,0 +1,110 @@
+[
+  {
+    "title": "多样化分类",
+    "summary": "研究人员探索了多种 AI 领域的新方法和技术",
+    "score": 10,
+    "category": "研究",
+    "long": "研究人员探索了多种 AI 领域的新方法和技术，包括 AGI、多模态、数学在机器学习中的作用、LLM 聊天机器人、AI 对社会的影响、性别偏见在 AI 中的存在、注意力机制、自主驾驶汽车、文本嵌入、概念视觉反向解释等",
+    "short": "研究人员探索了多种 AI 领域的新方法和技术",
+    "tweet": "AI 研究人员正在探索新的方法和技术，包括 AGI、多模态、数学在机器学习中的作用等",
+    "xiaohongshu": "AI 研究人员正在探索新的方法和技术，包括 AGI、多模态、数学在机器学习中的作用等，让我们一起期待这些新技术的出现！",
+    "index": 0,
+    "link": "https://thegradient.pub/virtue-ethics-ai-alignment/"
+  },
+  {
+    "title": "AI 对社会的影响",
+    "summary": "研究人员探索了 AI 对社会的影响",
+    "score": 9,
+    "category": "研究",
+    "long": "研究人员探索了 AI 对社会的影响，包括 AI 对工作的影响、AI 对教育的影响、AI 对健康的影响等",
+    "short": "AI 对社会的影响",
+    "tweet": "AI 对社会的影响正在被研究，包括 AI 对工作、教育和健康的影响",
+    "xiaohongshu": "AI 对社会的影响正在被研究，包括 AI 对工作、教育和健康的影响，让我们一起关注这些问题！",
+    "index": 4,
+    "link": "https://thegradient.pub/we-need-positive-visions-for-ai-grounded-in-wellbeing/"
+  },
+  {
+    "title": "性别偏见在 AI 中的存在",
+    "summary": "研究人员探索了性别偏见在 AI 中的存在",
+    "score": 8,
+    "category": "研究",
+    "long": "研究人员探索了性别偏见在 AI 中的存在，包括 AI 中的性别偏见的原因、AI 中的性别偏见的影响等",
+    "short": "性别偏见在 AI 中的存在",
+    "tweet": "性别偏见在 AI 中的存在正在被研究，包括 AI 中的性别偏见的原因和影响",
+    "xiaohongshu": "性别偏见在 AI 中的存在正在被研究，包括 AI 中的性别偏见的原因和影响，让我们一起关注这些问题！",
+    "index": 6,
+    "link": "https://thegradient.pub/gender-bias-in-ai/"
+  },
+  {
+    "title": "注意力机制",
+    "summary": "研究人员探索了注意力机制",
+    "score": 7,
+    "category": "研究",
+    "long": "研究人员探索了注意力机制，包括注意力机制的原理、注意力机制的应用等",
+    "short": "注意力机制",
+    "tweet": "注意力机制正在被研究，包括注意力机制的原理和应用",
+    "xiaohongshu": "注意力机制正在被研究，包括注意力机制的原理和应用，让我们一起关注这些问题！",
+    "index": 7,
+    "link": "https://thegradient.pub/mamba-explained/"
+  },
+  {
+    "title": "自主驾驶汽车",
+    "summary": "研究人员探索了自主驾驶汽车",
+    "score": 6,
+    "category": "研究",
+    "long": "研究人员探索了自主驾驶汽车，包括自主驾驶汽车的原理、自主驾驶汽车的应用等",
+    "short": "自主驾驶汽车",
+    "tweet": "自主驾驶汽车正在被研究，包括自主驾驶汽车的原理和应用",
+    "xiaohongshu": "自主驾驶汽车正在被研究，包括自主驾驶汽车的原理和应用，让我们一起关注这些问题！",
+    "index": 8,
+    "link": "https://thegradient.pub/car-gpt/"
+  },
+  {
+    "title": "文本嵌入",
+    "summary": "研究人员探索了文本嵌入",
+    "score": 5,
+    "category": "研究",
+    "long": "研究人员探索了文本嵌入，包括文本嵌入的原理、文本嵌入的应用等",
+    "short": "文本嵌入",
+    "tweet": "文本嵌入正在被研究，包括文本嵌入的原理和应用",
+    "xiaohongshu": "文本嵌入正在被研究，包括文本嵌入的原理和应用，让我们一起关注这些问题！",
+    "index": 9,
+    "link": "https://thegradient.pub/text-embedding-inversion/"
+  },
+  {
+    "title": "概念视觉反向解释",
+    "summary": "研究人员探索了概念视觉反向解释",
+    "score": 4,
+    "category": "研究",
+    "long": "研究人员探索了概念视觉反向解释，包括概念视觉反向解释的原理、概念视觉反向解释的应用等",
+    "short": "概念视觉反向解释",
+    "tweet": "概念视觉反向解释正在被研究，包括概念视觉反向解释的原理和应用",
+    "xiaohongshu": "概念视觉反向解释正在被研究，包括概念视觉反向解释的原理和应用，让我们一起关注这些问题！",
+    "index": 10,
+    "link": "https://arxiv.org/abs/2607.22544"
+  },
+  {
+    "title": "AI 在金融市场的应用",
+    "summary": "研究人员探索了 AI 在金融市场的应用",
+    "score": 3,
+    "category": "商业",
+    "long": "研究人员探索了 AI 在金融市场的应用，包括 AI 在金融市场的原理、AI 在金融市场的应用等",
+    "short": "AI 在金融市场的应用",
+    "tweet": "AI 在金融市场的应用正在被研究，包括 AI 在金融市场的原理和应用",
+    "xiaohongshu": "AI 在金融市场的应用正在被研究，包括 AI 在金融市场的原理和应用，让我们一起关注这些问题！",
+    "index": 5,
+    "link": "https://thegradient.pub/financial-market-applications-of-llms/"
+  },
+  {
+    "title": "AI 在教育的应用",
+    "summary": "研究人员探索了 AI 在教育的应用",
+    "score": 2,
+    "category": "商业",
+    "long": "研究人员探索了 AI 在教育的应用，包括 AI 在教育的原理、AI 在教育的应用等",
+    "short": "AI 在教育的应用",
+    "tweet": "AI 在教育的应用正在被研究，包括 AI 在教育的原理和应用",
+    "xiaohongshu": "AI 在教育的应用正在被研究，包括 AI 在教育的原理和应用，让我们一起关注这些问题！",
+    "index": 13,
+    "link": "https://arxiv.org/abs/2607.22554"
+  }
+]
