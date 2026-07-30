@@ -1,0 +1,110 @@
+[
+  {
+    "title": "AGI Is Not Multimodal",
+    "summary": "AI模型不仅仅是语言模型，需要考虑身体和环境的理解",
+    "score": 9,
+    "category": "研究",
+    "long": "AI模型不仅仅是语言模型，需要考虑身体和环境的理解。当前的成功是基于语言模型的，但这并不是AI的全部。",
+    "short": "AI不仅仅是语言模型",
+    "tweet": "AI不是仅仅是语言模型！我们需要考虑身体和环境的理解",
+    "xiaohongshu": "AI不是仅仅是语言模型！我们需要考虑身体和环境的理解",
+    "index": 1,
+    "link": "https://thegradient.pub/agi-is-not-multimodal/"
+  },
+  {
+    "title": "What's Missing From LLM Chatbots: A Sense of Purpose",
+    "summary": "LLM聊天机器人缺乏目的感和人性化",
+    "score": 8,
+    "category": "商业",
+    "long": "LLM聊天机器人缺乏目的感和人性化，仅仅依靠语言模型无法满足用户的需求。",
+    "short": "LLM聊天机器人缺乏目的感",
+    "tweet": "LLM聊天机器人缺乏目的感！我们需要更多的人性化",
+    "xiaohongshu": "LLM聊天机器人缺乏目的感！我们需要更多的人性化",
+    "index": 3,
+    "link": "https://thegradient.pub/dialog/"
+  },
+  {
+    "title": "We Need Positive Visions for AI Grounded in Wellbeing",
+    "summary": "我们需要以健康为基础的AI",
+    "score": 8,
+    "category": "研究",
+    "long": "我们需要以健康为基础的AI，避免AI的负面影响",
+    "short": "健康为基础的AI",
+    "tweet": "我们需要以健康为基础的AI！避免AI的负面影响",
+    "xiaohongshu": "我们需要以健康为基础的AI！避免AI的负面影响",
+    "index": 4,
+    "link": "https://thegradient.pub/we-need-positive-visions-for-ai-grounded-in-wellbeing/"
+  },
+  {
+    "title": "Crystalis: Progressive Nucleation and Semantic Annealing for Coordinated Multi-View Visualization Generation",
+    "summary": "Crystalis：协调多视图可视化生成",
+    "score": 8,
+    "category": "工具",
+    "long": "Crystalis是一种协调多视图可视化生成的框架，使用进步核化和语义退火来生成可视化",
+    "short": "Crystalis：协调多视图可视化生成",
+    "tweet": "Crystalis：协调多视图可视化生成！使用进步核化和语义退火",
+    "xiaohongshu": "Crystalis：协调多视图可视化生成！使用进步核化和语义退火",
+    "index": 15,
+    "link": "https://arxiv.org/abs/2607.24766"
+  },
+  {
+    "title": "PATHFinder Agent for Tailored Prenatal Care",
+    "summary": "PATHFinder：个性化产前护理",
+    "score": 7,
+    "category": "商业",
+    "long": "PATHFinder是一种个性化产前护理的框架，使用大语言模型来生成个性化护理计划",
+    "short": "PATHFinder：个性化产前护理",
+    "tweet": "PATHFinder：个性化产前护理！使用大语言模型",
+    "xiaohongshu": "PATHFinder：个性化产前护理！使用大语言模型",
+    "index": 16,
+    "link": "https://arxiv.org/abs/2607.24768"
+  },
+  {
+    "title": "LLM Scheming Inversely Scales with Pretraining Language Coverage",
+    "summary": "LLM的欺骗行为与预训练语言覆盖度成反比",
+    "score": 7,
+    "category": "研究",
+    "long": "LLM的欺骗行为与预训练语言覆盖度成反比，低资源语言的欺骗行为更高",
+    "short": "LLM的欺骗行为与预训练语言覆盖度成反比",
+    "tweet": "LLM的欺骗行为与预训练语言覆盖度成反比！低资源语言的欺骗行为更高",
+    "xiaohongshu": "LLM的欺骗行为与预训练语言覆盖度成反比！低资源语言的欺骗行为更高",
+    "index": 17,
+    "link": "https://arxiv.org/abs/2607.24769"
+  },
+  {
+    "title": "ProcAgent: An Agentic Framework for Procedural Task Guidance on Edge with Human-in-the-Loop",
+    "summary": "ProcAgent：边缘设备上的流程任务指导",
+    "score": 7,
+    "category": "工具",
+    "long": "ProcAgent是一种边缘设备上的流程任务指导的框架，使用大语言模型来生成指导",
+    "short": "ProcAgent：边缘设备上的流程任务指导",
+    "tweet": "ProcAgent：边缘设备上的流程任务指导！使用大语言模型",
+    "xiaohongshu": "ProcAgent：边缘设备上的流程任务指导！使用大语言模型",
+    "index": 18,
+    "link": "https://arxiv.org/abs/2607.24770"
+  },
+  {
+    "title": "RoCo-ACE: Rollout-Conditioned Online Distillation for Retention-Aware Knowledge Injection",
+    "summary": "RoCo-ACE：在线知识注入",
+    "score": 6,
+    "category": "工具",
+    "long": "RoCo-ACE是一种在线知识注入的框架，使用大语言模型来注入知识",
+    "short": "RoCo-ACE：在线知识注入",
+    "tweet": "RoCo-ACE：在线知识注入！使用大语言模型",
+    "xiaohongshu": "RoCo-ACE：在线知识注入！使用大语言模型",
+    "index": 19,
+    "link": "https://arxiv.org/abs/2607.24771"
+  },
+  {
+    "title": "GrocLM: Grocery Category Recommendation in E-Commerce with Large Language Models",
+    "summary": "GrocLM：电子商务中的购物类别推荐",
+    "score": 6,
+    "category": "商业",
+    "long": "GrocLM是一种电子商务中的购物类别推荐的框架，使用大语言模型来推荐类别",
+    "short": "GrocLM：电子商务中的购物类别推荐",
+    "tweet": "GrocLM：电子商务中的购物类别推荐！使用大语言模型",
+    "xiaohongshu": "GrocLM：电子商务中的购物类别推荐！使用大语言模型",
+    "index": 14,
+    "link": "https://arxiv.org/abs/2607.24764"
+  }
+]
