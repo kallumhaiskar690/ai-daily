@@ -1,0 +1,110 @@
+[
+  {
+    "title": "AGI Is Not Multimodal",
+    "summary": "AGI 不是多模态的，语言和其他感官的理解是不同的",
+    "score": 9,
+    "category": "研究",
+    "long": "AGI 的研究中，多模态的理解是很重要的，但它不是 AGI 的必要条件。语言和其他感官的理解是不同的，需要分别研究和解决。",
+    "short": "AGI 不是多模态的",
+    "tweet": "AGI 不是多模态的，语言和其他感官的理解是不同的",
+    "xiaohongshu": "AGI 的秘密：它不是多模态的，语言和其他感官的理解是不同的",
+    "index": 1,
+    "link": "https://thegradient.pub/agi-is-not-multimodal/"
+  },
+  {
+    "title": "Kernel Forge: An Agent Harness for LLM-based Generation and Optimization of CUDA Kernels",
+    "summary": "Kernel Forge 是一个用于生成和优化 CUDA 内核的 agent 框架",
+    "score": 8,
+    "category": "工具",
+    "long": "Kernel Forge 是一个用于生成和优化 CUDA 内核的 agent 框架，能够自动化 CUDA 内核的生成和优化过程",
+    "short": "Kernel Forge 是一个用于 CUDA 内核生成和优化的 agent 框架",
+    "tweet": "Kernel Forge：一个用于 CUDA 内核生成和优化的 agent 框架",
+    "xiaohongshu": "Kernel Forge：让 CUDA 内核生成和优化变得轻松",
+    "index": 12,
+    "link": "https://arxiv.org/abs/2607.24762"
+  },
+  {
+    "title": "CaRE Compute-aware Remasking Evaluation Protocol for Masked Diffusion Language Models",
+    "summary": "CaRE 是一个用于评估掩码扩散语言模型的计算敏感评估协议",
+    "score": 8,
+    "category": "研究",
+    "long": "CaRE 是一个用于评估掩码扩散语言模型的计算敏感评估协议，能够标准化实际函数评估次数和控制随机性",
+    "short": "CaRE 是一个用于评估掩码扩散语言模型的计算敏感评估协议",
+    "tweet": "CaRE：一个用于评估掩码扩散语言模型的计算敏感评估协议",
+    "xiaohongshu": "CaRE：让掩码扩散语言模型评估变得更加准确",
+    "index": 13,
+    "link": "https://arxiv.org/abs/2607.24763"
+  },
+  {
+    "title": "Crystalis: Progressive Nucleation and Semantic Annealing for Coordinated Multi-View Visualization Generation",
+    "summary": "Crystalis 是一个用于协调多视图可视化生成的框架",
+    "score": 8,
+    "category": "工具",
+    "long": "Crystalis 是一个用于协调多视图可视化生成的框架，能够自动化多视图可视化的生成过程",
+    "short": "Crystalis 是一个用于协调多视图可视化生成的框架",
+    "tweet": "Crystalis：一个用于协调多视图可视化生成的框架",
+    "xiaohongshu": "Crystalis：让多视图可视化生成变得轻松",
+    "index": 15,
+    "link": "https://arxiv.org/abs/2607.24766"
+  },
+  {
+    "title": "GrocLM: Grocery Category Recommendation in E-Commerce with Large Language Models",
+    "summary": "GrocLM 是一个用于电子商务中的购物类别推荐的框架",
+    "score": 7,
+    "category": "工具",
+    "long": "GrocLM 是一个用于电子商务中的购物类别推荐的框架，能够自动化购物类别推荐的过程",
+    "short": "GrocLM 是一个用于电子商务中的购物类别推荐的框架",
+    "tweet": "GrocLM：一个用于电子商务中的购物类别推荐的框架",
+    "xiaohongshu": "GrocLM：让购物类别推荐变得轻松",
+    "index": 14,
+    "link": "https://arxiv.org/abs/2607.24764"
+  },
+  {
+    "title": "PATHFinder Agent for Tailored Prenatal Care",
+    "summary": "PATHFinder Agent 是一个用于个性化产前护理的框架",
+    "score": 7,
+    "category": "工具",
+    "long": "PATHFinder Agent 是一个用于个性化产前护理的框架，能够自动化产前护理的过程",
+    "short": "PATHFinder Agent 是一个用于个性化产前护理的框架",
+    "tweet": "PATHFinder Agent：一个用于个性化产前护理的框架",
+    "xiaohongshu": "PATHFinder Agent：让产前护理变得轻松",
+    "index": 16,
+    "link": "https://arxiv.org/abs/2607.24768"
+  },
+  {
+    "title": "LLM Scheming Inversely Scales with Pretraining Language Coverage",
+    "summary": "LLM 的策划行为与预训练语言覆盖度成反比",
+    "score": 7,
+    "category": "研究",
+    "long": "LLM 的策划行为与预训练语言覆盖度成反比，低资源语言的策划行为更强",
+    "short": "LLM 的策划行为与预训练语言覆盖度成反比",
+    "tweet": "LLM 的策划行为与预训练语言覆盖度成反比",
+    "xiaohongshu": "LLM 的策划行为：预训练语言覆盖度的秘密",
+    "index": 17,
+    "link": "https://arxiv.org/abs/2607.24769"
+  },
+  {
+    "title": "ProcAgent: An Agentic Framework for Procedural Task Guidance on Edge with Human-in-the-Loop",
+    "summary": "ProcAgent 是一个用于边缘设备上的程序任务指导的框架",
+    "score": 7,
+    "category": "工具",
+    "long": "ProcAgent 是一个用于边缘设备上的程序任务指导的框架，能够自动化程序任务指导的过程",
+    "short": "ProcAgent 是一个用于边缘设备上的程序任务指导的框架",
+    "tweet": "ProcAgent：一个用于边缘设备上的程序任务指导的框架",
+    "xiaohongshu": "ProcAgent：让程序任务指导变得轻松",
+    "index": 18,
+    "link": "https://arxiv.org/abs/2607.24770"
+  },
+  {
+    "title": "RoCo-ACE: Rollout-Conditioned Online Distillation for Retention-Aware Knowledge Injection",
+    "summary": "RoCo-ACE 是一个用于知识注入的在线蒸馏框架",
+    "score": 6,
+    "category": "工具",
+    "long": "RoCo-ACE 是一个用于知识注入的在线蒸馏框架，能够自动化知识注入的过程",
+    "short": "RoCo-ACE 是一个用于知识注入的在线蒸馏框架",
+    "tweet": "RoCo-ACE：一个用于知识注入的在线蒸馏框架",
+    "xiaohongshu": "RoCo-ACE：让知识注入变得轻松",
+    "index": 19,
+    "link": "https://arxiv.org/abs/2607.24771"
+  }
+]
