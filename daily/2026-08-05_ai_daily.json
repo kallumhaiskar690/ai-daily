@@ -1,0 +1,110 @@
+[
+  {
+    "title": "OpenClaw and Ollama in Agentic AI: Toward Fully Autonomous and Scalable AI Agent Systems",
+    "summary": "研究团队提出了一个全新的Agentic AI架构，旨在实现更高效、可扩展的AI代理系统",
+    "score": 9,
+    "category": "研究",
+    "long": "该架构包括OpenClaw和Ollama两部分，OpenClaw负责AI代理的运行时管理，而Ollama则负责LLM的推理层",
+    "short": "全新的Agentic AI架构",
+    "tweet": "AI代理系统的未来正在改变！研究团队提出了全新的Agentic AI架构，实现更高效、可扩展的AI代理系统！",
+    "xiaohongshu": "AI代理系统的未来正在改变！全新的Agentic AI架构让AI代理系统更高效、可扩展！",
+    "index": 10,
+    "link": "https://arxiv.org/abs/2607.28629"
+  },
+  {
+    "title": "Can AI Evaluate AI Scientists? A Benchmarking Study of Autonomous Research Generation Systems Using Automated Multi-Model Review",
+    "summary": "研究团队评估了四个AI科学家系统的质量，发现FARS系统的质量最高",
+    "score": 8,
+    "category": "研究",
+    "long": "研究团队使用自动化多模型评估系统评估了四个AI科学家系统，包括Sakana AI、CycleResearcher和Data-to-Paper",
+    "short": "AI科学家系统的质量评估",
+    "tweet": "AI科学家系统的质量评估！研究团队发现FARS系统的质量最高！",
+    "xiaohongshu": "AI科学家系统的质量评估！FARS系统的质量最高！",
+    "index": 11,
+    "link": "https://arxiv.org/abs/2607.28631"
+  },
+  {
+    "title": "LLM Framework for Discovering Major Mathematical Conjectures: AI's Quest for the Next Riemann Hypothesis",
+    "summary": "研究团队提出了一个用于发现重大数学猜想的LLM框架",
+    "score": 8,
+    "category": "研究",
+    "long": "研究团队提出了一个三阶段pipeline用于发现重大数学猜想，包括区域搜索、反射验证和形式验证",
+    "short": "重大数学猜想的发现",
+    "tweet": "AI正在寻找下一个里曼猜想！研究团队提出了一个用于发现重大数学猜想的LLM框架！",
+    "xiaohongshu": "AI正在寻找下一个里曼猜想！重大数学猜想的发现！",
+    "index": 12,
+    "link": "https://arxiv.org/abs/2607.28632"
+  },
+  {
+    "title": "ThinkReset: Learnable Intermediate Interface Construction for Bounded-Context Long-Horizon Reasoning",
+    "summary": "研究团队提出了一个用于长期推理的可学习中间接口构建方法",
+    "score": 7,
+    "category": "研究",
+    "long": "研究团队提出了一个ThinkReset方法，用于长期推理的中间接口构建",
+    "short": "长期推理的中间接口构建",
+    "tweet": "AI正在学习长期推理！研究团队提出了一个用于长期推理的中间接口构建方法！",
+    "xiaohongshu": "AI正在学习长期推理！长期推理的中间接口构建！",
+    "index": 13,
+    "link": "https://arxiv.org/abs/2607.28642"
+  },
+  {
+    "title": "TAPR: Enhancing LLM Performance with a Task-Aware Prompt Rewriter",
+    "summary": "研究团队提出了一个用于提高LLM性能的任务感知提示重写方法",
+    "score": 7,
+    "category": "研究",
+    "long": "研究团队提出了一个TAPR方法，用于提高LLM性能的任务感知提示重写",
+    "short": "提高LLM性能",
+    "tweet": "AI正在提高LLM性能！研究团队提出了一个用于提高LLM性能的任务感知提示重写方法！",
+    "xiaohongshu": "AI正在提高LLM性能！提高LLM性能！",
+    "index": 14,
+    "link": "https://arxiv.org/abs/2607.28657"
+  },
+  {
+    "title": "Empowering Cross-Domain Sequential Recommendation with Hybrid Tokenization and Serial-Parallel Decoding",
+    "summary": "研究团队提出了一个用于跨域序列推荐的混合token化和串行并行解码方法",
+    "score": 6,
+    "category": "研究",
+    "long": "研究团队提出了一个GenCDSR方法，用于跨域序列推荐的混合token化和串行并行解码",
+    "short": "跨域序列推荐",
+    "tweet": "AI正在跨域序列推荐！研究团队提出了一个用于跨域序列推荐的混合token化和串行并行解码方法！",
+    "xiaohongshu": "AI正在跨域序列推荐！跨域序列推荐！",
+    "index": 15,
+    "link": "https://arxiv.org/abs/2607.28659"
+  },
+  {
+    "title": "An Ontology-Guided, Deduplication-Aware Extraction Layer for Knowledge Graph Construction from Heterogeneous Documents",
+    "summary": "研究团队提出了一个用于知识图谱构建的ontology指导的去重提取层",
+    "score": 6,
+    "category": "研究",
+    "long": "研究团队提出了一个Ontology-Guided Extraction Layer方法，用于知识图谱构建的ontology指导的去重提取",
+    "short": "知识图谱构建",
+    "tweet": "AI正在构建知识图谱！研究团队提出了一个用于知识图谱构建的ontology指导的去重提取层！",
+    "xiaohongshu": "AI正在构建知识图谱！知识图谱构建！",
+    "index": 16,
+    "link": "https://arxiv.org/abs/2607.28662"
+  },
+  {
+    "title": "How Hard Does It Think? Analyzing Step-Aware Reasoning Energy in LLM Chain-of-Thought Trajectories",
+    "summary": "研究团队分析了LLM链式推理轨迹中的步骤感知推理能量",
+    "score": 5,
+    "category": "研究",
+    "long": "研究团队提出了一个SARE方法，用于分析LLM链式推理轨迹中的步骤感知推理能量",
+    "short": "LLM链式推理轨迹分析",
+    "tweet": "AI正在分析LLM链式推理轨迹！研究团队提出了一个用于分析LLM链式推理轨迹中的步骤感知推理能量的方法！",
+    "xiaohongshu": "AI正在分析LLM链式推理轨迹！LLM链式推理轨迹分析！",
+    "index": 17,
+    "link": "https://arxiv.org/abs/2607.28674"
+  },
+  {
+    "title": "Reasoning in Real World Clinical Care: Why Large Language Models Are Not Yet Safe for Autonomous Clinical Decision Support",
+    "summary": "研究团队分析了LLM在临床决策支持中的安全性",
+    "score": 5,
+    "category": "研究",
+    "long": "研究团队提出了一个论点，认为LLM在临床决策支持中尚未安全",
+    "short": "LLM临床决策支持安全性",
+    "tweet": "AI正在分析LLM在临床决策支持中的安全性！研究团队提出了一个论点，认为LLM在临床决策支持中尚未安全！",
+    "xiaohongshu": "AI正在分析LLM在临床决策支持中的安全性！LLM临床决策支持安全性！",
+    "index": 18,
+    "link": "https://arxiv.org/abs/2607.28677"
+  }
+]
