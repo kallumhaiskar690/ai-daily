@@ -1,0 +1,110 @@
+[
+  {
+    "title": "Bridging Literature, Agents, and Zero-gap Experimentation (BLAZE)",
+    "summary": "新颖的科学发现方法，结合人工智能和社会化",
+    "score": 9,
+    "category": "研究",
+    "long": "BLAZE是一种新颖的科学发现方法，结合人工智能和社会化，旨在组织科学知识、集体推理、经验验证和人类判断，形成一个连续的研究生命周期。",
+    "short": "新颖的科学发现方法",
+    "tweet": "科学发现的新颖方法：BLAZE",
+    "xiaohongshu": "科学家们的新玩具来了！BLAZE让科学知识和人工智能结合起来，带来全新的科学发现方法",
+    "index": 17,
+    "link": "https://arxiv.org/abs/2608.02775"
+  },
+  {
+    "title": "VeriTrace: Human-Like Temporal Exploration Completes Agentic Action Space",
+    "summary": "新颖的多智能体系统，能够进行人工智能样式的时间探索",
+    "score": 9,
+    "category": "研究",
+    "long": "VeriTrace是一种新颖的多智能体系统，能够进行人工智能样式的时间探索，形成自己的假设，查询波形证据，迭代改进自己的理解。",
+    "short": "新颖的多智能体系统",
+    "tweet": "多智能体系统的新颖方法：VeriTrace",
+    "xiaohongshu": "人工智能的新玩具来了！VeriTrace让多智能体系统变得更加智能",
+    "index": 19,
+    "link": "https://arxiv.org/abs/2608.02878"
+  },
+  {
+    "title": "PULSE: An Executable Contract Language for Spatiotemporal Knowledge Graph Engineering",
+    "summary": "新颖的可执行合同语言，用于空间时间知识图谱工程",
+    "score": 8,
+    "category": "研究",
+    "long": "PULSE是一种新颖的可执行合同语言，用于空间时间知识图谱工程，能够局部化四个操作角色和它们的写入效果",
+    "short": "新颖的可执行合同语言",
+    "tweet": "可执行合同语言的新颖方法：PULSE",
+    "xiaohongshu": "知识图谱的新玩具来了！PULSE让空间时间知识图谱工程变得更加智能",
+    "index": 13,
+    "link": "https://arxiv.org/abs/2608.02630"
+  },
+  {
+    "title": "HyperAgent: Planning and Acting over Tool-Schema Hypergraphs for Tool-Use LLM Agents",
+    "summary": "新颖的工具使用LLM代理，能够规划和执行工具图谱",
+    "score": 8,
+    "category": "研究",
+    "long": "HyperAgent是一种新颖的工具使用LLM代理，能够规划和执行工具图谱，通过工具图谱来指导动态规划和执行",
+    "short": "新颖的工具使用LLM代理",
+    "tweet": "工具使用LLM代理的新颖方法：HyperAgent",
+    "xiaohongshu": "工具使用的新玩具来了！HyperAgent让工具使用变得更加智能",
+    "index": 14,
+    "link": "https://arxiv.org/abs/2608.02650"
+  },
+  {
+    "title": "BAP-SQL: Budget-Aware Observation Planning for Agentic Text-to-SQL",
+    "summary": "新颖的预算意识观察规划，用于智能文本到SQL",
+    "score": 8,
+    "category": "研究",
+    "long": "BAP-SQL是一种新颖的预算意识观察规划，用于智能文本到SQL，能够估计查询风险，重写SQL，委托硬限额",
+    "short": "新颖的预算意识观察规划",
+    "tweet": "预算意识观察规划的新颖方法：BAP-SQL",
+    "xiaohongshu": "智能文本到SQL的新玩具来了！BAP-SQL让预算意识观察规划变得更加智能",
+    "index": 18,
+    "link": "https://arxiv.org/abs/2608.02876"
+  },
+  {
+    "title": "Predictive Set Theory: A Generative Framework for Cognitive Architecture with Operationalized Core Mechanisms",
+    "summary": "新颖的预测集合理论，用于认知架构",
+    "score": 7,
+    "category": "研究",
+    "long": "Predictive Set Theory是一种新颖的预测集合理论，用于认知架构，能够从第一原理中重构认知架构",
+    "short": "新颖的预测集合理论",
+    "tweet": "预测集合理论的新颖方法：Predictive Set Theory",
+    "xiaohongshu": "认知架构的新玩具来了！Predictive Set Theory让预测集合理论变得更加智能",
+    "index": 16,
+    "link": "https://arxiv.org/abs/2608.02704"
+  },
+  {
+    "title": "ISEE: Interactive Semantic Enrichment for Database Fields",
+    "summary": "新颖的交互式语义增强，用于数据库字段",
+    "score": 7,
+    "category": "研究",
+    "long": "ISEE是一种新颖的交互式语义增强，用于数据库字段，能够测量字段质量，收集域知识，协同增强语义",
+    "short": "新颖的交互式语义增强",
+    "tweet": "交互式语义增强的新颖方法：ISEE",
+    "xiaohongshu": "数据库字段的新玩具来了！ISEE让交互式语义增强变得更加智能",
+    "index": 10,
+    "link": "https://arxiv.org/abs/2608.02604"
+  },
+  {
+    "title": "Beyond the Hivemind: Escaping LLM Homogeneity via Meta-Persona Anchoring and Sequential Temperature Scaling",
+    "summary": "新颖的超越群体智慧方法，用于逃离LLM同质性",
+    "score": 7,
+    "category": "研究",
+    "long": "Beyond the Hivemind是一种新颖的超越群体智慧方法，用于逃离LLM同质性，能够通过元角色锚定和序列温度缩放来实现",
+    "short": "新颖的超越群体智慧方法",
+    "tweet": "超越群体智慧方法的新颖方法：Beyond the Hivemind",
+    "xiaohongshu": "LLM同质性的新玩具来了！Beyond the Hivemind让超越群体智慧变得更加智能",
+    "index": 12,
+    "link": "https://arxiv.org/abs/2608.02618"
+  },
+  {
+    "title": "Mamba Explained",
+    "summary": "新颖的Mamba模型，能够处理长序列",
+    "score": 6,
+    "category": "模型",
+    "long": "Mamba是一种新颖的模型，能够处理长序列，通过State Space Models（SSMs）来实现",
+    "short": "新颖的Mamba模型",
+    "tweet": "Mamba模型的新颖方法：Mamba",
+    "xiaohongshu": "长序列的新玩具来了！Mamba让Mamba模型变得更加智能",
+    "index": 7,
+    "link": "https://thegradient.pub/mamba-explained/"
+  }
+]
