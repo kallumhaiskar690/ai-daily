@@ -1,0 +1,98 @@
+[
+  {
+    "title": "MatrAIx: Simulating the World with 8.3 Billion Persona Agents",
+    "summary": "MatrAIx是一种人口规模的模拟用户评估基础设施，用于测试AI系统和数字产品的多样化用户",
+    "score": 9,
+    "category": "研究",
+    "long": "MatrAIx提供了三种核心组件：Persona 8B、MatrAIx Playground和MatrAIx应用任务",
+    "short": "MatrAIx模拟用户评估基础设施",
+    "tweet": "AI系统和数字产品的新评估方法：MatrAIx模拟用户评估基础设施",
+    "xiaohongshu": "你想知道AI系统和数字产品的用户评估方法吗？MatrAIx模拟用户评估基础设施来了！",
+    "index": 17,
+    "link": "https://arxiv.org/abs/2608.04205"
+  },
+  {
+    "title": "The RAIL Principles for Neurosymbolic AI: Reasoning, Assurances, Interfacing and Learning",
+    "summary": "RAIL原则为神经符号AI系统的设计提供了一个统一的框架",
+    "score": 8,
+    "category": "研究",
+    "long": "RAIL原则包括Reasoning、Assurances、Interfacing和Learning四个方面",
+    "short": "RAIL原则为神经符号AI系统设计提供了一个统一的框架",
+    "tweet": "神经符号AI系统的新设计方法：RAIL原则",
+    "xiaohongshu": "你想知道神经符号AI系统的设计方法吗？RAIL原则来了！",
+    "index": 19,
+    "link": "https://arxiv.org/abs/2608.04285"
+  },
+  {
+    "title": "Adversarially Robust Abductive Fusion of Pre-trained Transformer-based Perception Models",
+    "summary": "该论文提出了一种对抗性强大的归纳推理方法，用于融合预训练的转换器感知模型",
+    "score": 8,
+    "category": "研究",
+    "long": "该方法利用标签向量池和整数规划来实现对抗性强大的归纳推理",
+    "short": "对抗性强大的归纳推理方法",
+    "tweet": "AI系统的新安全方法：对抗性强大的归纳推理",
+    "xiaohongshu": "你想知道AI系统的安全方法吗？对抗性强大的归纳推理来了！",
+    "index": 16,
+    "link": "https://arxiv.org/abs/2608.04190"
+  },
+  {
+    "title": "BrainBench: Benchmarking Large Language Models for Comprehensive EEG Understanding",
+    "summary": "BrainBench是一种综合评估大型语言模型的EEG理解能力的基准",
+    "score": 7,
+    "category": "研究",
+    "long": "BrainBench评估了语言模型的EEG理解能力，包括分析、睡眠评估、神经认知评估和生理整合",
+    "short": "评估大型语言模型的EEG理解能力",
+    "tweet": "AI系统的新评估方法：评估大型语言模型的EEG理解能力",
+    "xiaohongshu": "你想知道AI系统的评估方法吗？评估大型语言模型的EEG理解能力来了！",
+    "index": 15,
+    "link": "https://arxiv.org/abs/2608.04156"
+  },
+  {
+    "title": "FinPerMA: A Theory-Informed, Event-Grounded Personalized-Memory Benchmark for LLM Agents",
+    "summary": "FinPerMA是一种事件相关的个性化记忆基准，用于评估LLM代理的记忆能力",
+    "score": 7,
+    "category": "研究",
+    "long": "FinPerMA评估了LLM代理的记忆能力，包括事件相关的个性化记忆和长期记忆",
+    "short": "评估LLM代理的记忆能力",
+    "tweet": "AI系统的新评估方法：评估LLM代理的记忆能力",
+    "xiaohongshu": "你想知道AI系统的评估方法吗？评估LLM代理的记忆能力来了！",
+    "index": 14,
+    "link": "https://arxiv.org/abs/2608.04095"
+  },
+  {
+    "title": "FinProBench: Evaluating Financial AI Agents with Role-Grounded Rubrics Derived from Professional Deliverables",
+    "summary": "FinProBench是一种评估金融AI代理的基准，使用从专业交付中派生的角色相关的评分标准",
+    "score": 7,
+    "category": "研究",
+    "long": "FinProBench评估了金融AI代理的能力，包括角色相关的评分标准和专业交付",
+    "short": "评估金融AI代理的能力",
+    "tweet": "AI系统的新评估方法：评估金融AI代理的能力",
+    "xiaohongshu": "你想知道AI系统的评估方法吗？评估金融AI代理的能力来了！",
+    "index": 13,
+    "link": "https://arxiv.org/abs/2608.04077"
+  },
+  {
+    "title": "Mamba Explained",
+    "summary": "Mamba是一种基于状态空间模型的AI模型，用于处理长序列",
+    "score": 6,
+    "category": "模型",
+    "long": "Mamba使用状态空间模型来处理长序列，提高了效率",
+    "short": "基于状态空间模型的AI模型",
+    "tweet": "AI系统的新模型：基于状态空间模型的AI模型",
+    "xiaohongshu": "你想知道AI系统的新模型吗？基于状态空间模型的AI模型来了！",
+    "index": 7,
+    "link": "https://thegradient.pub/mamba-explained/"
+  },
+  {
+    "title": "Car-GPT: Could LLMs finally make self-driving cars happen?",
+    "summary": "该论文探讨了LLM在自主驾驶中的应用",
+    "score": 6,
+    "category": "研究",
+    "long": "该论文评估了LLM在自主驾驶中的应用，包括自主驾驶的挑战和潜在解决方案",
+    "short": "评估LLM在自主驾驶中的应用",
+    "tweet": "AI系统的新应用：评估LLM在自主驾驶中的应用",
+    "xiaohongshu": "你想知道AI系统的新应用吗？评估LLM在自主驾驶中的应用来了！",
+    "index": 8,
+    "link": "https://thegradient.pub/car-gpt/"
+  }
+]
