@@ -1,0 +1,110 @@
+[
+  {
+    "title": "Otter: A Time-Aware, History-Conditioned Human Chess AI",
+    "summary": "Otter是一款15.3M参数的人类棋盘AI，预测人类移动选择，通过时间敏感的序列过程而不是单独处理每个位置。",
+    "score": 9,
+    "category": "模型",
+    "long": "Otter通过结合两种条件信号来预测人类移动选择：1）移动历史编码器，条件预测在最后20个移动上，捕捉开局偏好、位置漂移和游戏内行为倾向；2）时间控制模块，根据时钟压力调节预测。",
+    "short": "时间敏感的棋盘AI",
+    "tweet": "Otter：时间敏感的棋盘AI，预测人类移动选择",
+    "xiaohongshu": "Otter：让你赢得棋盘的时间敏感AI",
+    "index": 16,
+    "link": "https://arxiv.org/abs/2608.05206"
+  },
+  {
+    "title": "PD-GS: Phoneme-Driven 3DGS for Audio-Driven Talking Heads",
+    "summary": "PD-GS是一种基于音频驱动的3D头部渲染技术，通过使用语音识别和强制对齐管道获取时间对齐的音素标记，来提高嘴唇运动的准确性。",
+    "score": 8,
+    "category": "模型",
+    "long": "PD-GS通过将语音识别和强制对齐的音素标记与3DGS头部渲染技术结合起来，来提高嘴唇运动的准确性。它通过使用Linguistic Fusion Module（LFM）来适应性融合连续音频上下文和离散音素嵌入，来保持平滑的音频驱动动态，同时强化音素指导在关键段落上。",
+    "short": "音频驱动的3D头部渲染",
+    "tweet": "PD-GS：音频驱动的3D头部渲染，提高嘴唇运动准确性",
+    "xiaohongshu": "PD-GS：让你的头部说话的音频驱动3D渲染",
+    "index": 18,
+    "link": "https://arxiv.org/abs/2608.05218"
+  },
+  {
+    "title": "SearchAuditor: Auditing and Attributing Failures in Long-Horizon Search Agents",
+    "summary": "SearchAuditor是一种用于审计和归因长期搜索代理失败的框架，通过使用多角度审计来提高失败的定位、归因和修复率。",
+    "score": 8,
+    "category": "模型",
+    "long": "SearchAuditor通过使用多角度审计来提高失败的定位、归因和修复率。它通过使用SearchAuditBench来评估审计者是否可以定位、归因和修复失败，进而减少人类负担。",
+    "short": "长期搜索代理失败审计",
+    "tweet": "SearchAuditor：审计和归因长期搜索代理失败",
+    "xiaohongshu": "SearchAuditor：让你的长期搜索代理更智能",
+    "index": 17,
+    "link": "https://arxiv.org/abs/2608.05212"
+  },
+  {
+    "title": "Woodpecker Distillation: Weak Models Diagnose Reasoning Bugs in Strong Models",
+    "summary": "Woodpecker Distillation是一种弱模型诊断强模型推理错误的框架，通过使用对比本地干预来提高推理错误的修复率。",
+    "score": 8,
+    "category": "模型",
+    "long": "Woodpecker Distillation通过使用对比本地干预来提高推理错误的修复率。它通过使用弱模型诊断强模型推理错误的能力来提高推理错误的修复率。",
+    "short": "弱模型诊断强模型推理错误",
+    "tweet": "Woodpecker Distillation：弱模型诊断强模型推理错误",
+    "xiaohongshu": "Woodpecker Distillation：让你的强模型更智能",
+    "index": 12,
+    "link": "https://arxiv.org/abs/2608.05168"
+  },
+  {
+    "title": "The Ignition Index: Measuring Global Workspace Dynamics in Language Models",
+    "summary": "Ignition Index是一种用于测量语言模型全局工作区动态的指标，通过使用四参数sigmoid函数来提取斜率参数beta-hat，来衡量语言模型的全局工作区动态。",
+    "score": 7,
+    "category": "模型",
+    "long": "Ignition Index通过使用四参数sigmoid函数来提取斜率参数beta-hat，来衡量语言模型的全局工作区动态。它通过使用11个模型，跨五个架构家族，来评估Ignition Index的有效性。",
+    "short": "语言模型全局工作区动态指标",
+    "tweet": "Ignition Index：测量语言模型全局工作区动态",
+    "xiaohongshu": "Ignition Index：让你的语言模型更智能",
+    "index": 11,
+    "link": "https://arxiv.org/abs/2608.05160"
+  },
+  {
+    "title": "Agentic Nesting: A New Methodology for Existing Enterprise Application Integration and Services",
+    "summary": "Agentic Nesting是一种用于现有企业应用集成和服务的新方法论，通过使用多代理协作框架来提高应用集成和服务的效率和可靠性。",
+    "score": 7,
+    "category": "模型",
+    "long": "Agentic Nesting通过使用多代理协作框架来提高应用集成和服务的效率和可靠性。它通过使用Application-as-Agent集成范式和Conversation-as-Integration交互哲学来提高应用集成和服务的效率和可靠性。",
+    "short": "现有企业应用集成和服务新方法论",
+    "tweet": "Agentic Nesting：现有企业应用集成和服务新方法论",
+    "xiaohongshu": "Agentic Nesting：让你的企业应用集成和服务更智能",
+    "index": 10,
+    "link": "https://arxiv.org/abs/2608.05159"
+  },
+  {
+    "title": "SkillTrace: Multi-Trace Provenance Auditing for LLM-Agent Skill Reuse",
+    "summary": "SkillTrace是一种用于LLM代理技能重用的多条痕迹审计框架，通过使用三个痕迹来提高技能重用的准确性和可靠性。",
+    "score": 7,
+    "category": "模型",
+    "long": "SkillTrace通过使用三个痕迹来提高技能重用的准确性和可靠性。它通过使用Expression、Implementation和Operational痕迹来提高技能重用的准确性和可靠性。",
+    "short": "LLM代理技能重用的多条痕迹审计",
+    "tweet": "SkillTrace：LLM代理技能重用的多条痕迹审计",
+    "xiaohongshu": "SkillTrace：让你的LLM代理技能重用更智能",
+    "index": 14,
+    "link": "https://arxiv.org/abs/2608.05204"
+  },
+  {
+    "title": "From Continuous Predictors to Clinical Thresholds: Early Evidence on Performance Trade-offs of Guideline-Based Categorisation for Ischaemic Stroke Outcome Prediction",
+    "summary": "本研究探讨了从连续预测器到临床阈值的转变，通过使用指南依据的分类来提高中风预后预测的准确性和可靠性。",
+    "score": 6,
+    "category": "研究",
+    "long": "本研究通过使用指南依据的分类来提高中风预后预测的准确性和可靠性。它通过使用标准和完全分类的梯度增强模型来评估指南依据的分类对中风预后预测的影响。",
+    "short": "中风预后预测指南依据分类",
+    "tweet": "中风预后预测指南依据分类",
+    "xiaohongshu": "中风预后预测指南依据分类",
+    "index": 13,
+    "link": "https://arxiv.org/abs/2608.05203"
+  },
+  {
+    "title": "A Brief Overview of Gender Bias in AI",
+    "summary": "本文提供了对人工智能中性别偏见的简要概述，探讨了人工智能中性别偏见的原因和影响。",
+    "score": 6,
+    "category": "研究",
+    "long": "本文通过提供对人工智能中性别偏见的简要概述来探讨人工智能中性别偏见的原因和影响。它通过使用多个案例来评估人工智能中性别偏见的影响。",
+    "short": "人工智能中性别偏见概述",
+    "tweet": "人工智能中性别偏见概述",
+    "xiaohongshu": "人工智能中性别偏见概述",
+    "index": 6,
+    "link": "https://thegradient.pub/gender-bias-in-ai/"
+  }
+]
