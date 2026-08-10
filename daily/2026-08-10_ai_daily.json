@@ -1,0 +1,110 @@
+[
+  {
+    "title": "AGI Is Not Multimodal",
+    "summary": "AI模型不能简单地模仿人类语言",
+    "score": 9,
+    "category": "研究",
+    "long": "AI模型不能简单地模仿人类语言，需要考虑人类的身体和身体感知",
+    "short": "AI模型不能简单地模仿人类语言",
+    "tweet": "AI模型不能简单地模仿人类语言！",
+    "xiaohongshu": "AI模型太简单了，不能模仿人类的身体和身体感知",
+    "index": 1,
+    "link": "https://thegradient.pub/agi-is-not-multimodal/"
+  },
+  {
+    "title": "What's Missing From LLM Chatbots: A Sense of Purpose",
+    "summary": "LLM聊天机器人缺乏目的性",
+    "score": 8,
+    "category": "研究",
+    "long": "LLM聊天机器人虽然有能力，但缺乏目的性和用户体验",
+    "short": "LLM聊天机器人缺乏目的性",
+    "tweet": "LLM聊天机器人缺乏目的性！",
+    "xiaohongshu": "LLM聊天机器人虽然有能力，但缺乏目的性和用户体验",
+    "index": 3,
+    "link": "https://thegradient.pub/dialog/"
+  },
+  {
+    "title": "We Need Positive Visions for AI Grounded in Wellbeing",
+    "summary": "我们需要基于幸福感的AI",
+    "score": 8,
+    "category": "研究",
+    "long": "我们需要基于幸福感的AI，来改善人类的生活",
+    "short": "我们需要基于幸福感的AI",
+    "tweet": "我们需要基于幸福感的AI！",
+    "xiaohongshu": "我们需要基于幸福感的AI，来改善人类的生活",
+    "index": 4,
+    "link": "https://thegradient.pub/we-need-positive-visions-for-ai-grounded-in-wellbeing/"
+  },
+  {
+    "title": "Financial Market Applications of LLMs",
+    "summary": "LLM在金融市场的应用",
+    "score": 7,
+    "category": "商业",
+    "long": "LLM在金融市场的应用越来越广泛",
+    "short": "LLM在金融市场的应用",
+    "tweet": "LLM在金融市场的应用越来越广泛！",
+    "xiaohongshu": "LLM在金融市场的应用越来越广泛",
+    "index": 5,
+    "link": "https://thegradient.pub/financial-market-applications-of-llms/"
+  },
+  {
+    "title": "A Brief Overview of Gender Bias in AI",
+    "summary": "AI中的性别偏见概述",
+    "score": 7,
+    "category": "研究",
+    "long": "AI中的性别偏见是一个重要问题",
+    "short": "AI中的性别偏见概述",
+    "tweet": "AI中的性别偏见概述！",
+    "xiaohongshu": "AI中的性别偏见是一个重要问题",
+    "index": 6,
+    "link": "https://thegradient.pub/gender-bias-in-ai/"
+  },
+  {
+    "title": "Mamba Explained",
+    "summary": "Mamba AI模型",
+    "score": 6,
+    "category": "模型",
+    "long": "Mamba AI模型是一个新的替代方案",
+    "short": "Mamba AI模型",
+    "tweet": "Mamba AI模型！",
+    "xiaohongshu": "Mamba AI模型是一个新的替代方案",
+    "index": 7,
+    "link": "https://thegradient.pub/mamba-explained/"
+  },
+  {
+    "title": "Car-GPT: Could LLMs finally make self-driving cars happen?",
+    "summary": "LLM在自驾车中的应用",
+    "score": 6,
+    "category": "研究",
+    "long": "LLM在自驾车中的应用是一个重要问题",
+    "short": "LLM在自驾车中的应用",
+    "tweet": "LLM在自驾车中的应用！",
+    "xiaohongshu": "LLM在自驾车中的应用是一个重要问题",
+    "index": 8,
+    "link": "https://thegradient.pub/car-gpt/"
+  },
+  {
+    "title": "Do text embeddings perfectly encode text?",
+    "summary": "文本嵌入是否完美",
+    "score": 5,
+    "category": "研究",
+    "long": "文本嵌入是否完美是一个重要问题",
+    "short": "文本嵌入是否完美",
+    "tweet": "文本嵌入是否完美！",
+    "xiaohongshu": "文本嵌入是否完美是一个重要问题",
+    "index": 9,
+    "link": "https://thegradient.pub/text-embedding-inversion/"
+  },
+  {
+    "title": "How I use LLMs to learn complex topics",
+    "summary": "如何使用LLM学习复杂主题",
+    "score": 4,
+    "category": "其他",
+    "long": "如何使用LLM学习复杂主题是一个个人经验",
+    "short": "如何使用LLM学习复杂主题",
+    "tweet": "如何使用LLM学习复杂主题！",
+    "xiaohongshu": "如何使用LLM学习复杂主题是一个个人经验",
+    "index": 10,
+    "link": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/"
+  }
+]
