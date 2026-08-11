@@ -1,0 +1,110 @@
+[
+  {
+    "title": "KNOWPLAN: 知识驱动的智能学位路径规划",
+    "summary": "KNOWPLAN 是一个知识驱动的智能学位路径规划系统，能够帮助学生规划和优化学位路径。",
+    "score": 9,
+    "category": "研究",
+    "long": "KNOWPLAN 使用知识图谱和规划算法来规划和优化学位路径，能够帮助学生找到最合适的学位路径。",
+    "short": "智能学位路径规划系统",
+    "tweet": "KNOWPLAN: 智能学位路径规划系统，帮助学生规划和优化学位路径！",
+    "xiaohongshu": "学位路径规划，智能化！KNOWPLAN 帮助学生找到最合适的学位路径！",
+    "index": 18,
+    "link": "https://arxiv.org/abs/2608.06530"
+  },
+  {
+    "title": "TaskSense: 焦点在于任务中的世界模型",
+    "summary": "TaskSense 是一个任务中心的世界模型框架，能够帮助世界模型更好地学习任务相关的信息。",
+    "score": 8,
+    "category": "研究",
+    "long": "TaskSense 使用不同的可学习的空间注意力机制来强制任务相关的信息学习，能够帮助世界模型更好地学习任务相关的信息。",
+    "short": "任务中心的世界模型框架",
+    "tweet": "TaskSense: 任务中心的世界模型框架，帮助世界模型更好地学习任务相关的信息！",
+    "xiaohongshu": "任务中心的世界模型，学习任务相关的信息！TaskSense 帮助世界模型更好地学习任务相关的信息！",
+    "index": 19,
+    "link": "https://arxiv.org/abs/2608.06544"
+  },
+  {
+    "title": "WebGrader: 自动化的网站开发与自我演进的程序化评估",
+    "summary": "WebGrader 是一个自动化的网站开发与自我演进的程序化评估系统，能够帮助开发者评估和优化网站的功能。",
+    "score": 8,
+    "category": "研究",
+    "long": "WebGrader 使用自我演进的程序化评估来评估和优化网站的功能，能够帮助开发者更好地评估和优化网站的功能。",
+    "short": "自动化的网站开发与自我演进的程序化评估",
+    "tweet": "WebGrader: 自动化的网站开发与自我演进的程序化评估系统，帮助开发者评估和优化网站的功能！",
+    "xiaohongshu": "自动化的网站开发与自我演进的程序化评估，帮助开发者评估和优化网站的功能！",
+    "index": 16,
+    "link": "https://arxiv.org/abs/2608.06474"
+  },
+  {
+    "title": "Mamba: Attention 是否足够?",
+    "summary": "Mamba 是一个基于 State Space Models (SSMs) 的 AI 模型，能够更好地处理长序列的信息。",
+    "score": 7,
+    "category": "模型",
+    "long": "Mamba 使用 SSMs 来处理长序列的信息，能够更好地学习和理解长序列的信息。",
+    "short": "基于 SSMs 的 AI 模型",
+    "tweet": "Mamba: 基于 SSMs 的 AI 模型，能够更好地处理长序列的信息！",
+    "xiaohongshu": "基于 SSMs 的 AI 模型，处理长序列的信息！Mamba 帮助 AI 模型更好地学习和理解长序列的信息！",
+    "index": 7,
+    "link": "https://thegradient.pub/mamba-explained/"
+  },
+  {
+    "title": "Car-GPT: LLMs 是否能让自驾车成为现实?",
+    "summary": "Car-GPT 是一个使用 LLMs 的自驾车系统，能够帮助开发者评估和优化自驾车的功能。",
+    "score": 7,
+    "category": "研究",
+    "long": "Car-GPT 使用 LLMs 来评估和优化自驾车的功能，能够帮助开发者更好地评估和优化自驾车的功能。",
+    "short": "使用 LLMs 的自驾车系统",
+    "tweet": "Car-GPT: 使用 LLMs 的自驾车系统，帮助开发者评估和优化自驾车的功能！",
+    "xiaohongshu": "使用 LLMs 的自驾车系统，评估和优化自驾车的功能！Car-GPT 帮助开发者更好地评估和优化自驾车的功能！",
+    "index": 8,
+    "link": "https://thegradient.pub/car-gpt/"
+  },
+  {
+    "title": "EntropyMoE: 熵感知的稀疏专家路由",
+    "summary": "EntropyMoE 是一个使用熵感知的稀疏专家路由的 AI 模型，能够更好地处理长序列的信息。",
+    "score": 7,
+    "category": "模型",
+    "long": "EntropyMoE 使用熵感知的稀疏专家路由来处理长序列的信息，能够更好地学习和理解长序列的信息。",
+    "short": "使用熵感知的稀疏专家路由的 AI 模型",
+    "tweet": "EntropyMoE: 使用熵感知的稀疏专家路由的 AI 模型，能够更好地处理长序列的信息！",
+    "xiaohongshu": "使用熵感知的稀疏专家路由的 AI 模型，处理长序列的信息！EntropyMoE 帮助 AI 模型更好地学习和理解长序列的信息！",
+    "index": 11,
+    "link": "https://arxiv.org/abs/2608.06398"
+  },
+  {
+    "title": "CoCo: 贡献对比的稀疏专家奖励模型解释",
+    "summary": "CoCo 是一个使用贡献对比的稀疏专家奖励模型解释的 AI 模型，能够更好地理解稀疏专家奖励模型的行为。",
+    "score": 6,
+    "category": "模型",
+    "long": "CoCo 使用贡献对比的稀疏专家奖励模型解释来理解稀疏专家奖励模型的行为，能够更好地理解稀疏专家奖励模型的行为。",
+    "short": "使用贡献对比的稀疏专家奖励模型解释的 AI 模型",
+    "tweet": "CoCo: 使用贡献对比的稀疏专家奖励模型解释的 AI 模型，能够更好地理解稀疏专家奖励模型的行为！",
+    "xiaohongshu": "使用贡献对比的稀疏专家奖励模型解释的 AI 模型，理解稀疏专家奖励模型的行为！CoCo 帮助 AI 模型更好地理解稀疏专家奖励模型的行为！",
+    "index": 12,
+    "link": "https://arxiv.org/abs/2608.06400"
+  },
+  {
+    "title": "LUCID: interpretable unsupervised community detection",
+    "summary": "LUCID 是一个解释性无监督社区检测的 AI 模型，能够更好地理解社区结构。",
+    "score": 6,
+    "category": "模型",
+    "long": "LUCID 使用大语言模型来理解社区结构，能够更好地理解社区结构。",
+    "short": "解释性无监督社区检测的 AI 模型",
+    "tweet": "LUCID: 解释性无监督社区检测的 AI 模型，能够更好地理解社区结构！",
+    "xiaohongshu": "解释性无监督社区检测的 AI 模型，理解社区结构！LUCID 帮助 AI 模型更好地理解社区结构！",
+    "index": 13,
+    "link": "https://arxiv.org/abs/2608.06402"
+  },
+  {
+    "title": "ADIAS: 自动化的交互式主体系统设计",
+    "summary": "ADIAS 是一个自动化的交互式主体系统设计的 AI 模型，能够更好地理解主体行为。",
+    "score": 6,
+    "category": "模型",
+    "long": "ADIAS 使用问题中心的优化来理解主体行为，能够更好地理解主体行为。",
+    "short": "自动化的交互式主体系统设计的 AI 模型",
+    "tweet": "ADIAS: 自动化的交互式主体系统设计的 AI 模型，能够更好地理解主体行为！",
+    "xiaohongshu": "自动化的交互式主体系统设计的 AI 模型，理解主体行为！ADIAS 帮助 AI 模型更好地理解主体行为！",
+    "index": 14,
+    "link": "https://arxiv.org/abs/2608.06410"
+  }
+]
