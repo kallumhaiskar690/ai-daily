@@ -1,0 +1,110 @@
+[
+  {
+    "title": "Sustainable AI: A Comprehensive Review and Comparative Analysis",
+    "summary": "研究指出，深度学习模型的碳足迹主要来自训练阶段，增加模型复杂性并不一定能带来更好的准确性。",
+    "score": 9,
+    "category": "研究",
+    "long": "研究指出，深度学习模型的碳足迹主要来自训练阶段，增加模型复杂性并不一定能带来更好的准确性。研究人员建议将可持续性考虑纳入模型选择和AI系统设计。",
+    "short": "深度学习模型的碳足迹主要来自训练阶段",
+    "tweet": "AI的碳足迹主要来自训练阶段，增加模型复杂性并不一定能带来更好的准确性。",
+    "xiaohongshu": "AI的碳足迹主要来自训练阶段，增加模型复杂性并不一定能带来更好的准确性！",
+    "index": 13,
+    "link": "https://arxiv.org/abs/2608.09998"
+  },
+  {
+    "title": "MESA: Task-Adaptive Multi-Structure Evidence Selection",
+    "summary": "MESA是一种任务适应性的多结构证据选择框架，用于长期记忆中的证据选择。",
+    "score": 8,
+    "category": "模型",
+    "long": "MESA通过学习从多个结构中选择和融合适合当前任务的证据来实现证据选择。MESA在AMA-Bench上表现出优于强基线的结果。",
+    "short": "MESA是一种任务适应性的多结构证据选择框架",
+    "tweet": "MESA：长期记忆中的证据选择新方法！",
+    "xiaohongshu": "MESA：长期记忆中的证据选择新方法！",
+    "index": 17,
+    "link": "https://arxiv.org/abs/2608.10108"
+  },
+  {
+    "title": "CASE Framework: A Multi-Disciplinary Control Architecture",
+    "summary": "CASE框架是一种多学科控制架构，用于管理企业级AI代理。",
+    "score": 8,
+    "category": "模型",
+    "long": "CASE框架通过将控制理论、复杂适应系统理论、监督式控制理论和工程操作理论结合起来，提供了一个完整的控制架构。CASE框架在实践中表现出有效性。",
+    "short": "CASE框架是一种多学科控制架构",
+    "tweet": "CASE框架：企业级AI代理的新控制架构！",
+    "xiaohongshu": "CASE框架：企业级AI代理的新控制架构！",
+    "index": 18,
+    "link": "https://arxiv.org/abs/2608.10153"
+  },
+  {
+    "title": "SBCO: Self-Supervised, Verifier-Grounded Harness Optimization",
+    "summary": "SBCO是一种自我监督的、验证器基础的哈氏优化框架，用于规划代理。",
+    "score": 8,
+    "category": "模型",
+    "long": "SBCO通过学习一个分解的验证器集合和哈氏策略来实现优化。SBCO在两个领域表现出匹配或超过自我修改基线的结果。",
+    "short": "SBCO是一种自我监督的、验证器基础的哈氏优化框架",
+    "tweet": "SBCO：规划代理的新优化框架！",
+    "xiaohongshu": "SBCO：规划代理的新优化框架！",
+    "index": 19,
+    "link": "https://arxiv.org/abs/2608.10157"
+  },
+  {
+    "title": "CHORUS: Complementary Experts for High-Coverage Testbench Stimulus Generation",
+    "summary": "CHORUS是一种用于高覆盖测试基准刺激生成的补充专家框架。",
+    "score": 7,
+    "category": "模型",
+    "long": "CHORUS通过学习一个分解的验证器集合和哈氏策略来实现优化。CHORUS在CVDP-ECov上表现出优于DeepSeek-R1的结果。",
+    "short": "CHORUS是一种用于高覆盖测试基准刺激生成的补充专家框架",
+    "tweet": "CHORUS：高覆盖测试基准刺激生成的新框架！",
+    "xiaohongshu": "CHORUS：高覆盖测试基准刺激生成的新框架！",
+    "index": 16,
+    "link": "https://arxiv.org/abs/2608.10090"
+  },
+  {
+    "title": "Mamba Explained",
+    "summary": "Mamba是一种基于状态空间模型的AI模型，用于替代Transformer模型。",
+    "score": 7,
+    "category": "模型",
+    "long": "Mamba通过学习一个状态空间模型来实现优化。Mamba在处理长序列方面表现出优于Transformer模型的结果。",
+    "short": "Mamba是一种基于状态空间模型的AI模型",
+    "tweet": "Mamba：Transformer模型的新替代者！",
+    "xiaohongshu": "Mamba：Transformer模型的新替代者！",
+    "index": 7,
+    "link": "https://thegradient.pub/mamba-explained/"
+  },
+  {
+    "title": "Closed-Loop LLM Co-Pilots for Digital Agriculture",
+    "summary": "研究人员开发了一种闭环LLM联合飞行员框架，用于数字农业。",
+    "score": 7,
+    "category": "研究",
+    "long": "研究人员通过学习一个闭环LLM联合飞行员框架来实现优化。闭环LLM联合飞行员框架在数字农业中表现出有效性。",
+    "short": "闭环LLM联合飞行员框架用于数字农业",
+    "tweet": "闭环LLM联合飞行员框架：数字农业的新工具！",
+    "xiaohongshu": "闭环LLM联合飞行员框架：数字农业的新工具！",
+    "index": 10,
+    "link": "https://arxiv.org/abs/2608.09949"
+  },
+  {
+    "title": "What's Missing From LLM Chatbots: A Sense of Purpose",
+    "summary": "研究人员指出，LLM聊天机器人缺乏目的感。",
+    "score": 6,
+    "category": "研究",
+    "long": "研究人员通过分析LLM聊天机器人的能力和用户体验来实现优化。研究人员建议将目的感纳入LLM聊天机器人的设计。",
+    "short": "LLM聊天机器人缺乏目的感",
+    "tweet": "LLM聊天机器人缺乏目的感！",
+    "xiaohongshu": "LLM聊天机器人缺乏目的感！",
+    "index": 3,
+    "link": "https://thegradient.pub/dialog/"
+  },
+  {
+    "title": "We Need Positive Visions for AI Grounded in Wellbeing",
+    "summary": "研究人员指出，我们需要将幸福感作为AI的基础。",
+    "score": 6,
+    "category": "研究",
+    "long": "研究人员通过分析AI的影响和人类的幸福感来实现优化。研究人员建议将幸福感纳入AI的设计。",
+    "short": "我们需要将幸福感作为AI的基础",
+    "tweet": "我们需要将幸福感作为AI的基础！",
+    "xiaohongshu": "我们需要将幸福感作为AI的基础！",
+    "index": 4,
+    "link": "https://thegradient.pub/we-need-positive-visions-for-ai-grounded-in-wellbeing/"
+  }
+]
