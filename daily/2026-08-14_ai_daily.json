@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Poor Man's Agentic Modeling",
+    "summary": "一种低成本的模拟大型语言模型社会的方法",
+    "score": 9,
+    "category": "模型",
+    "long": "该方法通过使用低参数模型代替每个语言模型，来模拟社会的行为。这种方法可以在笔记本电脑上运行，且成本低",
+    "short": "低成本模拟大型语言模型社会",
+    "tweet": "Poor man's agentic modeling: a low-cost way to simulate large language model societies",
+    "xiaohongshu": "轻松模拟大型语言模型社会，仅需笔记本电脑",
+    "index": 14,
+    "link": "https://arxiv.org/abs/2608.11215"
+  },
+  {
+    "title": "AutoWorldModel-Bench",
+    "summary": "一个用于评估自动世界模型研究的基准",
+    "score": 8,
+    "category": "模型",
+    "long": "该基准提供了一个闭环环境，允许编码代理在固定计算预算下改进世界模型。它涵盖了八个游戏环境，使用统一的结构化状态表示",
+    "short": "自动世界模型研究基准",
+    "tweet": "AutoWorldModel-Bench: a benchmark for evaluating automated world modeling research",
+    "xiaohongshu": "评估自动世界模型研究的基准",
+    "index": 15,
+    "link": "https://arxiv.org/abs/2608.11216"
+  },
+  {
+    "title": "MaSRead",
+    "summary": "一种可读取复制的潜在存储的方法",
+    "score": 8,
+    "category": "模型",
+    "long": "该方法通过路由和解码来读取存储中的碎片。它适用于独立的代理，使用潜在空间进行推理",
+    "short": "可读取复制的潜在存储",
+    "tweet": "MaSRead: a method for reading replicated latent stores",
+    "xiaohongshu": "轻松读取复制的潜在存储",
+    "index": 16,
+    "link": "https://arxiv.org/abs/2608.11218"
+  },
+  {
+    "title": "From Monolithic to Modular",
+    "summary": "一种分段自动提示优化的方法",
+    "score": 8,
+    "category": "模型",
+    "long": "该方法通过分段提示来优化提示。它使用一个静态元提示和结构化输出来进行诊断和候选生成",
+    "short": "分段自动提示优化",
+    "tweet": "From Monolithic to Modular: segment-level automatic prompt optimization",
+    "xiaohongshu": "轻松优化提示",
+    "index": 17,
+    "link": "https://arxiv.org/abs/2608.11219"
+  },
+  {
+    "title": "LLMs in Process Diagram Engineering",
+    "summary": "一种使用大型语言模型进行流程图设计的方法",
+    "score": 7,
+    "category": "模型",
+    "long": "该方法通过使用大型语言模型来生成流程图和管道和仪表图。它使用遗传算法和大型语言模型来优化流程图",
+    "short": "使用大型语言模型进行流程图设计",
+    "tweet": "LLMs in Process Diagram Engineering: using large language models for process diagram design",
+    "xiaohongshu": "轻松设计流程图",
+    "index": 18,
+    "link": "https://arxiv.org/abs/2608.11220"
+  },
+  {
+    "title": "A Conceptual Framework",
+    "summary": "一种用于改进模拟结果的概念框架",
+    "score": 7,
+    "category": "研究",
+    "long": "该框架通过引入影响概念来改进模拟结果。它提供了一个迭代和渐进的方法来深入理解系统行为",
+    "short": "改进模拟结果的概念框架",
+    "tweet": "A Conceptual Framework for Refining Simulation Evidence",
+    "xiaohongshu": "轻松改进模拟结果",
+    "index": 19,
+    "link": "https://arxiv.org/abs/2608.11221"
+  },
+  {
+    "title": "Gemini 3.7 Flash",
+    "summary": "一个用于评估大型语言模型的基准",
+    "score": 6,
+    "category": "模型",
+    "long": "该基准提供了一个评估大型语言模型的方法。它使用一个统一的结构化状态表示",
+    "short": "评估大型语言模型的基准",
+    "tweet": "Gemini 3.7 Flash: a benchmark for evaluating large language models",
+    "xiaohongshu": "评估大型语言模型",
+    "index": 20,
+    "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/"
+  },
+  {
+    "title": "SparrowMap",
+    "summary": "一种用于监控政府车辆的方法",
+    "score": 6,
+    "category": "其他",
+    "long": "该方法通过使用摄像头来监控政府车辆",
+    "short": "监控政府车辆",
+    "tweet": "SparrowMap: a method for monitoring government vehicles",
+    "xiaohongshu": "轻松监控政府车辆",
+    "index": 21,
+    "link": "https://sparrowmap.com/"
+  },
+  {
+    "title": "Bluesky Protocol Services",
+    "summary": "一种用于提供协议服务的方法",
+    "score": 5,
+    "category": "其他",
+    "long": "该方法通过提供协议服务来支持应用程序",
+    "short": "提供协议服务",
+    "tweet": "Bluesky Protocol Services: a method for providing protocol services",
+    "xiaohongshu": "轻松提供协议服务",
+    "index": 22,
+    "link": "https://atproto.com/blog/introducing-bluesky-protocol-services"
+  },
+  {
+    "title": "Accelerating GPT-5.6 Sol",
+    "summary": "一种用于加速GPT-5.6 Sol的方法",
+    "score": 5,
+    "category": "模型",
+    "long": "该方法通过使用加速技术来加速GPT-5.6 Sol",
+    "short": "加速GPT-5.6 Sol",
+    "tweet": "Accelerating GPT-5.6 Sol: a method for accelerating GPT-5.6 Sol",
+    "xiaohongshu": "轻松加速GPT-5.6 Sol",
+    "index": 23,
+    "link": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai"
+  }
+]
