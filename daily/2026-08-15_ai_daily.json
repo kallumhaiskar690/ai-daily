@@ -1,0 +1,110 @@
+[
+  {
+    "title": "Position: The Alignment Community is Unintentionally Building a Censor's Toolkit",
+    "summary": "研究人员指出，现代AI对齐方法可能被恶意使用进行审查和操纵",
+    "score": 9,
+    "category": "研究",
+    "long": "研究人员指出，现代AI对齐方法可能被恶意使用进行审查和操纵，社区需要讨论这个潜在的风险",
+    "short": "AI对齐方法可能被恶意使用",
+    "tweet": "AI对齐方法可能被恶意使用进行审查和操纵",
+    "xiaohongshu": "AI对齐方法可能被恶意使用，社区需要小心",
+    "index": 12,
+    "link": "https://arxiv.org/abs/2608.12346"
+  },
+  {
+    "title": "Learning to Adapt Cross-Domain Preferences via Meta-LoRA for LLM Personalization",
+    "summary": "研究人员提出了一种新方法来适应跨域偏好",
+    "score": 8,
+    "category": "研究",
+    "long": "研究人员提出了一种新方法来适应跨域偏好，方法使用Meta-LoRA来调整更新强度",
+    "short": "新方法适应跨域偏好",
+    "tweet": "新方法适应跨域偏好",
+    "xiaohongshu": "新方法适应跨域偏好，提高了个人化的准确性",
+    "index": 18,
+    "link": "https://arxiv.org/abs/2608.12389"
+  },
+  {
+    "title": "Dual-Flow Transformers: Decoupling the Primary Prefill Path from Additional Decode Computation",
+    "summary": "研究人员提出了一种新型转换器来分离预填和解码计算",
+    "score": 8,
+    "category": "研究",
+    "long": "研究人员提出了一种新型转换器来分离预填和解码计算，方法使用双流转换器来提高效率",
+    "short": "新型转换器提高效率",
+    "tweet": "新型转换器提高效率",
+    "xiaohongshu": "新型转换器提高效率，减少了计算成本",
+    "index": 17,
+    "link": "https://arxiv.org/abs/2608.12385"
+  },
+  {
+    "title": "Position: We Need Practical AI Alignment Methods to Mirror Human Reasoning",
+    "summary": "研究人员指出，AI系统需要能够模仿人类推理",
+    "score": 8,
+    "category": "研究",
+    "long": "研究人员指出，AI系统需要能够模仿人类推理，方法使用认知对齐来提高理解性和可信度",
+    "short": "AI系统需要模仿人类推理",
+    "tweet": "AI系统需要模仿人类推理",
+    "xiaohongshu": "AI系统需要模仿人类推理，提高了理解性和可信度",
+    "index": 15,
+    "link": "https://arxiv.org/abs/2608.12372"
+  },
+  {
+    "title": "Agreement Is Not Alignment: Divergent Moral Grounds in Human and LLM Ethical Judgments",
+    "summary": "研究人员指出，人类和LLM的道德判断可能有不同的道德基础",
+    "score": 7,
+    "category": "研究",
+    "long": "研究人员指出，人类和LLM的道德判断可能有不同的道德基础，方法使用道德基准来评估LLM的道德判断",
+    "short": "人类和LLM的道德判断可能有不同的道德基础",
+    "tweet": "人类和LLM的道德判断可能有不同的道德基础",
+    "xiaohongshu": "人类和LLM的道德判断可能有不同的道德基础，提高了道德判断的准确性",
+    "index": 13,
+    "link": "https://arxiv.org/abs/2608.12368"
+  },
+  {
+    "title": "Mamba Explained",
+    "summary": "研究人员介绍了一种新型AI模型",
+    "score": 7,
+    "category": "研究",
+    "long": "研究人员介绍了一种新型AI模型，方法使用状态空间模型来提高效率",
+    "short": "新型AI模型提高效率",
+    "tweet": "新型AI模型提高效率",
+    "xiaohongshu": "新型AI模型提高效率，减少了计算成本",
+    "index": 7,
+    "link": "https://thegradient.pub/mamba-explained/"
+  },
+  {
+    "title": "Car-GPT: Could LLMs finally make self-driving cars happen?",
+    "summary": "研究人员探讨了LLM在自主驾驶汽车中的应用",
+    "score": 7,
+    "category": "研究",
+    "long": "研究人员探讨了LLM在自主驾驶汽车中的应用，方法使用大规模语言模型来提高自主驾驶的准确性",
+    "short": "LLM在自主驾驶汽车中的应用",
+    "tweet": "LLM在自主驾驶汽车中的应用",
+    "xiaohongshu": "LLM在自主驾驶汽车中的应用，提高了自主驾驶的准确性",
+    "index": 8,
+    "link": "https://thegradient.pub/car-gpt/"
+  },
+  {
+    "title": "What's Missing From LLM Chatbots: A Sense of Purpose",
+    "summary": "研究人员指出，LLM聊天机器人缺乏目的感",
+    "score": 6,
+    "category": "研究",
+    "long": "研究人员指出，LLM聊天机器人缺乏目的感，方法使用目的感来提高用户体验",
+    "short": "LLM聊天机器人缺乏目的感",
+    "tweet": "LLM聊天机器人缺乏目的感",
+    "xiaohongshu": "LLM聊天机器人缺乏目的感，提高了用户体验",
+    "index": 3,
+    "link": "https://thegradient.pub/dialog/"
+  },
+  {
+    "title": "We Need Positive Visions for AI Grounded in Wellbeing",
+    "summary": "研究人员指出，AI需要基于幸福感的积极愿景",
+    "score": 6,
+    "category": "研究",
+    "long": "研究人员指出，AI需要基于幸福感的积极愿景，方法使用幸福感来提高AI的可信度",
+    "short": "AI需要基于幸福感的积极愿景",
+    "tweet": "AI需要基于幸福感的积极愿景",
+    "xiaohongshu": "AI需要基于幸福感的积极愿景，提高了AI的可信度",
+    "index": 4,
+    "link": "https://thegradient.pub/we-need-positive-visions-for-ai-grounded-in-wellbeing/"
+  }
+]
