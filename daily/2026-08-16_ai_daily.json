@@ -1,0 +1,110 @@
+[
+  {
+    "title": "AI Alignment: A Censor's Toolkit?",
+    "summary": "研究人员警告称，现代AI对齐方法可能被恶意利用进行审查和操纵",
+    "score": 9,
+    "category": "研究",
+    "long": "研究人员指出，现代AI对齐方法可能被恶意利用进行审查和操纵，社区需要讨论这个问题",
+    "short": "AI对齐方法可能被恶意利用",
+    "tweet": "AI对齐方法可能被恶意利用进行审查和操纵",
+    "xiaohongshu": "AI对齐方法可能被恶意利用，社区需要警惕",
+    "index": 12,
+    "link": "https://arxiv.org/abs/2608.12346"
+  },
+  {
+    "title": "AI Alignment: A Censor's Toolkit?",
+    "summary": "研究人员警告称，现代AI对齐方法可能被恶意利用进行审查和操纵",
+    "score": 9,
+    "category": "研究",
+    "long": "研究人员指出，现代AI对齐方法可能被恶意利用进行审查和操纵，社区需要讨论这个问题",
+    "short": "AI对齐方法可能被恶意利用",
+    "tweet": "AI对齐方法可能被恶意利用进行审查和操纵",
+    "xiaohongshu": "AI对齐方法可能被恶意利用，社区需要警惕",
+    "index": 12,
+    "link": "https://arxiv.org/abs/2608.12346"
+  },
+  {
+    "title": "多元化的AI对齐方法",
+    "summary": "研究人员提出了多元化的AI对齐方法",
+    "score": 8,
+    "category": "研究",
+    "long": "研究人员提出了多元化的AI对齐方法，包括认知对齐和道德对齐",
+    "short": "多元化的AI对齐方法",
+    "tweet": "多元化的AI对齐方法",
+    "xiaohongshu": "多元化的AI对齐方法，包括认知对齐和道德对齐",
+    "index": 15,
+    "link": "https://arxiv.org/abs/2608.12372"
+  },
+  {
+    "title": "AI对齐方法的语言依赖性",
+    "summary": "研究人员发现AI对齐方法的语言依赖性",
+    "score": 8,
+    "category": "研究",
+    "long": "研究人员发现AI对齐方法的语言依赖性，需要考虑语言的影响",
+    "short": "AI对齐方法的语言依赖性",
+    "tweet": "AI对齐方法的语言依赖性",
+    "xiaohongshu": "AI对齐方法的语言依赖性，需要考虑语言的影响",
+    "index": 16,
+    "link": "https://arxiv.org/abs/2608.12373"
+  },
+  {
+    "title": "AI对齐方法的安全性",
+    "summary": "研究人员提出了AI对齐方法的安全性问题",
+    "score": 7,
+    "category": "研究",
+    "long": "研究人员提出了AI对齐方法的安全性问题，需要考虑恶意利用的风险",
+    "short": "AI对齐方法的安全性问题",
+    "tweet": "AI对齐方法的安全性问题",
+    "xiaohongshu": "AI对齐方法的安全性问题，需要考虑恶意利用的风险",
+    "index": 13,
+    "link": "https://arxiv.org/abs/2608.12368"
+  },
+  {
+    "title": "AI对齐方法的应用",
+    "summary": "研究人员提出了AI对齐方法的应用",
+    "score": 7,
+    "category": "应用",
+    "long": "研究人员提出了AI对齐方法的应用，包括认知对齐和道德对齐",
+    "short": "AI对齐方法的应用",
+    "tweet": "AI对齐方法的应用",
+    "xiaohongshu": "AI对齐方法的应用，包括认知对齐和道德对齐",
+    "index": 14,
+    "link": "https://arxiv.org/abs/2608.12371"
+  },
+  {
+    "title": "AI对齐方法的挑战",
+    "summary": "研究人员提出了AI对齐方法的挑战",
+    "score": 6,
+    "category": "研究",
+    "long": "研究人员提出了AI对齐方法的挑战，包括语言依赖性和安全性问题",
+    "short": "AI对齐方法的挑战",
+    "tweet": "AI对齐方法的挑战",
+    "xiaohongshu": "AI对齐方法的挑战，包括语言依赖性和安全性问题",
+    "index": 17,
+    "link": "https://arxiv.org/abs/2608.12385"
+  },
+  {
+    "title": "AI对齐方法的未来",
+    "summary": "研究人员提出了AI对齐方法的未来",
+    "score": 6,
+    "category": "研究",
+    "long": "研究人员提出了AI对齐方法的未来，包括多元化的对齐方法",
+    "short": "AI对齐方法的未来",
+    "tweet": "AI对齐方法的未来",
+    "xiaohongshu": "AI对齐方法的未来，包括多元化的对齐方法",
+    "index": 18,
+    "link": "https://arxiv.org/abs/2608.12389"
+  },
+  {
+    "title": "AI对齐方法的实践",
+    "summary": "研究人员提出了AI对齐方法的实践",
+    "score": 5,
+    "category": "应用",
+    "long": "研究人员提出了AI对齐方法的实践，包括认知对齐和道德对齐",
+    "short": "AI对齐方法的实践",
+    "tweet": "AI对齐方法的实践",
+    "xiaohongshu": "AI对齐方法的实践，包括认知对齐和道德对齐",
+    "index": 19,
+    "link": "https://arxiv.org/abs/2608.12395"
+  }
+]
